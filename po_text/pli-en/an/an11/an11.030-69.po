@@ -47,5 +47,4 @@ msgctxt "an11.30-69:5.6"
 msgid "manasmiṃ… "
 msgstr "mind …” "
 
-
 #. HTML: </p></article></section></body></html>

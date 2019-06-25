@@ -30,8 +30,8 @@ msgctxt "sn22.53:1.2"
 msgid "“Upayo, bhikkhave, avimutto, anupayo vimutto. "
 msgstr "“Mendicants, if you’re involved, you’re not free. If you’re not involved, you’re free. "
 
-#. HTML: </p><p>
 # NOTE: “Stands” is over literal. The point here is to differentiate between the consciousness that “remains” or “lasts”, continuing in samsara because of its supporting condition, or that which does not last. Thiti in its various forms, of course, frequently has this sense.
+#. HTML: </p><p>
 #. VAR: Rūpupayaṃ → rūpūpāyaṃ (s1-3, km) | rūpupāyaṃ (pts1, mr)
 msgctxt "sn22.53:1.3"
 msgid "Rūpupayaṃ vā, bhikkhave, viññāṇaṃ tiṭṭhamānaṃ tiṭṭheyya, rūpārammaṇaṃ rūpappatiṭṭhaṃ nandūpasecanaṃ vuddhiṃ virūḷhiṃ vepullaṃ āpajjeyya. "

@@ -23,8 +23,8 @@ msgctxt "an6.54:1.1"
 msgid "Ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate. "
 msgstr "At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak Mountain. "
 
-#. HTML: </p><p>
 # NOTE: See my discussion here: https://discourse.suttacentral.net/t/about-the-monk-called-dhammika/2682/1
+#. HTML: </p><p>
 msgctxt "an6.54:1.2"
 msgid "Tena kho pana samayena āyasmā dhammiko jātibhūmiyaṃ āvāsiko hoti sabbaso jātibhūmiyaṃ sattasu āvāsesu. "
 msgstr "Now at that time Venerable Dhammika was a resident in all seven monasteries of his native land. "
@@ -399,8 +399,8 @@ msgctxt "an6.54:12.9"
 msgid "‘Aṭṭhitāyeva kho me, mārisa, rukkhadhamme bhusā vātavuṭṭhi āgantvā bhavanaṃ pavattesi ummūlamakāsī’ti. "
 msgstr "‘I was not standing by a tree’s duty when the storm came and felled and uprooted my home.’ "
 
-#. HTML: </p><p>
 # NOTE: Also not a question. I have corrected
+#. HTML: </p><p>
 msgctxt "an6.54:12.10"
 msgid "‘Sace kho tvaṃ, devate, rukkhadhamme tiṭṭheyyāsi, siyā te bhavanaṃ yathāpure’ti. "
 msgstr "‘God, if you were to stand by a tree’s duty, your home may be as it was before.’ "

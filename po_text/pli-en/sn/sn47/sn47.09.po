@@ -216,8 +216,8 @@ msgctxt "sn47.9:6.6"
 msgid "Evaṃ kho, ānanda, bhikkhu attadīpo viharati attasaraṇo anaññasaraṇo, dhammadīpo dhammasaraṇo anaññasaraṇo. "
 msgstr "That’s how a mendicant is their own island, their own refuge, with no other refuge. That’s how the teaching is their island and their refuge, with no other refuge. "
 
-#. HTML: </p><p>
 # NOTE: https://discourse.suttacentral.net/t/on-tamatagge-a-difficult-term-used-in-the-buddhas-last-days/5739
+#. HTML: </p><p>
 msgctxt "sn47.9:6.7"
 msgid "Ye hi keci, ānanda, etarahi vā mamaccaye vā attadīpā viharissanti attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā; tamatagge mete, ānanda, bhikkhū bhavissanti ye keci sikkhākāmā”ti. "
 msgstr "Whether now or after I have passed, any who shall live as their own island, their own refuge, with no other refuge; with the teaching as their island and their refuge, with no other refuge—those mendicants of mine who want to train shall be among the best of the best.” "

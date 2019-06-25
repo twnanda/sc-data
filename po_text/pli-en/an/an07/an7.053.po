@@ -186,8 +186,8 @@ msgctxt "an7.53:6.9"
 msgid "Etañceva me bhavissati ātitheyyan’ti. "
 msgstr "Then that will also be your offering to me as your guest.’ "
 
-#. HTML: </p><p>
 # NOTE: https://discourse.suttacentral.net/t/sharing-merit-a-note-on-punna-and-punnamahi/3972
+#. HTML: </p><p>
 #. VAR: puññañca puññamahī ca taṃ → puññaṃ hi taṃ (sī, pā1), puññaṃ puññamahitaṃ (syā1-3), puññaṃ vā puññamahī vā (ka-ma)
 msgctxt "an7.53:6.10"
 msgid "Yadidaṃ, bhante, dāne puññañca puññamahī ca taṃ vessavaṇassa mahārājassa sukhāya hotū”ti. "

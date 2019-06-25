@@ -446,8 +446,8 @@ msgctxt "pli-tv-bu-vb-ss10:2.9"
 msgid "“kathaṃ ime nānā assu, vinā assu, vaggā assū”ti pakkhaṃ pariyesati, gaṇaṃ bandhati."
 msgstr "thinking, “What can be done so that these become various, separated, divided,” he searches for a faction and puts together a group."
 
-#. HTML: </span></p><p><span class="term"> 
 # NOTE: For these eighteen grounds, see [](MS.4.1595-4.1614).
+#. HTML: </span></p><p><span class="term"> 
 #. REF: sc11, ms1V_1683
 msgctxt "pli-tv-bu-vb-ss10:2.10"
 msgid "Bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇanti"
@@ -469,8 +469,8 @@ msgctxt "pli-tv-bu-vb-ss10:2.13"
 msgid "ādāya."
 msgstr "having adopted it, he proclaims it."
 
-#. HTML: </span></p><p><span class="term">
 # NOTE: “Taking up” here renders both _samādāya_ and _paggayha_, and as a consequence it appears as if one of the definitions found in the Pali is missing in the translation. In the Pali _samādāya_ is defined as _ādāya_, “having adopted,” and _paggayha_ as _dīpeyya_, “he proclaims.”
+#. HTML: </span></p><p><span class="term">
 #. REF: sc13, ms1V_1685
 msgctxt "pli-tv-bu-vb-ss10:2.14"
 msgid "Paggayhāti"

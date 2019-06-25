@@ -72,8 +72,8 @@ msgctxt "an5.58:4.2"
 msgid "‘bhavissanti vajjī, bhavissanti vajjī’”ti? "
 msgstr " "
 
-#. HTML: </p><p>
 # NOTE: Note the extreme uncertainty of the last term. Even CPD doesn’t have entries for the readings apanubha and apanuta.
+#. HTML: </p><p>
 #. VAR: apānubhā → apajahāti (bj) | apāṭubhā (s1-3, km) | apajahā (pts1) | apānutā (katthaci)
 msgctxt "an5.58:4.3"
 msgid "“Ime, bhante, licchavikumārakā caṇḍā pharusā apānubhā. "

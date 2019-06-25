@@ -129,8 +129,8 @@ msgctxt "sn55.21:3.5"
 msgid "yañca khvassa cittaṃ dīgharattaṃ saddhāparibhāvitaṃ … pe … paññāparibhāvitaṃ taṃ uddhagāmi hoti visesagāmi. "
 msgstr "But their mind rises up, headed for a higher place. "
 
-#. HTML: </p><p>
 # NOTE: BB omits this sentence.
+#. HTML: </p><p>
 msgctxt "sn55.21:3.6"
 msgid "Tuyhaṃ kho pana, mahānāma, dīgharattaṃ saddhāparibhāvitaṃ cittaṃ … pe … paññāparibhāvitaṃ cittaṃ. "
 msgstr "Your mind, Mahānāma, has for a long time been imbued with faith, ethics, learning, generosity, and wisdom. "

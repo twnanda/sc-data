@@ -392,8 +392,8 @@ msgctxt "pli-tv-bu-vb-pc21:2.28"
 msgid "dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "he gave a teaching and addressed the monks:"
 
-#. HTML: </p><p class="rule">
 # NOTE: This set of eight qualities is also found at AN8.52 [](MS.???.556), see NDB, pp.1192-93.
+#. HTML: </p><p class="rule">
 msgctxt "pli-tv-bu-vb-pc21:2.29"
 msgid "“anujānāmi, bhikkhave, aṭṭhahaṅgehi samannāgataṃ bhikkhuṃ bhikkhunovādakaṃ sammannituṃ."
 msgstr "“Monks, you should appoint a monk who possesses eight qualities as an instructor of the nuns:"
@@ -540,9 +540,9 @@ msgctxt "pli-tv-bu-vb-pc21:3.1.18"
 msgid "Sace “samaggāmhāyyā”ti bhaṇanti, “vattanti, bhaginiyo, aṭṭha garudhammā”ti?"
 msgstr "If they say, “We’re all present, Venerable,” he should say, “Are you keeping the eight rules to be respected?”"
 
+# NOTE: _Niyyādetabbo_. For the meaning of this word in this context, see the usage in the origin story to the next rule, [](MS.2.517), and the explanation at [](Sp.4.792.10), [](Sp.4.800.25).
 #. HTML: </p><p>
 #. VAR: niyyādetabbo → niyyātetabbo (itipi)
-# NOTE: _Niyyādetabbo_. For the meaning of this word in this context, see the usage in the origin story to the next rule, [](MS.2.517), and the explanation at [](Sp.4.792.10), [](Sp.4.800.25).
 msgctxt "pli-tv-bu-vb-pc21:3.1.19"
 msgid "Sace “vattantāyyā”ti bhaṇanti, “eso, bhaginiyo, ovādo”ti niyyādetabbo."
 msgstr "If they say, “We are,” he should present the instruction, “This is the instruction.”"
@@ -562,8 +562,8 @@ msgctxt "pli-tv-bu-vb-pc21:3.1.22"
 msgid "ayampi dhammo sakkatvā garukatvā mānetvā pūjetvā yāvajīvaṃ anatikkamanīyo."
 msgstr "This rule is to be honored and respected all one’s life, and is not to be breached."
 
-#. HTML: </li><li>
 # NOTE: The Pali word behind the translation “monastery” is _āvāsa_. This refers to the area within the _simā_, the boundary, as established through a procedure. This area may be much larger than the space occupied by any actual buildings. 
+#. HTML: </li><li>
 msgctxt "pli-tv-bu-vb-pc21:3.1.23"
 msgid "Na bhikkhuniyā abhikkhuke āvāse vassaṃ vasitabbaṃ;"
 msgstr "A nun should not spend the rainy season in a monastery where there are no monks."
@@ -588,8 +588,8 @@ msgctxt "pli-tv-bu-vb-pc21:3.1.27"
 msgid "ayampi dhammo … pe …"
 msgstr "This rule too is to be honored and respected all one’s life, and is not to be breached."
 
-#. HTML: </li><li>
 # NOTE: Serious offense, _garudhamma_, here refers to the _saṅghādisesa_ offenses, the offenses entailing suspension. 
+#. HTML: </li><li>
 msgctxt "pli-tv-bu-vb-pc21:3.1.28"
 msgid "garudhammaṃ ajjhāpannāya bhikkhuniyā ubhatosaṃghe pakkhamānattaṃ caritabbaṃ;"
 msgstr "A nun who has committed a serious offense should undertake a trial period towards both Orders for a half-month."
@@ -616,8 +616,8 @@ msgctxt "pli-tv-bu-vb-pc21:3.1.33"
 msgid "ayampi dhammo … pe …"
 msgstr "This rule too is to be honored and respected all one’s life, and is not to be breached."
 
-#. HTML: </li><li>
 # NOTE: “Correct” is here for _vacanapatha_. For the meaning of this word see BVS, pp.73-76. 
+#. HTML: </li><li>
 msgctxt "pli-tv-bu-vb-pc21:3.1.34"
 msgid "ajjatagge ovaṭo bhikkhunīnaṃ bhikkhūsu vacanapatho, anovaṭo bhikkhūnaṃ bhikkhunīsu vacanapatho;"
 msgstr "From today onwards, nuns may not correct monks, but monks may correct nuns."
@@ -626,8 +626,8 @@ msgctxt "pli-tv-bu-vb-pc21:3.1.35"
 msgid "ayampi dhammo sakkatvā garukatvā mānetvā pūjetvā yāvajīvaṃ anatikkamanīyo”ti."
 msgstr "This rule too is to be honored and respected all one’s life, and is not to be breached.”"
 
-#. HTML: </li></ul><p>
 # NOTE: This seems to say that if the nuns are all present then the monk must always give an _ovāda_ that consists in teaching the eight _garudhammas_.This, however, needs to be seen in light of the further subdivision given in the text above, where the instruction in the _garudhammas_ is to be given only when the nuns say they are not practicing them.If the nuns are practicing the _garudhammas_, there seems to be no restriction on the nature of the _ovāda_. 
+#. HTML: </li></ul><p>
 #. REF: sc19, ms2V_502
 msgctxt "pli-tv-bu-vb-pc21:3.1.36"
 msgid "Sace “samaggāmhāyyā”ti bhaṇantaṃ aññaṃ dhammaṃ bhaṇati, āpatti dukkaṭassa."

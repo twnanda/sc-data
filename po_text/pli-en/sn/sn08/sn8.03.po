@@ -24,8 +24,8 @@ msgctxt "sn8.3:1.1"
 msgid "Ekaṃ samayaṃ āyasmā vaṅgīso āḷaviyaṃ viharati aggāḷave cetiye āyasmatā nigrodhakappena upajjhāyena saddhiṃ. "
 msgstr "At one time Venerable Vaṅgīsa was staying near Āḷavī, at the Aggāḷava Tree-shrine, together with his mentor, Venerable Nigrodhakappa. "
 
-#. HTML: </p><p>
 # NOTE: I think BB’s “well-behaved” for pesala leans too heavily on the comm’s punning “piya-sila”, and sounds a bit patronizing. I think it’s more of an emotional quality.
+#. HTML: </p><p>
 msgctxt "sn8.3:1.2"
 msgid "Tena kho pana samayena āyasmā vaṅgīso attano paṭibhānena aññe pesale bhikkhū atimaññati. "
 msgstr "Now at that time Venerable Vaṅgīsa looked down on other good-hearted mendicants because of his own poetic virtuosity. "

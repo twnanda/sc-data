@@ -154,8 +154,8 @@ msgctxt "pli-tv-bu-vb-pc1:2.1.1"
 msgid "Sampajānamusāvādo nāma"
 msgstr "Lies in full awareness:"
 
-#. HTML: </span><span class="gloss">
 # NOTE: Although _muta_ normally means “thought,” translating as “sensed” is necessary in light of the next paragraph.
+#. HTML: </span><span class="gloss">
 #. REF: pts-vp-en.2.167
 msgctxt "pli-tv-bu-vb-pc1:2.1.2"
 msgid "visaṃvādanapurekkhārassa vācā, girā, byappatho, vacībhedo, vācasikā viññatti, aṭṭha anariyavohārā—adiṭṭhaṃ diṭṭhaṃ meti, assutaṃ sutaṃ meti, amutaṃ mutaṃ meti, aviññātaṃ viññātaṃ meti, diṭṭhaṃ adiṭṭhaṃ meti, sutaṃ assutaṃ meti, mutaṃ amutaṃ meti, viññātaṃ aviññātaṃ meti."

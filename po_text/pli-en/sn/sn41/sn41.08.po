@@ -196,8 +196,8 @@ msgctxt "sn41.8:5.18"
 msgid "Dasa pañhā, dasa uddesā, dasa veyyākaraṇānī”ti. "
 msgstr " "
 
-#. HTML: </p><p>
 # NOTE: This whole passage is, I think, Pali for: “You are so pwned. Delete your account.”
+#. HTML: </p><p>
 msgctxt "sn41.8:5.19"
 msgid "Atha kho citto gahapati nigaṇṭhaṃ nāṭaputtaṃ ime dasa sahadhammike pañhe āpucchitvā uṭṭhāyāsanā pakkāmīti. "
 msgstr "Then Citta got up from his seat and left without asking Nigaṇṭha Nātaputta these ten legitimate questions. "

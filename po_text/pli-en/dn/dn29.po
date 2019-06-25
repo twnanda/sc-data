@@ -945,8 +945,8 @@ msgctxt "dn29:27.4"
 msgid "samparāyikānañca āsavānaṃ paṭighātāya. "
 msgstr "protecting against defilements that affect lives to come. "
 
-#. HTML: </p><p>
 # NOTE: Both MW and RD have optative mod here, but it is not justified.
+#. HTML: </p><p>
 msgctxt "dn29:27.5"
 msgid "Tasmātiha, cunda, yaṃ vo mayā cīvaraṃ anuññātaṃ, alaṃ vo taṃ "
 msgstr "And that’s why I have allowed robes for you that suffice "

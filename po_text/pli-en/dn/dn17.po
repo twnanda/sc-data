@@ -206,8 +206,8 @@ msgctxt "dn17:1.7.2"
 msgid "Katamehi sattahi? "
 msgstr "What seven? "
 
-#. HTML: </p><p>
 # NOTE: On tenses: this is specific historical instance, so I use past tense. Where it is an abstract description of all wheel-truning monarchs, I use the present tense to denote an eternal or mythic present.
+#. HTML: </p><p>
 msgctxt "dn17:1.7.3"
 msgid "Idhānanda, rañño mahāsudassanassa tadahuposathe pannarase sīsaṃnhātassa uposathikassa uparipāsādavaragatassa "
 msgstr "On a fifteenth day sabbath, King Mahāsudassana had bathed his head and gone upstairs in the stilt longhouse to observe the sabbath. "

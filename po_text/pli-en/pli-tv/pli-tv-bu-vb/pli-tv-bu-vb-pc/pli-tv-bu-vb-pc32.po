@@ -663,8 +663,8 @@ msgctxt "pli-tv-bu-vb-pc32:9.1.9"
 msgid "Cīvaradānasamayo nāma"
 msgstr "It is the robe-giving season:"
 
-#. HTML: </span><span class="gloss">
 # NOTE: That is, the last month of the rainy season, plus the four months of the cold season. 
+#. HTML: </span><span class="gloss">
 #. REF: pts-vp-en.2.312
 msgctxt "pli-tv-bu-vb-pc32:9.1.10"
 msgid "anatthate kathine vassānassa pacchimo māso, atthate kathine pañcamāsā. “Cīvaradānasamayo”ti bhuñjitabbaṃ."
@@ -676,8 +676,8 @@ msgctxt "pli-tv-bu-vb-pc32:9.1.11"
 msgid "Cīvarakārasamayo nāma"
 msgstr "He is making a robe:"
 
-#. HTML: </span><span class="gloss">
 # NOTE: According to the commentary, [](Sp.4.813.4), “Whoever does any work to be done in regard to the robe—the Mahāpaccariya says, ‘Even one who just threads the needle’—may eat a group meal because he is making a robe,” _yo tattha cīvare kattabbaṃ yaṃkiñci kammaṃ karoti, mahāpaccariyañhi “antamaso sūcivedhanako”tipi vuttaṃ, tena cīvarakārasamayoti bhuñjitabbaṃ_. 
+#. HTML: </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc32:9.1.12"
 msgid "cīvare kayiramāne."
 msgstr "if he is making a robe,"
@@ -692,8 +692,8 @@ msgctxt "pli-tv-bu-vb-pc32:9.1.14"
 msgid "Addhānagamanasamayo nāma"
 msgstr "He is traveling on a main road:"
 
-#. HTML: </span><span class="gloss">
 # NOTE: Half a _yojana_. The length of a _yojana_ is uncertain, and perhaps it never was a precise distance. But a reasonable estimate is 8 miles or just under 13 kilometers (see ACMC, p.16). Thus half a _yojana_ is just over 6 km. 
+#. HTML: </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc32:9.1.15"
 msgid "“addhayojanaṃ gacchissāmī”ti bhuñjitabbaṃ, gacchantena bhuñjitabbaṃ, gatena bhuñjitabbaṃ."
 msgstr "if he intends to travel at least six kilometers, he may eat in a group. And he may eat in a group while he is traveling, and after traveling."

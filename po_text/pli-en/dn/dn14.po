@@ -24,8 +24,8 @@ msgctxt "dn14:1.1.1"
 msgid "Evaṃ me sutaṃ—"
 msgstr "So I have heard. "
 
-#. HTML: </span>
 # NOTE: Kareri doesn’t seem to have a recognized English name.
+#. HTML: </span>
 msgctxt "dn14:1.1.2"
 msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme karerikuṭikāyaṃ. "
 msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery, in the hut by the <i>kareri</i> tree. "
@@ -1568,8 +1568,8 @@ msgctxt "dn14:2.6.6"
 msgid "‘Kiṃ paneso, samma sārathi, byādhito nāmā’ti? "
 msgstr "‘But why is he called a sick man?’ "
 
-#. HTML: </p><p>
 # NOTE: Both RD and MW misconstrue this idiom. It is commonly used in the sense of “shortly, in no long time”, i.e. “hopefully” something will happen.
+#. HTML: </p><p>
 msgctxt "dn14:2.6.7"
 msgid "‘Eso kho, deva, byādhito nāma appeva nāma tamhā ābādhā vuṭṭhaheyyā’ti. "
 msgstr "‘He’s called an sick man; hopefully he will recover from that illness.’ "
@@ -3709,8 +3709,8 @@ msgctxt "dn14:3.29.19"
 msgid "Te mayaṃ, mārisā, vipassimhi bhagavati brahmacariyaṃ caritvā kāmesu kāmacchandaṃ virājetvā idhūpapannā’ti … "
 msgstr "And good sir, after leading the spiritual life under that Buddha Vipassī we lost our desire for sensual pleasures and were reborn here.’ "
 
-#. HTML: </p><p>
 # NOTE: While this is absent here, they are all mentioned below, and comm says they should be included here. This must be just a clumsy abbreviation.
+#. HTML: </p><p>
 msgctxt "dn14:3.29.20"
 msgid "pe … "
 msgstr "And other deities came and similarly recounted the details of the Buddhas Sikhī, Vessabhū, Kakusandha, Koṇāgamana, and Kassapa. "

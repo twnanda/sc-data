@@ -102,8 +102,8 @@ msgctxt "sn40.10:4.3"
 msgid "atha kho sakko devānamindo aṭṭhahi devatāsatehi saddhiṃ … pe … "
 msgstr "Then Sakka, lord of gods, with eight hundred deities … "
 
-#. HTML: </p><p>
 # NOTE: That escalated quickly.
+#. HTML: </p><p>
 msgctxt "sn40.10:4.4"
 msgid "atha kho sakko devānamindo asītiyā devatāsahassehi saddhiṃ yenāyasmā mahāmoggallāno tenupasaṅkami; upasaṅkamitvā āyasmantaṃ mahāmoggallānaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitaṃ kho sakkaṃ devānamindaṃ āyasmā mahāmoggallāno etadavoca: "
 msgstr "Then Sakka, lord of gods, with eighty thousand deities … "

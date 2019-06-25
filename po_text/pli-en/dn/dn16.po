@@ -2003,8 +2003,8 @@ msgctxt "dn16:2.15.3"
 msgid "Tatra ekacce licchavī nīlā honti nīlavaṇṇā nīlavatthā nīlālaṅkārā, ekacce licchavī pītā honti pītavaṇṇā pītavatthā pītālaṅkārā, ekacce licchavī lohitā honti lohitavaṇṇā lohitavatthā lohitālaṅkārā, ekacce licchavī odātā honti odātavaṇṇā odātavatthā odātālaṅkārā. "
 msgstr "Some of the Licchavis were in blue, of blue color, clad in blue, adorned with blue. And some were similarly colored in yellow, red, or white. "
 
-#. HTML: </p><p>
 # NOTE: There are various reading for pativattesi. I quite like that reading “forced them back”. Anandajoti has “rolled alongside” evidently reading parivattesi. Comm, however, has “Parivaṭṭesīti pahari”.
+#. HTML: </p><p>
 #. REF: pts-cs2.16
 msgctxt "dn16:2.16.1"
 msgid "Atha kho ambapālī gaṇikā daharānaṃ daharānaṃ licchavīnaṃ akkhena akkhaṃ cakkena cakkaṃ yugena yugaṃ paṭivaṭṭesi. "
@@ -4872,8 +4872,8 @@ msgctxt "dn16:4.32.14"
 msgid "‘So tvaṃ, bhante, saññī samāno jāgaro deve vassante deve gaḷagaḷāyante vijjullatāsu niccharantīsu asaniyā phalantiyā neva addasa, na pana saddaṃ assosī’ti? "
 msgstr "‘So, sir, while conscious and awake you neither saw nor heard a sound as it was raining and pouring, lightning was flashing, and thunder was cracking?’ "
 
-#. HTML: </p><p>
 # NOTE: Question mark is wrong.
+#. HTML: </p><p>
 msgctxt "dn16:4.32.15"
 msgid "‘Evamāvuso’ti? "
 msgstr "‘Yes, friend.’ "
@@ -5211,8 +5211,8 @@ msgctxt "dn16:4.42.11"
 msgid "Ime dve piṇḍapātā samasamaphalā samavipākā, ativiya aññehi piṇḍapātehi mahapphalatarā ca mahānisaṃsatarā ca. "
 msgstr "These two meal offerings have identical fruit and result, and are more fruitful and beneficial than other meal offerings. "
 
-#. HTML: </p><p>
 # NOTE: Note the text starts to use ayasma here for Cunda. There seems to be some confusion felt between the monk attendant Cundaka and Cunda. But the usage here seems to be driven by grammar. Earlier avuso was used, but as an indeclinable it doesn’t work in instrumental, so apparently ayasmata is the fallback instrumental form; they are both from the same root. It is a nice reminder of the fluidity of such usages. The sanskrit too has saṃmukhaṃ ma āyuṣmaṃś cunda
+#. HTML: </p><p>
 msgctxt "dn16:4.42.12"
 msgid "Āyusaṃvattanikaṃ āyasmatā cundena kammāraputtena kammaṃ upacitaṃ, vaṇṇasaṃvattanikaṃ āyasmatā cundena kammāraputtena kammaṃ upacitaṃ, sukhasaṃvattanikaṃ āyasmatā cundena kammāraputtena kammaṃ upacitaṃ, yasasaṃvattanikaṃ āyasmatā cundena kammāraputtena kammaṃ upacitaṃ, saggasaṃvattanikaṃ āyasmatā cundena kammāraputtena kammaṃ upacitaṃ, ādhipateyyasaṃvattanikaṃ āyasmatā cundena kammāraputtena kammaṃ upacitan’ti. "
 msgstr "You’ve accumulated a deed that leads to long life, beauty, happiness, fame, heaven, and sovereignty.’ "
@@ -7263,8 +7263,8 @@ msgctxt "dn16:6.19.2"
 msgid "Atha kho āyasmā mahākassapo maggā okkamma aññatarasmiṃ rukkhamūle nisīdi. "
 msgstr "Then he left the road and sat at the root of a tree. "
 
-#. HTML: </p><p>
 # NOTE: This is probably the ultimate source for the Zen story about the Buddha, Mahakassapa, and a flower.
+#. HTML: </p><p>
 msgctxt "dn16:6.19.3"
 msgid "Tena kho pana samayena aññataro ājīvako kusinārāya mandāravapupphaṃ gahetvā pāvaṃ addhānamaggappaṭipanno hoti. "
 msgstr "Now at that time a certain <i>ājīvaka</i> ascetic had picked up a Flame Tree flower in Kusinārā and was traveling along the road to Pāvā. "

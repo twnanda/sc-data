@@ -1,5 +1,6 @@
 msgid ""
 msgstr ""
+""
 
 #. The unique identifier for the root edition, used as URL component
 msgid "root_author_uid"

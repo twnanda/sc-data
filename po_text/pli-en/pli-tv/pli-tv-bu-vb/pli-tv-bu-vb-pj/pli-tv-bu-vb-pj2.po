@@ -3497,7 +3497,7 @@ msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-pj2:7.3.6
+msgctxt "pli-tv-bu-vb-pj2:7.3.6"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti. #6–‍9"
 msgstr "“You have committed an offense entailing expulsion.”"
 
@@ -3615,7 +3615,7 @@ msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-pj2:7.5.13
+msgctxt "pli-tv-bu-vb-pj2:7.5.13"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti. #15–‍25"
 msgstr "“You have committed an offense entailing expulsion.”"
 
@@ -3971,7 +3971,7 @@ msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-pj2:7.11.9
+msgctxt "pli-tv-bu-vb-pj2:7.11.9"
 msgid "“anāpatti, bhikkhave, tiracchā­na­gata­parig­gahe”ti. #37–‍40"
 msgstr "“There’s no offense when it’s the possession of an animal.”"
 
@@ -4324,7 +4324,7 @@ msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-pj2:7.20.16
+msgctxt "pli-tv-bu-vb-pj2:7.20.16"
 msgid "“anāpatti, bhikkhu, sakasaññissā”ti. #62"
 msgstr "“There’s no offense for one who perceives it as his own.”"
 
@@ -4792,7 +4792,7 @@ msgid "“Nāhaṃ, bhagavā, jānāmī”ti."
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-pj2:7.26.17
+msgctxt "pli-tv-bu-vb-pj2:7.26.17"
 msgid "“Anāpatti, bhikkhu, ajānantassā”ti. #90"
 msgstr "“There’s no offense for one who does not know.”"
 
@@ -5279,7 +5279,7 @@ msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-pj2:7.36.12
+msgctxt "pli-tv-bu-vb-pj2:7.36.12"
 msgid "“anāpatti, bhikkhave, paṃsu­kūla­saññissā”ti. #114"
 msgstr "“There’s no offense for one who perceives something as discarded.”"
 

@@ -54,8 +54,8 @@ msgctxt "mn3:2.3"
 msgid "‘kinti me sāvakā dhammadāyādā bhaveyyuṃ, no āmisadāyādā’ti. "
 msgstr "‘How can my disciples become heirs in the teaching, not in material things?’ "
 
-#. HTML: </p><p>
 # NOTE: reading ādissa for ādiya
+#. HTML: </p><p>
 #. VAR: ādiyā → ādissā (bj, s1-3, pts1)
 msgctxt "mn3:2.4"
 msgid "Tumhe ca me, bhikkhave, āmisadāyādā bhaveyyātha no dhammadāyādā, tumhepi tena ādiyā bhaveyyātha: "

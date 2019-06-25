@@ -36,8 +36,8 @@ msgctxt "sn47.19:1.4"
 msgid "‘ehi tvaṃ, samma medakathālike, caṇḍālavaṃsaṃ abhiruhitvā mama uparikhandhe tiṭṭhāhī’ti. "
 msgstr "‘Come now, dear Medakathālikā, climb up the bamboo pole and stand on my shoulders.’ "
 
-#. HTML: </p><p>
 # NOTE: Comm tries to erase the students gender.
+#. HTML: </p><p>
 msgctxt "sn47.19:1.5"
 msgid "‘Evaṃ, ācariyā’ti kho, bhikkhave, medakathālikā antevāsī caṇḍālavaṃsikassa paṭissutvā caṇḍālavaṃsaṃ abhiruhitvā ācariyassa uparikhandhe aṭṭhāsi. "
 msgstr "‘Yes, teacher,’ she replied. She climbed up the bamboo pole and stood on her teacher’s shoulders. "

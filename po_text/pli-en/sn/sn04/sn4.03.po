@@ -33,8 +33,8 @@ msgctxt "sn4.3:1.3"
 msgid "Tena kho pana samayena bhagavā rattandhakāratimisāyaṃ abbhokāse nisinno hoti, devo ca ekamekaṃ phusāyati. "
 msgstr "Now at that time the Buddha was meditating in the open during the dark of night, while a gentle rain drizzled down. "
 
-#. HTML: </p><p>
 # NOTE: The phrase is identical with SN 2.29, and i don’t see why we should follow BB in using “color” there and “shape” here for vanna.
+#. HTML: </p><p>
 msgctxt "sn4.3:1.4"
 msgid "Atha kho māro pāpimā, bhagavato bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo, yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato avidūre uccāvacā vaṇṇanibhā upadaṃseti, subhā ceva asubhā ca. "
 msgstr "Then Māra the Wicked, wanting to make the Buddha feel fear, terror, and goosebumps, approached him, and while not far away generated a rainbow of bright colors, both beautiful and ugly. "

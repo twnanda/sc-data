@@ -24,8 +24,8 @@ msgctxt "sn22.150:1.1"
 msgid "Sāvatthinidānaṃ. "
 msgstr "At Sāvatthī. "
 
-#. HTML: </p><p>
 # NOTE: See BB’s notes here and at SN 22.83 on the dual meaning of upadaya. In addition to the reasons he gives, I think it’s useful to use “grasping” in these contexts, as it helps illuminate the sense of upadanakkhandha.
+#. HTML: </p><p>
 msgctxt "sn22.150:1.2"
 msgid "“Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya uppajjati ajjhattaṃ sukhadukkhan”ti? "
 msgstr "“Mendicants, when what exists, because of grasping what, do pleasure and pain arise in oneself?” "

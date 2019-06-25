@@ -23,8 +23,8 @@ msgctxt "mn24:1.2"
 msgid "ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. "
 msgstr "At one time the Buddha was staying near Rājagaha, in the Bamboo Grove, the squirrels’ feeding ground. "
 
-#. HTML: </p><p>
 # NOTE: Comm says jatibhumi means the Buddha’s native district. I don’t think so. The word occurs at AN 6.54, Pvr 14, Ja 537, and Ja 546, and nowhere does it have any other sense than the expected “ones’ native district”.
+#. HTML: </p><p>
 #. REF: nya2
 msgctxt "mn24:2.1"
 msgid "Atha kho sambahulā jātibhūmakā bhikkhū jātibhūmiyaṃ vassaṃvuṭṭhā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinne kho te bhikkhū bhagavā etadavoca: "

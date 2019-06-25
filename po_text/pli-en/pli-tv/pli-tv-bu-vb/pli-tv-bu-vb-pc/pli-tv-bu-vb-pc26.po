@@ -55,8 +55,8 @@ msgctxt "pli-tv-bu-vb-pc26:1.5"
 msgid "“sādhu me, bhante, ayyo cīvaraṃ sibbatū”ti."
 msgstr "“Venerable, would you please sew me a robe?”"
 
-#. HTML: </p><p>
 # NOTE: _Paṭibhānacittaṃ_. _Citta_ is here equivalent to Sanskrit _citra_, which means colorful, variegated, decorative, etc., and by extension it also means a picture or painting, which seems to be the intended meaning here. _Paṭibhāna_ means something like impromptu imagination. The commentary, [](Sp.4.804.29), specifies that it was a picture of a couple having sexual intercourse. 
+#. HTML: </p><p>
 msgctxt "pli-tv-bu-vb-pc26:1.6"
 msgid "Atha kho āyasmā udāyī tassā bhikkhuniyā cīvaraṃ sibbitvā surattaṃ suparikammakataṃ katvā majjhe paṭibhānacittaṃ vuṭṭhāpetvā saṃharitvā nikkhipi."
 msgstr "He then sewed a robe for that nun, making it beautiful and nicely dyed, and he drew a creative picture in the middle of it. He then folded it and put it aside."
@@ -236,8 +236,8 @@ msgctxt "pli-tv-bu-vb-pc26:2.1.10"
 msgid "Cīvaraṃ nāma"
 msgstr "A robe:"
 
-#. HTML: </span><span class="gloss">
 # NOTE: The six are linen, cotton, silk, wool, sunn hemp, and hemp; see [](Mv.8.3.1). 
+#. HTML: </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc26:2.1.11"
 msgid "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ."
 msgstr "one of the six kinds of robes."

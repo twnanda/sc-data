@@ -271,8 +271,8 @@ msgctxt "an5.192:8.9"
 msgid "Tasmā, doṇa, brāhmaṇo na pāyamānaṃ gacchati. "
 msgstr "That’s why the brahmin doesn’t have sex with a breastfeeding woman. "
 
-#. HTML: </p><p>
 # NOTE: See BB on variant readings here. It seems the question has been lost and the text corrupted.
+#. HTML: </p><p>
 msgctxt "an5.192:8.10"
 msgid "Tassa sā hoti brāhmaṇī neva kāmatthā na davatthā na ratatthā, pajatthāva brāhmaṇassa brāhmaṇī hoti. "
 msgstr "And why does the brahmin not have sex outside the fertile half of the month that starts with menstruation? Because his brahmin wife is not there for sensual pleasure, fun, and enjoyment, but only for procreation. "

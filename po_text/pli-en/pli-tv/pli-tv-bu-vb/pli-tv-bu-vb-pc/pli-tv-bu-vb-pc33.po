@@ -579,8 +579,8 @@ msgctxt "pli-tv-bu-vb-pc33:5.1.8"
 msgid "Cīvaradānasamayo nāma"
 msgstr "It is the robe-giving season:"
 
-#. HTML: </span><span class="gloss"> 
 # NOTE: That is, the last month of the rainy season, plus the four months of the cold season.
+#. HTML: </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc33:5.1.9"
 msgid "anatthate kathine vassānassa pacchimo māso, atthate kathine pañca māsā. “Cīvaradānasamayo”ti bhuñjitabbaṃ."
 msgstr "if he has not done the robe-making ceremony, he may eat a meal before another during the last month of the rainy season. If he has done the robe-making ceremony, he may eat a meal before another during the five month period."

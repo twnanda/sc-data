@@ -605,8 +605,8 @@ msgctxt "dn28:13.2"
 msgid "Catasso imā, bhante, anusāsanavidhā—"
 msgstr "There are these four degrees of responsiveness to instruction. "
 
-#. HTML: </p><p>
 # NOTE: paccattaṃ yonisomanasikārā occurs at SN 46.8, MN 50, and DN 28. In MN 50 it clearly means “investigate inside himself”. The same meaning makes sense in SN 46.8. In DN 28, it is applied to another.
+#. HTML: </p><p>
 msgctxt "dn28:13.3"
 msgid "jānāti, bhante, bhagavā aparaṃ puggalaṃ paccattaṃ yonisomanasikārā "
 msgstr "The Buddha knows by investigating inside another individual: "

@@ -23,8 +23,8 @@ msgctxt "dn27:1.2"
 msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati pubbārāme migāramātupāsāde. "
 msgstr "At one time the Buddha was staying near Sāvatthī in the Eastern Monastery, in the stilt longhouse of Migāra’s mother. "
 
-#. HTML: </p><p>
 # NOTE: Note that paravasati is the normal term for those of other sects who spend probation before ordaining. This is a rare case featuring men who are actually undergoing such probation. Note that RD gets this right, MW does not.
+#. HTML: </p><p>
 msgctxt "dn27:1.3"
 msgid "Tena kho pana samayena vāseṭṭhabhāradvājā bhikkhūsu parivasanti bhikkhubhāvaṃ ākaṅkhamānā. "
 msgstr "Now at that time Vāseṭṭha and Bhāradvāja were living on probation among the mendicants in hopes of being ordained. "
@@ -1158,8 +1158,8 @@ msgctxt "dn27:22.5"
 msgid "Pāpake akusale dhamme vāhentīti kho, vāseṭṭha, ‘brāhmaṇā, brāhmaṇā’ tveva paṭhamaṃ akkharaṃ upanibbattaṃ. "
 msgstr "‘They set aside bad, unskillful things’ is the meaning of ‘brahmin’, the first term to be specifically invented for them. "
 
-#. HTML: </p><p>
 # NOTE: Comm has “Vītaṅgārāvītadhūmāti pacitvā khāditabbābhāvato vigatadhūmaṅgārā” See https://discourse.suttacentral.net/t/an-extremely-dense-four-words/6049
+#. HTML: </p><p>
 #. VAR: ghāsamesamānā → ghāsamesanā (bj, s1-3, pts1)
 msgctxt "dn27:22.6"
 msgid "Te araññāyatane paṇṇakuṭiyo karitvā paṇṇakuṭīsu jhāyanti vītaṅgārā vītadhūmā pannamusalā sāyaṃ sāyamāsāya pāto pātarāsāya gāmanigamarājadhāniyo osaranti ghāsamesamānā. "
@@ -1188,8 +1188,8 @@ msgctxt "dn27:22.11"
 msgid "jhāyantīti kho, vāseṭṭha, ‘jhāyakā, jhāyakā’ tveva dutiyaṃ akkharaṃ upanibbattaṃ. "
 msgstr "‘They meditate’ is the meaning of ‘meditator’, the second term to be specifically invented for them. "
 
-#. HTML: </p><p>
 # NOTE: Cp. DN 3
+#. HTML: </p><p>
 #. REF: pts-cs23
 msgctxt "dn27:23.1"
 msgid "Tesaṃyeva kho, vāseṭṭha, sattānaṃ ekacce sattā araññāyatane paṇṇakuṭīsu taṃ jhānaṃ anabhisambhuṇamānā gāmasāmantaṃ nigamasāmantaṃ osaritvā ganthe karontā acchanti. "

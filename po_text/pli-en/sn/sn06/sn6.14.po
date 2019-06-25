@@ -241,8 +241,8 @@ msgctxt "sn6.14:8.6"
 msgid "‘Yathā kathaṃ pana tumhe, bhikkhave, assuttha abhibhussa bhikkhuno brahmaloke ṭhitassa gāthāyo bhāsamānassā’ti? "
 msgstr "‘But what exactly did you hear?’ "
 
-#. HTML: </p><p>
 # NOTE: MS should have quotes here.
+#. HTML: </p><p>
 msgctxt "sn6.14:8.7"
 msgid "Evaṃ kho mayaṃ, bhante, assumha abhibhussa bhikkhuno brahmaloke ṭhitassa gāthāyo bhāsamānassa: "
 msgstr "‘This is what we heard, sir: "

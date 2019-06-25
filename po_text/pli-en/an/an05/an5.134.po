@@ -46,8 +46,8 @@ msgctxt "an5.134:2.4"
 msgid "balavā kho pana hoti caturaṅginiyā senāya samannāgato assavāya ovādapaṭikarāya; "
 msgstr "He is powerful, having an army of four divisions that is obedient and carries out instructions. "
 
-#. HTML: </p><p>
 # NOTE: I think BB’s “benefit” is too narrow for attha here. I think it means “matter, thing in general”. Surely a good counselor would be able to contemplate bad results as well as good ones!
+#. HTML: </p><p>
 msgctxt "an5.134:2.5"
 msgid "pariṇāyako kho panassa hoti paṇḍito viyatto medhāvī paṭibalo atītānāgatapaccuppanne atthe cintetuṃ; "
 msgstr "He has a counselor who is astute, competent, and intelligent, able to think issues through as they bear upon the past, future, and present. "

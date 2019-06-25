@@ -23,8 +23,8 @@ msgctxt "an6.37:1.1"
 msgid "Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. "
 msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. "
 
-#. HTML: </p><p>
 # NOTE: Not sure why BB uses perfect here, the tense is the same as the next sentence.
+#. HTML: </p><p>
 msgctxt "an6.37:1.2"
 msgid "Tena kho pana samayena veḷukaṇḍakī nandamātā upāsikā sāriputtamoggallānappamukhe bhikkhusaṃghe chaḷaṅgasamannāgataṃ dakkhiṇaṃ patiṭṭhāpeti. "
 msgstr "Now at that time Veḷukaṇṭakī, Nanda’s mother, was preparing a religious donation for the mendicant Saṅgha headed by Sāriputta and Moggallāna. "

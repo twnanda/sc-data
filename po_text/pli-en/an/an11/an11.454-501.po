@@ -79,5 +79,4 @@ msgctxt "an11.454-501:5.14"
 msgid "paṭinissaggānupassī viharituṃ… pe… "
 msgstr "meditate observing letting go. …” "
 
-
 #. HTML: </p></article></section></body></html>

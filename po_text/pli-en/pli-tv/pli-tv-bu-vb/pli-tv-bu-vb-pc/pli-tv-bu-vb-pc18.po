@@ -121,8 +121,8 @@ msgctxt "pli-tv-bu-vb-pc18:1.18a"
 msgid ""
 msgstr "Final ruling"
 
-#. HTML: </h2><p><span class="rule">
 # NOTE: I am here taking _kuṭi_ to refer to the upper story itself, rather than the whole building, which already has the separate name _vihāra_.
+#. HTML: </h2><p><span class="rule">
 #. REF: sc3, ms2V_445
 msgctxt "pli-tv-bu-vb-pc18:1.19"
 msgid "“Yo pana bhikkhu saṃghike vihāre uparivehāsakuṭiyā āhaccapādakaṃ mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyan”ti."

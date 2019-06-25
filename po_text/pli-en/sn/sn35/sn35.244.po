@@ -102,8 +102,8 @@ msgctxt "sn35.244:4.2"
 msgid "Seyyathāpi, bhikkhave, puriso bahukaṇṭakaṃ dāyaṃ paviseyya. Tassa puratopi kaṇṭako, pacchatopi kaṇṭako, uttaratopi kaṇṭako, dakkhiṇatopi kaṇṭako, heṭṭhatopi kaṇṭako, uparitopi kaṇṭako. So satova abhikkameyya, satova paṭikkameyya: ‘mā maṃ kaṇṭako’ti. "
 msgstr "Suppose a person was to enter a thicket full of thorns. They’d have thorns in front and behind, to the left and right, below and above. So they’d go forward mindfully and come back mindfully, thinking, ‘May I not get any thorns!’ "
 
-#. HTML: </p><p>
 # NOTE: Quote mark here is incorrect in MS.
+#. HTML: </p><p>
 msgctxt "sn35.244:4.3"
 msgid "Evameva kho, bhikkhave, yaṃ loke piyarūpaṃ sātarūpaṃ, ayaṃ vuccati ariyassa vinaye kaṇṭako”ti. "
 msgstr "In the same way, whatever in the world seems nice and pleasant is called a thorn in the training of the noble one. "

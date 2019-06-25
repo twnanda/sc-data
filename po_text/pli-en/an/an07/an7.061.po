@@ -29,8 +29,8 @@ msgctxt "an7.61:1.2"
 msgid "ekaṃ samayaṃ bhagavā bhaggesu viharati susumāragire bhesakaḷāvane migadāye. "
 msgstr "At one time the Buddha was staying in the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā’s Wood. "
 
-#. HTML: </p><p>
 # NOTE: It’s curious name, with many variants. I wonder whether it stands for kālavāḷaputta, the “son of the black monster”. It was common for villages to be named after the local deity who had a shrine there, eg Alavi. Children were, it seems, offered to some of the darker deities.
+#. HTML: </p><p>
 #. VAR: kallavāḷaputtagāme → kallavālamuttagāme (bj, s1-3) | kallavāḷamuttagāme (pts1)
 msgctxt "an7.61:1.3"
 msgid "Tena kho pana samayena āyasmā mahāmoggallāno magadhesu kallavāḷaputtagāme pacalāyamāno nisinno hoti. "

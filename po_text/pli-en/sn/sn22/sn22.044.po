@@ -66,8 +66,8 @@ msgctxt "sn22.44:1.10"
 msgid "viññāṇaṃ attato samanupassati, viññāṇavantaṃ vā attānaṃ; attani vā viññāṇaṃ, viññāṇasmiṃ vā attānaṃ. "
 msgstr "They regard consciousness as self, self as having consciousness, consciousness in self, or self in consciousness. "
 
-#. HTML: </p><p>
 # NOTE: Punctuation in MS is misleading.
+#. HTML: </p><p>
 msgctxt "sn22.44:1.11"
 msgid "Ayaṃ vuccati, bhikkhave, ‘sakkāyasamudayagāminī paṭipadā, sakkāyasamudayagāminī paṭipadā’ti. "
 msgstr "This is called the practice that leads to the origin of identity. "

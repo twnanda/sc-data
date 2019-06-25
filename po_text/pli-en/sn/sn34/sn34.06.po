@@ -33,8 +33,8 @@ msgctxt "sn34.6:1.3"
 msgid "Katame cattāro? "
 msgstr "What four? "
 
-#. HTML: </p><p>
 # NOTE: At SN 47.6 a meditator’s gocara is deined as the 4 satipatthanas.
+#. HTML: </p><p>
 msgctxt "sn34.6:1.4"
 msgid "Idha, bhikkhave, ekacco jhāyī samādhismiṃ samādhikusalo hoti, na samādhismiṃ gocarakusalo. "
 msgstr "One meditator is skilled in immersion but not in the meditation subjects for immersion. …” "

@@ -150,8 +150,8 @@ msgctxt "mn66:5.19"
 msgid "Te mayaṃ, bhante, bhagavati pemañca gāravañca hiriñca ottappañca sampassamānā evaṃ taṃ rattiṃvikālabhojanaṃ pajahimhā. "
 msgstr "But when we considered our love and respect for the Buddha, and our sense of conscience and prudence, we gave up that meal at the wrong time of night. "
 
-#. HTML: </p><p>
 # NOTE: For youths eescaping a crime, see AN 5.77 and my note there. The comm here is similar, but not identical.
+#. HTML: </p><p>
 #. VAR: kaṇṭakāvāṭampi → kaṇṭa­ka­vaṭṭampi (bj, pts1) | kaṇikavāṭampi (si, mr) | kaṇṭakarājimpi (s1-3, km)
 msgctxt "mn66:5.20"
 msgid "Bhūtapubbaṃ, bhante, bhikkhū rattandhakāratimisāyaṃ piṇḍāya carantā candanikampi pavisanti, oligallepi papatanti, kaṇṭakāvāṭampi ārohanti, suttampi gāviṃ ārohanti, māṇavehipi samāgacchanti katakammehipi akatakammehipi, mātugāmopi te asaddhammena nimanteti. "

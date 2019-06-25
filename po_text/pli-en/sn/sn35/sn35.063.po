@@ -68,8 +68,8 @@ msgctxt "sn35.63:2.6"
 msgid "Nandisaṃyojanasaṃyutto kho, migajāla, bhikkhu sadutiyavihārīti vuccati. "
 msgstr "A mendicant who is fettered by relishing is said to live with a partner. "
 
-#. HTML: </p><p>
 # NOTE: text entirely omits kaya and mano
+#. HTML: </p><p>
 msgctxt "sn35.63:2.7"
 msgid "… pe … "
 msgstr "There are sounds … smells … tastes … touches … "

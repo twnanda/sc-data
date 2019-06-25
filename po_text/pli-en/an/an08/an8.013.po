@@ -37,8 +37,8 @@ msgctxt "an8.13:1.4"
 msgid "mātito ca pitito ca. "
 msgstr "the mother’s and the father’s sides. "
 
-#. HTML: </p><p>
 # NOTE: This is the Uttarapatha.
+#. HTML: </p><p>
 msgctxt "an8.13:1.5"
 msgid "Yassaṃ disāyaṃ aññepi bhaddā assājānīyā jāyanti, tassaṃ disāyaṃ jāto hoti. "
 msgstr "He’s bred in the region fine thoroughbreds come from. "

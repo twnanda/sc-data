@@ -17,7 +17,6 @@ msgctxt "an8.91-117:0.3"
 msgid "91–117 "
 msgstr "91–117 "
 
-
 #. HTML: </h1></div><p>
 #. VAR: bojjhā → ettha"atha kho ida a dissati na id="note324">kho
 #. REF: sc1, pts-vp-pli4.348 

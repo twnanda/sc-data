@@ -1449,8 +1449,8 @@ msgctxt "mn56:27.19"
 msgid "‘ayaṃ kho te, bhante, makkaṭacchāpako raṅgakkhamo hi kho, no ākoṭanakkhamo, no vimajjanakkhamo’ti. "
 msgstr "‘Sir, this monkey can withstand a dying, but not a pounding or a pressing.’ "
 
-#. HTML: </p><p>
 # NOTE: BB’s rendering “will give delight to fools” follows the comm., but I think it misses the point of the simile. When you dye a cloth with natural dye, it will initially look fine. But the cloth must be continually pounded for the dye to settle in, otherwise it washes out quickly. That’s the point of the simile with the monkey, you can dye it, but the color will soon wash out because it can’t be fixed properly. So it will only pass a trivial inspection. I can’t make the simile work literally, so I give an interpretative translation.
+#. HTML: </p><p>
 msgctxt "mn56:27.20"
 msgid "Evameva kho, bhante, bālānaṃ nigaṇṭhānaṃ vādo raṅgakkhamo hi kho bālānaṃ no paṇḍitānaṃ, no anuyogakkhamo, no vimajjanakkhamo. "
 msgstr "In the same way, the doctrine of the foolish Jains looks fine initially—for fools, not for the astute—but can’t withstand being scrutinized or pressed. "

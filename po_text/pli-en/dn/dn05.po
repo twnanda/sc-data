@@ -846,15 +846,15 @@ msgctxt "dn5:13.4"
 msgid "aḍḍho mahaddhano mahābhogo pahūtajātarūparajato pahūtavittūpakaraṇo pahūtadhanadhañño paripuṇṇakosakoṭṭhāgāro; "
 msgstr "He was rich, affluent, and wealthy, with lots of gold and silver, lots of property and assets, lots of money and grain, and a full treasury and storehouses. "
 
-#. HTML: </p><p>
 # NOTE: Here sahati is the preferred reading, against PTS, RD, MW. This sounds rather like Alexander arriving in India.
+#. HTML: </p><p>
 #. VAR: sahati → patapati (bj, pts1) | tapati (s1-3)
 msgctxt "dn5:13.5"
 msgid "balavā caturaṅginiyā senāya samannāgato assavāya ovādapaṭikarāya sahati maññe paccatthike yasasā; "
 msgstr "He was powerful, having an army of four divisions that was obedient and carried out instructions. He’d probably prevail over his enemies just with his reputation. "
 
-#. HTML: </p><p>
 # NOTE: For this long compound, see SN 2.23
+#. HTML: </p><p>
 msgctxt "dn5:13.6"
 msgid "saddho dāyako dānapati anāvaṭadvāro samaṇabrāhmaṇakapaṇaddhikavaṇibbakayācakānaṃ opānabhūto puññāni karoti; "
 msgstr "He was faithful, generous, a donor, his door always open. He was a well-spring of support, making merit with ascetics and brahmins, for paupers, vagrants, travelers, and beggars. "

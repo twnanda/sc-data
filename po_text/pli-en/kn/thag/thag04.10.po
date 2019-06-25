@@ -1,5 +1,6 @@
 msgid ""
 msgstr ""
+""
 
 #. HTML: <section class="sutta" id="thag4.10"><article><div class="hgroup"><p class="division">
 msgctxt "thag4.10:1.1"

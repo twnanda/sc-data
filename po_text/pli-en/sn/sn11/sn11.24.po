@@ -24,8 +24,8 @@ msgctxt "sn11.24:1.1"
 msgid "Sāvatthiyaṃ … pe … ārāme. "
 msgstr "At Sāvatthī. "
 
-#. HTML: </p><p>
 # NOTE: https://discourse.suttacentral.net/t/are-there-really-two-meanings-for-sampayojeti/4560
+#. HTML: </p><p>
 msgctxt "sn11.24:1.2"
 msgid "Tena kho pana samayena dve bhikkhū sampayojesuṃ. "
 msgstr "Now at that time two mendicants were overly attached, "

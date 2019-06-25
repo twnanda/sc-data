@@ -554,8 +554,8 @@ msgctxt "sn22.79:14.1"
 msgid "Ayaṃ vuccati, bhikkhave, bhikkhu nevācināti na apacināti, apacinitvā ṭhito; neva pajahati na upādiyati, pajahitvā ṭhito; neva visineti na ussineti, visinetvā ṭhito; neva vidhūpeti na sandhūpeti vidhūpetvā ṭhito "
 msgstr "This is called a mendicant who neither gets rid of things nor accumulates them, but remains after getting rid of them. They neither give things up nor grasp them, but remain after giving them up. They neither discard things nor amass them, but remain after discarding them. They neither dissipate things nor get clouded by them, but remain after dissipating them. "
 
-#. HTML: </p><p>
 # NOTE: MS punctuation in this passage is wrong, and I have corrected it in the Pali.
+#. HTML: </p><p>
 msgctxt "sn22.79:14.2"
 msgid "Kiñca nevācināti na apacināti, apacinitvā ṭhito? "
 msgstr "And what things do they neither get rid of nor accumulate, but remain after getting rid of them? "

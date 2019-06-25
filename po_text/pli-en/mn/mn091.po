@@ -63,8 +63,8 @@ msgstr "It’s good to see such perfected ones.” "
 #. REF: nya4, pts-vp-pli2.134, sc2
 msgctxt "mn91:4.1"
 msgid "Tena kho pana samayena brahmāyussa brāhmaṇassa uttaro nāma māṇavo antevāsī hoti tiṇṇaṃ vedānaṃ pāragū sanighaṇḍukeṭubhānaṃ sākkharappabhedānaṃ itihāsapañcamānaṃ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayo. "
-msgstr "Now at that time the brahmin Brahmāyu had a student named Uttara. He too had mastered the Vedic curriculum.
- "
+msgstr "Now at that time the brahmin Brahmāyu had a student named Uttara. He too had mastered the Vedic curriculum."
+""
 
 msgctxt "mn91:4.2"
 msgid "Atha kho brahmāyu brāhmaṇo uttaraṃ māṇavaṃ āmantesi: "
@@ -502,8 +502,8 @@ msgctxt "mn91:10.9"
 msgid "na ca vipekkhamāno gacchati, yugamattañca pekkhati; tato cassa uttari anāvaṭaṃ ñāṇadassanaṃ bhavati. "
 msgstr "He doesn’t look all around while walking, but focuses a plough’s length in front. Beyond that he has unhindered knowledge and vision. "
 
-#. HTML: </p><p>
 # NOTE: “indoors” is incorrect.
+#. HTML: </p><p>
 #. REF: nya11
 msgctxt "mn91:11.1"
 msgid "So antaragharaṃ pavisanto na kāyaṃ unnāmeti, na kāyaṃ onāmeti; na kāyaṃ sannāmeti, na kāyaṃ vināmeti. "

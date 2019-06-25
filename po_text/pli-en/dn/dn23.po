@@ -2666,8 +2666,8 @@ msgctxt "dn23:29.6"
 msgid "‘Evaṃ, sammā’ti kho sahāyako sahāyakassa paccassosi. "
 msgstr "‘Yes, my friend,’ the other replied. "
 
-#. HTML: </p><p>
 # NOTE: Comm: “Gāmapaṭṭanti vuṭṭhitagāmapadeso vuccati. ‘‘Gāmapada’’ntipi pāṭho, ayamevattho”
+#. HTML: </p><p>
 #. VAR: gāmapaṭṭaṃ → gāmapatthaṃ (bj) | gāmapajjaṃ (s1-3) | gāmapaddhanaṃ (pts1)
 msgctxt "dn23:29.7"
 msgid "Te yena so janapado, yena aññataraṃ gāmapaṭṭaṃ tenupasaṅkamiṃsu, tattha addasaṃsu pahūtaṃ sāṇaṃ chaḍḍitaṃ, disvā sahāyako sahāyakaṃ āmantesi: "
@@ -2695,8 +2695,8 @@ msgctxt "dn23:29.12"
 msgid "Tena hi, samma, tvañca sāṇabhāraṃ chaḍḍehi, ahañca sāṇabhāraṃ chaḍḍessāmi, ubho sāṇasuttabhāraṃ ādāya gamissāmā’ti. "
 msgstr "Well then, my friend, let’s abandon our bundles of hemp, and both take a bundle of hemp thread and go on.’ "
 
-#. HTML: </p><p>
 # NOTE: The sunk cost fallacy!
+#. HTML: </p><p>
 msgctxt "dn23:29.13"
 msgid "‘Ayaṃ kho me, samma, sāṇabhāro dūrābhato ca susannaddho ca, alaṃ me, tvaṃ pajānāhī’ti. "
 msgstr "‘I’ve already carried this bundle of hemp a long way, and it’s well tied up. It’s good enough for me, you understand.’ "

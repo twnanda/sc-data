@@ -472,8 +472,8 @@ msgctxt "dn18:10.12"
 msgid "‘Dīgharattaṃ kho ahaṃ, bhante, avinipāto avinipātaṃ sañjānāmī’ti ca vadesi, ‘āsā ca pana me santiṭṭhati sakadāgāmitāyā’ti ca vadesi, kutonidānaṃ panāyasmā janavasabho yakkho evarūpaṃ uḷāraṃ visesādhigamaṃ sañjānātī”ti? "
 msgstr "“For a long time I’ve been aware that I won’t be reborn in the underworld” and also “But I still hope to become a once-returner.” But from what source do you know that you’ve achieved such a high distinction?’ "
 
-#. HTML: </p><p>
 # NOTE: Cp SN 2.24 where a similar phrase answers a similar question.
+#. HTML: </p><p>
 #. VAR: aññatra → aññattha (bj, pts1)
 #. REF: pts-cs11
 msgctxt "dn18:11.1"

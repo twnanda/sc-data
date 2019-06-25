@@ -305,9 +305,9 @@ msgctxt "pli-tv-bu-vb-pc25:3.1.10"
 msgid "Cīvaraṃ nāma"
 msgstr "Robe-cloth:"
 
-#. HTML: </span><span class="gloss">
 # NOTE: The six are linen, cotton, silk, wool, sunn hemp, and hemp; see [](Mv.8.3.1).
 # NOTE: This means not smaller than 8 by 4 standard (_sugata_) finger-breadths, or 16 by 8 cm; see [](Kkh.94.4) and BMC I, pp.565-566. 
+#. HTML: </span><span class="gloss">
 #. VAR: vikappanupagaṃ pacchimaṃ → vikap­pa­nupaga­pacchi­maṃ (pts1)
 msgctxt "pli-tv-bu-vb-pc25:3.1.11"
 msgid "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ vikappanupagaṃ pacchimaṃ."

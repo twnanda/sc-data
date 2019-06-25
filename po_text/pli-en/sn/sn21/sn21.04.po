@@ -24,8 +24,8 @@ msgctxt "sn21.4:1.1"
 msgid "Sāvatthiyaṃ viharati. "
 msgstr "At Sāvatthī. "
 
-#. HTML: </p><p>
 # NOTE: Saṅkasāyati is used only in this stock phrase, and in a slight variant at AN 2.39, and at Kd 3.1. BB translates as “keep”. The Dictionary is uncertain. At Kd 3.1 IBH has “prepare”, which is wrong. There, it is parallel with allīyati, “stick, cling, adhere”, and this surely is the meaning. In each case, it is not merely the case that the person “keeps” still, but that doing so goes against something. A monk “adheres” to silence when there is something they want to speak about, or they “stick to” one residence instead of wandering, or a turtle “makes themselves” stay still when a jackal comes hunting. Each case is slightly different, but the general sense is that the silence is a resistance against some force, there is a tension there.
+#. HTML: </p><p>
 msgctxt "sn21.4:1.2"
 msgid "Tena kho pana samayena aññataro navo bhikkhu pacchābhattaṃ piṇḍapātapaṭikkanto vihāraṃ pavisitvā appossukko tuṇhībhūto saṅkasāyati, na bhikkhūnaṃ veyyāvaccaṃ karoti cīvarakārasamaye. "
 msgstr "Now at that time a certain junior monk, after his meal, on his return from alms-round, entered his dwelling, where he adhered to passivity and silence. And he didn’t help the mendicants out when it was time to sew robes. "

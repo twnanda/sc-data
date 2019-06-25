@@ -23,8 +23,8 @@ msgctxt "mn22:1.2"
 msgid "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. "
 msgstr "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. "
 
-#. HTML: </p><p>
 # NOTE: Nyanamoli/BB follow comm. in saying “killer” of vultures, but this seems unjustified. √badh clearly means “trap” a monkey at SN 47.7. This term seems simple, but strangely enough only Chalmers gets this right. Other translators prefer “trainer”, which is very odd. There seems no support for this, despite the highly obscure reference to the Indika mentioned in the note to the Rhys Davids/Oldenberg Vinaya translation here. http://www.sacred-texts.com/bud/sbe17/sbe17142.htm they say “tormentor” is more literal, but this is wrong, as we have seen, “trapper” is perfectly literal. People trap animals all the time, I don’t know why this has caused any problems.
+#. HTML: </p><p>
 #. REF: nya2
 msgctxt "mn22:2.1"
 msgid "Tena kho pana samayena ariṭṭhassa nāma bhikkhuno gaddhabādhipubbassa evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ hoti: "

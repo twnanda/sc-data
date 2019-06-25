@@ -139,8 +139,8 @@ msgctxt "sn35.246:3.13"
 msgid "tameva purimaṃ daṇḍasamphassaṃ samanussaranto. "
 msgstr "remembering the beating they got earlier. "
 
-#. HTML: </p><p>
 # NOTE: See BB’s note on readings here.
+#. HTML: </p><p>
 msgctxt "sn35.246:3.14"
 msgid "Evameva kho, bhikkhave, yato kho bhikkhuno chasu phassāyatanesu cittaṃ udujitaṃ hoti sudujitaṃ, ajjhattameva santiṭṭhati, sannisīdati, ekodi hoti, samādhiyati. "
 msgstr "In the same way, when a mendicant’s mind is subdued, well subdued when it comes to the six fields of contact, becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. "
@@ -251,8 +251,8 @@ msgctxt "sn35.246:4.23"
 msgid "‘asatī kirāyaṃ, bho, vīṇā nāma, yathevaṃ yaṃ kiñci vīṇā nāma ettha ca panāyaṃ jano ativelaṃ pamatto palaḷito’ti. "
 msgstr "‘It seems that there’s nothing to this thing called an arched harp or whatever’s called an arched harp! But people waste their time with it, negligent and heedless!’ "
 
-#. HTML: </p><p>
 # NOTE: samanvesati is a rare term, and it is used in SN 4.23 and SN 22.87 to describe Mara looking in vain for the consciousness of an arahant after they’ve died. Given that gati is a normal term of “place where you get reborn”, I think it has the same meaning here. This also agrees with the simile, where the complete dismemberment of the vina suggests death, indeed parinbibbana. More literally, it would “as far as there is a place of rebirth for form …” The point is similar to the notion that it is only the aggregates that get reborn. The mendicant is searching all states of rebirth and finding only khandhas, just as the king searched the vina and found only parts.
+#. HTML: </p><p>
 #. VAR: samanvesati → samannesati (bj, s1-3, km) | samanesati (pts1)
 msgctxt "sn35.246:4.24"
 msgid "Evameva kho, bhikkhave, bhikkhu rūpaṃ samanvesati yāvatā rūpassa gati, vedanaṃ samanvesati yāvatā vedanāya gati, saññaṃ samanvesati yāvatā saññāya gati, saṅkhāre samanvesati yāvatā saṅkhārānaṃ gati, viññāṇaṃ samanvesati yāvatā viññāṇassa gati. "

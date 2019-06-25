@@ -23,8 +23,8 @@ msgctxt "mn57:1.2"
 msgid "ekaṃ samayaṃ bhagavā koliyesu viharati haliddavasanaṃ nāma koliyānaṃ nigamo. "
 msgstr "At one time the Buddha was staying in the land of the Koliyans, where they have a town named Haliddavasana. "
 
-#. HTML: </p><p>
 # NOTE: Note that while Seniya is said to be an acela, a naked ascetic, Punna is not; in fact, nowhere does it say he is an ascetic at all. Indeed, while examples of Seniya’s dog-behavior are given, such are lacking for Punna. Perhaps he observed his duty more in the omission than the commission. While it is likely he was an ascetic, we should probably avoid specifying this, lacking confirmation in the text.
+#. HTML: </p><p>
 #. REF: nya2
 #. VAR: palikujjitvā → paḷikujjitvā (bj) | palikuṇṭhitvā (s1-3, km) | paliguṇṭhitvā (mr)
 msgctxt "mn57:2.1"

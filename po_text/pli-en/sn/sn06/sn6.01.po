@@ -55,8 +55,8 @@ msgctxt "sn6.1:1.8"
 msgid "Ahañceva kho pana dhammaṃ deseyyaṃ; pare ca me na ājāneyyuṃ; so mamassa kilamatho, sā mamassa vihesā”ti. "
 msgstr "And if I were to teach this principle, others might not understand me, which would be wearying and troublesome for me.” "
 
-#. HTML: </p><p>
 # NOTE: https://discourse.suttacentral.net/t/a-note-on-anacchariya/3505
+#. HTML: </p><p>
 msgctxt "sn6.1:1.9"
 msgid "Apissu bhagavantaṃ imā anacchariyā gāthāyo paṭibhaṃsu pubbe assutapubbā: "
 msgstr "And then these verses, which were neither supernaturally inspired, nor learned before in the past, occurred to the Buddha: "

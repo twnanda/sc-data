@@ -23,8 +23,8 @@ msgctxt "an6.18:1.1"
 msgid "Ekaṃ samayaṃ bhagavā kosalesu cārikaṃ carati mahatā bhikkhusaṅghena saddhiṃ. "
 msgstr "At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of mendicants. "
 
-#. HTML: </p><p>
 # NOTE: Note the repetitive idiom macchika maccabandha, repeated below. Also note the syntax. BB has the more economical “killing fish and selling them”, but I think the repetitive vadhitva vadhitva is meant to emphasize the fact that he killed them himself.
+#. HTML: </p><p>
 msgctxt "an6.18:1.2"
 msgid "Addasā kho bhagavā addhānamaggappaṭipanno aññatarasmiṃ padese macchikaṃ macchabandhaṃ macche vadhitvā vadhitvā vikkiṇamānaṃ. "
 msgstr "While walking along the road he saw a fish dealer in a certain spot selling fish that he had killed himself. "

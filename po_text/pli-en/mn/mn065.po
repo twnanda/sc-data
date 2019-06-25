@@ -917,8 +917,8 @@ msgctxt "mn65:33.6"
 msgid "So abhiṇhakāraṇā anupubbakāraṇā tasmiṃ ṭhāne parinibbāyati. "
 msgstr "But with regular and gradual practice it quells that bad habit. "
 
-#. HTML: </p><p>
 # NOTE: Comm. says raja here refers to “kings of horses”, reflected in BB’s “kingly”. But surely it is more likely this refers to the protocols of court. Rajaguna occurs in Mil 5.1.4 where it is what distinguishes royal officials from ordinary ones.
+#. HTML: </p><p>
 #. VAR: davatte → ravatthe (si, s1, s2, km, pts1) | varatthe (s3)
 #. VAR: khurakāse → khurakāye (si, pts1)
 msgctxt "mn65:33.7"

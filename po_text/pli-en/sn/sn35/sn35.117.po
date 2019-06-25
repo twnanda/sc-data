@@ -47,8 +47,8 @@ msgctxt "sn35.117:1.6"
 msgid "Tasmātiha, bhikkhave, tumhākampi ye te pañca kāmaguṇā cetaso samphuṭṭhapubbā atītā niruddhā vipariṇatā, tatra vo attarūpehi appamādo sati cetaso ārakkho karaṇīyo. "
 msgstr "So in your own way you should practice diligence, mindfulness, and protecting the mind regarding the five kinds of sensual stimulation that I formerly experienced—which have passed, ceased, and perished. "
 
-#. HTML: </p><p>
 # NOTE: See BB’s notes on grammar and readings, which I follow.
+#. HTML: </p><p>
 msgctxt "sn35.117:1.7"
 msgid "Tasmātiha, bhikkhave, se āyatane veditabbe yattha cakkhu ca nirujjhati, rūpasaññā ca nirujjhati, se āyatane veditabbe … pe … "
 msgstr "So you should understand that dimension where the eye ceases and perception of sights fades away. "

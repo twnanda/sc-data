@@ -183,8 +183,8 @@ msgctxt "mn81:6.15"
 msgid "Kiṃ pana tena muṇḍakena samaṇakena diṭṭhenā’ti? "
 msgstr "What’s the use of seeing that baldy, that fake ascetic?’ "
 
-#. HTML: </p><p>
 # NOTE: See my note on AN 3.70.
+#. HTML: </p><p>
 #. VAR: ādāya → āhara (mr)
 #. VAR: sottisināniṃ → sottiṃ sināniṃ (bj, pts1) | sottisinānaṃ (s1-3, km, mr)
 msgctxt "mn81:6.16"

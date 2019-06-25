@@ -47,8 +47,8 @@ msgctxt "an8.58:1.6"
 msgid "āraññiko hoti pantasenāsano; "
 msgstr "They live in the wilderness, in remote lodgings. "
 
-#. HTML: </p><p>
 # NOTE: The related phrase at AN 10.71 has the expected aratirati in the second phrase, but it is not apparently found in manuscripts. I include it here on the assumption that it’s an old copyist’s error.
+#. HTML: </p><p>
 msgctxt "an8.58:1.7"
 msgid "aratiratisaho hoti, uppannaṃ aratiṃ abhibhuyya abhibhuyya viharati; "
 msgstr "They prevail over desire and discontent, and live having mastered desire and discontent whenever they arose. "

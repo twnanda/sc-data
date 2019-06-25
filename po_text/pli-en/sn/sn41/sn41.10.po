@@ -173,8 +173,8 @@ msgctxt "sn41.10:3.9"
 msgid "Yaṃ kho pana kiñci kule deyyadhammaṃ sabbaṃ taṃ appaṭivibhattaṃ bhavissati sīlavantehi kalyāṇadhammehīti evañhi vo sikkhitabban”ti. "
 msgstr "And we will share without reservation all the gifts available to give in our family with those who are ethical and of good character.” "
 
-#. HTML: </p><p>
 # NOTE: I don’t see why Ee’s reading should be adopted as per BB. pasadetva is not used in this sense, so far as I know, in the prose suttas.
+#. HTML: </p><p>
 msgctxt "sn41.10:3.10"
 msgid "Atha kho citto gahapati mittāmacce ñātisālohite buddhe ca dhamme ca saṅghe ca cāge ca samādapetvā kālamakāsīti. "
 msgstr "Then, after Citta had encouraged his friends and colleagues, relatives and family members in the Buddha, the teaching, the Saṅgha, and generosity, he passed away. "

@@ -23,8 +23,8 @@ msgctxt "sn21.8:1.1"
 msgid "Sāvatthiyaṃ viharati. "
 msgstr "At Sāvatthī. "
 
-#. HTML: </p><p>
 # NOTE: This is perhaps the clearest mention of northern black polished ware in the suttas. https://discourse.suttacentral.net/t/nanda-and-northern-black-polished-ware/2919
+#. HTML: </p><p>
 msgctxt "sn21.8:1.2"
 msgid "Atha kho āyasmā nando bhagavato mātucchāputto ākoṭitapaccākoṭitāni cīvarāni pārupitvā akkhīni añjetvā acchaṃ pattaṃ gahetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho āyasmantaṃ nandaṃ bhagavā etadavoca: "
 msgstr "Then Venerable Nanda—the Buddha’s cousin on his mother’s side—dressed in nicely pressed and ironed robes, applied eyeshadow, and took a polished black bowl. He went to the Buddha, bowed, and sat down to one side. The Buddha said to him: "

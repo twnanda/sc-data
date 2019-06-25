@@ -233,8 +233,8 @@ msgctxt "pli-tv-bu-vb-pc19:2.1.18"
 msgid ""
 msgstr "Cultivated plants"
 
-#. HTML: </span><span class="gloss">
 # NOTE: I have moved this last definition from the beginning of the paragraph to the end to make the translation clearer. 
+#. HTML: </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc19:2.1.19"
 msgid ""
 msgstr "vegetables and grains."

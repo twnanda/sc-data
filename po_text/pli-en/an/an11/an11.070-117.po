@@ -51,5 +51,4 @@ msgctxt "an11.70-117:5.7"
 msgid "dhammesu… "
 msgstr "thoughts …” "
 
-
 #. HTML: </p></article></section></body></html>

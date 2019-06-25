@@ -155,7 +155,6 @@ msgid "ekekalomo hoti, ekekāni lomāni lomakūpesu jātāni … "
 msgstr "His hairs grow one per pore. "
 
 #. VAR: kuṇḍalāvaṭṭāni → kuṇḍalāvattāni (bj, s1-3) | kuṇḍalavattāni (pts1)
-
 #. HTML: </p><p>
 msgctxt "dn30:1.2.17"
 msgid "uddhaggalomo hoti, uddhaggāni lomāni jātāni nīlāni añjanavaṇṇāni kuṇḍalāvaṭṭāni dakkhiṇāvaṭṭakajātāni … "
@@ -177,7 +176,6 @@ msgid "sīhapubbaddhakāyo hoti … "
 msgstr "His chest is like that of a lion. "
 
 #. VAR: citantaraṃso → pittantaraṃso (s1-3)
-
 #. HTML: </p><p>
 msgctxt "dn30:1.2.21"
 msgid "citantaraṃso hoti … "

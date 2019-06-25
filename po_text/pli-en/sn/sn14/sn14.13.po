@@ -46,8 +46,8 @@ msgctxt "sn14.13:2.1"
 msgid "“Dhātuṃ, bhikkhave, paṭicca uppajjati saññā, uppajjati diṭṭhi, uppajjati vitakko”ti. "
 msgstr "“Mendicants, an element gives rise to a perception, a view, and a thought.” "
 
-#. HTML: </p><p>
 # NOTE: Normally I follow BB in adopting naming variations, but the support for saddha kaccayana seems very slim. In addition to being used in Thai and Burmese editions, Kaccana is also found in the comm.
+#. HTML: </p><p>
 #. VAR: Evaṃ vutte, āyasmā kaccāno → saddho kaccāyano (pts1-2) | saddho kaccāno (mr)
 msgctxt "sn14.13:2.2"
 msgid "Evaṃ vutte, āyasmā kaccāno bhagavantaṃ etadavoca: "

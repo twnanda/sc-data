@@ -75,8 +75,8 @@ msgctxt "an8.52:2.8"
 msgid "yebhuyyena bhikkhunīnaṃ piyo hoti manāpo; "
 msgstr "They’re likable and agreeable to most of the nuns. "
 
-#. HTML: </p><p>
 # NOTE: The text says “fallen into a grave offence”. The grave offences are the sanghadisesas, and the relevant rules are 2-4, which deal with sexual harassment either verbally or physically. I think it’s important to make this clear. Also, the phrasing of this is odd in several ways. Why not use a more normal phrase for someone who has gone forth? Regardless, both Horner and Thanissaro mistranslate this. I follow BB’s construal of the grammar.
+#. HTML: </p><p>
 msgctxt "an8.52:2.9"
 msgid "na kho panetaṃ bhagavantaṃ uddissa pabbajitāya kāsāyavatthavasanāya garudhammaṃ ajjhāpannapubbo hoti; "
 msgstr "They have never previously sexually harassed any woman wearing the ocher robe who has gone forth in the Buddha’s name. "

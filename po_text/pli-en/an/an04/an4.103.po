@@ -27,8 +27,8 @@ msgctxt "an4.103:1.2"
 msgid "Katame cattāro? "
 msgstr "What four? "
 
-#. HTML: </p><ol>
 # NOTE: I’ve reversed the sequence of each pair so they match with the explanations.
+#. HTML: </p><ol>
 msgctxt "an4.103:1.3"
 msgid "Tuccho pihito, pūro vivaṭo, tuccho vivaṭo, pūro pihito—"
 msgstr "~Covered but hollow, ~uncovered but full, ~uncovered and hollow, and ~covered and full. "

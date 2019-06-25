@@ -45,8 +45,8 @@ msgctxt "an8.14:2.1"
 msgid "“Katame ca, bhikkhave, aṭṭha assakhaḷuṅkā aṭṭha ca assadosā? "
 msgstr "“And what, mendicants, are the eight wild colts and eight defects in horses? "
 
-#. HTML: </p><p>
 # NOTE: pehi is a special idiom used in exactly the same way as giddyup in English.
+#. HTML: </p><p>
 msgctxt "an8.14:2.2"
 msgid "Idha, bhikkhave, ekacco assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā pacchato paṭikkamati, piṭṭhito rathaṃ pavatteti. "
 msgstr "Firstly, when the trainer says ‘giddyup!’ and spurs and goads them on, some wild colts back right up and spin the chariot behind them. "

@@ -24,8 +24,8 @@ msgctxt "sn17.36:1.1"
 msgid "Rājagahe viharati veḷuvane kalandakanivāpe. "
 msgstr "Near Rājagaha, in the Bamboo Grove, the squirrels’ feeding ground. "
 
-#. HTML: </p><p>
 # NOTE: https://discourse.suttacentral.net/t/on-dishes-of-meals-kings-and-offerings/3970
+#. HTML: </p><p>
 msgctxt "sn17.36:1.2"
 msgid "Tena kho pana samayena devadattassa ajātasattukumāro pañcahi rathasatehi sāyaṃ pātaṃ upaṭṭhānaṃ gacchati, pañca ca thālipākasatāni bhattābhihāro abhiharīyati. "
 msgstr "Now at that time Prince Ajātasattu was going with five hundred carts in the morning and the evening to attend on Devadatta, presenting him with an offering of five hundred servings of food. "

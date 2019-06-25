@@ -23,8 +23,8 @@ msgctxt "sn3.13:1.1"
 msgid "Sāvatthinidānaṃ. "
 msgstr "At Sāvatthī. "
 
-#. HTML: </p><p>
 # NOTE: BB seems to have got “curries” from the comm.; I don’t think it’s justified by the text.
+#. HTML: </p><p>
 #. VAR: doṇapākakuraṃ → doṇapākaṃ sudaṃ (bj, pts1-2) | doṇapākasudaṃ (si, s1) | doṇapākasudhaṃ (s2, s3)
 msgctxt "sn3.13:1.2"
 msgid "Tena kho pana samayena rājā pasenadi kosalo doṇapākakuraṃ bhuñjati. "

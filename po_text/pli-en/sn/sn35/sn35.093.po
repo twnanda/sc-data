@@ -57,8 +57,8 @@ msgctxt "sn35.93:1.9"
 msgid "Aniccaṃ kho pana, bhikkhave, paccayaṃ paṭicca uppannaṃ cakkhuviññāṇaṃ kuto niccaṃ bhavissati. "
 msgstr "But since eye consciousness has arisen dependent on conditions that are impermanent, how could it be permanent? "
 
-#. HTML: </p><p>
 # NOTE: Compare the subtly different usage at MN 28
+#. HTML: </p><p>
 msgctxt "sn35.93:1.10"
 msgid "Yā kho, bhikkhave, imesaṃ tiṇṇaṃ dhammānaṃ saṅgati sannipāto samavāyo, ayaṃ vuccati cakkhusamphasso. "
 msgstr "The meeting, coming together, and joining together of these three things is called eye contact. "

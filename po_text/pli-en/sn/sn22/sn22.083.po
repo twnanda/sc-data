@@ -117,8 +117,8 @@ msgctxt "sn22.83:4.2"
 msgid "rūpaṃ niccaṃ vā aniccaṃ vā’ti? "
 msgstr "Is form permanent or impermanent?’ "
 
-#. HTML: </p><p>
 # NOTE: Note here the extreme equality in terms of address: even a newly ordained monk speaks like this to their teacher.
+#. HTML: </p><p>
 msgctxt "sn22.83:4.3"
 msgid "‘Aniccaṃ, āvuso’. "
 msgstr "‘Impermanent, reverend.’ "

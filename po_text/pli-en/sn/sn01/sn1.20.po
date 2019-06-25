@@ -37,8 +37,8 @@ msgctxt "sn1.20:1.4"
 msgid "Tapode gattāni parisiñcitvā paccuttaritvā ekacīvaro aṭṭhāsi gattāni pubbāpayamāno. "
 msgstr "When he had bathed and emerged from the water he stood in one robe drying himself. "
 
-#. HTML: </p><p>
 # NOTE: See BB’s note on gender here. While the comm, and the tenor of the text, suggest it is a female deity, Samiddhi uses avuso throughout, and I’m not sure that this can be used to a female.
+#. HTML: </p><p>
 msgctxt "sn1.20:1.5"
 msgid "Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ tapodaṃ obhāsetvā yena āyasmā samiddhi tenupasaṅkami; upasaṅkamitvā vehāsaṃ ṭhitā āyasmantaṃ samiddhiṃ gāthāya ajjhabhāsi: "
 msgstr "Then, late at night, a glorious deity, lighting up the entire hot springs, went up to Samiddhi, and, standing in the air, addressed him in verse: "

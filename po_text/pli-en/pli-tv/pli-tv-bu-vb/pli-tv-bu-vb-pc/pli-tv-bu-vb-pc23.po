@@ -332,8 +332,8 @@ msgctxt "pli-tv-bu-vb-pc23:3.1.16"
 msgid "Gilānā nāma"
 msgstr "A sick nun:"
 
-#. HTML: </span><span class="gloss">
 # NOTE: A formal meeting of the community,” _saṃvāsa_, is defined at _pācittiya_ 69, [](MS.2.1274), as the observance day ceremony, the invitation ceremony, or a procedure.
+#. HTML: </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc23:3.1.17"
 msgid "bhikkhunī na sakkoti ovādāya vā saṃvāsāya vā gantuṃ."
 msgstr "she is not able to go to the instruction or to a formal meeting of the community."

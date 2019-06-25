@@ -1034,8 +1034,8 @@ msgctxt "dn19:33.6"
 msgid "Sace bhavaṃ reṇu rajjaṃ labhetha, saṃvibhajetha no rajjenā”ti. "
 msgstr " "
 
-#. HTML: </p><p>
 # NOTE: Following PTS reading.
+#. HTML: </p><p>
 #. VAR: sukho bhavetha → sukha medhetha (bj) | sukhaṃ bhaveyyātha (s1-3, km) | sukha­medhey­yā­tha (pts1) | sukhā bhaveyyātha (mr)
 msgctxt "dn19:33.7"
 msgid "“Ko nu kho, bho, añño mama vijite sukho bhavetha, aññatra bhavantebhi? "

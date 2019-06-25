@@ -268,8 +268,8 @@ msgctxt "pli-tv-bu-vb-pc39:3.1.12"
 msgid "Maccho nāma"
 msgstr "Fish:"
 
-#. HTML: </span><span class="gloss">
 # NOTE: Here I follow the alternative reading _udakacaro_ found in the PTS version. MS has _udako_, which must be an editing mistake.
+#. HTML: </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc39:3.1.13"
 msgid "udako vuccati."
 msgstr "what lives in water is what is meant."

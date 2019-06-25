@@ -58,8 +58,8 @@ msgctxt "mn4:2.7"
 msgid "mama ca pana sā janatā diṭṭhānugatiṃ āpajjatī”ti. "
 msgstr " "
 
-#. HTML: </p><p>
 # NOTE: Note that BB renders this phrase differently here and at AN 10.99
+#. HTML: </p><p>
 msgctxt "mn4:2.8"
 msgid "“Durabhisambhavāni hi kho, bho gotama, araññavanapatthāni pantāni senāsanāni, dukkaraṃ pavivekaṃ, durabhiramaṃ "
 msgstr "“But Master Gotama, remote lodgings in the wilderness and the forest are challenging. It’s hard to maintain seclusion and hard to find joy in it. "

@@ -359,8 +359,8 @@ msgctxt "sn22.90:9.1"
 msgid "“Sammukhā metaṃ, āvuso channa, bhagavato sutaṃ, sammukhā paṭiggahitaṃ kaccānagottaṃ bhikkhuṃ ovadantassa—"
 msgstr "“Reverend Channa, I heard and learned in the presence of the Buddha his advice to the mendicant Kaccānagotta: "
 
-#. HTML: </p><p>
 # NOTE: MS omits quote marks. Don’t forget to adjust the nesting level.
+#. HTML: </p><p>
 msgctxt "sn22.90:9.2"
 msgid "dvayanissito khvāyaṃ, kaccāna, loko yebhuyyena atthitañceva natthitañca. "
 msgstr "‘Kaccāna, this world mostly relies on the dual notions of existence and non-existence. "

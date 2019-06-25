@@ -237,8 +237,8 @@ msgctxt "mn32:8.5"
 msgid "kathaṃrūpena, āvuso moggallāna, bhikkhunā gosiṅgasālavanaṃ sobheyyā’”ti? "
 msgstr " "
 
-#. HTML: </p><p>
 # NOTE: Despite BB’s note, there is no reason to think this passage refers to the “abhidhamma”. Note that in the second part of the passage it simply refers to dhammi katha, i.e. dhamma discussion. Here, as usual in the EBTs, abhidhamma means, not “higher Dhamma “but” about the teaching”.
+#. HTML: </p><p>
 #. VAR: saṃsādenti → saṃsārenti (mr)
 msgctxt "mn32:8.6"
 msgid "“Idhāvuso sāriputta, dve bhikkhū abhidhammakathaṃ kathenti, te aññamaññaṃ pañhaṃ pucchanti, aññamaññassa pañhaṃ puṭṭhā vissajjenti, no ca saṃsādenti, dhammī ca nesaṃ kathā pavattinī hoti. "

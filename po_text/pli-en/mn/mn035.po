@@ -23,8 +23,8 @@ msgctxt "mn35:1.2"
 msgid "ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ. "
 msgstr "At one time the Buddha was staying near Vesālī, at the Great Wood, in the hall with the peaked roof. "
 
-#. HTML: </p><p>
 # NOTE: This is the only use of niganthaputta. Comm says he was the son of Jain parents. From the ending of this sutta, we can see he was certainly not an ascetic, so we shouldn’t translate as “nigantha” (as per Thanissaro). On the other hand, “Nigantha’s son” (BB) is vague and liable to be misread as Mahavira’s son, or as a follower of the Jains. However, from MN 36, where Saccaka speaks critically of Mahavira and other ascetics, it is clear he is not himself a Jain. This is an interesting social example showing the fluidity of religious identity at the time. In any case, it is best to make the rendering explicit.
+#. HTML: </p><p>
 #. REF: nya2
 msgctxt "mn35:2.1"
 msgid "Tena kho pana samayena saccako nigaṇṭhaputto vesāliyaṃ paṭivasati bhassappavādako paṇḍitavādo sādhusammato bahujanassa. "

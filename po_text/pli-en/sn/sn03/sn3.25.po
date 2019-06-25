@@ -159,8 +159,8 @@ msgctxt "sn3.25:4.12"
 msgid "Tesampi, bhante, mantayuddhānaṃ natthi gati natthi visayo adhivattamāne jarāmaraṇe. "
 msgstr "But there is no place, no scope for such diplomatic battles when old age and death are advancing. "
 
-#. HTML: </p><p>
 # NOTE: bhumigata and vehasattha are stock in this phrase. they’re explained in Pj2 as “underground” (assuming that bhumigata and bhumatta are synonyms) and “above the ground”.
+#. HTML: </p><p>
 msgctxt "sn3.25:4.13"
 msgid "Saṃvijjati kho pana, bhante, imasmiṃ rājakule pahūtaṃ hiraññasuvaṇṇaṃ bhūmigatañceva vehāsaṭṭhañca, yena mayaṃ pahoma āgate paccatthike dhanena upalāpetuṃ. "
 msgstr "In this royal court there is abundant gold coin and bullion stored in dungeons and towers. Using this wealth we can pay off an approaching enemy. "

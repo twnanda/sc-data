@@ -23,8 +23,8 @@ msgctxt "sn2.25:1.1"
 msgid "Evaṃ me sutaṃ—"
 msgstr "So I have heard. "
 
-#. HTML: </span></p><p>
 # NOTE: Surely the fact that several mendicants are staying there suggests that kutika doesn’t mean “little” hut?
+#. HTML: </span></p><p>
 msgctxt "sn2.25:1.2"
 msgid "ekaṃ samayaṃ sambahulā bhikkhū, kosalesu viharanti himavantapasse araññakuṭikāya uddhatā unnaḷā capalā mukharā vikiṇṇavācā muṭṭhassatino asampajānā asamāhitā vibbhantacittā pākatindriyā. "
 msgstr "Now at that time several mendicants were staying in the Kosalan lands, in a wilderness hut on the slopes of the Himalayas. They were restless, insolent, fickle, gossipy, loose-tongued, unmindful, lacking situational awareness and immersion, with straying minds and undisciplined faculties. "

@@ -383,8 +383,8 @@ msgctxt "mn37:14.1"
 msgid "Atha kho āyasmā mahāmoggallāno sakkassa devānamindassa bhāsitaṃ abhinanditvā anumoditvā—seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya, pasāritaṃ vā bāhaṃ samiñjeyya; evameva—devesu tāvatiṃsesu antarahito pubbārāme migāramātupāsāde pāturahosi. "
 msgstr "Moggallāna approved and agreed with what Sakka said. As easily as a strong person would extend or contract their arm, he vanished from among the Gods of the Thirty-Three and reappeared in the Eastern Monastery. "
 
-#. HTML: </p><p>
 # NOTE: BB has “attendants”, but it is feminine plural nominative, as previously.
+#. HTML: </p><p>
 msgctxt "mn37:14.2"
 msgid "Atha kho sakkassa devānamindassa paricārikāyo acirapakkante āyasmante mahāmoggallāne sakkaṃ devānamindaṃ etadavocuṃ: "
 msgstr "Soon after Moggallāna left, Sakka’s maids said to him, "

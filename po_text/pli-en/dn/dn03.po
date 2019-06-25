@@ -796,20 +796,20 @@ msgctxt "dn3:1.23.15"
 msgid "‘Sotthi bhavissati rañño, sotthi janapadassa, api ca rājā yadi uddhaṃ khurappaṃ muñcissati, yāvatā rañño vijitaṃ, ettāvatā satta vassāni devo na vassissatī’ti. "
 msgstr "‘Both king and country will be safe. But if he shoots the arrow upwards, there will be no rain in the entire realm for seven years.’ "
 
-#. HTML: </p><p>
 # NOTE: This is obviously an origin story for this prayer.
+#. HTML: </p><p>
 msgctxt "dn3:1.23.16"
 msgid "‘Sotthi, bhaddante, hotu rañño sotthi janapadassa devo ca vassatū’ti. "
 msgstr "‘Spare the king, sir, spare the country, and let there be rain!’ "
 
-#. HTML: </p><p>
 # NOTE: National prosperity through fake regicide. How did Frazer miss this?
+#. HTML: </p><p>
 msgctxt "dn3:1.23.17"
 msgid "‘Sotthi bhavissati rañño sotthi janapadassa devo ca vassissati, api ca rājā jeṭṭhakumāre khurappaṃ patiṭṭhāpetu, sotthi kumāro pallomo bhavissatī’ti. "
 msgstr "‘Both king and country will be safe, and the rain will fall. And if the king aims the arrow at the crown prince, he will be safe and untouched.’ "
 
-#. HTML: </p><p>
 # NOTE: The use of the bare personal name for the king is highly unusual, and not capture by either RD or MW.
+#. HTML: </p><p>
 msgctxt "dn3:1.23.18"
 msgid "Atha kho, māṇavakā, amaccā okkākassa ārocesuṃ: "
 msgstr "So the ministers said to Okkāka: "
@@ -828,8 +828,8 @@ msgctxt "dn3:1.23.21"
 msgid "Atha kho tassa rājā okkāko bhīto saṃviggo lomahaṭṭhajāto brahmadaṇḍena tajjito maddarūpiṃ dhītaraṃ adāsi. "
 msgstr "Then the king was terrified, shocked, and awestruck. Scared by the prime punishment, he gave the hand of his daughter Maddarūpī. "
 
-#. HTML: </p><p>
 # NOTE: So threatening the king and forcing an unwanted marriage is a sign of eminence?
+#. HTML: </p><p>
 msgctxt "dn3:1.23.22"
 msgid "Mā kho tumhe, māṇavakā, ambaṭṭhaṃ māṇavaṃ atibāḷhaṃ dāsiputtavādena nimmādetha, uḷāro so kaṇho isi ahosī”ti. "
 msgstr "Students, please don’t put Ambaṭṭha down too much by calling him the son of a bondservant. That Black Boy was an eminent sage.” "

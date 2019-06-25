@@ -131,6 +131,7 @@ msgstr "the Buddha consented in silence. "
 msgctxt "dn12:6.1"
 msgid "Atha kho rosikā nhāpito bhagavato adhivāsanaṃ viditvā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā yena lohicco brāhmaṇo tenupasaṅkami; upasaṅkamitvā lohiccaṃ brāhmaṇaṃ etadavoca: "
 msgstr "Then, knowing that the Buddha had consented, Rosika got up from his seat, went to Lohicca, and said to him, "
+
 #. VAR: mayaṃ bhoto → mayaṃ bhante tava (bj, pts1)
 #. VAR: avocumhā kho → avocumha bho (pts1)
 msgctxt "dn12:6.2"

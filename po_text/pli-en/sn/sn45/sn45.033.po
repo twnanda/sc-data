@@ -23,8 +23,8 @@ msgctxt "sn45.33:1.1"
 msgid "Sāvatthinidānaṃ. "
 msgstr "At Sāvatthī. "
 
-#. HTML: </p><p>
 # NOTE: Following BB’s suggestion on readings.
+#. HTML: </p><p>
 msgctxt "sn45.33:1.2"
 msgid "“Yesaṃ kesañci, bhikkhave, ariyo aṭṭhaṅgiko maggo viraddho, viraddho tesaṃ ariyo aṭṭhaṅgiko maggo sammā dukkhakkhayagāmī. "
 msgstr "“Mendicants, whoever has missed out on the noble eightfold path has missed out on the noble path to the complete ending of suffering. "

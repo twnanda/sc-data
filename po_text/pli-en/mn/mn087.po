@@ -182,8 +182,8 @@ msgctxt "mn87:4.19"
 msgid "Atha kho so gahapati “sameti me akkhadhuttehī”ti pakkāmi. "
 msgstr "Thinking, “The gamblers and I are in agreement,” the householder left. "
 
-#. HTML: </p><p>
 # NOTE: Also a scene for gossip in AN 3.60, AN 10.45
+#. HTML: </p><p>
 #. REF: nya5
 msgctxt "mn87:5.1"
 msgid "Atha kho idaṃ kathāvatthu anupubbena rājantepuraṃ pāvisi. "

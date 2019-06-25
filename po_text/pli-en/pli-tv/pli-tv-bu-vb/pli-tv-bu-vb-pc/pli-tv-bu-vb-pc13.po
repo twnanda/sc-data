@@ -204,8 +204,8 @@ msgctxt "pli-tv-bu-vb-pc13:3.1.1"
 msgid "Ujjhāpanakaṃ nāma"
 msgstr "Complaining:"
 
-#. HTML: </span><span class="gloss">
 # NOTE: _Khajjaka_. According to [](Sp.4.893.16) (commenting on the _sekhiya_ rules) this refers to all non-staple foods: _ettha mūlakhādanīyādi sabbaṃ gahetabbaṃ_, “Here the non-staple foods which are roots, etc., may all be taken.”
+#. HTML: </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc13:3.1.2"
 msgid "upasampannaṃ saṃghena sammataṃ senāsanapaññāpakaṃ vā bhattuddesakaṃ vā yāgubhājakaṃ vā phalabhājakaṃ vā khajjabhājakaṃ vā appamattakavissajjakaṃ vā avaṇṇaṃ kattukāmo, ayasaṃ kattukāmo, maṅkukattukāmo, upasampannaṃ ujjhāpeti vā khiyyati vā, āpatti pācittiyassa."
 msgstr "when someone who is fully ordained is the assigner of dwellings or the designator of meals or the distributor of rice-porridge or the distributor of fruit or the distributor of non-staple food or the distributor of small requisites, and he has been agreed upon by the Order as such, then if a monk complains about him or denounces him to one who is fully ordained—desiring to disparage him, desiring to give him a bad reputation, desiring to humiliate him—he commits an offense entailing confession."

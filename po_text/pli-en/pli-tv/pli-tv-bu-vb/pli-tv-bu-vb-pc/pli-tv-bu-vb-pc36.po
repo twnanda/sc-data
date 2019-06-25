@@ -109,8 +109,8 @@ msgctxt "pli-tv-bu-vb-pc36:1.17"
 msgid "“tvampi nāma, āvuso, maṃ vattabbaṃ maññasi yaṃ tvaṃ bhuttāvī pavārito anatirittaṃ bhojanaṃ bhuñjasī”ti."
 msgstr "“Who are you to correct me when you eat food that’s not leftover after having finished your meal and expressed your satisfaction?”"
 
-#. HTML: </p><p>
 # NOTE: That is, why did he not say that the food was not leftover.
+#. HTML: </p><p>
 msgctxt "pli-tv-bu-vb-pc36:1.18"
 msgid "“Nanu, āvuso, ācikkhitabban”ti."
 msgstr "“Shouldn’t you have told me?”"
@@ -326,8 +326,8 @@ msgctxt "pli-tv-bu-vb-pc36:2.1.29"
 msgid "Jānāti nāma"
 msgstr "He knows:"
 
-#. HTML: </span><span class="gloss">
 # NOTE: The last of these three ways of knowing presumably refers to the other monk having told him directly. See discussion in note to Relinquishment 30, [](MS.1.2425).
+#. HTML: </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc36:2.1.30"
 msgid "sāmaṃ vā jānāti, aññe vā tassa ārocenti, so vā āroceti."
 msgstr "he knows by himself or others have told him or the monk has told him."

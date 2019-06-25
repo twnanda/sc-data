@@ -61,8 +61,8 @@ msgctxt "an3.39:2.2"
 msgid "So kho ahaṃ, bhikkhave, vassike pāsāde vassike cattāro māse nippurisehi tūriyehi paricārayamāno na heṭṭhāpāsādaṃ orohāmi. "
 msgstr "I stayed in a stilt longhouse without coming downstairs for the four months of the rainy season, where I was entertained by musicians—none of them men. "
 
-#. HTML: </p><p>
 # NOTE: bilanga is transl. as “sour gruel”, but why would you eat gruel with porridge, which, in fact, is just gruel. PTS dict. suggests Skt vidanga and vilanga, both of which are bitter medicial plants. It’s common today to eat gruel with pickle, and so I translate it. Concise dict has “vinegar”, which also fits.
+#. HTML: </p><p>
 #. VAR: nivesane → nivesanesu (bj, s1-3, pts1)
 msgctxt "an3.39:2.3"
 msgid "Yathā kho pana, bhikkhave, aññesaṃ nivesane dāsakammakaraporisassa kaṇājakaṃ bhojanaṃ dīyati bilaṅgadutiyaṃ, evamevassu me, bhikkhave, pitu nivesane dāsakammakaraporisassa sālimaṃsodano dīyati. "

@@ -18,8 +18,8 @@ msgctxt "dn21:1.1.1"
 msgid "Evaṃ me sutaṃ—"
 msgstr "So I have heard. "
 
-#. HTML: </span>
 # NOTE: Comm says the sala = sal tree. RD dismisses the Sanskritization as śaila. Note, however, that the subsequent publication of Skt fragments by Waldschmidt confirms this reading: chailaguhāyām at https://suttacentral.net/skt/sf241.
+#. HTML: </span>
 msgctxt "dn21:1.1.2"
 msgid "ekaṃ samayaṃ bhagavā magadhesu viharati, pācīnato rājagahassa ambasaṇḍā nāma brāhmaṇagāmo, tassuttarato vediyake pabbate indasālaguhāyaṃ. "
 msgstr "At one time the Buddha was staying in the land of the Magadhans; east of Rājagaha there’s a brahmin village named Ambasaṇḍā, north of which, on Mount Vediyaka, is the Indasāla cave. "
@@ -88,8 +88,8 @@ msgctxt "dn21:1.2.6"
 msgid "seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya pasāritaṃ vā bāhaṃ samiñjeyya; evameva—devesu tāvatiṃsesu antarahito magadhesu pācīnato rājagahassa ambasaṇḍā nāma brāhmaṇagāmo, tassuttarato vediyake pabbate paccuṭṭhāsi. "
 msgstr "As easily as a strong person would extend or contract their arm, he vanished from the heaven of the gods of the Thirty-Three and landed on Mount Vediyaka north of Ambasaṇḍā. "
 
-#. HTML: </p><p>
 # NOTE: This phrase contrasts with atikkammeva devānaṃ devānubhāvaṃ
+#. HTML: </p><p>
 #. REF: pts-cs1.3
 msgctxt "dn21:1.3.1"
 msgid "Tena kho pana samayena vediyako pabbato atiriva obhāsajāto hoti ambasaṇḍā ca brāhmaṇagāmo yathā taṃ devānaṃ devānubhāvena. "
@@ -800,8 +800,8 @@ msgctxt "dn21:1.11.18"
 msgid "Duddiṭṭharūpaṃ vata bho addasāma, ye mayaṃ addasāma sahadhammike hīnaṃ gandhabbakāyaṃ upapanne’ti. "
 msgstr " "
 
-#. HTML: </p><p>
 # NOTE: It seems that the patilabhimsu must serve duty for the two phrases, an unusual construction in prose. Either that or a verb for rebirth has been omitted. Comm: "Tattha diṭṭheva dhammeti tasmiññeva attabhāve jhānasatiṃ paṭilabhiṃsu. Tattheva ṭhatvā cutā pana kāyaṃ brahmapurohitaṃ brahmapurohitasarīraṃ paṭilabhiṃsūti evamattho daṭṭhabbo."
+#. HTML: </p><p>
 msgctxt "dn21:1.11.19"
 msgid "Tesaṃ, bhante, gopakena devaputtena paṭicoditānaṃ dve devā diṭṭheva dhamme satiṃ paṭilabhiṃsu kāyaṃ brahmapurohitaṃ, eko pana devo kāme ajjhāvasi. "
 msgstr "When scolded by Gopaka, two of those gods in that very life gained mindfulness leading to the host of Brahmā’s Ministers. But one god remained attached to sensuality. "

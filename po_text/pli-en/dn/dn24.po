@@ -496,8 +496,8 @@ msgctxt "dn24:1.7.17"
 msgid "Mā te ahosi dīgharattaṃ ahitāya dukkhāya. "
 msgstr "Don’t create lasting harm and suffering for yourself! "
 
-#. HTML: </p><p>
 # NOTE: Comm: “Alasakenāti alasakabyādhinā” Tika: “Alasakenāti ajīraṇena āmarogena.”, CPD tympanitis, Cone: flatulence.
+#. HTML: </p><p>
 msgctxt "dn24:1.7.18"
 msgid "Yaṃ kho panetaṃ, sunakkhatta, maññasi acelaṃ korakkhattiyaṃ—sādhurūpo ayaṃ samaṇoti. So sattamaṃ divasaṃ alasakena kālaṃ karissati. "
 msgstr "That naked ascetic Korakkhattiya, who you imagine to be a true holy man, will die of flatulence in seven days. "
@@ -599,8 +599,8 @@ msgctxt "dn24:1.9.4"
 msgid "‘jānāsi, āvuso korakkhattiya, attano gatin’ti? "
 msgstr "‘Reverend Korakkhattiya, do you know your destiny?’ "
 
-#. HTML: </p><p>
 # NOTE: Cp Pj 1, Sudinna: pāṇinā gattāni paripuñchanto vuṭṭhāsi.
+#. HTML: </p><p>
 msgctxt "dn24:1.9.5"
 msgid "Atha kho, bhaggava, acelo korakkhattiyo pāṇinā piṭṭhiṃ paripuñchanto vuṭṭhāsi. "
 msgstr "Then Korakkhattiya got up, rubbing his back with his hands, and said, "

@@ -705,5 +705,6 @@ msgstr "Satisfied, the mendicants were happy with what the Buddha said. "
 #. HTML: </p><p class="endsection">
 msgctxt "mn13:38.5"
 msgid "Mahādukkhakkhandhasuttaṃ niṭṭhitaṃ tatiyaṃ. "
+msgstr ""
 
 #. HTML: </p></article></section></body></html>

@@ -60,8 +60,8 @@ msgctxt "sn41.2:2.3"
 msgid "Kittāvatā nu kho, bhante, dhātunānattaṃ vuttaṃ bhagavatā”ti? "
 msgstr "In what way did the Buddha speak of the diversity of elements?” "
 
-#. HTML: </p><p>
 # NOTE: An unusual idiom.
+#. HTML: </p><p>
 msgctxt "sn41.2:2.4"
 msgid "Evaṃ vutte, āyasmā thero tuṇhī ahosi. "
 msgstr "When he said this, the senior venerable kept silent. "

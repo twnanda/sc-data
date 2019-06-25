@@ -64,7 +64,7 @@ msgid "Atha kho sāleyyakā brāhmaṇagahapatikā yena bhagavā tenupasaṅkami
 msgstr "Then the brahmins and householders of Sālā went up to the Buddha. Before sitting down to one side, some bowed, some exchanged greetings and polite conversation, some held up their joined palms toward the Buddha, some announced their name and clan, while some kept silent. Seated to one side they said to the Buddha: "
 
 #. HTML: </p><p>
-	#. REF: nya4
+#. REF: nya4
 msgctxt "mn41:3.2"
 msgid "“ko nu kho, bho gotama, hetu, ko paccayo, yena m’idhekacce sattā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjanti? "
 msgstr "“What is the cause, Master Gotama, what is the reason why some sentient beings, when their body breaks up, after death, are reborn in a place of loss, a bad place, the underworld, hell? "

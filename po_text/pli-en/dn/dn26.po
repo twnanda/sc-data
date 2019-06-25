@@ -238,8 +238,8 @@ msgctxt "dn26:5.1"
 msgid "‘Katamaṃ pana taṃ, deva, ariyaṃ cakkavattivattan’ti? "
 msgstr "‘But sire, what are the noble duties of a wheel-turning monarch?’ "
 
-#. HTML: </p><p>
 # NOTE: saṃvidahassu is second middle imperative
+#. HTML: </p><p>
 #. VAR: anuyantesu → anuyuttesu (bj, pts1)
 #. VAR: garuṃ karonto → garukaronto (bj, s1-3, pts1)
 msgctxt "dn26:5.2"
@@ -256,8 +256,8 @@ msgctxt "dn26:5.4"
 msgid "Ye ca te, tāta, vijite adhanā assu, tesañca dhanamanuppadeyyāsi. "
 msgstr "Pay money to the penniless in the realm. "
 
-#. HTML: </p><p>
 # NOTE: Where this idiom occurs elsewhere, it is inevitably with paripucchati paripañhati. PTS here omits the second verb. Comm is silent. Generally the suttas are very precise about the sequence of learning: first you ask, then you listen, then you learn. Most likely this is a mistake here.
+#. HTML: </p><p>
 msgctxt "dn26:5.5"
 msgid "Ye ca te, tāta, vijite samaṇabrāhmaṇā madappamādā paṭiviratā khantisoracce niviṭṭhā ekamattānaṃ damenti, ekamattānaṃ samenti, ekamattānaṃ parinibbāpenti, te kālena kālaṃ upasaṅkamitvā paripuccheyyāsi pariggaṇheyyāsi: "
 msgstr "And there are ascetics and brahmins in the realm who avoid intoxication and negligence, are settled in patience and gentleness, and who tame, calm, and extinguish themselves. From time to time you should go up to them and ask: "
@@ -1177,8 +1177,8 @@ msgctxt "dn26:21.7"
 msgid "Te tiṇagahanaṃ vā vanagahanaṃ vā rukkhagahanaṃ vā nadīviduggaṃ vā pabbatavisamaṃ vā pavisitvā sattāhaṃ vanamūlaphalāhārā yāpessanti. "
 msgstr "So that’s what they do. "
 
-#. HTML: </p><p>
 # NOTE: According to Cone (gāyati), sabhāgāyissanti is correct and PTS sabhā gāyissanti incorrect. Sabhāgāyissanti = sabhāga + āyissanti = will come together. samassāsissanti = sama + sāsati is absent from some manuscripts and is not commented on; I think it’s dubious.
+#. HTML: </p><p>
 msgctxt "dn26:21.8"
 msgid "Te tassa sattāhassa accayena tiṇagahanā vanagahanā rukkhagahanā nadīviduggā pabbatavisamā nikkhamitvā aññamaññaṃ āliṅgitvā sabhāgāyissanti samassāsissanti: "
 msgstr "When those seven days have passed, having emerged from their hiding places and embraced each other, they will come together in one voice and cry, "

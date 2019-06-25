@@ -47,8 +47,8 @@ msgctxt "mn23:2.3"
 msgid "‘abhikkhaṇa, sumedha, satthaṃ ādāyā’ti. "
 msgstr "‘Take up the sword and dig, O sage!’ "
 
-#. HTML: </p><p>
 # NOTE: langi is uncertain; the primary sense seems to be ’sticking point".
+#. HTML: </p><p>
 msgctxt "mn23:2.4"
 msgid "Abhikkhaṇanto sumedho satthaṃ ādāya addasa laṅgiṃ "
 msgstr "Taking up the sword and digging, the sage saw a bar: "
@@ -111,8 +111,8 @@ msgctxt "mn23:2.18"
 msgid "abhikkhaṇa, sumedha, satthaṃ ādāyā’ti. "
 msgstr "Take up the sword and dig, O sage!’ "
 
-#. HTML: </p><p>
 # NOTE: cangavara is uncertain. But the pun below evidently connects vara with nivarana, so the sense of “box” fits better with “hindrance” than does “sieve”.
+#. HTML: </p><p>
 #. VAR: caṅgavāraṃ → paṅkavāraṃ (s1-3) | caṅkavāraṃ (mr)
 msgctxt "mn23:2.19"
 msgid "Abhikkhaṇanto sumedho satthaṃ ādāya addasa caṅgavāraṃ. "

@@ -37,8 +37,8 @@ msgctxt "sn37.3:1.4"
 msgid "Idaṃ, bhikkhave, mātugāmassa paṭhamaṃ āveṇikaṃ dukkhaṃ, yaṃ mātugāmo paccanubhoti, aññatreva purisehi. "
 msgstr "This is the first kind of suffering that particularly applies to females. "
 
-#. HTML: </p><p>
 # NOTE: See https://discourse.suttacentral.net/t/menstruation-and-fertility-in-the-pali-texts/3042
+#. HTML: </p><p>
 msgctxt "sn37.3:1.5"
 msgid "Puna caparaṃ, bhikkhave, mātugāmo utunī hoti. "
 msgstr "Furthermore, a female undergoes the menstrual cycle. "

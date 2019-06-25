@@ -23,8 +23,8 @@ msgctxt "sn35.133:1.1"
 msgid "Ekaṃ samayaṃ āyasmā udāyī kāmaṇḍāyaṃ viharati todeyyassa brāhmaṇassa ambavane. "
 msgstr "At one time Venerable Udāyī was staying near Kāmaṇḍā in the brahmin Todeyya’s mango grove. "
 
-#. HTML: </p><p>
 # NOTE: A brahmin woman with a student? Wow, is this unique?
+#. HTML: </p><p>
 msgctxt "sn35.133:1.2"
 msgid "Atha kho verahaccānigottāya brāhmaṇiyā antevāsī māṇavako yenāyasmā udāyī tenupasaṅkami; upasaṅkamitvā āyasmatā udāyinā saddhiṃ sammodi. "
 msgstr "Then a boy who was a student of the brahmin lady of the Verahaccāni clan went up to Udāyī and exchanged greetings with him. "

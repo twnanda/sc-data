@@ -48,8 +48,8 @@ msgctxt "an8.54:2.2"
 msgid "Katame cattāro? "
 msgstr "What four? "
 
-#. HTML: </p><p>
 # NOTE: The context makes it plain what samajivita means. BB has “balanced living”, which to me sound life “work/life balance” or something like that.
+#. HTML: </p><p>
 #. VAR: samajīvitā → samajīvikatā (bj)
 msgctxt "an8.54:2.3"
 msgid "Uṭṭhānasampadā, ārakkhasampadā, kalyāṇamittatā, samajīvitā. "

@@ -18,8 +18,8 @@ msgctxt "mn55:1.1"
 msgid "Evaṃ me sutaṃ—"
 msgstr "So I have heard. "
 
-#. HTML: </span>
 # NOTE: the name Komarabhacca is explained by the commentaries as “raised by a prince”, in line with its clearly mythological birth story. Perhaps it means, rather, “sponsored by a prince”, i.e. the royal physician.
+#. HTML: </span>
 msgctxt "mn55:1.2"
 msgid "ekaṃ samayaṃ bhagavā rājagahe viharati jīvakassa komārabhaccassa ambavane. "
 msgstr "At one time the Buddha was staying near Rājagaha in the Mango Grove of Jīvaka Komārabhacca. "

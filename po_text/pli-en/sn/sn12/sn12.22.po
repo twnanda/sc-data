@@ -28,8 +28,8 @@ msgctxt "sn12.22:1.2"
 msgid "“Dasabalasamannāgato, bhikkhave, tathāgato catūhi ca vesārajjehi samannāgato āsabhaṃ ṭhānaṃ paṭijānāti, parisāsu sīhanādaṃ nadati, brahmacakkaṃ pavatteti: "
 msgstr "“Mendicants, a Realized One has ten powers and four kinds of self-assurance. With these he claims the bull’s place, roars his lion’s roar in the assemblies, and turns the holy wheel. "
 
-#. HTML: </p><p>
 # NOTE: Note how MS attempts to make sense of this sutta by inserting punctuation; a colon or an em-dash after the initial statement. Now, unlike the previous, it inserts quotes here, suggesting that this passage is meant to be a quote; but the quote is closed below on “nirodho hoti”, and there is no ’ti, so this is unjustified.
+#. HTML: </p><p>
 msgctxt "sn12.22:1.3"
 msgid "‘iti rūpaṃ iti rūpassa samudayo iti rūpassa atthaṅgamo, "
 msgstr "Such is form, such is the origin of form, such is the ending of form. "

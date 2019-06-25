@@ -1552,8 +1552,8 @@ msgctxt "mn38:26.4"
 msgid "Yato ca kho, bhikkhave, mātāpitaro ca sannipatitā honti, mātā ca utunī hoti, gandhabbo ca paccupaṭṭhito hoti—evaṃ tiṇṇaṃ sannipātā gabbhassāvakkanti hoti. "
 msgstr "But when these three things come together—the mother and father come together, the mother is in the fertile part of her menstrual cycle, and the spirit being reborn is present—an embryo is conceived. "
 
-#. HTML: </p><p>
 # NOTE: This use of samsaya is unusual. Comm says “Saṃsayenāti ‘‘arogo nu kho bhavissāmi ahaṃ vā, putto vā me’’ti evaṃ mahantena jīvitasaṃsayena” For jivitasamsaya and pranasamsaya, Skt has “risk to life”. The term appears at Bi Pc 61, where garubhara is an adjective (garubhārā ayyā = the lady is heavy with child). Nowhere, apparently, is the term glossed in the comm. This passage is also missing in Cone and PTS dict, though perhaps they do not treat it as a compound.
+#. HTML: </p><p>
 #. REF: nya27
 #. VAR: garubhāraṃ → garumbhāraṃ (bj, pts1)
 msgctxt "mn38:27.1"
@@ -2058,8 +2058,8 @@ msgctxt "mn38:41.10"
 msgid "Evametassa kevalassa dukkhakkhandhassa nirodho hoti. "
 msgstr "That is how this entire mass of suffering ceases. "
 
-#. HTML: </p><p>
 # NOTE: Given that it occurs quite a few times, I take the phrase sankhittena tanhasankhayavimutti as an idiom referring to the brief statement made at the beginning, as also in MN 37.
+#. HTML: </p><p>
 msgctxt "mn38:41.11"
 msgid "Imaṃ kho me tumhe, bhikkhave, saṅkhittena taṇhāsaṅkhayavimuttiṃ dhāretha, sātiṃ pana bhikkhuṃ kevaṭṭaputtaṃ mahātaṇhājālataṇhāsaṅghāṭappaṭimukkan”ti. "
 msgstr "Mendicants, you should memorize that brief statement on freedom through the ending of craving. But the mendicant Sāti, the fisherman’s son, is caught in a vast net of craving, a tangle of craving.” "

@@ -52,8 +52,8 @@ msgctxt "an5.40:1.8"
 msgid "Himavantaṃ, bhikkhave, pabbatarājaṃ nissāya mahāsālā imāhi pañcahi vaḍḍhīhi vaḍḍhanti. "
 msgstr "Great sal trees grow in these five ways supported by the Himalayas, the king of mountains. "
 
-#. HTML: </p><p>
 # NOTE: Adopting the reading kulapati, see BB and parallel at AN 3.48.
+#. HTML: </p><p>
 msgctxt "an5.40:1.9"
 msgid "Evamevaṃ kho, bhikkhave, saddhaṃ kulaputtaṃ nissāya antojano pañcahi vaḍḍhīhi vaḍḍhati. "
 msgstr "In the same way, a family grows in five ways supported by a family head with faith. "

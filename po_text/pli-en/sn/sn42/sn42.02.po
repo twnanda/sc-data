@@ -180,8 +180,8 @@ msgctxt "sn42.2:3.6"
 msgid "‘yo so naṭo raṅgamajjhe samajjamajjhe saccālikena janaṃ hāseti rameti so kāyassa bhedā paraṃ maraṇā pahāsānaṃ devānaṃ sahabyataṃ upapajjatī’”ti. "
 msgstr "‘Suppose a dancer entertains and amuses people on a stage or at a festival with truth and lies. When their body breaks up, after death, they’re reborn in the company of laughing gods.’ "
 
-#. HTML: </p><p>
 # NOTE: punctuation incorrect
+#. HTML: </p><p>
 msgctxt "sn42.2:3.7"
 msgid "“Abhikkantaṃ, bhante, abhikkantaṃ, bhante. "
 msgstr "Excellent, sir! Excellent! "

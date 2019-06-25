@@ -67,8 +67,8 @@ msgctxt "sn40.1:2.6"
 msgid "Idaṃ vuccati paṭhamaṃ jhānan’ti. "
 msgstr "This is called the first absorption.’ "
 
-#. HTML: </p><p>
 # NOTE: See my note on tenses at SN 21.1
+#. HTML: </p><p>
 msgctxt "sn40.1:2.7"
 msgid "So khvāhaṃ, āvuso, vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharāmi. "
 msgstr "And so … I was entering and remaining in the first absorption. "

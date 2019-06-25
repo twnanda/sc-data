@@ -149,8 +149,8 @@ msgctxt "sn42.11:2.17"
 msgid "Chando hi mūlaṃ dukkhassā’ti. "
 msgstr "For desire is the root of suffering.’ "
 
-#. HTML: </p><p>
 # NOTE: I couldn’t resist “Oliver” for ciravasi. get it? “O-Live-er” Anyone? Just me, then.
+#. HTML: </p><p>
 #. VAR: āvasathe → āvesane (?)
 msgctxt "sn42.11:2.18"
 msgid "Atthi me, bhante, ciravāsī nāma kumāro bahi āvasathe paṭivasati. "

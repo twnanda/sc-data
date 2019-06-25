@@ -355,8 +355,8 @@ msgctxt "mn26:14.1"
 msgid "So kho ahaṃ, bhikkhave, aparena samayena daharova samāno susukāḷakeso, bhadrena yobbanena samannāgato paṭhamena vayasā akāmakānaṃ mātāpitūnaṃ assumukhānaṃ rudantānaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajiṃ. "
 msgstr "Some time later, while still black-haired, blessed with youth, in the prime of life—though my mother and father wished otherwise, weeping with tearful faces—I shaved off my hair and beard, dressed in ocher robes, and went forth from the lay life to homelessness. "
 
-#. HTML: </p><p>
 # NOTE: Translators vary between state and path for pada. however MN 102 suggests “state” must be correct.
+#. HTML: </p><p>
 #. REF: nya15
 msgctxt "mn26:15.1"
 msgid "So evaṃ pabbajito samāno kiṃkusalagavesī anuttaraṃ santivarapadaṃ pariyesamāno yena āḷāro kālāmo tenupasaṅkamiṃ. upasaṅkamitvā āḷāraṃ kālāmaṃ etadavocaṃ: "

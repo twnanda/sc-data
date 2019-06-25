@@ -69,7 +69,7 @@ msgid "Evaṃ vutte āyasmā upanando sakyaputto taṃ dūtaṃ etadavoca—"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-np10:1.1.9
+msgctxt "pli-tv-bu-vb-np10:1.1.9"
 msgid "“na kho mayaṃ, āvuso, cīvaracetāpannaṃ paṭiggaṇhāma, cīvarañca kho mayaṃ paṭiggaṇhāma kālena kappiyan”ti."
 msgstr "“We don’t receive robe funds, but we do receive allowable robes at the right time.”"
 
@@ -79,7 +79,7 @@ msgid "Evaṃ vutte, so dūto āyasmantaṃ upanandaṃ sakyaputtaṃ etadavoca�
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-np10:1.1.11
+msgctxt "pli-tv-bu-vb-np10:1.1.11"
 msgid "“atthi panāyasmato koci veyyāvaccakaro”ti?"
 msgstr "“Is there anyone who provides services for you?”"
 
