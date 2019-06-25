@@ -28,12 +28,12 @@ msgid "7. Dhammadesanāsikkhāpada"
 msgstr "The training rule on teaching"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc7:0.6"
+msgctxt "pli-tv-bu-vb-pc7:1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pc7:1.0a"
+msgctxt "pli-tv-bu-vb-pc7:1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -173,24 +173,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc7:1.30a"
+msgctxt "pli-tv-bu-vb-pc7:1.30.0"
 msgid ""
 msgstr "First preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc5, ms2V_201
-msgctxt "pli-tv-bu-vb-pc7:1.31"
+msgctxt "pli-tv-bu-vb-pc7:1.30"
 msgid "“Yo pana bhikkhu mātugāmassa dhammaṃ deseyya pācittiyan”ti."
 msgstr "‘If a monk gives a teaching to a woman, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc6, ms2V_202
-msgctxt "pli-tv-bu-vb-pc7:1.32"
+msgctxt "pli-tv-bu-vb-pc7:1.31"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc7:2.0a"
+msgctxt "pli-tv-bu-vb-pc7:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -255,24 +255,24 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc7:2.13a"
+msgctxt "pli-tv-bu-vb-pc7:2.13.0"
 msgid ""
 msgstr "Second preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc9, ms2V_205
-msgctxt "pli-tv-bu-vb-pc7:2.14"
+msgctxt "pli-tv-bu-vb-pc7:2.13"
 msgid "“Yo pana bhikkhū mātugāmassa uttarichappañcavācāhi dhammaṃ deseyya, pācittiyan”ti."
 msgstr "‘If a monk gives a teaching of more than five or six sentences to a woman, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc10, pts-vp-pli4.22, ms2V_206
-msgctxt "pli-tv-bu-vb-pc7:2.15"
+msgctxt "pli-tv-bu-vb-pc7:2.14"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc7:3.0a"
+msgctxt "pli-tv-bu-vb-pc7:3.0"
 msgid ""
 msgstr "Third sub-story"
 
@@ -328,19 +328,19 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc7:3.11a"
+msgctxt "pli-tv-bu-vb-pc7:3.11.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. VAR: uttarichappañcavācāhi → uttariṃ ­chappañ­cavācāhi (s1-3)
 #. REF: sc13
-msgctxt "pli-tv-bu-vb-pc7:3.12"
+msgctxt "pli-tv-bu-vb-pc7:3.11"
 msgid "“Yo pana bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṃ deseyya, aññatra viññunā purisaviggahena, pācittiyan”ti."
 msgstr "‘If a monk gives a teaching of more than five or six sentences to a woman, except in the presence of a man who understands, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc7:4.1.0a"
+msgctxt "pli-tv-bu-vb-pc7:4.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -440,7 +440,7 @@ msgid "purisaviggaho, paṭibalo hoti subhāsitadubbhāsitaṃ duṭṭhullādu�
 msgstr "one who is capable of discerning bad speech and good speech, what is lewd and what is not lewd."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc7:4.2.0a"
+msgctxt "pli-tv-bu-vb-pc7:4.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -478,7 +478,7 @@ msgid "Amātugāme amātugāmasaññī, anāpatti."
 msgstr "If it is not a woman, and he does not perceive it as a woman, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc7:4.3.0a"
+msgctxt "pli-tv-bu-vb-pc7:4.3.0"
 msgid ""
 msgstr "Non-offenses"
 

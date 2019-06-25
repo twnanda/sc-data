@@ -28,7 +28,7 @@ msgid "41. Acelakasikkhāpada"
 msgstr "The training rule on naked ascetics"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc41:1.1.0a"
+msgctxt "pli-tv-bu-vb-pc41:1.1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -175,18 +175,18 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc41:1.2.18a"
+msgctxt "pli-tv-bu-vb-pc41:1.2.18.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule">
 #. REF: sc3, ms2V_868
-msgctxt "pli-tv-bu-vb-pc41:1.2.19"
+msgctxt "pli-tv-bu-vb-pc41:1.2.18"
 msgid "“Yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyan”ti."
 msgstr "‘If a monk gives staple or non-staple food to a naked ascetic, to a male wanderer, or to a female wanderer with his own hands, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc41:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc41:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -286,7 +286,7 @@ msgid "kāyena vā kāyapaṭibaddhena vā nissaggiyena vā deti, āpatti pācit
 msgstr "if he gives by body or by what is connected to the body or by releasing, he commits an offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc41:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc41:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -323,7 +323,7 @@ msgid "Atitthiye atitthiyasaññī, anāpatti."
 msgstr "If it is not an ascetic from another sect, and he does not perceive it as an ascetic from another sect, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc41:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc41:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

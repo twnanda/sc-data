@@ -165,7 +165,7 @@ msgid "Paṭhamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.2" id="2"><article><div class="hgroup"><h1>
-msgctxt "an2.1-10:1.4.14"
+msgctxt "an2.1-10:0.1"
 msgid "2. Padhānasutta "
 msgstr "2. Endeavor "
 
@@ -212,7 +212,7 @@ msgid "Dutiyaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.3" id="3"><article><div class="hgroup"><h1>
-msgctxt "an2.1-10:2.2.6"
+msgctxt "an2.1-10:0.1"
 msgid "3. Tapanīyasutta "
 msgstr "3. Mortifying "
 
@@ -260,7 +260,7 @@ msgid "Tatiyaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.4" id="4"><article><div class="hgroup"><h1>
-msgctxt "an2.1-10:3.1.11"
+msgctxt "an2.1-10:0.1"
 msgid "4. Atapanīyasutta "
 msgstr "4. Not Mortifying "
 
@@ -308,7 +308,7 @@ msgid "Catutthaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.5" id="5"><article><div class="hgroup"><h1>
-msgctxt "an2.1-10:4.1.11"
+msgctxt "an2.1-10:0.1"
 msgid "5. Upaññātasutta "
 msgstr "5. Learned for Myself "
 
@@ -374,7 +374,7 @@ msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.6" id="6"><article><div class="hgroup"><h1>
 #. VAR: saññojanīyasuttaṃ (bj)
-msgctxt "an2.1-10:5.1.14"
+msgctxt "an2.1-10:0.1"
 msgid "6. Saṃyojanasutta "
 msgstr "6. Fetters "
 
@@ -428,7 +428,7 @@ msgid "Chaṭṭhaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.7" id="7"><article><div class="hgroup"><h1>
-msgctxt "an2.1-10:6.2.6"
+msgctxt "an2.1-10:0.1"
 msgid "7. Kaṇhasutta "
 msgstr "7. Dark "
 
@@ -456,7 +456,7 @@ msgid "Sattamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.8" id="8"><article><div class="hgroup"><h1>
-msgctxt "an2.1-10:7.1.6"
+msgctxt "an2.1-10:0.1"
 msgid "8. Sukkasutta "
 msgstr "8. Bright "
 
@@ -485,7 +485,7 @@ msgid "Aṭṭhamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.9" id="9"><article><div class="hgroup"><h1>
-msgctxt "an2.1-10:8.1.6"
+msgctxt "an2.1-10:0.1"
 msgid "9. Cariyasutta "
 msgstr "9. Conduct "
 
@@ -524,7 +524,7 @@ msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.10" id="10"><article><div class="hgroup"><h1>
 #. VAR: vassūpanāyikāsuttaṃ (bj)
-msgctxt "an2.1-10:9.1.8"
+msgctxt "an2.1-10:0.1"
 msgid "10. Vassūpanāyikasutta "
 msgstr "10. Entering the Rainy Season "
 

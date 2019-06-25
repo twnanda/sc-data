@@ -3,28 +3,28 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-bi-vb-np11"><article><div class="hgroup"><p class="division">
-msgctxt "pli-tv-bi-vb-np11:1.1"
+msgctxt "pli-tv-bi-vb-np11:0.1"
 msgid "Theravāda Vinaya"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bi-vb-np11:2.1"
+msgctxt "pli-tv-bi-vb-np11:0.2"
 msgid "Bhikkhunivibhaṅga"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bi-vb-np11:3.1"
+msgctxt "pli-tv-bi-vb-np11:0.3"
 msgid "Nissaggiyakaṇḍa"
 msgstr ""
 
 #. HTML: </p><p>
 #. VAR: Cīvaravagga → nissaggiyakaṇḍassa vagganāmā kaṅkhāvitaraṇīaṭṭhakathāya 46--51 piṭṭhesu
-msgctxt "pli-tv-bi-vb-np11:4.1"
+msgctxt "pli-tv-bi-vb-np11:0.4"
 msgid "Cīvaravagga"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-bi-vb-np11:5.1"
+msgctxt "pli-tv-bi-vb-np11:0.5"
 msgid "11. Garupāvuraṇasikkhāpada"
 msgstr ""
 

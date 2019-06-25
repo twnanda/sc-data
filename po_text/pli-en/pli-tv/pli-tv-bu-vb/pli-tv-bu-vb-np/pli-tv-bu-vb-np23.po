@@ -28,7 +28,7 @@ msgid "23. Bhesajjasikkhāpada"
 msgstr "23. The training rule on tonics"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np23:1.1.0a"
+msgctxt "pli-tv-bu-vb-np23:1.1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -489,30 +489,30 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np23:1.3.38a"
+msgctxt "pli-tv-bu-vb-np23:1.3.38.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc8, ms1V_2314
-msgctxt "pli-tv-bu-vb-np23:1.3.39"
+msgctxt "pli-tv-bu-vb-np23:1.3.38"
 msgid "“Yāni kho pana tāni gilānānaṃ bhikkhūnaṃ paṭisāyanīyāni bhesajjāni, seyyathidaṃ—"
 msgstr "‘After being received, the tonics allowable for sick monks—"
 
-msgctxt "pli-tv-bu-vb-np23:1.3.40"
+msgctxt "pli-tv-bu-vb-np23:1.3.39"
 msgid "sappi navanītaṃ telaṃ madhu phāṇitaṃ,"
 msgstr "that is, ghee, butter, oil, honey, and sugar—"
 
-msgctxt "pli-tv-bu-vb-np23:1.3.41"
+msgctxt "pli-tv-bu-vb-np23:1.3.40"
 msgid "tāni paṭiggahetvā sattāhaparamaṃ sannidhikārakaṃ paribhuñjitabbāni."
 msgstr "should be used from storage for at most seven days."
 
-msgctxt "pli-tv-bu-vb-np23:1.3.42"
+msgctxt "pli-tv-bu-vb-np23:1.3.41"
 msgid "Taṃ atikkāmayato nissaggiyaṃ pācittiyan”ti."
 msgstr "If one uses them beyond that, one commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np23:2.0a"
+msgctxt "pli-tv-bu-vb-np23:2.0"
 msgid ""
 msgstr "Definitions"
 
@@ -632,107 +632,107 @@ msgid "āyasmato dammīti."
 msgstr "‘I give these tonics back to you.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np23:2.23a"
+msgctxt "pli-tv-bu-vb-np23:2.23.0"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><p>
 #. REF: sc12, pts-vp-pli3.252, ms1V_2318
-msgctxt "pli-tv-bu-vb-np23:2.24"
+msgctxt "pli-tv-bu-vb-np23:2.23"
 msgid "Sattāhātikkante atikkantasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is more than seven days and he perceives it as more than seven days, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np23:2.25"
+msgctxt "pli-tv-bu-vb-np23:2.24"
 msgid "Sattāhātikkante vematiko, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is more than seven days, but he is unsure if it is, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np23:2.26"
+msgctxt "pli-tv-bu-vb-np23:2.25"
 msgid "Sattāhātikkante anatikkantasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is more than seven days, but he perceives it as less than seven days, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-np23:2.27"
+msgctxt "pli-tv-bu-vb-np23:2.26"
 msgid "Anadhiṭṭhite adhiṭṭhitasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If they have not been determined, but he perceives them as determined, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np23:2.28"
+msgctxt "pli-tv-bu-vb-np23:2.27"
 msgid "Avissajjite vissajjitasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If they have not been given away, but he perceives them as given away, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np23:2.29"
+msgctxt "pli-tv-bu-vb-np23:2.28"
 msgid "Anaṭṭhe naṭṭhasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If they have not been lost, but he perceives them as lost, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np23:2.30"
+msgctxt "pli-tv-bu-vb-np23:2.29"
 msgid "Avinaṭṭhe vinaṭṭhasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If they have not been destroyed, but he perceives them as destroyed, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np23:2.31"
+msgctxt "pli-tv-bu-vb-np23:2.30"
 msgid "Adaḍḍhe daḍḍhasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If they have not been burnt, but he perceives them as burnt, he commits an offense entailing relinquishment and confession."
 
 #. REF: pts-vp-en2.133
-msgctxt "pli-tv-bu-vb-np23:2.32"
+msgctxt "pli-tv-bu-vb-np23:2.31"
 msgid "Avilutte viluttasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If they have not been stolen, but he perceives them as stolen, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </p><p>
 #. REF: sc13, ms1V_2319
-msgctxt "pli-tv-bu-vb-np23:2.33"
+msgctxt "pli-tv-bu-vb-np23:2.32"
 msgid "Nissaṭṭhaṃ paṭilabhitvā na kāyikena paribhogena paribhuñjitabbaṃ, na ajjhoharitabbaṃ,"
 msgstr "After the relinquished tonics have been returned, they are not to be used on the body, nor are they to be eaten."
 
-msgctxt "pli-tv-bu-vb-np23:2.34"
+msgctxt "pli-tv-bu-vb-np23:2.33"
 msgid "padīpe vā kāḷavaṇṇe vā upanetabbaṃ,"
 msgstr "They can used in lamps or as a black coloring agent."
 
-msgctxt "pli-tv-bu-vb-np23:2.35"
+msgctxt "pli-tv-bu-vb-np23:2.34"
 msgid "aññena bhikkhunā kāyikena paribhogena paribhuñjitabbaṃ, na ajjhoharitabbaṃ."
 msgstr "Other monks may use them on the body, but they may not eat them."
 
 #. HTML: </p><p>
 #. REF: sc14, ms1V_2320
-msgctxt "pli-tv-bu-vb-np23:2.36"
+msgctxt "pli-tv-bu-vb-np23:2.35"
 msgid "Sattāhānatikkante atikkantasaññī, āpatti dukkaṭassa."
 msgstr "If it is less than seven days, but he perceives it as more than seven days, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np23:2.37"
+msgctxt "pli-tv-bu-vb-np23:2.36"
 msgid "Sattāhānatikkante vematiko, āpatti dukkaṭassa."
 msgstr "If it is less than seven days, but he is unsure if it is, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np23:2.38"
+msgctxt "pli-tv-bu-vb-np23:2.37"
 msgid "Sattāhānatikkante anatikkantasaññī, anāpatti."
 msgstr "If it is less than seven days and he perceives it as less than seven days, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np23:2.38a"
+msgctxt "pli-tv-bu-vb-np23:2.38.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc15, ms1V_2321
-msgctxt "pli-tv-bu-vb-np23:2.39"
+msgctxt "pli-tv-bu-vb-np23:2.38"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
-msgctxt "pli-tv-bu-vb-np23:2.40"
+msgctxt "pli-tv-bu-vb-np23:2.39"
 msgid "antosattāhaṃ adhiṭṭheti, vissajjeti, nassati, vinassati, ḍayhati, acchinditvā gaṇhanti, vissāsaṃ gaṇhanti,"
 msgstr "if within seven days they have been determined, given away, lost, destroyed, burnt, stolen, or taken on trust;"
 
-msgctxt "pli-tv-bu-vb-np23:2.41"
+msgctxt "pli-tv-bu-vb-np23:2.40"
 msgid "anupasampannassa cattena vantena muttena anapekkho datvā paṭilabhitvā paribhuñjati,"
 msgstr "if, without any desire for them, he gives them up to a person who is not fully ordained, and he then obtains them again and then uses them;"
 
-msgctxt "pli-tv-bu-vb-np23:2.42"
+msgctxt "pli-tv-bu-vb-np23:2.41"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-np23:2.43"
+msgctxt "pli-tv-bu-vb-np23:2.42"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><hr><p class="endsutta">
 #. REF: sc16, ms1V_2322
-msgctxt "pli-tv-bu-vb-np23:2.44"
+msgctxt "pli-tv-bu-vb-np23:2.43"
 msgid "Bhesajjasikkhāpadaṃ niṭṭhitaṃ tatiyaṃ."
 msgstr "The third rule, the training rule on tonics, is finished."

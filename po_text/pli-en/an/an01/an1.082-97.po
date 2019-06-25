@@ -33,7 +33,7 @@ msgid "Paṭhamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.83" id="83"><article><div class="hgroup"><h1>
-msgctxt "an1.82-97:82.1.4"
+msgctxt "an1.82-97:0.1"
 msgid "83 "
 msgstr "83 "
 
@@ -53,7 +53,7 @@ msgid "Dutiyaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.84" id="84"><article><div class="hgroup"><h1>
-msgctxt "an1.82-97:83.1.4"
+msgctxt "an1.82-97:0.1"
 msgid "84 "
 msgstr "84 "
 
@@ -73,7 +73,7 @@ msgid "Tatiyaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.85" id="85"><article><div class="hgroup"><h1>
-msgctxt "an1.82-97:84.1.4"
+msgctxt "an1.82-97:0.1"
 msgid "85 "
 msgstr "85 "
 
@@ -93,7 +93,7 @@ msgid "Catutthaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.86" id="86"><article><div class="hgroup"><h1>
-msgctxt "an1.82-97:85.1.4"
+msgctxt "an1.82-97:0.1"
 msgid "86 "
 msgstr "86 "
 
@@ -113,7 +113,7 @@ msgid "Pañcamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.87" id="87"><article><div class="hgroup"><h1>
-msgctxt "an1.82-97:86.1.4"
+msgctxt "an1.82-97:0.1"
 msgid "87 "
 msgstr "87 "
 
@@ -133,7 +133,7 @@ msgid "Chaṭṭhaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.88" id="88"><article><div class="hgroup"><h1>
-msgctxt "an1.82-97:87.1.4"
+msgctxt "an1.82-97:0.1"
 msgid "88 "
 msgstr "88 "
 
@@ -153,7 +153,7 @@ msgid "Sattamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.89" id="89"><article><div class="hgroup"><h1>
-msgctxt "an1.82-97:88.1.4"
+msgctxt "an1.82-97:0.1"
 msgid "89 "
 msgstr "89 "
 
@@ -173,7 +173,7 @@ msgid "Aṭṭhamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.90" id="90"><article><div class="hgroup"><h1>
-msgctxt "an1.82-97:89.1.4"
+msgctxt "an1.82-97:0.1"
 msgid "90 "
 msgstr "90 "
 
@@ -193,7 +193,7 @@ msgid "Navamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.91" id="91"><article><div class="hgroup"><h1>
-msgctxt "an1.82-97:90.1.4"
+msgctxt "an1.82-97:0.1"
 msgid "91 "
 msgstr "91 "
 
@@ -213,7 +213,7 @@ msgid "Dasamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.92" id="92"><article><div class="hgroup"><h1>
-msgctxt "an1.82-97:91.1.4"
+msgctxt "an1.82-97:0.1"
 msgid "92 "
 msgstr "92 "
 
@@ -233,7 +233,7 @@ msgid "Ekādasamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.93" id="93"><article><div class="hgroup"><h1>
-msgctxt "an1.82-97:92.1.4"
+msgctxt "an1.82-97:0.1"
 msgid "93 "
 msgstr "93 "
 
@@ -253,7 +253,7 @@ msgid "Dvādasamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.94" id="94"><article><div class="hgroup"><h1>
-msgctxt "an1.82-97:93.1.4"
+msgctxt "an1.82-97:0.1"
 msgid "94 "
 msgstr "94 "
 
@@ -273,7 +273,7 @@ msgid "Terasamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.95" id="95"><article><div class="hgroup"><h1>
-msgctxt "an1.82-97:94.1.4"
+msgctxt "an1.82-97:0.1"
 msgid "95 "
 msgstr "95 "
 
@@ -293,7 +293,7 @@ msgid "Cuddasamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.96" id="96"><article><div class="hgroup"><h1>
-msgctxt "an1.82-97:95.1.4"
+msgctxt "an1.82-97:0.1"
 msgid "96 "
 msgstr "96 "
 
@@ -313,7 +313,7 @@ msgid "Pannarasamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.97" id="97"><article><div class="hgroup"><h1>
-msgctxt "an1.82-97:96.1.4"
+msgctxt "an1.82-97:0.1"
 msgid "97 "
 msgstr "97 "
 

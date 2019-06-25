@@ -32,7 +32,7 @@ msgid "Esā, bhikkhave, tulā etaṃ pamāṇaṃ mama sāvakānaṃ bhikkhūna�
 msgstr "These are a standard and a measure for my monk disciples, that is, Sāriputta and Moggallāna.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.131" id="131"><article><div class="hgroup"><h1>
-msgctxt "an2.130-140:130.1.4"
+msgctxt "an2.130-140:0.1"
 msgid "131 "
 msgstr "131 "
 
@@ -51,7 +51,7 @@ msgid "Esā, bhikkhave, tulā etaṃ pamāṇaṃ mama sāvikānaṃ bhikkhunīn
 msgstr "These are a standard and a measure for my nun disciples, that is, the nuns Khemā and Uppalavaṇṇā.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.132" id="132"><article><div class="hgroup"><h1>
-msgctxt "an2.130-140:131.1.4"
+msgctxt "an2.130-140:0.1"
 msgid "132 "
 msgstr "132 "
 
@@ -70,7 +70,7 @@ msgid "Esā, bhikkhave, tulā etaṃ pamāṇaṃ mama sāvakānaṃ upāsakāna
 msgstr "These are a standard and a measure for my male lay followers, that is, the householder Citta and Hatthaka of Aḷavī.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.133" id="133"><article><div class="hgroup"><h1>
-msgctxt "an2.130-140:132.1.4"
+msgctxt "an2.130-140:0.1"
 msgid "133 "
 msgstr "133 "
 
@@ -90,7 +90,7 @@ msgid "Esā, bhikkhave, tulā etaṃ pamāṇaṃ mama sāvikānaṃ upāsikāna
 msgstr "These are a standard and a measure for my female lay disciples, that is, the laywomen Khujjuttarā and Veḷukaṇṭakī, Nanda’s mother.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.134" id="134"><article><div class="hgroup"><h1>
-msgctxt "an2.130-140:133.1.4"
+msgctxt "an2.130-140:0.1"
 msgid "134 "
 msgstr "134 "
 
@@ -139,7 +139,7 @@ msgid "Imehi kho, bhikkhave, dvīhi dhammehi samannāgato paṇḍito viyatto sa
 msgstr "When an astute, competent good person has these two qualities they keep themselves healthy and whole. They don’t deserve to be blamed and criticized by sensible people, and they make much merit.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.135" id="135"><article><div class="hgroup"><h1>
-msgctxt "an2.130-140:134.2.6"
+msgctxt "an2.130-140:0.1"
 msgid "135 "
 msgstr "135 "
 
@@ -188,7 +188,7 @@ msgid "Imehi kho, bhikkhave, dvīhi dhammehi samannāgato paṇḍito viyatto sa
 msgstr "When an astute, competent good person has these two qualities they keep themselves healthy and whole. They don’t deserve to be blamed and criticized by sensible people, and they make much merit.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.136" id="136"><article><div class="hgroup"><h1>
-msgctxt "an2.130-140:135.2.6"
+msgctxt "an2.130-140:0.1"
 msgid "136 "
 msgstr "136 "
 
@@ -229,7 +229,7 @@ msgid "Imesu kho, bhikkhave, dvīsu sammāpaṭipajjamāno paṇḍito viyatto s
 msgstr "When an astute, competent good person acts rightly toward these two people they keep themselves healthy and whole. They don’t deserve to be blamed and criticized by sensible people, and they make much merit.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.137" id="137"><article><div class="hgroup"><h1>
-msgctxt "an2.130-140:136.2.5"
+msgctxt "an2.130-140:0.1"
 msgid "137 "
 msgstr "137 "
 
@@ -271,7 +271,7 @@ msgid "Imesu kho, bhikkhave, dvīsu sammāpaṭipajjamāno paṇḍito viyatto s
 msgstr "When an astute, competent good person acts rightly toward these two people they keep themselves healthy and whole. They don’t deserve to be blamed and criticized by sensible people, and they make much merit.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.138" id="138"><article><div class="hgroup"><h1>
-msgctxt "an2.130-140:137.2.5"
+msgctxt "an2.130-140:0.1"
 msgid "138 "
 msgstr "138 "
 
@@ -294,7 +294,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”ti. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.139" id="139"><article><div class="hgroup"><h1>
-msgctxt "an2.130-140:138.1.5"
+msgctxt "an2.130-140:0.1"
 msgid "139 "
 msgstr "139 "
 
@@ -317,7 +317,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”ti. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.140" id="140"><article><div class="hgroup"><h1>
-msgctxt "an2.130-140:139.1.5"
+msgctxt "an2.130-140:0.1"
 msgid "140 "
 msgstr "140 "
 

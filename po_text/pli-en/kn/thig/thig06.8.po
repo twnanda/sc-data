@@ -3,17 +3,17 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="thig6.8"><article><div class="hgroup"><p class="division">
-msgctxt "thig6.8:1.1"
+msgctxt "thig6.8:0.1"
 msgid "Therīgāthā"
 msgstr "Verses of the Senior Nuns"
 
 #. HTML: </p><p>
-msgctxt "thig6.8:2.1"
+msgctxt "thig6.8:0.2"
 msgid "Chakkanipāta"
 msgstr "The Book of the Sixes"
 
 #. HTML: </p><h1>
-msgctxt "thig6.8:3.1"
+msgctxt "thig6.8:0.3"
 msgid "8. Vijayātherīgāthā"
 msgstr "6.8. Vijayā"
 

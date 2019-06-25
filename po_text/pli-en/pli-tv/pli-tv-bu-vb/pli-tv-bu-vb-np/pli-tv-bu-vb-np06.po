@@ -28,12 +28,12 @@ msgid "6. Aññātakaviññattisikkhāpada"
 msgstr "6. The training rule on asking non-relations"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np6:1.1.0a"
+msgctxt "pli-tv-bu-vb-np6:1.1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-np6:1.1.0b"
+msgctxt "pli-tv-bu-vb-np6:1.1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -223,24 +223,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-np6:1.2.20a"
+msgctxt "pli-tv-bu-vb-np6:1.2.20.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc7, ms1V_1980
-msgctxt "pli-tv-bu-vb-np6:1.2.21"
+msgctxt "pli-tv-bu-vb-np6:1.2.20"
 msgid "“Yo pana bhikkhu aññātakaṃ gahapatiṃ vā gahapatāniṃ vā cīvaraṃ viññāpeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk asks an unrelated layman or laywoman for robe-cloth, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc8, ms1V_1981
-msgctxt "pli-tv-bu-vb-np6:1.2.22"
+msgctxt "pli-tv-bu-vb-np6:1.2.21"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-np6:2.0a"
+msgctxt "pli-tv-bu-vb-np6:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -373,31 +373,31 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np6:2.29a"
+msgctxt "pli-tv-bu-vb-np6:2.29.0"
 msgid ""
 msgstr "Final ruling"
 
 # NOTE: _Cīvara_ means both a finished robe and any cloth that can be used to make a robe. Thus I vary my translation depending on the context.
 #. HTML: </h2><p><span class="rule">
 #. REF: sc11, ms1V_1984
-msgctxt "pli-tv-bu-vb-np6:2.30"
+msgctxt "pli-tv-bu-vb-np6:2.29"
 msgid "“Yo pana bhikkhu aññātakaṃ gahapatiṃ vā gahapatāniṃ vā cīvaraṃ viññāpeyya, aññatra samayā, nissaggiyaṃ pācittiyaṃ."
 msgstr "‘If a monk asks an unrelated layman or laywoman for robe-cloth, unless there is an appropriate reason, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np6:2.31"
+msgctxt "pli-tv-bu-vb-np6:2.30"
 msgid "Tatthāyaṃ samayo—"
 msgstr "The appropriate reasons are these:"
 
-msgctxt "pli-tv-bu-vb-np6:2.32"
+msgctxt "pli-tv-bu-vb-np6:2.31"
 msgid "acchinnacīvaro vā hoti bhikkhu naṭṭhacīvaro vā."
 msgstr "his robes are stolen or his robes are destroyed.’”"
 
-msgctxt "pli-tv-bu-vb-np6:2.33"
+msgctxt "pli-tv-bu-vb-np6:2.32"
 msgid "Ayaṃ tattha samayo”ti."
 msgstr ""
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np6:3.1.0a"
+msgctxt "pli-tv-bu-vb-np6:3.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -552,7 +552,7 @@ msgid "āyasmato dammīti."
 msgstr "‘I give this robe-cloth back to you.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np6:3.3.0a"
+msgctxt "pli-tv-bu-vb-np6:3.3.0"
 msgid ""
 msgstr "Permutations"
 
@@ -586,7 +586,7 @@ msgid "Ñātake ñātakasaññī, anāpatti."
 msgstr "If the person is related and the monk perceives them as related, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np6:3.4.0a"
+msgctxt "pli-tv-bu-vb-np6:3.4.0"
 msgid ""
 msgstr "Non-offenses"
 

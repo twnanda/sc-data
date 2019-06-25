@@ -54,7 +54,7 @@ msgid "Ime kho, bhikkhave, dve paṇḍitā”ti. "
 msgstr "These are the two who are astute.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.22" id="22"><article><div class="hgroup"><h1>
-msgctxt "an2.21-31:21.2.5"
+msgctxt "an2.21-31:0.1"
 msgid "22 "
 msgstr "22 "
 
@@ -78,7 +78,7 @@ msgid "Ime kho, bhikkhave, dve tathāgataṃ abbhācikkhantī”ti. "
 msgstr "These two misrepresent the Realized One.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.23" id="23"><article><div class="hgroup"><h1>
-msgctxt "an2.21-31:22.1.5"
+msgctxt "an2.21-31:0.1"
 msgid "23 "
 msgstr "23 "
 
@@ -119,7 +119,7 @@ msgid "Ime kho, bhikkhave, dve tathāgataṃ nābbhācikkhantī”ti. "
 msgstr "These two don’t misrepresent the Realized One.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.24" id="24"><article><div class="hgroup"><h1>
-msgctxt "an2.21-31:23.2.5"
+msgctxt "an2.21-31:0.1"
 msgid "24 "
 msgstr "24 "
 
@@ -142,7 +142,7 @@ msgid "Ime kho, bhikkhave, dve tathāgataṃ abbhācikkhantī”ti. "
 msgstr "These two misrepresent the Realized One.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.25" id="25"><article><div class="hgroup"><h1>
-msgctxt "an2.21-31:24.1.5"
+msgctxt "an2.21-31:0.1"
 msgid "25 "
 msgstr "25 "
 
@@ -165,7 +165,7 @@ msgid "Ime kho, bhikkhave, dve tathāgataṃ nābbhācikkhantī”ti. "
 msgstr "These two don’t misrepresent the Realized One.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.26" id="26"><article><div class="hgroup"><h1>
-msgctxt "an2.21-31:25.1.5"
+msgctxt "an2.21-31:0.1"
 msgid "26 "
 msgstr "26 "
 
@@ -190,7 +190,7 @@ msgid "devā vā manussā vā”ti. "
 msgstr "as a god or a human.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.27" id="27"><article><div class="hgroup"><h1>
-msgctxt "an2.21-31:26.2.3"
+msgctxt "an2.21-31:0.1"
 msgid "27 "
 msgstr "27 "
 
@@ -205,7 +205,7 @@ msgid "nirayo vā tiracchānayoni vā”ti. "
 msgstr "hell or the animal realm.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.28" id="28"><article><div class="hgroup"><h1>
-msgctxt "an2.21-31:27.1.3"
+msgctxt "an2.21-31:0.1"
 msgid "28 "
 msgstr "28 "
 
@@ -220,7 +220,7 @@ msgid "devā vā manussā vā”ti. "
 msgstr "as a god or a human.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.29" id="29"><article><div class="hgroup"><h1>
-msgctxt "an2.21-31:28.1.3"
+msgctxt "an2.21-31:0.1"
 msgid "29 "
 msgstr "29 "
 
@@ -246,7 +246,7 @@ msgid "devā vā manussā vā”ti. "
 msgstr "the realms of gods and humans.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.30" id="30"><article><div class="hgroup"><h1>
-msgctxt "an2.21-31:29.2.3"
+msgctxt "an2.21-31:0.1"
 msgid "30 "
 msgstr "30 "
 
@@ -270,7 +270,7 @@ msgid "Ime kho ahaṃ, bhikkhave, dve atthavase sampassamāno araññavanapatth�
 msgstr "I see two reasons to frequent remote lodgings in the wilderness and the forest.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.31" id="31"><article><div class="hgroup"><h1>
-msgctxt "an2.21-31:30.1.5"
+msgctxt "an2.21-31:0.1"
 msgid "31 "
 msgstr "31 "
 

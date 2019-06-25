@@ -67,7 +67,7 @@ msgid "Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ gambh�
 msgstr "The better of these two assemblies is the deep assembly.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.43" id="43"><article><div class="hgroup"><h1>
-msgctxt "an2.42-51:42.2.6"
+msgctxt "an2.42-51:0.1"
 msgid "43 "
 msgstr "43 "
 
@@ -120,7 +120,7 @@ msgid "Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ samagg
 msgstr "The better of these two assemblies is the harmonious assembly.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.44" id="44"><article><div class="hgroup"><h1>
-msgctxt "an2.42-51:43.2.6"
+msgctxt "an2.42-51:0.1"
 msgid "44 "
 msgstr "44 "
 
@@ -190,7 +190,7 @@ msgid "Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ aggava
 msgstr "The better of these two assemblies is the assembly of the best.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.45" id="45"><article><div class="hgroup"><h1>
-msgctxt "an2.42-51:44.2.8"
+msgctxt "an2.42-51:0.1"
 msgid "45 "
 msgstr "45 "
 
@@ -243,7 +243,7 @@ msgid "Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ ariyā
 msgstr "The better of these two assemblies is the noble assembly.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.46" id="46"><article><div class="hgroup"><h1>
-msgctxt "an2.42-51:45.2.6"
+msgctxt "an2.42-51:0.1"
 msgid "46 "
 msgstr "46 "
 
@@ -296,7 +296,7 @@ msgid "Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ paris�
 msgstr "The better of these two assemblies is the assembly of the cream.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.47" id="47"><article><div class="hgroup"><h1>
-msgctxt "an2.42-51:46.2.6"
+msgctxt "an2.42-51:0.1"
 msgid "47 "
 msgstr "47 "
 
@@ -378,7 +378,7 @@ msgid "Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ paṭi
 msgstr "The better of these two assemblies is the assembly educated in questioning, not in fancy talk.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.48" id="48"><article><div class="hgroup"><h1>
-msgctxt "an2.42-51:47.2.10"
+msgctxt "an2.42-51:0.1"
 msgid "48 "
 msgstr "48 "
 
@@ -457,7 +457,7 @@ msgid "Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ saddha
 msgstr "The better of these two assemblies is the assembly that values the true teaching, not material things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.49" id="49"><article><div class="hgroup"><h1>
-msgctxt "an2.42-51:48.2.9"
+msgctxt "an2.42-51:0.1"
 msgid "49 "
 msgstr "49 "
 
@@ -512,7 +512,7 @@ msgid "Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ samā 
 msgstr "The better of these two assemblies is the just assembly.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.50" id="50"><article><div class="hgroup"><h1>
-msgctxt "an2.42-51:49.2.6"
+msgctxt "an2.42-51:0.1"
 msgid "50 "
 msgstr "50 "
 
@@ -535,7 +535,7 @@ msgid "Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ dhammi
 msgstr "The better of these two assemblies is the principled assembly.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.51" id="51"><article><div class="hgroup"><h1>
-msgctxt "an2.42-51:50.1.5"
+msgctxt "an2.42-51:0.1"
 msgid "51 "
 msgstr "51 "
 

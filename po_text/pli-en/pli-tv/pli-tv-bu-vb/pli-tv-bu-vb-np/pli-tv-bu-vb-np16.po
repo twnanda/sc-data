@@ -28,7 +28,7 @@ msgid "16. Eḷakalomasikkhāpada"
 msgstr "16. The training rule on wool"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np16:1.0a"
+msgctxt "pli-tv-bu-vb-np16:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -137,34 +137,34 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np16:1.23a"
+msgctxt "pli-tv-bu-vb-np16:1.23.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. VAR: addhānamaggappaṭipannassa → … magga­paṭi­pannassa (s1-3, pts1)
 #. REF: sc3, ms1V_2178
-msgctxt "pli-tv-bu-vb-np16:1.24"
+msgctxt "pli-tv-bu-vb-np16:1.23"
 msgid "“Bhikkhuno paneva addhānamaggappaṭipannassa eḷakalomāni uppajjeyyuṃ."
 msgstr "‘If wool is given to a monk who is traveling, he may receive it if he wishes."
 
-msgctxt "pli-tv-bu-vb-np16:1.25"
+msgctxt "pli-tv-bu-vb-np16:1.24"
 msgid "Ākaṅkhamānena bhikkhunā paṭiggahetabbāni."
 msgstr "If he receives it"
 
 # NOTE: Three _yojanas_. The length of a _yojana_ is uncertain, and perhaps it never was a precise distance. But a reasonable estimate is 8 miles or approximately 13 kilometers (see ACMC, p.16). Thus 3 _yojanas_ is close to 40 km, which seems like a suitably round number given the uncertainty in the estimate.
 #. VAR: haritabbāni → hāretabbāni (si, s1-3, pts1, mr)
-msgctxt "pli-tv-bu-vb-np16:1.26"
+msgctxt "pli-tv-bu-vb-np16:1.25"
 msgid "Paṭiggahetvā tiyojanaparamaṃ sahatthā haritabbāni, asante hārake."
 msgstr "and there is no one else to carry it, he may carry it himself for at most 40 kilometers."
 
 #. VAR: uttari → uttariṃ (bj, s1-3, pts1)
-msgctxt "pli-tv-bu-vb-np16:1.27"
+msgctxt "pli-tv-bu-vb-np16:1.26"
 msgid "Tato ce uttari hareyya, asantepi hārake, nissaggiyaṃ pācittiyan”ti."
 msgstr "If he carries it further than that, even if there is no one else to carry it, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np16:2.0a"
+msgctxt "pli-tv-bu-vb-np16:2.0"
 msgid ""
 msgstr "Definitions"
 
@@ -286,95 +286,95 @@ msgid "āyasmato dammīti."
 msgstr "‘I give this wool back to you.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np16:2.23a"
+msgctxt "pli-tv-bu-vb-np16:2.23.0"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><p>
 #. VAR: atirekasaññī atikkāmeti → tiyojanaṃ atikkāmeti (s1-3)
 #. REF: sc10, ms1V_2185,  
-msgctxt "pli-tv-bu-vb-np16:2.24"
+msgctxt "pli-tv-bu-vb-np16:2.23"
 msgid "Atirekatiyojane atirekasaññī atikkāmeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he takes it more than 40 kilometers and he perceives it as more, he commits an offense entailing relinquishment and confession."
 
 #. VAR: vematiko atikkāmeti → tiyojanaṃ atikkāmeti (s1-3)
-msgctxt "pli-tv-bu-vb-np16:2.25"
+msgctxt "pli-tv-bu-vb-np16:2.24"
 msgid "Atirekatiyojane vematiko atikkāmeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he takes it more than 40 kilometers, but he is unsure if he has, he commits an offense entailing relinquishment and confession."
 
 #. VAR: ūnakasaññī atikkāmeti → tiyojanaṃ atikkāmeti (s1-3)
-msgctxt "pli-tv-bu-vb-np16:2.26"
+msgctxt "pli-tv-bu-vb-np16:2.25"
 msgid "Atirekatiyojane ūnakasaññī atikkāmeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he takes it more than 40 kilometers, but he perceives it as less, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </p><p>
 #. REF: sc11, ms1V_2186
-msgctxt "pli-tv-bu-vb-np16:2.27"
+msgctxt "pli-tv-bu-vb-np16:2.26"
 msgid "Ūnakatiyojane atirekasaññī, āpatti dukkaṭassa."
 msgstr "If he takes it less than 40 kilometers, but he perceives it as more, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np16:2.28"
+msgctxt "pli-tv-bu-vb-np16:2.27"
 msgid "Ūnakatiyojane vematiko, āpatti dukkaṭassa."
 msgstr "If he takes it less than 40 kilometers, but he is unsure if he has, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np16:2.29"
+msgctxt "pli-tv-bu-vb-np16:2.28"
 msgid "Ūnakatiyojane ūnakasaññī, anāpatti."
 msgstr "If he takes it less than 40 kilometers and he perceives it as less, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np16:2.29a"
+msgctxt "pli-tv-bu-vb-np16:2.29.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc12, ms1V_2187
-msgctxt "pli-tv-bu-vb-np16:2.30"
+msgctxt "pli-tv-bu-vb-np16:2.29"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
-msgctxt "pli-tv-bu-vb-np16:2.31"
+msgctxt "pli-tv-bu-vb-np16:2.30"
 msgid "tiyojanaṃ harati,"
 msgstr "if he carries it 40 kilometers;"
 
-msgctxt "pli-tv-bu-vb-np16:2.32"
+msgctxt "pli-tv-bu-vb-np16:2.31"
 msgid "ūnakatiyojanaṃ harati,"
 msgstr "if he carries it less than 40 kilometers;"
 
-msgctxt "pli-tv-bu-vb-np16:2.33"
+msgctxt "pli-tv-bu-vb-np16:2.32"
 msgid "tiyojanaṃ haratipi,"
 msgstr "if he carries it 40 kilometers and then carries it back;"
 
-msgctxt "pli-tv-bu-vb-np16:2.34"
+msgctxt "pli-tv-bu-vb-np16:2.33"
 msgid "paccāharatipi,"
 msgstr "if he takes it 40 kilometers with the intention of staying there, but then takes it further;"
 
-msgctxt "pli-tv-bu-vb-np16:2.35"
+msgctxt "pli-tv-bu-vb-np16:2.34"
 msgid "tiyojanaṃ vāsādhippāyo gantvā tato paraṃ harati,"
 msgstr "if he gets back what had been taken from him and then carries it on;"
 
-msgctxt "pli-tv-bu-vb-np16:2.36"
+msgctxt "pli-tv-bu-vb-np16:2.35"
 msgid "acchinnaṃ paṭilabhitvā harati,"
 msgstr "if he gets back what he had given up and then carries it on;"
 
 #. REF: pts-vp-en2.93
-msgctxt "pli-tv-bu-vb-np16:2.37"
+msgctxt "pli-tv-bu-vb-np16:2.36"
 msgid "nissaṭṭhaṃ paṭilabhitvā harati,"
 msgstr "if he get someone else to carry it;"
 
-msgctxt "pli-tv-bu-vb-np16:2.38"
+msgctxt "pli-tv-bu-vb-np16:2.37"
 msgid "aññaṃ harāpeti katabhaṇḍaṃ,"
 msgstr "if it is a finished article;"
 
-msgctxt "pli-tv-bu-vb-np16:2.39"
+msgctxt "pli-tv-bu-vb-np16:2.38"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-np16:2.40"
+msgctxt "pli-tv-bu-vb-np16:2.39"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><hr><p class="endsutta">
 #. REF: sc13, ms1V_2188
-msgctxt "pli-tv-bu-vb-np16:2.41"
+msgctxt "pli-tv-bu-vb-np16:2.40"
 msgid "Eḷakalomasikkhāpadaṃ niṭṭhitaṃ chaṭṭhaṃ."
 msgstr "The sixth rule, the training rule on wool, is finished."

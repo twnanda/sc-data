@@ -28,7 +28,7 @@ msgid "8. Bhūtārocanasikkhāpada"
 msgstr "The training rule on telling truthfully"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc8:1.1.0a"
+msgctxt "pli-tv-bu-vb-pc8:1.1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -277,18 +277,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc8:1.2.26a"
+msgctxt "pli-tv-bu-vb-pc8:1.2.26.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc5, ms2V_224
-msgctxt "pli-tv-bu-vb-pc8:1.2.27"
+msgctxt "pli-tv-bu-vb-pc8:1.2.26"
 msgid "“Yo pana bhikkhu anupasampannassa uttarimanussadhammaṃ āroceyya bhūtasmiṃ, pācittiyan”ti."
 msgstr "‘If a monk truthfully tells a person who is not fully ordained of a superhuman quality, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc8:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc8:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -336,134 +336,134 @@ msgid "jhānaṃ, vimokkho, samādhi, samāpatti, ñāṇadassanaṃ, maggabhāv
 msgstr "absorption, release, stillness, attainment, knowledge and vision, development of the path, realization of the fruits, abandoning the defilements, a mind without hindrances, delighting in solitude."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc8:2.1.8a"
+msgctxt "pli-tv-bu-vb-pc8:2.1.7.0.1"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><h4>
-msgctxt "pli-tv-bu-vb-pc8:2.1.8b"
+msgctxt "pli-tv-bu-vb-pc8:2.1.7.0.2"
 msgid ""
 msgstr "Definitions"
 
 #. HTML: </h4><p><span class="term"> 
 #. REF: sc9, ms2V_228
-msgctxt "pli-tv-bu-vb-pc8:2.1.9"
+msgctxt "pli-tv-bu-vb-pc8:2.1.7"
 msgid "Jhānanti"
 msgstr "Absorption:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.1.10"
+msgctxt "pli-tv-bu-vb-pc8:2.1.8"
 msgid "paṭhamaṃ jhānaṃ, dutiyaṃ jhānaṃ, tatiyaṃ jhānaṃ, catutthaṃ jhānaṃ."
 msgstr "the first absorption, the second absorption, the third absorption, the fourth absorption."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc10, ms2V_229
-msgctxt "pli-tv-bu-vb-pc8:2.1.11"
+msgctxt "pli-tv-bu-vb-pc8:2.1.9"
 msgid "Vimokkhoti"
 msgstr "Release:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.1.12"
+msgctxt "pli-tv-bu-vb-pc8:2.1.10"
 msgid "suññato vimokkho, animitto vimokkho, appaṇihito vimokkho."
 msgstr "emptiness release, signless release, desireless release."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc11
-msgctxt "pli-tv-bu-vb-pc8:2.1.13"
+msgctxt "pli-tv-bu-vb-pc8:2.1.11"
 msgid "Samādhīti"
 msgstr "Stillness:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.1.14"
+msgctxt "pli-tv-bu-vb-pc8:2.1.12"
 msgid "suññato samādhi, animitto samādhi, appaṇihito samādhi."
 msgstr "emptiness stillness, signless stillness, desireless stillness."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc12
-msgctxt "pli-tv-bu-vb-pc8:2.1.15"
+msgctxt "pli-tv-bu-vb-pc8:2.1.13"
 msgid "Samāpattīti"
 msgstr "Attainment:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.1.16"
+msgctxt "pli-tv-bu-vb-pc8:2.1.14"
 msgid "suññatā samāpatti, animittā samāpatti, appaṇihitā samāpatti."
 msgstr "emptiness attainment, signless attainment, desireless attainment."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc13, pts-vp-pli4.26, ms2V_232
-msgctxt "pli-tv-bu-vb-pc8:2.1.17"
+msgctxt "pli-tv-bu-vb-pc8:2.1.15"
 msgid "Ñāṇadassananti"
 msgstr "Knowledge and vision:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.1.18"
+msgctxt "pli-tv-bu-vb-pc8:2.1.16"
 msgid "tisso vijjā."
 msgstr "the three true insights."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc14, ms2V_233
-msgctxt "pli-tv-bu-vb-pc8:2.1.19"
+msgctxt "pli-tv-bu-vb-pc8:2.1.17"
 msgid "Maggabhāvanāti"
 msgstr "Development of the path:"
 
 #. HTML: </span><span class="gloss">
 #. REF: pts-vp-en.2.212
-msgctxt "pli-tv-bu-vb-pc8:2.1.20"
+msgctxt "pli-tv-bu-vb-pc8:2.1.18"
 msgid "cattāro satipaṭṭhānā, cattāro sammappadhānā, cattāro iddhipādā, pañcindriyāni, pañca balāni, satta bojjhaṅgā, ariyo aṭṭhaṅgiko maggo."
 msgstr "the four applications of mindfulness, the four right efforts, the four bases of supernormal power, the five spiritual faculties, the five spiritual powers, the seven factors of awakening, the noble eightfold path."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc15, ms2V_234
-msgctxt "pli-tv-bu-vb-pc8:2.1.21"
+msgctxt "pli-tv-bu-vb-pc8:2.1.19"
 msgid "Phalasacchikiriyāti"
 msgstr "Realization of the fruits:"
 
 #. HTML: </span><span class="gloss"> 
 #. VAR: arahattassa → arahat­ta­phalassa (s1-3, pts1)
-msgctxt "pli-tv-bu-vb-pc8:2.1.22"
+msgctxt "pli-tv-bu-vb-pc8:2.1.20"
 msgid "sotāpattiphalassa sacchikiriyā, sakadāgāmiphalassa sacchikiriyā, anāgāmiphalassa sacchikiriyā, arahattassa sacchikiriyā."
 msgstr "realization of the fruit of stream-entry, realization of the fruit of once-returning, realization of the fruit of non-returning, realization of perfection."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc16, ms2V_235
-msgctxt "pli-tv-bu-vb-pc8:2.1.23"
+msgctxt "pli-tv-bu-vb-pc8:2.1.21"
 msgid "Kilesappahānanti"
 msgstr "Abandoning the defilements:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.1.24"
+msgctxt "pli-tv-bu-vb-pc8:2.1.22"
 msgid "rāgassa pahānaṃ, dosassa pahānaṃ, mohassa pahānaṃ."
 msgstr "the abandoning of sensual desire, the abandoning of ill-will, the abandoning of confusion."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc17, ms2V_236
-msgctxt "pli-tv-bu-vb-pc8:2.1.25"
+msgctxt "pli-tv-bu-vb-pc8:2.1.23"
 msgid "Vinīvaraṇatā cittassāti"
 msgstr "A mind without hindrances:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.1.26"
+msgctxt "pli-tv-bu-vb-pc8:2.1.24"
 msgid "rāgā cittaṃ vinīvaraṇatā, dosā cittaṃ vinīvaraṇatā, mohā cittaṃ vinīvaraṇatā."
 msgstr "a mind without sensual desire, a mind without ill-will, a mind without confusion."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc18, ms2V_237
-msgctxt "pli-tv-bu-vb-pc8:2.1.27"
+msgctxt "pli-tv-bu-vb-pc8:2.1.25"
 msgid "Suññāgāre abhiratīti"
 msgstr "Delighting in solitude:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.1.28"
+msgctxt "pli-tv-bu-vb-pc8:2.1.26"
 msgid "paṭhamena jhānena suññāgāre abhirati, dutiyena jhānena suññāgāre abhirati, tatiyena jhānena suññāgāre abhirati, catutthena jhānena suññāgāre abhirati."
 msgstr "because of the first absorption there is delight in solitude, because of the second absorption there is delight in solitude, because of the third absorption there is delight in solitude, because of the fourth absorption there is delight in solitude."
 
 #. HTML: </span></p><h4>
-msgctxt "pli-tv-bu-vb-pc8:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc8:2.2.0.1"
 msgid ""
 msgstr "Exposition"
 
 #. HTML: </h4><h5>
-msgctxt "pli-tv-bu-vb-pc8:2.2.0b"
+msgctxt "pli-tv-bu-vb-pc8:2.2.0.2"
 msgid ""
 msgstr "First absorption"
 
@@ -534,363 +534,363 @@ msgid "anupasampannassa—“paṭhamaṃ jhānaṃ sacchikataṃ mayā”ti bha
 msgstr "if a monk says to a person who is not fully ordained, “I’ve realized the first absorption,” he commits an offense entailing confession."
 
 #. HTML: </span></p><h5>
-msgctxt "pli-tv-bu-vb-pc8:2.2.12a"
+msgctxt "pli-tv-bu-vb-pc8:2.2.12.0"
 msgid ""
 msgstr "Other individual attainments"
 
 #. HTML: </h5><p><span class="term"> 
 #. REF: sc25
-msgctxt "pli-tv-bu-vb-pc8:2.2.13"
+msgctxt "pli-tv-bu-vb-pc8:2.2.12"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.2.14"
+msgctxt "pli-tv-bu-vb-pc8:2.2.13"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.15"
+msgctxt "pli-tv-bu-vb-pc8:2.2.14"
 msgid "“dutiyaṃ jhānaṃ … pe …"
 msgstr "“I attained the second absorption …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.16"
+msgctxt "pli-tv-bu-vb-pc8:2.2.15"
 msgid "tatiyaṃ jhānaṃ …"
 msgstr "the third absorption …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.17"
+msgctxt "pli-tv-bu-vb-pc8:2.2.16"
 msgid "catutthaṃ jhānaṃ samāpajjiṃ, samāpajjāmi, samāpanno;"
 msgstr "the fourth absorption … I’m attaining … I’ve attained …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.18"
+msgctxt "pli-tv-bu-vb-pc8:2.2.17"
 msgid "catutthassa jhānassa lābhimhi, vasimhi;"
 msgstr "I obtain … I master …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.19"
+msgctxt "pli-tv-bu-vb-pc8:2.2.18"
 msgid "catutthaṃ jhānaṃ sacchikataṃ mayā”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "I’ve realized the fourth absorption,” he commits an offense entailing confession."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc26, ms2V_245
-msgctxt "pli-tv-bu-vb-pc8:2.2.20"
+msgctxt "pli-tv-bu-vb-pc8:2.2.19"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.2.21"
+msgctxt "pli-tv-bu-vb-pc8:2.2.20"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.22"
+msgctxt "pli-tv-bu-vb-pc8:2.2.21"
 msgid "“suññataṃ vimokkhaṃ … pe …"
 msgstr "“I attained the emptiness release …"
 
 #. REF: pts-vp-en.2.213
-msgctxt "pli-tv-bu-vb-pc8:2.2.23"
+msgctxt "pli-tv-bu-vb-pc8:2.2.22"
 msgid "animittaṃ vimokkhaṃ …"
 msgstr "the signless release …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.24"
+msgctxt "pli-tv-bu-vb-pc8:2.2.23"
 msgid "appaṇihitaṃ vimokkhaṃ …"
 msgstr "the desireless release …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.25"
+msgctxt "pli-tv-bu-vb-pc8:2.2.24"
 msgid "suññataṃ samādhiṃ …"
 msgstr "the emptiness stillness …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.26"
+msgctxt "pli-tv-bu-vb-pc8:2.2.25"
 msgid "animittaṃ samādhiṃ …"
 msgstr "the signless stillness …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.27"
+msgctxt "pli-tv-bu-vb-pc8:2.2.26"
 msgid "appaṇihitaṃ samādhiṃ samāpajjiṃ, samāpajjāmi, samāpanno;"
 msgstr "the desireless stillness … I’m attaining … I’ve attained …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.28"
+msgctxt "pli-tv-bu-vb-pc8:2.2.27"
 msgid "appaṇihitassa samādhissa lābhimhi, vasimhi;"
 msgstr "I obtain … I master …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.29"
+msgctxt "pli-tv-bu-vb-pc8:2.2.28"
 msgid "appaṇihito samādhi sacchikato mayā”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "I’ve realized the desireless stillness,” he commits an offense entailing confession."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc27, ms2V_246
-msgctxt "pli-tv-bu-vb-pc8:2.2.30"
+msgctxt "pli-tv-bu-vb-pc8:2.2.29"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.2.31"
+msgctxt "pli-tv-bu-vb-pc8:2.2.30"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.32"
+msgctxt "pli-tv-bu-vb-pc8:2.2.31"
 msgid "“suññataṃ samāpattiṃ … pe …"
 msgstr "“I attained the emptiness attainment …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.33"
+msgctxt "pli-tv-bu-vb-pc8:2.2.32"
 msgid "animittaṃ samāpattiṃ …"
 msgstr "the signless attainment …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.34"
+msgctxt "pli-tv-bu-vb-pc8:2.2.33"
 msgid "appaṇihitaṃ samāpattiṃ samāpajjiṃ, samāpajjāmi, samāpanno;"
 msgstr "the desireless attainment … I’m attaining … I’ve attained …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.35"
+msgctxt "pli-tv-bu-vb-pc8:2.2.34"
 msgid "appaṇihitāya samāpattiyā lābhimhi, vasimhi;"
 msgstr "I obtain … I master …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.36"
+msgctxt "pli-tv-bu-vb-pc8:2.2.35"
 msgid "appaṇihitā samāpatti sacchikatā mayā”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "I’ve realized the desireless attainment,” he commits an offense entailing confession."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc28, ms2V_247
-msgctxt "pli-tv-bu-vb-pc8:2.2.37"
+msgctxt "pli-tv-bu-vb-pc8:2.2.36"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.2.38"
+msgctxt "pli-tv-bu-vb-pc8:2.2.37"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.39"
+msgctxt "pli-tv-bu-vb-pc8:2.2.38"
 msgid "“tisso vijjā samāpajjiṃ, samāpajjāmi, samāpanno;"
 msgstr "“I attained the three true insights … I’m attaining … I’ve attained …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.40"
+msgctxt "pli-tv-bu-vb-pc8:2.2.39"
 msgid "tissannaṃ vijjānaṃ lābhimhi, vasimhi;"
 msgstr "I obtain … I master …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.41"
+msgctxt "pli-tv-bu-vb-pc8:2.2.40"
 msgid "tisso vijjā sacchikatā mayā”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "I’ve realized the three true insights,” he commits an offense entailing confession."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc29, pts-vp-pli4.27, ms2V_248
-msgctxt "pli-tv-bu-vb-pc8:2.2.42"
+msgctxt "pli-tv-bu-vb-pc8:2.2.41"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.2.43"
+msgctxt "pli-tv-bu-vb-pc8:2.2.42"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.44"
+msgctxt "pli-tv-bu-vb-pc8:2.2.43"
 msgid "“cattāro satipaṭṭhāne … pe …"
 msgstr "“I attained the four applications of mindfulness …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.45"
+msgctxt "pli-tv-bu-vb-pc8:2.2.44"
 msgid "cattāro sammappadhāne …"
 msgstr "the four right efforts …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.46"
+msgctxt "pli-tv-bu-vb-pc8:2.2.45"
 msgid "cattāro iddhipāde samāpajjiṃ, samāpajjāmi, samāpanno;"
 msgstr "the four bases for supernormal power … I’m attaining … I’ve attained …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.47"
+msgctxt "pli-tv-bu-vb-pc8:2.2.46"
 msgid "catunnaṃ iddhipādānaṃ lābhimhi, vasimhi;"
 msgstr "I obtain … I master …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.48"
+msgctxt "pli-tv-bu-vb-pc8:2.2.47"
 msgid "cattāro iddhipādā sacchikatā mayā”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "I’ve realized the four bases for supernormal power,” he commits an offense entailing confession."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc30, ms2V_249
-msgctxt "pli-tv-bu-vb-pc8:2.2.49"
+msgctxt "pli-tv-bu-vb-pc8:2.2.48"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.2.50"
+msgctxt "pli-tv-bu-vb-pc8:2.2.49"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.51"
+msgctxt "pli-tv-bu-vb-pc8:2.2.50"
 msgid "“pañcindriyāni … pe …"
 msgstr "“I attained the five spiritual faculties …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.52"
+msgctxt "pli-tv-bu-vb-pc8:2.2.51"
 msgid "pañca balāni samāpajjiṃ, samāpajjāmi, samāpanno;"
 msgstr "the five spiritual powers … I’m attaining … I’ve attained …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.53"
+msgctxt "pli-tv-bu-vb-pc8:2.2.52"
 msgid "pañcannaṃ balānaṃ lābhimhi, vasimhi;"
 msgstr "I obtain … I master …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.54"
+msgctxt "pli-tv-bu-vb-pc8:2.2.53"
 msgid "pañca balāni sacchikatāni mayā”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "I’ve realized the five spiritual powers,” he commits an offense entailing confession."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc31, ms2V_250
-msgctxt "pli-tv-bu-vb-pc8:2.2.55"
+msgctxt "pli-tv-bu-vb-pc8:2.2.54"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.2.56"
+msgctxt "pli-tv-bu-vb-pc8:2.2.55"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained, "
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.57"
+msgctxt "pli-tv-bu-vb-pc8:2.2.56"
 msgid "“satta bojjhaṅge samāpajjiṃ, samāpajjāmi, samāpanno;"
 msgstr "“I attained the seven factors of awakening … I’m attaining … I’ve attained …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.58"
+msgctxt "pli-tv-bu-vb-pc8:2.2.57"
 msgid "sattannaṃ bojjhaṅgānaṃ lābhimhi, vasimhi;"
 msgstr " I obtain … I master …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.59"
+msgctxt "pli-tv-bu-vb-pc8:2.2.58"
 msgid "satta bojjhaṅgā sacchikatā mayā”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "I’ve realized the seven factors of awakening,” he commits an offense entailing confession."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc32, ms2V_251
-msgctxt "pli-tv-bu-vb-pc8:2.2.60"
+msgctxt "pli-tv-bu-vb-pc8:2.2.59"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.2.61"
+msgctxt "pli-tv-bu-vb-pc8:2.2.60"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.62"
+msgctxt "pli-tv-bu-vb-pc8:2.2.61"
 msgid "“ariyaṃ aṭṭhaṅgikaṃ maggaṃ samāpajjiṃ, samāpajjāmi, samāpanno;"
 msgstr "“I attained the noble eightfold path … I’m attaining … I’ve attained …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.63"
+msgctxt "pli-tv-bu-vb-pc8:2.2.62"
 msgid "ariyassa aṭṭhaṅgikassa maggassa lābhimhi, vasimhi;"
 msgstr " I obtain … I master …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.64"
+msgctxt "pli-tv-bu-vb-pc8:2.2.63"
 msgid "ariyo aṭṭhaṅgiko maggo sacchikato mayā”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "I’ve realized the noble eightfold path,” he commits an offense entailing confession."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc33, ms2V_252
-msgctxt "pli-tv-bu-vb-pc8:2.2.65"
+msgctxt "pli-tv-bu-vb-pc8:2.2.64"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.2.66"
+msgctxt "pli-tv-bu-vb-pc8:2.2.65"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.67"
+msgctxt "pli-tv-bu-vb-pc8:2.2.66"
 msgid "“sotāpattiphalaṃ … pe …"
 msgstr "“I attained the fruit of stream-entry …"
 
 #. REF: pts-vp-en.2.214
-msgctxt "pli-tv-bu-vb-pc8:2.2.68"
+msgctxt "pli-tv-bu-vb-pc8:2.2.67"
 msgid "sakadāgāmiphalaṃ …"
 msgstr "the fruit of once-returning …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.69"
+msgctxt "pli-tv-bu-vb-pc8:2.2.68"
 msgid "anāgāmiphalaṃ …"
 msgstr "the fruit of non-returning …"
 
 #. VAR: arahattaṃ → arahattaphalaṃ (s1-3)
-msgctxt "pli-tv-bu-vb-pc8:2.2.70"
+msgctxt "pli-tv-bu-vb-pc8:2.2.69"
 msgid "arahattaṃ samāpajjiṃ, samāpajjāmi, samāpanno;"
 msgstr "perfection … I’m attaining … I’ve attained …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.71"
+msgctxt "pli-tv-bu-vb-pc8:2.2.70"
 msgid "arahattassa lābhimhi, vasimhi;"
 msgstr " I obtain … I master …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.72"
+msgctxt "pli-tv-bu-vb-pc8:2.2.71"
 msgid "arahattaṃ sacchikataṃ mayā”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "I’ve realized perfection,” he commits an offense entailing confession."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc34, ms2V_253
-msgctxt "pli-tv-bu-vb-pc8:2.2.73"
+msgctxt "pli-tv-bu-vb-pc8:2.2.72"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.2.74"
+msgctxt "pli-tv-bu-vb-pc8:2.2.73"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.75"
+msgctxt "pli-tv-bu-vb-pc8:2.2.74"
 msgid "“rāgo me catto … pe …"
 msgstr "“I’ve given up sensual desire …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.76"
+msgctxt "pli-tv-bu-vb-pc8:2.2.75"
 msgid "doso me catto …"
 msgstr "I’ve given up ill-will …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.77"
+msgctxt "pli-tv-bu-vb-pc8:2.2.76"
 msgid "moho me catto, vanto, mutto, pahīno, paṭinissaṭṭho, ukkheṭito, samukkheṭito”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "I’ve given up confusion, I’ve renounced it, I’ve let it go, I’ve abandoned it, I’ve relinquished it, I’ve forsaken it, I’ve thrown it aside,” he commits an offense entailing confession."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc35, ms2V_254
-msgctxt "pli-tv-bu-vb-pc8:2.2.78"
+msgctxt "pli-tv-bu-vb-pc8:2.2.77"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.2.79"
+msgctxt "pli-tv-bu-vb-pc8:2.2.78"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.80"
+msgctxt "pli-tv-bu-vb-pc8:2.2.79"
 msgid "“rāgā me cittaṃ vinīvaraṇaṃ … pe …"
 msgstr "“My mind is free from the hindrance of sensual desire …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.81"
+msgctxt "pli-tv-bu-vb-pc8:2.2.80"
 msgid "dosā me cittaṃ vinīvaraṇaṃ …"
 msgstr "My mind is free from the hindrance of ill-will …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.82"
+msgctxt "pli-tv-bu-vb-pc8:2.2.81"
 msgid "mohā me cittaṃ vinīvaraṇan”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "My mind is free from the hindrance of confusion,” he commits an offense entailing confession."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc36, ms2V_255
-msgctxt "pli-tv-bu-vb-pc8:2.2.83"
+msgctxt "pli-tv-bu-vb-pc8:2.2.82"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.2.84"
+msgctxt "pli-tv-bu-vb-pc8:2.2.83"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.85"
+msgctxt "pli-tv-bu-vb-pc8:2.2.84"
 msgid "“suññāgāre paṭhamaṃ jhānaṃ … pe …"
 msgstr "“I attained the first absorption in an empty dwelling …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.86"
+msgctxt "pli-tv-bu-vb-pc8:2.2.85"
 msgid "dutiyaṃ jhānaṃ …"
 msgstr "the second absorption …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.87"
+msgctxt "pli-tv-bu-vb-pc8:2.2.86"
 msgid "tatiyaṃ jhānaṃ …"
 msgstr "the third absorption …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.88"
+msgctxt "pli-tv-bu-vb-pc8:2.2.87"
 msgid "catutthaṃ jhānaṃ samāpajjiṃ, samāpajjāmi, samāpanno;"
 msgstr "the fourth absorption … I’m attaining … I’ve attained …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.89"
+msgctxt "pli-tv-bu-vb-pc8:2.2.88"
 msgid "suññāgāre catutthassa jhānassa lābhimhi, vasimhi;"
 msgstr " I obtain … I master …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.2.90"
+msgctxt "pli-tv-bu-vb-pc8:2.2.89"
 msgid "suññāgāre catutthaṃ jhānaṃ sacchikataṃ mayā”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "I’ve realized the fourth absorption in an empty dwelling,” he commits an offense entailing confession."
 
 #. HTML: </span></p><h5>
-msgctxt "pli-tv-bu-vb-pc8:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc8:2.3.0"
 msgid ""
 msgstr "Combinations of two attainments"
 
@@ -1336,32 +1336,32 @@ msgid "“mohā ca me cittaṃ vinīvaraṇaṃ, dosā ca me cittaṃ vinīvara�
 msgstr "“My mind is free from the hindrance of confusion and my mind is free from the hindrance of ill-will,” he commits an offense entailing confession. …"
 
 #. HTML: </span></p><h5>
-msgctxt "pli-tv-bu-vb-pc8:2.3.96a"
+msgctxt "pli-tv-bu-vb-pc8:2.3.96.0"
 msgid ""
 msgstr "Combination of all attainments"
 
 #. HTML: </h5><p><span class="term"> 
 #. REF: sc55, pts-vp-pli4.29, ms2V_274
-msgctxt "pli-tv-bu-vb-pc8:2.3.97"
+msgctxt "pli-tv-bu-vb-pc8:2.3.96"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:2.3.98"
+msgctxt "pli-tv-bu-vb-pc8:2.3.97"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
 
 #. VAR: arahattañca → arahat­ta­phalañca (s1-3)
-msgctxt "pli-tv-bu-vb-pc8:2.3.99"
+msgctxt "pli-tv-bu-vb-pc8:2.3.98"
 msgid "“paṭhamañca jhānaṃ dutiyañca jhānaṃ tatiyañca jhānaṃ catutthañca jhānaṃ suññatañca vimokkhaṃ animittañca vimokkhaṃ appaṇihitañca vimokkhaṃ suññatañca samādhiṃ animittañca samādhiṃ appaṇihitañca samādhiṃ suññatañca samāpattiṃ animittañca samāpattiṃ appaṇihitañca samāpattiṃ tisso ca vijjā cattāro ca satipaṭṭhāne cattāro ca sammappadhāne cattāro ca iddhipāde pañca ca indriyāni pañca ca balāni satta ca bojjhaṅge ariyañca aṭṭhaṅgikaṃ maggaṃ sotāpattiphalañca sakadāgāmiphalañca anāgāmiphalañca arahattañca samāpajjiṃ … pe …"
 msgstr "“I attained the first absorption and the second absorption and the third absorption and the fourth absorption and the emptiness release and the signless release and the desireless release and the emptiness stillness and the signless stillness and the desireless stillness and the emptiness attainment and the signless attainment and the desireless attainment and the three true insights and the four applications of mindfulness and the four right efforts and the four bases for supernormal power and the five spiritual faculties and the five spiritual powers and the seven factors of awakening and the noble eightfold path and the fruit of stream entry and the fruit of once-returning and the fruit of non-returning and perfection …"
 
-msgctxt "pli-tv-bu-vb-pc8:2.3.100"
+msgctxt "pli-tv-bu-vb-pc8:2.3.99"
 msgid "rāgo ca me catto, doso ca me catto, moho ca me catto, vanto, mutto, pahīno, paṭinissaṭṭho, ukkheṭito samukkheṭito, rāgā ca me cittaṃ vinīvaraṇaṃ, dosā ca me cittaṃ vinīvaraṇaṃ, mohā ca me cittaṃ vinīvaraṇan”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "and I’ve given up sensual desire, renounced it, let it go, abandoned it, relinquished it, forsaken it, thrown it aside; and I’ve given up ill-will, renounced it, let it go, abandoned it, relinquished it, forsaken it, thrown it aside; and I’ve given up confusion, renounced it, let it go, abandoned it, relinquished it, forsaken it, thrown it aside; and my mind is free from the hindrance of sensual desire; and my mind is free from the hindrance of ill-will; and my mind is free from the hindrance of confusion,” he commits an offense entailing confession."
 
 #. HTML: </span></p><h5>
-msgctxt "pli-tv-bu-vb-pc8:2.4.0a"
+msgctxt "pli-tv-bu-vb-pc8:2.4.0"
 msgid ""
 msgstr "Meaning to say one thing, but saying something else"
 
@@ -1507,7 +1507,7 @@ msgid "“dutiyañca jhānaṃ tatiyañca jhānaṃ catutthañca jhānaṃ … p
 msgstr "“I attained the second absorption and the third absorption and the fourth absorption … and my mind is free from the hindrance of confusion,” while actually saying, “I attained the first absorption,” if the listener understands, he commits an offense entailing confession; if the listener does not understand, he commits an offense of wrong conduct. …"
 
 #. HTML: </span></p><h5>
-msgctxt "pli-tv-bu-vb-pc8:2.5.0a"
+msgctxt "pli-tv-bu-vb-pc8:2.5.0"
 msgid ""
 msgstr "Gross hinting"
 
@@ -1741,7 +1741,7 @@ msgid "tena bhikkhunā suññāgāre catutthaṃ jhānaṃ sacchikatan”ti bha�
 msgstr "has realized the fourth absorption in an empty dwelling,” he commits an offense of wrong conduct."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc8:2.6.0a"
+msgctxt "pli-tv-bu-vb-pc8:2.6.0"
 msgid ""
 msgstr "Non-offenses"
 

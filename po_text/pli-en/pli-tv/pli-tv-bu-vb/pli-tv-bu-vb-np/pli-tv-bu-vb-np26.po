@@ -28,7 +28,7 @@ msgid "26. Suttaviññattisikkhāpada"
 msgstr "26. The training rule on asking for thread"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np26:1.0a"
+msgctxt "pli-tv-bu-vb-np26:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -136,18 +136,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np26:1.23a"
+msgctxt "pli-tv-bu-vb-np26:1.23.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc4, ms1V_2353
-msgctxt "pli-tv-bu-vb-np26:1.24"
+msgctxt "pli-tv-bu-vb-np26:1.23"
 msgid "“Yo pana bhikkhu sāmaṃ suttaṃ viññāpetvā tantavāyehi cīvaraṃ vāyāpeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk himself asks for thread, and then gets weavers to weave him robe-cloth, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np26:2.0a"
+msgctxt "pli-tv-bu-vb-np26:2.0"
 msgid ""
 msgstr "Definitions"
 
@@ -256,101 +256,101 @@ msgid "āyasmato dammīti."
 msgstr "‘I give this robe-cloth back to you.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np26:2.21a"
+msgctxt "pli-tv-bu-vb-np26:2.21.0"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><p>
 #. REF: sc9, ms1V_2358
-msgctxt "pli-tv-bu-vb-np26:2.22"
+msgctxt "pli-tv-bu-vb-np26:2.21"
 msgid "Vāyāpite vāyāpitasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he got it woven, and he perceives that he did, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np26:2.23"
+msgctxt "pli-tv-bu-vb-np26:2.22"
 msgid "Vāyāpite vematiko, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he got it woven, but he is unsure if he did, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np26:2.24"
+msgctxt "pli-tv-bu-vb-np26:2.23"
 msgid "Vāyāpite avāyāpitasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he got it woven, but he perceives that he did not, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </p><p>
 #. REF: sc10, ms1V_2359
-msgctxt "pli-tv-bu-vb-np26:2.25"
+msgctxt "pli-tv-bu-vb-np26:2.24"
 msgid "Avāyāpite vāyāpitasaññī, āpatti dukkaṭassa."
 msgstr "If he did not get it woven, but he perceives that he did, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np26:2.26"
+msgctxt "pli-tv-bu-vb-np26:2.25"
 msgid "Avāyāpite vematiko, āpatti dukkaṭassa."
 msgstr "If he did not get it woven, but he is unsure if he did, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np26:2.27"
+msgctxt "pli-tv-bu-vb-np26:2.26"
 msgid "Avāyāpite avāyāpitasaññī, anāpatti."
 msgstr "If he did not get it woven, and he perceives that he did not, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np26:2.27a"
+msgctxt "pli-tv-bu-vb-np26:2.27.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc11, ms1V_2360
-msgctxt "pli-tv-bu-vb-np26:2.28"
+msgctxt "pli-tv-bu-vb-np26:2.27"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
-msgctxt "pli-tv-bu-vb-np26:2.29"
+msgctxt "pli-tv-bu-vb-np26:2.28"
 msgid "cīvaraṃ sibbetuṃ,"
 msgstr "if it is to sew a robe;"
 
 # NOTE: Āyoga. Used as a support for the pallattikā sitting posture. See TAP p.259 (ad. sek.26).
-msgctxt "pli-tv-bu-vb-np26:2.30"
+msgctxt "pli-tv-bu-vb-np26:2.29"
 msgid "āyoge,"
 msgstr "if it is for a back-and-knee strap;"
 
-msgctxt "pli-tv-bu-vb-np26:2.31"
+msgctxt "pli-tv-bu-vb-np26:2.30"
 msgid "kāyabandhane,"
 msgstr "if it is for a belt;"
 
 #. VAR: aṃsabaddhake → aṃsavaṭṭake (bj) | aṃsabandhake (s1-3, pts1)
-msgctxt "pli-tv-bu-vb-np26:2.32"
+msgctxt "pli-tv-bu-vb-np26:2.31"
 msgid "aṃsabaddhake,"
 msgstr "if it is for a shoulder strap;"
 
-msgctxt "pli-tv-bu-vb-np26:2.33"
+msgctxt "pli-tv-bu-vb-np26:2.32"
 msgid "pattatthavikāya,"
 msgstr "if it is for a bowl-bag;"
 
-msgctxt "pli-tv-bu-vb-np26:2.34"
+msgctxt "pli-tv-bu-vb-np26:2.33"
 msgid "parissāvane,"
 msgstr "if it is for a water filter;"
 
-msgctxt "pli-tv-bu-vb-np26:2.35"
+msgctxt "pli-tv-bu-vb-np26:2.34"
 msgid "ñātakānaṃ,"
 msgstr "if it is from relatives;"
 
-msgctxt "pli-tv-bu-vb-np26:2.36"
+msgctxt "pli-tv-bu-vb-np26:2.35"
 msgid "pavāritānaṃ,"
 msgstr "if it is from those who have given an invitation;"
 
-msgctxt "pli-tv-bu-vb-np26:2.37"
+msgctxt "pli-tv-bu-vb-np26:2.36"
 msgid "aññassatthāya,"
 msgstr "if it for the benefit of someone else;"
 
-msgctxt "pli-tv-bu-vb-np26:2.38"
+msgctxt "pli-tv-bu-vb-np26:2.37"
 msgid "attano dhanena,"
 msgstr "if it is by means of one’s own property;"
 
-msgctxt "pli-tv-bu-vb-np26:2.39"
+msgctxt "pli-tv-bu-vb-np26:2.38"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-np26:2.40"
+msgctxt "pli-tv-bu-vb-np26:2.39"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><hr><p class="endsutta">
 #. REF: sc12, ms1V_2361
-msgctxt "pli-tv-bu-vb-np26:2.41"
+msgctxt "pli-tv-bu-vb-np26:2.40"
 msgid "Suttaviññattisikkhāpadaṃ niṭṭhitaṃ chaṭṭhaṃ."
 msgstr "The sixth rule, the training rule on asking for thread, is finished."

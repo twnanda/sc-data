@@ -102,7 +102,7 @@ msgid "tassa kālaṅkiriyāya bhinnā nigaṇṭhā … pe … bhinnathūpe app
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn29:5.4"
+msgctxt "dn29:6.0"
 msgid "1. Asammāsambuddhappaveditadhammavinaya "
 msgstr "1. The Teaching of the Unawakened "
 
@@ -209,7 +209,7 @@ msgid "Evañhetaṃ, cunda, hoti durakkhāte dhammavinaye duppavedite aniyyānik
 msgstr "It’s because that teaching and training is poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha. "
 
 #. HTML: </p><h2>
-msgctxt "dn29:7.12"
+msgctxt "dn29:8.0"
 msgid "2. Sammāsambuddhappaveditadhammavinaya "
 msgstr "2. The Teaching of the Awakened "
 
@@ -312,7 +312,7 @@ msgid "Evañhetaṃ, cunda, hoti svākkhāte dhammavinaye suppavedite niyyānike
 msgstr "It’s because that teaching and training is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is a fully awakened Buddha. "
 
 #. HTML: </p><h2>
-msgctxt "dn29:9.13"
+msgctxt "dn29:10.0"
 msgid "3. Sāvakānutappasatthu "
 msgstr "3. When Disciples Have Regrets "
 
@@ -352,7 +352,7 @@ msgid "Evarūpo kho, cunda, satthā sāvakānaṃ kālaṅkato anutappo hoti. "
 msgstr "When such a teacher has passed away the disciples are tormented by regrets. "
 
 #. HTML: </p><h2>
-msgctxt "dn29:10.9"
+msgctxt "dn29:11.0"
 msgid "4. Sāvakānanutappasatthu "
 msgstr "4. When Disciples Have No Regrets "
 
@@ -399,7 +399,7 @@ msgid "Evarūpo kho, cunda, satthā sāvakānaṃ kālaṅkato ananutappo hoti. 
 msgstr "When such a teacher has passed away the disciples are free of regrets. "
 
 #. HTML: </p><h2>
-msgctxt "dn29:11.11"
+msgctxt "dn29:12.0"
 msgid "5. Brahmacariyaaparipūrādikathā "
 msgstr "5. On the Incomplete Spiritual Path, Etc. "
 
@@ -755,7 +755,7 @@ msgid "‘sabbākārasampannaṃ sabbākāraparipūraṃ anūnamanadhikaṃ svā
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn29:21.22"
+msgctxt "dn29:22.0"
 msgid "6. Saṅgāyitabbadhamma "
 msgstr "6. Teachings Should be Recited in Concert "
 
@@ -782,7 +782,7 @@ msgid "Yattha sabbeheva saṅgamma samāgamma atthena atthaṃ byañjanena byañ
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn29:22.6"
+msgctxt "dn29:23.0"
 msgid "7. Saññāpetabbavidhi "
 msgstr "7. Reaching Agreement "
 
@@ -922,7 +922,7 @@ msgid "ye mayaṃ āyasmantaṃ tādisaṃ sabrahmacāriṃ passāma evaṃ atth
 msgstr "to see a venerable such as yourself, so well-versed in the meaning and the phrasing, as one of our spiritual companions!’ "
 
 #. HTML: </p><h2>
-msgctxt "dn29:26.8"
+msgctxt "dn29:27.0"
 msgid "8. Paccayānuññātakāraṇa "
 msgstr "8. The Reasons for Allowing Requisites "
 
@@ -980,7 +980,7 @@ msgid "yāvadeva uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya
 msgstr "only for the sake of warding off the pains of illness and to promote good health. "
 
 #. HTML: </p><h2>
-msgctxt "dn29:27.13"
+msgctxt "dn29:28.0"
 msgid "9. Sukhallikānuyoga "
 msgstr "9. Indulgence in Pleasure "
 
@@ -1158,7 +1158,7 @@ msgid "Sammā te vo vadamānā vadeyyuṃ, na te vo abbhācikkheyyuṃ asatā ab
 msgstr "It’s right to say that about you; it doesn’t misrepresent you with an untruth. "
 
 #. HTML: </p><h2>
-msgctxt "dn29:42.5"
+msgctxt "dn29:43.0"
 msgid "10. Sukhallikānuyogānisaṃsa "
 msgstr "10. The Benefits of Indulgence in Pleasure "
 
@@ -1226,7 +1226,7 @@ msgid "Ime kho, āvuso, cattāro sukhallikānuyoge anuyuttānaṃ viharataṃ im
 msgstr "These four benefits may be expected by those who live indulging in pleasure in these four ways.’ "
 
 #. HTML: </p><h2>
-msgctxt "dn29:43.15"
+msgctxt "dn29:44.0"
 msgid "11. Khīṇāsavaabhabbaṭhāna "
 msgstr "11. Things Impossible for the Perfected "
 
@@ -1271,7 +1271,7 @@ msgid "Yo so, āvuso, bhikkhu arahaṃ khīṇāsavo vusitavā katakaraṇīyo o
 msgstr "A mendicant who is perfected can’t transgress in these nine respects.’ "
 
 #. HTML: </p><h2>
-msgctxt "dn29:44.10"
+msgctxt "dn29:45.0"
 msgid "12. Pañhābyākaraṇa "
 msgstr "12. Questions and Answers "
 
@@ -1375,7 +1375,7 @@ msgid "Sadevake loke, cunda, samārake sabrahmake sassamaṇabrāhmaṇiyā paj�
 msgstr "In this world—with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans—the Realized One is the undefeated, the champion, the universal seer, the wielder of power. "
 
 #. HTML: </p><h2>
-msgctxt "dn29:46.9"
+msgctxt "dn29:47.0"
 msgid "13. Abyākataṭṭhāna "
 msgstr "13. The Undeclared Points "
 
@@ -1486,7 +1486,7 @@ msgid "‘na hetaṃ, āvuso, atthasaṃhitaṃ na dhammasaṃhitaṃ na ādibra
 msgstr "‘Because it’s not beneficial or relevant to the fundamentals of the spiritual life. It doesn’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. That’s why it hasn’t been declared by the Buddha.’ "
 
 #. HTML: </p><h2>
-msgctxt "dn29:51.5"
+msgctxt "dn29:52.0"
 msgid "14. Byākataṭṭhāna "
 msgstr "14. The Declared Points "
 
@@ -1527,7 +1527,7 @@ msgid "‘etañhi, āvuso, atthasaṃhitaṃ, etaṃ dhammasaṃhitaṃ, etaṃ 
 msgstr "‘Because it’s beneficial and relevant to the fundamentals of the spiritual life. It leads to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. That’s why it has been declared by the Buddha.’ "
 
 #. HTML: </p><h2>
-msgctxt "dn29:53.5"
+msgctxt "dn29:54.0"
 msgid "15. Pubbantasahagatadiṭṭhinissaya "
 msgstr "15. Views of the Past "
 
@@ -1801,7 +1801,7 @@ msgid "Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmi? 
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn29:56.29"
+msgctxt "dn29:57.0"
 msgid "16. Aparantasahagatadiṭṭhinissaya "
 msgstr "16. Views of the Future "
 

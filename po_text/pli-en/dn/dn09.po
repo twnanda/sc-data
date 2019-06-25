@@ -13,7 +13,7 @@ msgid "Poṭṭhapādasutta "
 msgstr "With Poṭṭhapāda "
 
 #. HTML: </h1></div><h2>
-msgctxt "dn9:0.3"
+msgctxt "dn9:1.0"
 msgid "1. Poṭṭhapādaparibbājakavatthu "
 msgstr "1. On the Wanderer Poṭṭhapāda "
 
@@ -142,7 +142,7 @@ msgid "“kāya nuttha, poṭṭhapāda, etarahi kathāya sannisinnā, kā ca pa
 msgstr "“Poṭṭhapāda, what were you sitting talking about just now? What conversation was unfinished?” "
 
 #. HTML: </p><h3>
-msgctxt "dn9:5.11"
+msgctxt "dn9:6.0"
 msgid "1.1. Abhisaññānirodhakathā "
 msgstr "1.1. On the Cessation of Perception "
 
@@ -304,7 +304,7 @@ msgid "Kathaṃ nu kho, bhante, abhisaññānirodho hotī”ti? "
 msgstr "How does the cessation of perception happen?” "
 
 #. HTML: </p><h3>
-msgctxt "dn9:6.36"
+msgctxt "dn9:7.0"
 msgid "1.2. Sahetukasaññuppādanirodhakathā "
 msgstr "1.2. Perception Arises With a Cause "
 
@@ -652,7 +652,7 @@ msgid "yathā saññā paṭhamaṃ uppajjati, pacchā ñāṇaṃ, saññuppād
 msgstr "perception arises first and knowledge afterwards; that the arising of perception leads to the arising of knowledge.” "
 
 #. HTML: </p><h3>
-msgctxt "dn9:20.7"
+msgctxt "dn9:21.0"
 msgid "1.3. Saññāattakathā "
 msgstr "1.3. Perception and the Self "
 
@@ -943,7 +943,7 @@ msgid "Bhūtaṃ kho pana tacchaṃ tathaṃ paṭipadaṃ paññapentassa dhamm
 msgstr "So how could a sensible person such as I not agree that what was well spoken by the ascetic Gotama was in fact well spoken?” "
 
 #. HTML: </p><h2>
-msgctxt "dn9:31.12"
+msgctxt "dn9:32.0"
 msgid "2. Cittahatthisāriputtapoṭṭhapādavatthu "
 msgstr "2. On Citta Hatthisāriputta "
 
@@ -1086,43 +1086,43 @@ msgid "Tasmā te mayā anekaṃsikā dhammā desitā paññattā. "
 msgstr "That’s why I haven’t taught and pointed them out. "
 
 #. HTML: </p><h3>
-msgctxt "dn9:33.19"
+msgctxt "dn9:33.19.0"
 msgid "2.1. Ekaṃsikadhammā "
 msgstr "2.1. Things That Are Definitive "
 
 #. HTML: </h3><p>
 #. REF: pts-vp-pli1.192, sc40
-msgctxt "dn9:33.20"
+msgctxt "dn9:33.19"
 msgid "Katame ca te, poṭṭhapāda, mayā ekaṃsikā dhammā desitā paññattā? "
 msgstr "And what things have I taught and pointed out that are definitive? "
 
-msgctxt "dn9:33.21"
+msgctxt "dn9:33.20"
 msgid "Idaṃ dukkhanti kho, poṭṭhapāda, mayā ekaṃsiko dhammo desito paññatto. "
 msgstr "‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’.” "
 
-msgctxt "dn9:33.22"
+msgctxt "dn9:33.21"
 msgid "Ayaṃ dukkhasamudayoti kho, poṭṭhapāda, mayā ekaṃsiko dhammo desito paññatto. "
 msgstr " "
 
-msgctxt "dn9:33.23"
+msgctxt "dn9:33.22"
 msgid "Ayaṃ dukkhanirodhoti kho, poṭṭhapāda, mayā ekaṃsiko dhammo desito paññatto. "
 msgstr " "
 
-msgctxt "dn9:33.24"
+msgctxt "dn9:33.23"
 msgid "Ayaṃ dukkhanirodhagāminī paṭipadāti kho, poṭṭhapāda, mayā ekaṃsiko dhammo desito paññatto. "
 msgstr " "
 
 #. HTML: </p><p>
 #. REF: sc41
-msgctxt "dn9:33.25"
+msgctxt "dn9:33.24"
 msgid "Kasmā ca te, poṭṭhapāda, mayā ekaṃsikā dhammā desitā paññattā? "
 msgstr "And why have I taught and pointed out such things that are definitive? "
 
-msgctxt "dn9:33.26"
+msgctxt "dn9:33.25"
 msgid "Ete hi, poṭṭhapāda, atthasaṃhitā, ete dhammasaṃhitā, ete ādibrahmacariyakā ete nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti. "
 msgstr "Because they are beneficial and relevant to the fundamentals of the spiritual life. They lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. "
 
-msgctxt "dn9:33.27"
+msgctxt "dn9:33.26"
 msgid "Tasmā te mayā ekaṃsikā dhammā desitā paññattā. "
 msgstr "That’s why I have taught and pointed them out. "
 
@@ -1545,7 +1545,7 @@ msgid "“Addhā kho, bhante, evaṃ sante tesaṃ samaṇabrāhmaṇānaṃ app
 msgstr "“Clearly that’s the case, sir.” "
 
 #. HTML: </p><h3>
-msgctxt "dn9:38.23"
+msgctxt "dn9:39.0"
 msgid "2.2. Tayoattapaṭilābha "
 msgstr "2.2. Three Kinds of Reincarnation "
 
@@ -2080,7 +2080,7 @@ msgid "Upāsakaṃ maṃ bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ 
 msgstr "From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.” "
 
 #. HTML: </p><h3>
-msgctxt "dn9:54.6"
+msgctxt "dn9:55.0"
 msgid "2.3. Cittahatthisāriputtaupasampadā "
 msgstr "2.3. The Ordination of Citta Hatthisāriputta "
 

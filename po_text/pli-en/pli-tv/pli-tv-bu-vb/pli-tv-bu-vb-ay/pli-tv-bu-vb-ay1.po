@@ -29,7 +29,7 @@ msgid "Ime kho panāyasmanto dve aniyatā dhammā uddesaṃ āgacchanti."
 msgstr "Venerables, these two undetermined rules come up for recitation."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ay1:1.0a"
+msgctxt "pli-tv-bu-vb-ay1:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -182,30 +182,30 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ay1:1.35a"
+msgctxt "pli-tv-bu-vb-ay1:1.35.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc5, ms1V_1806, pts-vp-en1.332
-msgctxt "pli-tv-bu-vb-ay1:1.36"
+msgctxt "pli-tv-bu-vb-ay1:1.35"
 msgid "“Yo pana bhikkhu mātugāmena saddhiṃ eko ekāya raho paṭicchanne āsane alaṃkammaniye nisajjaṃ kappeyya, tamenaṃ saddheyyavacasā upāsikā disvā tiṇṇaṃ dhammānaṃ aññatarena vadeyya—"
 msgstr "‘If a monk sits alone with a woman on a private and concealed seat suitable for doing it, and a trustworthy female lay follower sees him and accuses him"
 
-msgctxt "pli-tv-bu-vb-ay1:1.37"
+msgctxt "pli-tv-bu-vb-ay1:1.36"
 msgid "pārājikena vā saṃghādisesena vā pācittiyena vā, nisajjaṃ bhikkhu paṭijānamāno tiṇṇaṃ dhammānaṃ aññatarena kāretabbo—"
 msgstr "of an offense entailing expulsion or an offense entailing suspension or an offense entailing confession, then, if he admits to the sitting, he is to be dealt with"
 
-msgctxt "pli-tv-bu-vb-ay1:1.38"
+msgctxt "pli-tv-bu-vb-ay1:1.37"
 msgid "pārājikena vā saṃghādisesena vā pācittiyena vā, yena vā sā saddheyyavacasā upāsikā vadeyya, tena so bhikkhu kāretabbo."
 msgstr "according to one of these three or according to what that trustworthy female lay follower has said."
 
-msgctxt "pli-tv-bu-vb-ay1:1.39"
+msgctxt "pli-tv-bu-vb-ay1:1.38"
 msgid "Ayaṃ dhammo aniyato”ti."
 msgstr "This rule is undetermined.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ay1:2.1.0a"
+msgctxt "pli-tv-bu-vb-ay1:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -701,7 +701,7 @@ msgid "pārājikaṃ vā saṃghādiseso vā pācittiyaṃ vā."
 msgstr "It is either an offense entailing expulsion or an offense entailing suspension or an offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ay1:3.0a"
+msgctxt "pli-tv-bu-vb-ay1:3.0"
 msgid ""
 msgstr "Permutations"
 

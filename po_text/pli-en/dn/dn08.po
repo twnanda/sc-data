@@ -125,7 +125,7 @@ msgid "Yaṃ mayaṃ ekaccaṃ vadema ‘sādhū’ti, pare taṃ ekaccaṃ vada
 msgstr "And some of the things that I do applaud, others don’t applaud. "
 
 #. HTML: </p><h2>
-msgctxt "dn8:4.11"
+msgctxt "dn8:5.0"
 msgid "1. Samanuyuñjāpanakathā "
 msgstr "1. Examination "
 
@@ -267,7 +267,7 @@ msgid "Itiha, kassapa, viññū samanuyuñjantā samanugāhantā samanubhāsant�
 msgstr "And that’s how, when sensible people pursue the matter, they will mostly praise us. "
 
 #. HTML: </p><h2>
-msgctxt "dn8:12.5"
+msgctxt "dn8:13.0"
 msgid "2. Ariyaaṭṭhaṅgikamagga "
 msgstr "2. The Noble Eightfold Path "
 
@@ -304,7 +304,7 @@ msgid "Ayaṃ kho, kassapa, maggo, ayaṃ paṭipadā, yathāpaṭipanno sāmañ
 msgstr "This is the path, this is the practice, practicing in accordance with which you will know and see for yourself: ‘Only the ascetic Gotama’s words are timely, true, and meaningful, in line with the teaching and training.’” "
 
 #. HTML: </p><h2>
-msgctxt "dn8:13.8"
+msgctxt "dn8:14.0"
 msgid "3. Tapopakkamakathā "
 msgstr "3. Practicing Self-Mortification "
 
@@ -410,7 +410,7 @@ msgid "sāyatatiyakampi udakorohanānuyogamanuyutto viharatī”ti. "
 msgstr "They’re committed to the practice of immersion in water three times a day, including the evening.” "
 
 #. HTML: </p><h2>
-msgctxt "dn8:14.24"
+msgctxt "dn8:15.0"
 msgid "4. Tapopakkamaniratthakathā "
 msgstr "4. The Uselessness of Self-Mortification "
 
@@ -760,7 +760,7 @@ msgid "Ayaṃ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipī”ti. 
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn8:17.31"
+msgctxt "dn8:18.0"
 msgid "5. Sīlasamādhipaññāsampadā "
 msgstr "5. The Accomplishment of Ethics, Immersion, and Wisdom "
 
@@ -903,7 +903,7 @@ msgid "Imāya ca, kassapa, sīlasampadāya cittasampadāya paññāsampadāya a�
 msgstr "And, Kassapa, there is no accomplishment in ethics, mind, and wisdom that is better or finer than this. "
 
 #. HTML: </p><h2>
-msgctxt "dn8:20.8"
+msgctxt "dn8:21.0"
 msgid "6. Sīhanādakathā "
 msgstr "6. The Lion’s Roar "
 
@@ -1062,7 +1062,7 @@ msgid "‘Sīhanādañca samaṇo gotamo nadati, parisāsu ca nadati, visārado 
 msgstr "What should be said is this: ‘The ascetic Gotama roars his lion’s roar; he roars it in an assembly; he roars it boldly; they question him; he answers their questions; his answers are satisfactory; they think him worth listening to; they’re confident after listening; they show their confidence; they practice accordingly; and they succeed in their practice.’ "
 
 #. HTML: </p><h2>
-msgctxt "dn8:22.20"
+msgctxt "dn8:23.0"
 msgid "7. Titthiyaparivāsakathā "
 msgstr "7. The Probation For One Previously Ordained "
 

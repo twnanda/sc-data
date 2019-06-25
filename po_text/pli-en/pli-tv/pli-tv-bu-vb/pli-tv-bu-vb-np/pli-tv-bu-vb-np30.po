@@ -28,7 +28,7 @@ msgid "30. Pariṇatasikkhāpada"
 msgstr "30. The training rule on what is intended"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np30:1.0a"
+msgctxt "pli-tv-bu-vb-np30:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -155,18 +155,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np30:1.27a"
+msgctxt "pli-tv-bu-vb-np30:1.27.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc3, ms1V_2423
-msgctxt "pli-tv-bu-vb-np30:1.28"
+msgctxt "pli-tv-bu-vb-np30:1.27"
 msgid "“Yo pana bhikkhu jānaṃ saṃghikaṃ lābhaṃ pariṇataṃ attano pariṇāmeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk diverts to himself something that he knows was intended for the Order, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np30:2.0a"
+msgctxt "pli-tv-bu-vb-np30:2.0"
 msgid ""
 msgstr "Definitions"
 
@@ -291,160 +291,160 @@ msgid "āyasmato dammīti."
 msgstr "‘I give this back to you.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np30:2.24a"
+msgctxt "pli-tv-bu-vb-np30:2.24.0"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><p>
 #. REF: sc10, ms1V_2430
-msgctxt "pli-tv-bu-vb-np30:2.25"
+msgctxt "pli-tv-bu-vb-np30:2.24"
 msgid "Pariṇate pariṇatasaññī attano pariṇāmeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is intended for the Order and he perceives it as such, and he diverts it to himself, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </p><p>
 #. REF: sc11, ms1V_2431
-msgctxt "pli-tv-bu-vb-np30:2.26"
+msgctxt "pli-tv-bu-vb-np30:2.25"
 msgid "Pariṇate vematiko attano pariṇāmeti, āpatti dukkaṭassa."
 msgstr "If it is intended for the Order, but he is unsure if it is, and he diverts it to himself, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np30:2.27"
+msgctxt "pli-tv-bu-vb-np30:2.26"
 msgid "Pariṇate apariṇatasaññī attano pariṇāmeti, anāpatti."
 msgstr "If it is intended for the Order, but he does not perceives it as such, and he diverts it to himself, there is no offense."
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-np30:2.28"
+msgctxt "pli-tv-bu-vb-np30:2.27"
 msgid "Saṃghassa pariṇataṃ aññasaṃghassa vā cetiyassa vā pariṇāmeti, āpatti dukkaṭassa."
 msgstr "If it is intended for one Order and he diverts it to another Order or to a shrine, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np30:2.29"
+msgctxt "pli-tv-bu-vb-np30:2.28"
 msgid "Cetiyassa pariṇataṃ aññacetiyassa vā saṃghassa vā puggalassa vā pariṇāmeti, āpatti dukkaṭassa."
 msgstr "If it is intended for one shrine and he diverts it to another shrine or to an Order or to an individual, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np30:2.30"
+msgctxt "pli-tv-bu-vb-np30:2.29"
 msgid "Puggalassa pariṇataṃ aññapuggalassa vā saṃghassa vā cetiyassa vā pariṇāmeti, āpatti dukkaṭassa."
 msgstr "If it is intended for an individual and he diverts it to another individual or to an Order or to a shrine, he commits an offense of wrong conduct."
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-np30:2.31"
+msgctxt "pli-tv-bu-vb-np30:2.30"
 msgid "Apariṇate pariṇatasaññī, āpatti dukkaṭassa."
 msgstr "If it is not intended for the Order, but he perceives it as intended for the Order, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np30:2.32"
+msgctxt "pli-tv-bu-vb-np30:2.31"
 msgid "Apariṇate vematiko, āpatti dukkaṭassa."
 msgstr "If it is not intended for the Order, but he is unsure of it, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np30:2.33"
+msgctxt "pli-tv-bu-vb-np30:2.32"
 msgid "Apariṇate apariṇatasaññī, anāpatti."
 msgstr "If it is not intended for the Order and he does not perceive it as such, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np30:2.33a"
+msgctxt "pli-tv-bu-vb-np30:2.33.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc12, ms1V_2432
-msgctxt "pli-tv-bu-vb-np30:2.34"
+msgctxt "pli-tv-bu-vb-np30:2.33"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
 #. REF: pts-vp-en2.163
-msgctxt "pli-tv-bu-vb-np30:2.35"
+msgctxt "pli-tv-bu-vb-np30:2.34"
 msgid "kattha demāti pucchiyamāno yattha tumhākaṃ deyyadhammo paribhogaṃ vā labheyya paṭisaṅkhāraṃ vā labheyya ciraṭṭhitiko vā assa yattha vā pana tumhākaṃ cittaṃ pasīdati tattha dethāti bhaṇati,"
 msgstr "if being asked, “Where may we give?” he says, “Give where your gift goes towards equipment/where it goes towards repairs/where it will last for a long time/where you feel inspired;”"
 
-msgctxt "pli-tv-bu-vb-np30:2.36"
+msgctxt "pli-tv-bu-vb-np30:2.35"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-np30:2.37"
+msgctxt "pli-tv-bu-vb-np30:2.36"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><hr><p class="endsutta">
 #. REF: sc13, ms1V_2433
-msgctxt "pli-tv-bu-vb-np30:2.38"
+msgctxt "pli-tv-bu-vb-np30:2.37"
 msgid "Pariṇatasikkhāpadaṃ niṭṭhitaṃ dasamaṃ."
 msgstr "The tenth rule, the training rule on what is intended, is finished."
 
 #. HTML: </p><p class="endchapter"> 
-msgctxt "pli-tv-bu-vb-np30:2.39"
+msgctxt "pli-tv-bu-vb-np30:2.38"
 msgid "Pattavaggo tatiyo."
 msgstr "The third chapter on bowls is finished."
 
 #. HTML: </p><p class="endsection summary">
 #. REF: sc14, ms1V_2434
-msgctxt "pli-tv-bu-vb-np30:2.40"
+msgctxt "pli-tv-bu-vb-np30:2.39"
 msgid "Tassuddānaṃ"
 msgstr "This is the summary:"
 
 #. HTML: </p><p class="uddana">
 #. REF: sc15, ms1V_2435
-msgctxt "pli-tv-bu-vb-np30:2.41"
+msgctxt "pli-tv-bu-vb-np30:2.40"
 msgid "Dve ca pattāni bhesajjaṃ,"
 msgstr "Two on bowls, and tonics,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-np30:2.42"
+msgctxt "pli-tv-bu-vb-np30:2.41"
 msgid "vassikā dānapañcamaṃ;"
 msgstr "Rainy season, the fifth on a gift;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-np30:2.43"
+msgctxt "pli-tv-bu-vb-np30:2.42"
 msgid "Sāmaṃ vāyāpanacceko,"
 msgstr "Oneself, getting woven, haste,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-np30:2.44"
+msgctxt "pli-tv-bu-vb-np30:2.43"
 msgid "sāsaṅkaṃ saṃghikena cāti."
 msgstr "Risky, and with the Order."
 
 #. HTML: </p><hr><p>
 #. REF: sc16, ms1V_2436
-msgctxt "pli-tv-bu-vb-np30:2.45"
+msgctxt "pli-tv-bu-vb-np30:2.44"
 msgid "“Uddiṭṭhā kho, āyasmanto, tiṃsa nissaggiyā pācittiyā dhammā."
 msgstr "“Venerables, the thirty rules entailing relinquishment and confession have been recited."
 
-msgctxt "pli-tv-bu-vb-np30:2.46"
+msgctxt "pli-tv-bu-vb-np30:2.45"
 msgid "Tatthāyasmante pucchāmi—"
 msgstr "In regard to this I ask you,"
 
-msgctxt "pli-tv-bu-vb-np30:2.47"
+msgctxt "pli-tv-bu-vb-np30:2.46"
 msgid "‘kaccittha parisuddhā’?"
 msgstr "‘Are you pure in this?’"
 
-msgctxt "pli-tv-bu-vb-np30:2.48"
+msgctxt "pli-tv-bu-vb-np30:2.47"
 msgid "Dutiyampi pucchāmi—"
 msgstr "A second time I ask,"
 
-msgctxt "pli-tv-bu-vb-np30:2.49"
+msgctxt "pli-tv-bu-vb-np30:2.48"
 msgid "‘kaccittha parisuddhā’?"
 msgstr "‘Are you pure in this?’"
 
-msgctxt "pli-tv-bu-vb-np30:2.50"
+msgctxt "pli-tv-bu-vb-np30:2.49"
 msgid "Tatiyampi pucchāmi—"
 msgstr "A third time I ask,"
 
-msgctxt "pli-tv-bu-vb-np30:2.51"
+msgctxt "pli-tv-bu-vb-np30:2.50"
 msgid "‘kaccittha parisuddhā’?"
 msgstr "‘Are you pure in this?’"
 
-msgctxt "pli-tv-bu-vb-np30:2.52"
+msgctxt "pli-tv-bu-vb-np30:2.51"
 msgid "Parisuddhetthāyasmanto, tasmā tuṇhī,"
 msgstr "You are pure in this and therefore silent."
 
-msgctxt "pli-tv-bu-vb-np30:2.53"
+msgctxt "pli-tv-bu-vb-np30:2.52"
 msgid "evametaṃ dhārayāmī”ti."
 msgstr "I will remember it thus.”"
 
 #. HTML: </p><p class="endsection">
 #. REF: sc17, ms1V_2437
-msgctxt "pli-tv-bu-vb-np30:2.54"
+msgctxt "pli-tv-bu-vb-np30:2.53"
 msgid "Nissaggiyakaṇḍaṃ niṭṭhitaṃ."
 msgstr "The chapter on offenses entailing relinquishment is finished."
 
 #. HTML: </p><p class="endbook">
 #. REF: sc18, ms1V_2438
-msgctxt "pli-tv-bu-vb-np30:2.55"
+msgctxt "pli-tv-bu-vb-np30:2.54"
 msgid "Pārājikapāḷi niṭṭhitā."
 msgstr "The text on expulsion is finished."

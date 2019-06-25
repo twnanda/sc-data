@@ -28,7 +28,7 @@ msgid "49. Senāvāsasikkhāpada"
 msgstr "The training rule on staying with armies"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc49:1.0a"
+msgctxt "pli-tv-bu-vb-pc49:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -99,23 +99,23 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc49:1.15a"
+msgctxt "pli-tv-bu-vb-pc49:1.15.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule">
 #. VAR: dirattatirattaṃ → dviratta … (s1-3, pts1)
 #. REF: sc3, ms2V_997
-msgctxt "pli-tv-bu-vb-pc49:1.16"
+msgctxt "pli-tv-bu-vb-pc49:1.15"
 msgid "“Siyā ca tassa bhikkhuno kocideva paccayo senaṃ gamanāya, dirattatirattaṃ tena bhikkhunā senāya vasitabbaṃ."
 msgstr "‘If that monk has a reason for going to the army, he may stay with the army for two or three nights."
 
-msgctxt "pli-tv-bu-vb-pc49:1.17"
+msgctxt "pli-tv-bu-vb-pc49:1.16"
 msgid "Tato ce uttari vaseyya, pācittiyan”ti."
 msgstr "If he stays longer than that, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc49:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc49:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -153,7 +153,7 @@ msgid "catutthe divase atthaṅgate sūriye senāya vasati, āpatti pācittiyass
 msgstr "if he is staying with the army at sunset on the fourth day, he commits an offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc49:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc49:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -186,7 +186,7 @@ msgid "Ūnakatiratte ūnakasaññī, anāpatti."
 msgstr "If it is less than three nights, and he perceives it as less, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc49:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc49:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

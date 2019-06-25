@@ -37,7 +37,7 @@ msgid "Imā kho, bhikkhave, dve āsā duppajahā”ti. "
 msgstr "These are two hopes that are hard to give up.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.119" id="119"><article><div class="hgroup"><h1>
-msgctxt "an2.118-129:118.1.5"
+msgctxt "an2.118-129:0.1"
 msgid "119 "
 msgstr "119 "
 
@@ -60,7 +60,7 @@ msgid "Ime kho, bhikkhave, dve puggalā dullabhā lokasmin”ti. "
 msgstr "These are the two people who are rare in the world.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.120" id="120"><article><div class="hgroup"><h1>
-msgctxt "an2.118-129:119.1.5"
+msgctxt "an2.118-129:0.1"
 msgid "120 "
 msgstr "120 "
 
@@ -83,7 +83,7 @@ msgid "Ime kho, bhikkhave, dve puggalā dullabhā lokasmin”ti. "
 msgstr "These are the two people who are rare in the world.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.121" id="121"><article><div class="hgroup"><h1>
-msgctxt "an2.118-129:120.1.5"
+msgctxt "an2.118-129:0.1"
 msgid "121 "
 msgstr "121 "
 
@@ -106,7 +106,7 @@ msgid "Ime kho, bhikkhave, dve puggalā duttappayā”ti. "
 msgstr "These are the two people who are hard to satisfy in the world.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.122" id="122"><article><div class="hgroup"><h1>
-msgctxt "an2.118-129:121.1.5"
+msgctxt "an2.118-129:0.1"
 msgid "122 "
 msgstr "122 "
 
@@ -129,7 +129,7 @@ msgid "Ime kho, bhikkhave, dve puggalā sutappayā”ti. "
 msgstr "These are the two people who are easy to satisfy in the world.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.123" id="123"><article><div class="hgroup"><h1>
-msgctxt "an2.118-129:122.1.5"
+msgctxt "an2.118-129:0.1"
 msgid "123 "
 msgstr "123 "
 
@@ -152,7 +152,7 @@ msgid "Ime kho, bhikkhave, dve paccayā rāgassa uppādāyā”ti. "
 msgstr "These are the two conditions for the arising of greed.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.124" id="124"><article><div class="hgroup"><h1>
-msgctxt "an2.118-129:123.1.5"
+msgctxt "an2.118-129:0.1"
 msgid "124 "
 msgstr "124 "
 
@@ -175,7 +175,7 @@ msgid "Ime kho, bhikkhave, dve paccayā dosassa uppādāyā”ti. "
 msgstr "These are the two conditions for the arising of hate.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.125" id="125"><article><div class="hgroup"><h1>
-msgctxt "an2.118-129:124.1.5"
+msgctxt "an2.118-129:0.1"
 msgid "125 "
 msgstr "125 "
 
@@ -198,7 +198,7 @@ msgid "Ime kho, bhikkhave, dve paccayā micchādiṭṭhiyā uppādāyā”ti. "
 msgstr "These are the two conditions for the arising of wrong view.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.126" id="126"><article><div class="hgroup"><h1>
-msgctxt "an2.118-129:125.1.5"
+msgctxt "an2.118-129:0.1"
 msgid "126 "
 msgstr "126 "
 
@@ -221,7 +221,7 @@ msgid "Ime kho, bhikkhave, dve paccayā sammādiṭṭhiyā uppādāyā”ti. "
 msgstr "These are the two conditions for the arising of right view.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.127" id="127"><article><div class="hgroup"><h1>
-msgctxt "an2.118-129:126.1.5"
+msgctxt "an2.118-129:0.1"
 msgid "127 "
 msgstr "127 "
 
@@ -244,7 +244,7 @@ msgid "Imā kho, bhikkhave, dve āpattiyo”ti. "
 msgstr "These are the two offenses.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.128" id="128"><article><div class="hgroup"><h1>
-msgctxt "an2.118-129:127.1.5"
+msgctxt "an2.118-129:0.1"
 msgid "128 "
 msgstr "128 "
 
@@ -267,7 +267,7 @@ msgid "Imā kho, bhikkhave, dve āpattiyo”ti. "
 msgstr "These are the two offenses.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.129" id="129"><article><div class="hgroup"><h1>
-msgctxt "an2.118-129:128.1.5"
+msgctxt "an2.118-129:0.1"
 msgid "129 "
 msgstr "129 "
 

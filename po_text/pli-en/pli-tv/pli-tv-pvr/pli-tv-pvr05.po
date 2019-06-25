@@ -3,17 +3,17 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-pvr5"><article><div class="hgroup"><p class="division">
-msgctxt "pli-tv-pvr5:1.1"
+msgctxt "pli-tv-pvr5:0.1"
 msgid "Parivāra"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-pvr5:2.1"
+msgctxt "pli-tv-pvr5:0.2"
 msgid "Samathabheda"
 msgstr ""
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-pvr5:3.1"
+msgctxt "pli-tv-pvr5:4.0"
 msgid "1. Adhikaraṇapariyāyavāra"
 msgstr ""
 
@@ -567,7 +567,7 @@ msgid "Pariyāyavāro niṭṭhito chaṭṭho."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr5:16.1"
+msgctxt "pli-tv-pvr5:17.0"
 msgid "2. Sādhāraṇavāra"
 msgstr ""
 
@@ -704,7 +704,7 @@ msgid "Sādhāraṇavāro niṭṭhito sattamo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr5:23.1"
+msgctxt "pli-tv-pvr5:24.0"
 msgid "3. Tabbhāgiyavāra"
 msgstr ""
 
@@ -837,7 +837,7 @@ msgid "Tabbhāgiyavāro niṭṭhito aṭṭhamo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr5:30.1"
+msgctxt "pli-tv-pvr5:31.0"
 msgid "4. Samathāsamathassasādhāraṇavāra"
 msgstr ""
 
@@ -936,7 +936,7 @@ msgid "Samathā samathassa sādhāraṇavāro niṭṭhito navamo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr5:40.1"
+msgctxt "pli-tv-pvr5:41.0"
 msgid "5. Samathāsamathassatabbhāgiyavāra"
 msgstr ""
 
@@ -1031,7 +1031,7 @@ msgid "Samathā samathassa tabbhāgiyavāro niṭṭhito dasamo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr5:50.1"
+msgctxt "pli-tv-pvr5:51.0"
 msgid "6. Samathasammukhāvinayavāra"
 msgstr ""
 
@@ -1198,7 +1198,7 @@ msgid "Samathasammukhāvinayavāro niṭṭhito ekādasamo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr5:60.1"
+msgctxt "pli-tv-pvr5:61.0"
 msgid "7. Vinayavāra"
 msgstr ""
 
@@ -1337,7 +1337,7 @@ msgid "Vinayavāro niṭṭhito dvādasamo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr5:70.1"
+msgctxt "pli-tv-pvr5:71.0"
 msgid "8. Kusalavāra"
 msgstr ""
 
@@ -1514,7 +1514,7 @@ msgid "Kusalavāro niṭṭhito terasamo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr5:85.1"
+msgctxt "pli-tv-pvr5:86.0"
 msgid "9. Yatthavāra, pucchāvāra"
 msgstr ""
 
@@ -1700,7 +1700,7 @@ msgid "Yatthavāro niṭṭhito cuddasamo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr5:96.1"
+msgctxt "pli-tv-pvr5:97.0"
 msgid "10. Samathavāra, vissajjanāvāra"
 msgstr ""
 
@@ -1795,7 +1795,7 @@ msgid "Samathavāro niṭṭhito pannarasamo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr5:104.1"
+msgctxt "pli-tv-pvr5:105.0"
 msgid "11. Saṃsaṭṭhavāra"
 msgstr ""
 
@@ -1868,7 +1868,7 @@ msgid "Saṃsaṭṭhavāro niṭṭhito soḷasamo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr5:108.1"
+msgctxt "pli-tv-pvr5:109.0"
 msgid "12. Sammativāra"
 msgstr ""
 
@@ -2133,7 +2133,7 @@ msgid "Sammativāro niṭṭhito sattarasamo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr5:125.1"
+msgctxt "pli-tv-pvr5:126.0"
 msgid "13. Sammantinasammantivāra"
 msgstr ""
 
@@ -2535,7 +2535,7 @@ msgid "Sammanti na sammantivāro niṭṭhito aṭṭhārasamo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr5:142.1"
+msgctxt "pli-tv-pvr5:143.0"
 msgid "14. Samathādhikaraṇavāra"
 msgstr ""
 
@@ -2938,7 +2938,7 @@ msgid "Samathādhikaraṇavāro niṭṭhito ekūnavīsatimo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr5:168.1"
+msgctxt "pli-tv-pvr5:169.0"
 msgid "15. Samuṭṭhāpanavāra"
 msgstr ""
 
@@ -3126,7 +3126,7 @@ msgid "Samuṭṭhāpanavāro niṭṭhito vīsatimo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr5:174.1"
+msgctxt "pli-tv-pvr5:175.0"
 msgid "16. Bhajativāra"
 msgstr ""
 

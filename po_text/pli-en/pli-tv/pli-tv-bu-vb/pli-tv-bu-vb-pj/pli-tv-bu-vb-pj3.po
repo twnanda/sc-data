@@ -23,12 +23,12 @@ msgid "Tatiya­pā­rāji­ka­sikkhā­pada"
 msgstr "3. The third training rule"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pj3:1.1.0a"
+msgctxt "pli-tv-bu-vb-pj3:1.1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pj3:1.1.0b"
+msgctxt "pli-tv-bu-vb-pj3:1.1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -500,24 +500,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pj3:1.4.10a"
+msgctxt "pli-tv-bu-vb-pj3:1.4.10.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc16, ms1V_391
-msgctxt "pli-tv-bu-vb-pj3:1.4.11"
+msgctxt "pli-tv-bu-vb-pj3:1.4.10"
 msgid "“Yo pana bhikkhu sañcicca manus­savig­gahaṃ jīvitā voropeyya satthahārakaṃ vāssa pariyeseyya, ayampi pārājiko hoti asaṃvāso”ti."
 msgstr "‘If a monk intentionally kills a human being or seeks an instrument of death for him, he too is expelled and excluded from the community.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc17, ms1V_392
-msgctxt "pli-tv-bu-vb-pj3:1.4.12"
+msgctxt "pli-tv-bu-vb-pj3:1.4.11"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pj3:2.0a"
+msgctxt "pli-tv-bu-vb-pj3:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -741,35 +741,35 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pj3:2.50a"
+msgctxt "pli-tv-bu-vb-pj3:2.50.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p>_Satthahāraka_. I here follow Richard Gombrich’s interpretation of this word. See, “The Mass Suicide of Monks in Discourse and Vinaya Literature,” by Analayo, Journal of the Oxford Centre for Buddhist Studies, 7: 11-55, 2014.<span class="rule"> 
 #. REF: sc22, pts-vp-en1.126
-msgctxt "pli-tv-bu-vb-pj3:2.51"
+msgctxt "pli-tv-bu-vb-pj3:2.50"
 msgid "“Yo pana bhikkhu sañcicca manus­savig­gahaṃ jīvitā voropeyya satthahārakaṃ vāssa pariyeseyya maraṇavaṇṇaṃ vā saṃvaṇṇeyya maraṇāya vā samādapeyya—"
 msgstr "‘If a monk intentionally kills a human being or seeks an instrument of death for him or praises death or incites someone to die, saying,"
 
-msgctxt "pli-tv-bu-vb-pj3:2.52"
+msgctxt "pli-tv-bu-vb-pj3:2.51"
 msgid "‘ambho purisa, kiṃ tuyhiminā pāpakena dujjīvitena,"
 msgstr "“Good man, what’s the point of this wretched and difficult life?"
 
 #. VAR: mataṃ te → matante (bj, s1-3, pts1)
-msgctxt "pli-tv-bu-vb-pj3:2.53"
+msgctxt "pli-tv-bu-vb-pj3:2.52"
 msgid "mataṃ te jīvitā seyyo’ti,"
 msgstr "Death is better for you than life!”—"
 
-msgctxt "pli-tv-bu-vb-pj3:2.54"
+msgctxt "pli-tv-bu-vb-pj3:2.53"
 msgid "mataṃ te jīvitā seyyo’ti, iti cittamano cittasaṅkappo aneka­pariyā­yena maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya,"
 msgstr "thinking and intending thus, if he praises death in various ways or incites someone to die—"
 
-msgctxt "pli-tv-bu-vb-pj3:2.55"
+msgctxt "pli-tv-bu-vb-pj3:2.54"
 msgid "ayampi pārājiko hoti asaṃvāso”ti."
 msgstr "he too is expelled and excluded from the community.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pj3:3.0a"
+msgctxt "pli-tv-bu-vb-pj3:3.0"
 msgid ""
 msgstr "Definitions"
 
@@ -1041,12 +1041,12 @@ msgid "tena vuccati asaṃvāsoti."
 msgstr "therefore it is called “excluded from the community.”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pj3:4.1.0a"
+msgctxt "pli-tv-bu-vb-pj3:4.1.0.1"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><h4>
-msgctxt "pli-tv-bu-vb-pj3:4.1.0b"
+msgctxt "pli-tv-bu-vb-pj3:4.1.0.2"
 msgid ""
 msgstr "Summary"
 
@@ -1100,7 +1100,7 @@ msgid "opātaṃ apassenaṃ, upanikkhipanaṃ, bhesajjaṃ, rūpūpahāro, sadd
 msgstr "A pit, a piece of furniture, placing near, medicine, arranging a sight, arranging a sound, arranging a smell, arranging a taste, arranging a touch, arranging a mental state, information, instruction, an action by appointment, making a sign."
 
 #. HTML: </p><h4>
-msgctxt "pli-tv-bu-vb-pj3:4.2.0b"
+msgctxt "pli-tv-bu-vb-pj3:4.2.0"
 msgid ""
 msgstr "Exposition"
 
@@ -2513,7 +2513,7 @@ msgid "vadhakassa āpatti pārājikassa."
 msgstr "but there is an offense entailing expulsion for the murderer."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pj3:4.11.0a"
+msgctxt "pli-tv-bu-vb-pj3:4.11.0"
 msgid ""
 msgstr "Non-offenses"
 
@@ -2551,134 +2551,134 @@ msgid "Manus­savig­gaha­pā­rāji­kamhi paṭha­ma­bhā­ṇavāro niṭ�
 msgstr "The first section on expulsion in relation to human beings is finished."
 
 #. HTML: </p><hr><h5>
-msgctxt "pli-tv-bu-vb-pj3:4.11.8"
+msgctxt "pli-tv-bu-vb-pj3:4.11.8.0"
 msgid "3.1. Vinīta­vatthu­uddāna­gāthā"
 msgstr "Case rulings mnemonic list"
 
 #. HTML: </h5><div class="uddana"><p>
 #. REF: sc76, pts-vp-pli3.79, ms1V_451
-msgctxt "pli-tv-bu-vb-pj3:4.11.9"
+msgctxt "pli-tv-bu-vb-pj3:4.11.8"
 msgid "Saṃvaṇṇanā nisīdanto,"
 msgstr "Praising, sitting down,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj3:4.11.10"
+msgctxt "pli-tv-bu-vb-pj3:4.11.9"
 msgid "musalo­duk­kha­lena ca;"
 msgstr "And with pestle, with mortar;"
 
 #. HTML: <br>
 #. VAR: Vuḍḍha­pabba­ji­tā­bhisanno → buddha­pabba­jitā satta (bj) | vuḍḍha­pabba­jitā santo (s1-3)
-msgctxt "pli-tv-bu-vb-pj3:4.11.11"
+msgctxt "pli-tv-bu-vb-pj3:4.11.10"
 msgid "Vuḍḍha­pabba­ji­tā­bhisanno,"
 msgstr "Gone forth when old, flowing out,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj3:4.11.12"
+msgctxt "pli-tv-bu-vb-pj3:4.11.11"
 msgid "agga­vī­maṃ­sa­nā­visaṃ."
 msgstr "First, experimental poison."
 
 #. HTML: </p><p>
 #. REF: sc77, pts-vp-en1.137, ms1V_452
-msgctxt "pli-tv-bu-vb-pj3:4.11.13"
+msgctxt "pli-tv-bu-vb-pj3:4.11.12"
 msgid "Tayo ca vatthukammehi,"
 msgstr "And three with making sites,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj3:4.11.14"
+msgctxt "pli-tv-bu-vb-pj3:4.11.13"
 msgid "iṭṭhakāhipare tayo;"
 msgstr "Another three with bricks;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj3:4.11.15"
+msgctxt "pli-tv-bu-vb-pj3:4.11.14"
 msgid "Vāsī gopānasī ceva,"
 msgstr "An machete, and a rafter,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj3:4.11.16"
+msgctxt "pli-tv-bu-vb-pj3:4.11.15"
 msgid "aṭṭakotaraṇaṃ pati."
 msgstr "A elevated platform, coming down, fell down."
 
 #. HTML: </p><p>
 #. REF: sc78, ms1V_453
-msgctxt "pli-tv-bu-vb-pj3:4.11.17"
+msgctxt "pli-tv-bu-vb-pj3:4.11.16"
 msgid "Sedaṃ natthuñca sambāho,"
 msgstr "Sweating, and nose treatment, massage,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj3:4.11.18"
+msgctxt "pli-tv-bu-vb-pj3:4.11.17"
 msgid "nhāpanab­bhañ­ja­nena ca;"
 msgstr "By bathing, and by smearing;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj3:4.11.19"
+msgctxt "pli-tv-bu-vb-pj3:4.11.18"
 msgid "Uṭṭhāpento nipātento,"
 msgstr "Making get up, making lie down,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj3:4.11.20"
+msgctxt "pli-tv-bu-vb-pj3:4.11.19"
 msgid "annapānena māraṇaṃ."
 msgstr "Death through food, through drink."
 
 #. HTML: </p><p>
 #. REF: sc79, ms1V_454
-msgctxt "pli-tv-bu-vb-pj3:4.11.21"
+msgctxt "pli-tv-bu-vb-pj3:4.11.20"
 msgid "Jāragabbho sapattī ca,"
 msgstr "Child by a lover, and co-wives,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj3:4.11.22"
+msgctxt "pli-tv-bu-vb-pj3:4.11.21"
 msgid "mātā puttaṃ ubho vadhi;"
 msgstr "Mother, child, he killed both;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj3:4.11.23"
+msgctxt "pli-tv-bu-vb-pj3:4.11.22"
 msgid "Ubho na miyyare maddā,"
 msgstr "He killed neither, crushing,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj3:4.11.24"
+msgctxt "pli-tv-bu-vb-pj3:4.11.23"
 msgid "tāpaṃ vañjhā vijāyinī."
 msgstr "Heating, barren, fertile."
 
 #. HTML: </p><p>
 #. REF: sc80, ms1V_455
-msgctxt "pli-tv-bu-vb-pj3:4.11.25"
+msgctxt "pli-tv-bu-vb-pj3:4.11.24"
 msgid "Patodaṃ niggahe yakkho,"
 msgstr "Tickling, in taking hold of, a spirit,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj3:4.11.26"
+msgctxt "pli-tv-bu-vb-pj3:4.11.25"
 msgid "vāḷayakkhañca pāhiṇi;"
 msgstr "Wild animals, and spirits, sent;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj3:4.11.27"
+msgctxt "pli-tv-bu-vb-pj3:4.11.26"
 msgid "Taṃ maññamāno pahari,"
 msgstr "Thinking it was him, he gave a blow,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj3:4.11.28"
+msgctxt "pli-tv-bu-vb-pj3:4.11.27"
 msgid "saggañca nirayaṃ bhaṇe."
 msgstr "In talking about heaven, and about hell."
 
 #. HTML: </p><p>
 #. REF: sc81, ms1V_456
-msgctxt "pli-tv-bu-vb-pj3:4.11.29"
+msgctxt "pli-tv-bu-vb-pj3:4.11.28"
 msgid "Āḷaviyā tayo rukkhā,"
 msgstr "Three trees at Āḷavī,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj3:4.11.30"
+msgctxt "pli-tv-bu-vb-pj3:4.11.29"
 msgid "dāyehi apare tayo;"
 msgstr "Three others with forest groves;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj3:4.11.31"
+msgctxt "pli-tv-bu-vb-pj3:4.11.30"
 msgid "Mā kilamesi na tuyhaṃ,"
 msgstr "Do not torture, not as you,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj3:4.11.32"
+msgctxt "pli-tv-bu-vb-pj3:4.11.31"
 msgid "takkaṃ sovīrakena cāti."
 msgstr "Buttermilk, and salty medicine."
 

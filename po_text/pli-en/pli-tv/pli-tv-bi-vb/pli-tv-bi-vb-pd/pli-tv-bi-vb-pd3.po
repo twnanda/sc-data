@@ -3,22 +3,22 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-bi-vb-pd3"><article><div class="hgroup"><h1>
-msgctxt "pli-tv-bi-vb-pd3:1.1"
+msgctxt "pli-tv-bi-vb-pd3:0.1"
 msgid "Pāṭidesanīyā 3: Theravāda Vinaya"
 msgstr ""
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bi-vb-pd3:2.1"
+msgctxt "pli-tv-bi-vb-pd3:5.0.1"
 msgid "2. Bhikkhunivibhaṅga"
 msgstr ""
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bi-vb-pd3:3.1"
+msgctxt "pli-tv-bi-vb-pd3:5.0.2"
 msgid "2.5 Pāṭidesanīyakaṇḍa"
 msgstr ""
 
 #. HTML: </h3><h2>
-msgctxt "pli-tv-bi-vb-pd3:4.1"
+msgctxt "pli-tv-bi-vb-pd3:5.0.3"
 msgid "2.5.3 Madhuviññāpanasikkhāpada"
 msgstr ""
 

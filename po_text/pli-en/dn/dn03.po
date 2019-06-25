@@ -28,7 +28,7 @@ msgid "Tatra sudaṃ bhagavā icchānaṅgale viharati icchānaṅgalavanasaṇ�
 msgstr "He stayed in a forest near Icchānaṅgala. "
 
 #. HTML: </p><h2>
-msgctxt "dn3:1.1.4"
+msgctxt "dn3:1.2.0"
 msgid "1. Pokkharasātivatthu "
 msgstr "1. The Section on Pokkharasāti "
 
@@ -70,7 +70,7 @@ msgid "Sādhu kho pana tathārūpānaṃ arahataṃ dassanaṃ hotī”ti. "
 msgstr "It’s good to see such perfected ones.” "
 
 #. HTML: </p><h2>
-msgctxt "dn3:1.2.9"
+msgctxt "dn3:1.3.0"
 msgid "2. Ambaṭṭhamāṇava "
 msgstr "2. The Brahmin Student Ambaṭṭha "
 
@@ -255,22 +255,22 @@ msgid "“evaṃ nu te, ambaṭṭha, brāhmaṇehi vuddhehi mahallakehi ācariy
 msgstr "“Ambaṭṭha, is this how you hold a discussion with elderly and senior brahmins, the teachers of teachers: walking around or standing while I’m sitting, speaking some polite words or other?” "
 
 #. HTML: </p><h3>
-msgctxt "dn3:1.10.3"
+msgctxt "dn3:1.10.3.0"
 msgid "2.1. Paṭhamaibbhavāda "
 msgstr "2.1. The First Use of the Word “Riffraff” "
 
 #. HTML: </h3><p>
 #. REF: sc11
-msgctxt "dn3:1.10.4"
+msgctxt "dn3:1.10.3"
 msgid "“No hidaṃ, bho gotama. "
 msgstr "“No, Master Gotama. "
 
-msgctxt "dn3:1.10.5"
+msgctxt "dn3:1.10.4"
 msgid "Gacchanto vā hi, bho gotama, gacchantena brāhmaṇo brāhmaṇena saddhiṃ sallapitumarahati, ṭhito vā hi, bho gotama, ṭhitena brāhmaṇo brāhmaṇena saddhiṃ sallapitumarahati, nisinno vā hi, bho gotama, nisinnena brāhmaṇo brāhmaṇena saddhiṃ sallapitumarahati, sayāno vā hi, bho gotama, sayānena brāhmaṇo brāhmaṇena saddhiṃ sallapitumarahati. "
 msgstr "For it is proper for one brahmin to converse with another while both are walking, standing, sitting, or lying down. "
 
 #. VAR: kaṇhā → kiṇhā (pts1, mr)
-msgctxt "dn3:1.10.6"
+msgctxt "dn3:1.10.5"
 msgid "Ye ca kho te, bho gotama, muṇḍakā samaṇakā ibbhā kaṇhā bandhupādāpaccā, tehipi me saddhiṃ evaṃ kathāsallāpo hoti, yathariva bhotā gotamenā”ti. "
 msgstr "But as to these shavelings, fake ascetics, riffraff, black spawn from the feet of our Kinsman, I converse with them as I do with Master Gotama.” "
 
@@ -328,7 +328,7 @@ msgid "Itiha ambaṭṭho māṇavo idaṃ paṭhamaṃ sakyesu ibbhavādaṃ ni
 msgstr "And that’s how Ambaṭṭha denigrated the Sakyans with the word “riffraff” for the first time. "
 
 #. HTML: </p><h3>
-msgctxt "dn3:1.12.10"
+msgctxt "dn3:1.13.0"
 msgid "2.2. Dutiyaibbhavāda "
 msgstr "2.2. The Second Use of the Word “Riffraff” "
 
@@ -362,7 +362,7 @@ msgid "Itiha ambaṭṭho māṇavo idaṃ dutiyaṃ sakyesu ibbhavādaṃ nipā
 msgstr "And that’s how Ambaṭṭha denigrated the Sakyans with the word “riffraff” for the second time. "
 
 #. HTML: </p><h3>
-msgctxt "dn3:1.13.7"
+msgctxt "dn3:1.14.0"
 msgid "2.3. Tatiyaibbhavāda "
 msgstr "2.3. The Third Use of the Word “Riffraff” "
 
@@ -408,7 +408,7 @@ msgid "Itiha ambaṭṭho māṇavo idaṃ tatiyaṃ sakyesu ibbhavādaṃ nipā
 msgstr "And that’s how Ambaṭṭha denigrated the Sakyans with the word “riffraff” for the third time. "
 
 #. HTML: </p><h3>
-msgctxt "dn3:1.14.10"
+msgctxt "dn3:1.15.0"
 msgid "2.4. Dāsiputtavāda "
 msgstr "2.4. The Word “Son of Bondservants” is Used "
 
@@ -706,7 +706,7 @@ msgid "so ca kaṇhāyanānaṃ pubbapuriso”ti. "
 msgstr "and that’s who their founder is.” "
 
 #. HTML: </p><h3>
-msgctxt "dn3:1.21.12"
+msgctxt "dn3:1.22.0"
 msgid "2.5. Ambaṭṭhavaṃsakathā "
 msgstr "2.5. The Discussion of Ambaṭṭha’s Heritage "
 
@@ -835,7 +835,7 @@ msgid "Mā kho tumhe, māṇavakā, ambaṭṭhaṃ māṇavaṃ atibāḷhaṃ 
 msgstr "Students, please don’t put Ambaṭṭha down too much by calling him the son of a bondservant. That Black Boy was an eminent sage.” "
 
 #. HTML: </p><h2>
-msgctxt "dn3:1.23.23"
+msgctxt "dn3:1.24.0"
 msgid "3. Khattiyaseṭṭhabhāva "
 msgstr "3. The Supremacy of the Aristocrats "
 
@@ -1155,7 +1155,7 @@ msgid "Bhāṇavāro paṭhamo. "
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn3:1.28.13"
+msgctxt "dn3:2.1.0"
 msgid "4. Vijjācaraṇakathā "
 msgstr "4. Knowledge and Conduct "
 
@@ -1299,7 +1299,7 @@ msgid "Imāya ca, ambaṭṭha, vijjāsampadāya caraṇasampadāya ca aññā v
 msgstr "And, Ambaṭṭha, there is no accomplishment in knowledge and conduct that is better or finer than this. "
 
 #. HTML: </p><h2>
-msgctxt "dn3:2.2.24"
+msgctxt "dn3:2.3.0"
 msgid "5. Catuapāyamukha "
 msgstr "5. Four Drains "
 
@@ -1505,7 +1505,7 @@ msgid "Passa, ambaṭṭha, yāva aparaddhañca te idaṃ ācariyassa brāhmaṇ
 msgstr "See, Ambaṭṭha, how your teacher Pokkharasāti has wronged you. "
 
 #. HTML: </p><h2>
-msgctxt "dn3:2.5.6"
+msgctxt "dn3:2.6.0"
 msgid "6. Pubbakaisibhāvānuyoga "
 msgstr "6. Being Like the Sages of the Past "
 
@@ -1677,7 +1677,7 @@ msgid "Yassa kho pana, ambaṭṭha, mayi kaṅkhā vā vimati vā so maṃ pañ
 msgstr "Whoever has any doubt or uncertainty about me, let them ask me and I will clear up their doubts with my answer.” "
 
 #. HTML: </p><h2>
-msgctxt "dn3:2.10.15"
+msgctxt "dn3:2.11.0"
 msgid "7. Dvelakkhaṇādassana "
 msgstr "7. Seeing the Two Marks "
 
@@ -1849,7 +1849,7 @@ msgid "Icchati ca tāvadeva bhagavantaṃ dassanāya upasaṅkamituṃ. "
 msgstr "and wanted to go and see the Buddha right away. "
 
 #. HTML: </p><h2>
-msgctxt "dn3:2.15.6"
+msgctxt "dn3:2.16.0"
 msgid "8. Pokkharasātibuddhūpasaṅkamana "
 msgstr "8. Pokkharasāti Visits the Buddha "
 
@@ -2046,7 +2046,7 @@ msgid "“yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhamman”ti. "
 msgstr "“Everything that has a beginning has an end.” "
 
 #. HTML: </p><h2>
-msgctxt "dn3:2.21.9"
+msgctxt "dn3:2.22.0"
 msgid "9. Pokkharasātiupāsakattapaṭivedanā "
 msgstr "9. Pokkharasāti Declares Himself a Lay Follower "
 

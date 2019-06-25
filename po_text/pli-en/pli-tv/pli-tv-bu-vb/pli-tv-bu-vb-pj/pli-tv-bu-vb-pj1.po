@@ -23,18 +23,18 @@ msgid "Paṭha­ma­pā­rāji­ka­sikkhā­pada"
 msgstr "1. The first training rule"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pj1:0.5"
+msgctxt "pli-tv-bu-vb-pj1:0.5.0"
 msgid "Verañjakaṇḍa"
 msgstr "The chapter on Verañjā"
 
 #. HTML: </h2><p class="namo">
 #. REF: sc1, ms1V_1
-msgctxt "pli-tv-bu-vb-pj1:0.6"
+msgctxt "pli-tv-bu-vb-pj1:0.5"
 msgid "Namo tassa Bhagavato Arahato Sammāsambuddhassa."
 msgstr "Homage to the Master, the Perfected One, the fully Awakened One"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pj1:1.1.0a"
+msgctxt "pli-tv-bu-vb-pj1:1.1.0"
 msgid ""
 msgstr "The origin of the monastic law"
 
@@ -1121,17 +1121,17 @@ msgid "Verañjabhāṇavāro niṭṭhito."
 msgstr "The chapter on Verañjā is finished."
 
 #. HTML: </p><hr><h1>
-msgctxt "pli-tv-bu-vb-pj1:4.29"
+msgctxt "pli-tv-bu-vb-pj1:5.1.0.1"
 msgid "Paṭha­ma­pā­rāji­ka­sikkhā­pada"
 msgstr "1. The first training rule"
 
 #. HTML: </h1><h2>
-msgctxt "pli-tv-bu-vb-pj1:5.1.0"
+msgctxt "pli-tv-bu-vb-pj1:5.1.0.2"
 msgid "1. Sudinna­bhā­ṇavāra"
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pj1:5.1.0a"
+msgctxt "pli-tv-bu-vb-pj1:5.1.0.3"
 msgid ""
 msgstr "First sub-story"
 
@@ -2472,25 +2472,25 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pj1:5.11.33a"
+msgctxt "pli-tv-bu-vb-pj1:5.11.33.0"
 msgid ""
 msgstr "First preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc72, ms1V_72
-msgctxt "pli-tv-bu-vb-pj1:5.11.34"
+msgctxt "pli-tv-bu-vb-pj1:5.11.33"
 msgid "“Yo pana bhikkhu methunaṃ dhammaṃ paṭiseveyya, pārājiko hoti asaṃvāso”ti."
 msgstr "‘If a monk has sexual intercourse, he is expelled and excluded from the community.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc73, ms1V_73
-msgctxt "pli-tv-bu-vb-pj1:5.11.35"
+msgctxt "pli-tv-bu-vb-pj1:5.11.34"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc74, ms1V_74
-msgctxt "pli-tv-bu-vb-pj1:5.11.36"
+msgctxt "pli-tv-bu-vb-pj1:5.11.35"
 msgid "Sudinna­bhā­ṇavāro niṭṭhito."
 msgstr "The section for recitation on Sudinna is finished."
 
@@ -2699,25 +2699,25 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pj1:6.45a"
+msgctxt "pli-tv-bu-vb-pj1:6.45.0"
 msgid ""
 msgstr "Second preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc79, ms1V_79
-msgctxt "pli-tv-bu-vb-pj1:6.46"
+msgctxt "pli-tv-bu-vb-pj1:6.45"
 msgid "“Yo pana bhikkhu methunaṃ dhammaṃ paṭiseveyya antamaso tiracchā­na­gatā­yapi, pārājiko hoti asaṃvāso”ti."
 msgstr "‘If a monk has sexual intercourse, even with a female animal, he is expelled and excluded from the community.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc80, ms1V_80
-msgctxt "pli-tv-bu-vb-pj1:6.47"
+msgctxt "pli-tv-bu-vb-pj1:6.46"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc81, ms1V_81
-msgctxt "pli-tv-bu-vb-pj1:6.48"
+msgctxt "pli-tv-bu-vb-pj1:6.47"
 msgid "Makkaṭīvatthu niṭṭhitaṃ."
 msgstr "The story of the female monkey is finished."
 
@@ -2801,19 +2801,19 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pj1:7.1.15a"
+msgctxt "pli-tv-bu-vb-pj1:7.1.15.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule">
 #. VAR: apaccakkhāya → appaccakkhāya (s2, s3)
 #. REF: sc85, ms1V_85, pts-vp-en1.42
-msgctxt "pli-tv-bu-vb-pj1:7.1.16"
+msgctxt "pli-tv-bu-vb-pj1:7.1.15"
 msgid "“Yo pana bhikkhu bhikkhūnaṃ sikkhā­sājīva­samā­panno sikkhaṃ apaccakkhāya dubbalyaṃ anāvikatvā methunaṃ dhammaṃ paṭiseveyya, antamaso tiracchā­na­gatā­yapi, pārājiko hoti asaṃvāso”ti."
 msgstr "‘If a monk, after taking on the monks’ training and way of life, without first renouncing the training and revealing his weakness, has sexual intercourse, even with a female animal, he is expelled and excluded from the community.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pj1:8.1.0a"
+msgctxt "pli-tv-bu-vb-pj1:8.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -3857,17 +3857,17 @@ msgid "So tena saddhiṃ natthi. Tena vuccati—“asaṃvāso”ti."
 msgstr "He does not take part in this—therefore it is called “excluded from the community.”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pj1:9.1.0a"
+msgctxt "pli-tv-bu-vb-pj1:9.1.0.1"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pj1:9.1.0b"
+msgctxt "pli-tv-bu-vb-pj1:9.1.0.2"
 msgid ""
 msgstr "Permutations part 1"
 
 #. HTML: </h3><h4>
-msgctxt "pli-tv-bu-vb-pj1:9.1.0c"
+msgctxt "pli-tv-bu-vb-pj1:9.1.0.3"
 msgid ""
 msgstr "Summary"
 
@@ -3906,88 +3906,88 @@ msgid "manussapuriso, amanussapuriso, tiracchā­na­gata­puriso."
 msgstr "a human male, a non-human male, a male animal."
 
 #. HTML: </p><h4>
-msgctxt "pli-tv-bu-vb-pj1:9.1.8a"
+msgctxt "pli-tv-bu-vb-pj1:9.1.8.0"
 msgid ""
 msgstr "Exposition part 1"
 
 #. HTML: </h4><p>
 #. VAR: paṭisevantassa → patisevantassa (bj)
 #. REF: sc109, ms1V_109,  
-msgctxt "pli-tv-bu-vb-pj1:9.1.9"
+msgctxt "pli-tv-bu-vb-pj1:9.1.8"
 msgid "Manussitthiyā tayo magge methunaṃ dhammaṃ paṭisevantassa āpatti pārājikassa—"
 msgstr "He commits an offense entailing expulsion if he has sexual intercourse with a human female through three orifices:"
 
-msgctxt "pli-tv-bu-vb-pj1:9.1.10"
+msgctxt "pli-tv-bu-vb-pj1:9.1.9"
 msgid "vaccamagge, passāvamagge, mukhe."
 msgstr "the anus, the vagina, or the mouth. …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.1.11"
+msgctxt "pli-tv-bu-vb-pj1:9.1.10"
 msgid "Amanussitthiyā … pe …"
 msgstr "with a non-human female …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.1.12"
+msgctxt "pli-tv-bu-vb-pj1:9.1.11"
 msgid "tiracchā­na­ga­titthiyā tayo magge methunaṃ dhammaṃ paṭisevantassa āpatti pārājikassa—"
 msgstr "with a female animal …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.1.13"
+msgctxt "pli-tv-bu-vb-pj1:9.1.12"
 msgid "vaccamagge, passāvamagge, mukhe."
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-pj1:9.1.14"
+msgctxt "pli-tv-bu-vb-pj1:9.1.13"
 msgid "Manus­subha­tob­yañ­jana­kassa …"
 msgstr "with a human hermaphrodite …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.1.15"
+msgctxt "pli-tv-bu-vb-pj1:9.1.14"
 msgid "amanus­subha­tob­yañ­jana­kassa …"
 msgstr "with a non-human hermaphrodite …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.1.16"
+msgctxt "pli-tv-bu-vb-pj1:9.1.15"
 msgid "tiracchā­na­ga­tubha­tob­yañ­jana­kassa tayo magge methunaṃ dhammaṃ paṭisevantassa āpatti pārājikassa—"
 msgstr "with an animal hermaphrodite through three orifices:"
 
-msgctxt "pli-tv-bu-vb-pj1:9.1.17"
+msgctxt "pli-tv-bu-vb-pj1:9.1.16"
 msgid "vaccamagge, passāvamagge, mukhe."
 msgstr "the anus, the vagina, or the mouth."
 
-msgctxt "pli-tv-bu-vb-pj1:9.1.18"
+msgctxt "pli-tv-bu-vb-pj1:9.1.17"
 msgid "­Manus­sa­paṇḍa­kassa dve magge methunaṃ dhammaṃ paṭisevantassa āpatti pārājikassa—"
 msgstr "He commits an offense entailing expulsion if he has sexual intercourse with a sexually nonconformist human through two orifices:"
 
-msgctxt "pli-tv-bu-vb-pj1:9.1.19"
+msgctxt "pli-tv-bu-vb-pj1:9.1.18"
 msgid "vaccamagge, mukhe."
 msgstr "the anus or the mouth. …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.1.20"
+msgctxt "pli-tv-bu-vb-pj1:9.1.19"
 msgid "Amanus­sa­paṇḍa­kassa …"
 msgstr "with a sexually nonconformist spirit …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.1.21"
+msgctxt "pli-tv-bu-vb-pj1:9.1.20"
 msgid "tiracchā­na­gata­paṇḍa­kassa …"
 msgstr "with a sexually nonconformist animal …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.1.22"
+msgctxt "pli-tv-bu-vb-pj1:9.1.21"
 msgid "­manus­sa­purisassa …"
 msgstr "with a human male …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.1.23"
+msgctxt "pli-tv-bu-vb-pj1:9.1.22"
 msgid "amanus­sa­purisassa …"
 msgstr "with a male spirit …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.1.24"
+msgctxt "pli-tv-bu-vb-pj1:9.1.23"
 msgid "tiracchā­na­gata­purisassa dve magge methunaṃ dhammaṃ paṭisevantassa āpatti pārājikassa—"
 msgstr "with a male animal though two orifices:"
 
-msgctxt "pli-tv-bu-vb-pj1:9.1.25"
+msgctxt "pli-tv-bu-vb-pj1:9.1.24"
 msgid "vaccamagge, mukhe."
 msgstr "the anus or the mouth."
 
 #. HTML: </p><h4>
-msgctxt "pli-tv-bu-vb-pj1:9.2.0a"
+msgctxt "pli-tv-bu-vb-pj1:9.2.0.1"
 msgid ""
 msgstr "Exposition part 2"
 
 #. HTML: </h4><h5>
-msgctxt "pli-tv-bu-vb-pj1:9.2.0b"
+msgctxt "pli-tv-bu-vb-pj1:9.2.0.2"
 msgid ""
 msgstr "Voluntary sexual intercourse"
 
@@ -4055,7 +4055,7 @@ msgid "tiracchā­na­gata­purisassa vaccamaggaṃ mukhaṃ aṅgajātaṃ pave
 msgstr "a male animal through the anus … through the mouth, he commits an offense entailing expulsion."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pj1:9.3.0a"
+msgctxt "pli-tv-bu-vb-pj1:9.3.0"
 msgid ""
 msgstr "Forced sexual intercourse: bringing the partner into the presence of the monk"
 
@@ -4421,7 +4421,7 @@ msgid "na sādiyati, anāpatti."
 msgstr "If he does not agree … there is no offense."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pj1:9.4.0a"
+msgctxt "pli-tv-bu-vb-pj1:9.4.0"
 msgid ""
 msgstr "Forced sexual intercourse with cover: bringing the partner into the presence of the monk"
 
@@ -4780,7 +4780,7 @@ msgid "na sādiyati, anāpatti."
 msgstr "If he does not agree … there is no offense."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.0a"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.0"
 msgid ""
 msgstr "Forced sexual intercourse: bringing the monk into the presence of the partner"
 
@@ -4969,256 +4969,256 @@ msgid "na sādiyati, anāpatti."
 msgstr "If he does not agree … there is no offense."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.44a"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.44.0"
 msgid ""
 msgstr "Forced sexual intercourse with cover: bringing the monk into the presence of the partner"
 
 #. HTML: </h5><p>
 #. REF: sc130, ms1V_130
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.45"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.44"
 msgid "Bhik­khu­pac­catthikā bhikkhuṃ manussitthiyā santike ānetvā aṅgajātena vaccamaggaṃ …"
 msgstr "Enemy monks bring a monk into the presence of a human female and insert his penis into her anus …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.46"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.45"
 msgid "passāvamaggaṃ …"
 msgstr "her vagina …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.47"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.46"
 msgid "mukhaṃ abhinisīdenti"
 msgstr "her mouth,"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.48"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.47"
 msgid "santhatassa asanthatāya,"
 msgstr "the monk being covered and the female uncovered;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.49"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.48"
 msgid "asanthatassa santhatāya,"
 msgstr "the monk uncovered and the female covered;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.50"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.49"
 msgid "santhatassa santhatāya,"
 msgstr "the monk covered and the female covered;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.51"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.50"
 msgid "asanthatassa asanthatāya."
 msgstr "the monk uncovered and the female uncovered."
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.52"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.51"
 msgid "So ce pavesanaṃ sādiyati, paviṭṭhaṃ sādiyati, ṭhitaṃ sādiyati, uddharaṇaṃ sādiyati, āpatti pārājikassa … pe …"
 msgstr "If he agrees to the entry, if he agrees to having entered, if he agrees to the remaining, if he agrees to the taking out, he commits an offense entailing expulsion. …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.53"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.52"
 msgid "na sādiyati, anāpatti."
 msgstr "If he does not agree … there is no offense."
 
 #. HTML: </p><p>
 #. REF: sc131, ms1V_131
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.54"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.53"
 msgid "Bhik­khu­pac­catthikā bhikkhuṃ manussitthiyā jāgarantiyā …"
 msgstr "Enemy monks bring a monk into the presence of a human female who is awake …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.55"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.54"
 msgid "suttāya …"
 msgstr "asleep …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.56"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.55"
 msgid "mattāya …"
 msgstr "intoxicated …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.57"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.56"
 msgid "ummattāya …"
 msgstr "insane …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.58"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.57"
 msgid "pamattāya …"
 msgstr "heedless …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.59"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.58"
 msgid "matāya akkhāyitāya …"
 msgstr "dead but undecomposed …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.60"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.59"
 msgid "matāya yebhuyyena akkhāyitāya … pe …"
 msgstr "dead and mostly undecomposed …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.61"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.60"
 msgid "āpatti pārājikassa."
 msgstr "he commits an offense entailing expulsion."
 
 #. REF: pts-vp-pli3.33
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.62"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.61"
 msgid "Matāya yebhuyyena khāyitāya santike ānetvā aṅgajātena vaccamaggaṃ …"
 msgstr "They bring a monk into the presence of one who is dead and mostly decomposed and insert his penis into her anus …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.63"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.62"
 msgid "passāvamaggaṃ …"
 msgstr "her vagina …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.64"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.63"
 msgid "mukhaṃ abhinisīdenti"
 msgstr "her mouth,"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.65"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.64"
 msgid "santhatassa asanthatāya,"
 msgstr "the monk being covered and the female uncovered;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.66"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.65"
 msgid "asanthatassa santhatāya,"
 msgstr "the monk uncovered and the female covered;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.67"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.66"
 msgid "santhatassa santhatāya,"
 msgstr "the monk covered and the female covered;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.68"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.67"
 msgid "asanthatassa asanthatāya."
 msgstr "the monk uncovered and the female uncovered."
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.69"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.68"
 msgid "So ce pavesanaṃ sādiyati, paviṭṭhaṃ sādiyati, ṭhitaṃ sādiyati, uddharaṇaṃ sādiyati, āpatti thullaccayassa … pe …"
 msgstr "If he agrees to the entry, if he agrees to having entered, if he agrees to the remaining, if he agrees to the taking out, he commits a serious offense. …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.70"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.69"
 msgid "na sādiyati, anāpatti."
 msgstr "If he does not agree … there is no offense."
 
 #. HTML: </p><hr><p>
 #. REF: sc132, ms1V_132
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.71"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.70"
 msgid "Bhik­khu­pac­catthikā bhikkhuṃ amanussitthiyā …"
 msgstr "Enemy monks bring a monk into the presence of a non-human female …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.72"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.71"
 msgid "tiracchā­na­ga­titthiyā …"
 msgstr "a female animal …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.73"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.72"
 msgid "manus­subha­tob­yañ­jana­kassa …"
 msgstr "a human hermaphrodite …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.74"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.73"
 msgid "amanus­subha­tob­yañ­jana­kassa …"
 msgstr "a non-human hermaphrodite …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.75"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.74"
 msgid "tiracchā­na­ga­tubha­tob­yañ­jana­kassa …"
 msgstr "an animal hermaphrodite …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.76"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.75"
 msgid "­manus­sa­paṇḍa­kassa …"
 msgstr "a sexually nonconformist human …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.77"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.76"
 msgid "amanus­sa­paṇḍa­kassa …"
 msgstr "a sexually nonconformist spirit …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.78"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.77"
 msgid "tiracchā­na­gata­paṇḍa­kassa …"
 msgstr "a sexually nonconformist animal …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.79"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.78"
 msgid "­manus­sa­purisassa …"
 msgstr "a human male …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.80"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.79"
 msgid "amanus­sa­purisassa …"
 msgstr "a male spirit …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.81"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.80"
 msgid "tiracchā­na­gata­purisassa santike ānetvā aṅgajātena vaccamaggaṃ …"
 msgstr "a male animal and insert his penis into its anus …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.82"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.81"
 msgid "mukhaṃ abhinisīdenti"
 msgstr "its mouth,"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.83"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.82"
 msgid "santhatassa asanthatassa,"
 msgstr "the monk being covered and the animal uncovered;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.84"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.83"
 msgid "asanthatassa santhatassa,"
 msgstr "the monk uncovered and the animal covered;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.85"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.84"
 msgid "santhatassa santhatassa,"
 msgstr "the monk covered and the animal covered;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.86"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.85"
 msgid "asanthatassa asanthatassa,"
 msgstr "the monk uncovered and the animal uncovered."
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.87"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.86"
 msgid "So ce pavesanaṃ sādiyati, paviṭṭhaṃ sādiyati, ṭhitaṃ sādiyati, uddharaṇaṃ sādiyati, āpatti pārājikassa … pe …"
 msgstr "If he agrees to the entry, if he agrees to having entered, if he agrees to the remaining, if he agrees to the taking out, he commits an offense entailing expulsion. …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.88"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.87"
 msgid "na sādiyati, anāpatti."
 msgstr "If he does not agree … there is no offense."
 
 #. HTML: </p><p>
 #. REF: sc133, ms1V_133
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.89"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.88"
 msgid "Bhik­khu­pac­catthikā bhikkhuṃ tiracchā­na­gata­purisassa jāgarantassa …"
 msgstr "Enemy monks bring a monk into the presence of a male animal that is awake …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.90"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.89"
 msgid "suttassa …"
 msgstr "asleep …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.91"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.90"
 msgid "mattassa …"
 msgstr "intoxicated …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.92"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.91"
 msgid "ummattassa …"
 msgstr "insane …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.93"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.92"
 msgid "pamattassa …"
 msgstr "heedless …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.94"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.93"
 msgid "matassa akkhāyitassa …"
 msgstr "dead but undecomposed …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.95"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.94"
 msgid "matassa yebhuyyena akkhāyitassa … pe …"
 msgstr "dead and mostly undecomposed …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.96"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.95"
 msgid "āpatti pārājikassa."
 msgstr "he commits an offense entailing expulsion."
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.97"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.96"
 msgid "Matassa yebhuyyena khāyitassa santike ānetvā aṅgajātena vaccamaggaṃ …"
 msgstr "They bring a monk into the presence of one that is dead and mostly decomposed and insert his penis into its anus …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.98"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.97"
 msgid "mukhaṃ abhinisīdenti"
 msgstr "its mouth,"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.99"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.98"
 msgid "santhatassa asanthatassa,"
 msgstr "the monk being covered and the animal uncovered;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.100"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.99"
 msgid "asanthatassa santhatassa,"
 msgstr "the monk uncovered and the animal covered;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.101"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.100"
 msgid "santhatassa santhatassa,"
 msgstr "the monk covered and the animal covered;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.102"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.101"
 msgid "asanthatassa asanthatassa,"
 msgstr "the monk uncovered and the animal uncovered."
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.103"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.102"
 msgid "So ce pavesanaṃ sādiyati, paviṭṭhaṃ sādiyati, ṭhitaṃ sādiyati, uddharaṇaṃ sādiyati, āpatti thullaccayassa … pe …"
 msgstr "If he agrees to the entry, if he agrees to having entered, if he agrees to the remaining, if he agrees to the taking out, he commits a serious offense. …"
 
-msgctxt "pli-tv-bu-vb-pj1:9.5-6.104"
+msgctxt "pli-tv-bu-vb-pj1:9.5-6.103"
 msgid "na sādiyati, anāpatti."
 msgstr "If he does not agree … there is no offense."
 
@@ -5251,229 +5251,229 @@ msgid "Saṃkhittaṃ."
 msgstr "This is the section in brief."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pj1:9.7.6a"
+msgctxt "pli-tv-bu-vb-pj1:9.7.6.0"
 msgid ""
 msgstr "Permutations part 2"
 
 # NOTE: In Permutations part 1 above _magga_ is translated as “orifice,” here as “private part.” This follows from what appears to be a slightly different usage in the two sections. In the previous section _magga_ refers to the three orifices of the partner that a monk might have sexual intercourse with. In this section _magga_ seems to refer specifically to the genitals and the anus, whether of the partner or the monk, and the mouth would seem to be excluded. The mouth here seems to be represented by the Pali _amagga_, “non-path” or “non-private part.” This follows from the fact that in the _vinaya_ the anus is regularly called _vaccamagga_, “the path of feces,” and the genitals _passāvamagga_, “the path of urine.” The mouth, however, with the curious exception of the previous section, is never called _magga_. In this interpretation I follow BMC I, p.45.
 #. HTML: </h3><p>
 #. REF: sc136, ms1V_136
-msgctxt "pli-tv-bu-vb-pj1:9.7.7"
+msgctxt "pli-tv-bu-vb-pj1:9.7.6"
 msgid "Maggena maggaṃ paveseti, āpatti pārājikassa."
 msgstr "He enters a private part with a private part, there is an offense entailing expulsion."
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.8"
+msgctxt "pli-tv-bu-vb-pj1:9.7.7"
 msgid "Maggena amaggaṃ paveseti, āpatti pārājikassa."
 msgstr "He enters the mouth with a private part, there is an offense entailing expulsion."
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.9"
+msgctxt "pli-tv-bu-vb-pj1:9.7.8"
 msgid "Amaggena maggaṃ paveseti, āpatti pārājikassa."
 msgstr "He enters a private part with the mouth, there is an offense entailing expulsion."
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.10"
+msgctxt "pli-tv-bu-vb-pj1:9.7.9"
 msgid "Amaggena amaggaṃ paveseti, āpatti thullaccayassa."
 msgstr "He enters the mouth with the mouth, there is a serious offense."
 
 #. HTML: </p><p>
 #. REF: sc137, ms1V_137
-msgctxt "pli-tv-bu-vb-pj1:9.7.11"
+msgctxt "pli-tv-bu-vb-pj1:9.7.10"
 msgid "Bhikkhu sutta­bhik­khumhi vippaṭipajjati;"
 msgstr "A monk molests a sleeping monk:"
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.12"
+msgctxt "pli-tv-bu-vb-pj1:9.7.11"
 msgid "paṭibuddho sādiyati, ubho nāsetabbā."
 msgstr "if he wakes up and consents, both should be ejected;"
 
 #. REF: pts-vp-en1.51
-msgctxt "pli-tv-bu-vb-pj1:9.7.13"
+msgctxt "pli-tv-bu-vb-pj1:9.7.12"
 msgid "Paṭibuddho na sādiyati, dūsako nāsetabbo."
 msgstr "if he wakes up but does not consent, the molester should be ejected."
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.14"
+msgctxt "pli-tv-bu-vb-pj1:9.7.13"
 msgid "Bhikkhu sutta­sāma­ṇeramhi vippaṭipajjati;"
 msgstr "A monk molests a sleeping novice:"
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.15"
+msgctxt "pli-tv-bu-vb-pj1:9.7.14"
 msgid "paṭibuddho sādiyati, ubho nāsetabbā."
 msgstr "if he wakes up and consents, both should be ejected;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.16"
+msgctxt "pli-tv-bu-vb-pj1:9.7.15"
 msgid "Paṭibuddho na sādiyati, dūsako nāsetabbo."
 msgstr "if he wakes up but does not consent, the molester should be ejected."
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.17"
+msgctxt "pli-tv-bu-vb-pj1:9.7.16"
 msgid "Sāmaṇero sutta­bhik­khumhi vippaṭipajjati;"
 msgstr "A novice molests a sleeping monk:"
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.18"
+msgctxt "pli-tv-bu-vb-pj1:9.7.17"
 msgid "paṭibuddho sādiyati, ubho nāsetabbā."
 msgstr "if he wakes up and consents, both should be ejected;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.19"
+msgctxt "pli-tv-bu-vb-pj1:9.7.18"
 msgid "Paṭibuddho na sādiyati, dūsako nāsetabbo."
 msgstr "if he wakes up but does not consent, the molester should be ejected."
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.20"
+msgctxt "pli-tv-bu-vb-pj1:9.7.19"
 msgid "Sāmaṇero sutta­sāma­ṇeramhi vippaṭipajjati;"
 msgstr "A novice molests a sleeping novice:"
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.21"
+msgctxt "pli-tv-bu-vb-pj1:9.7.20"
 msgid "paṭibuddho sādiyati, ubho nāsetabbā."
 msgstr "if he wakes up and consents, both should be ejected;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.22"
+msgctxt "pli-tv-bu-vb-pj1:9.7.21"
 msgid "Paṭibuddho na sādiyati, dūsako nāsetabbo."
 msgstr "if he wakes up but does not consent, the molester should be ejected."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pj1:9.7.22a"
+msgctxt "pli-tv-bu-vb-pj1:9.7.22.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc138
-msgctxt "pli-tv-bu-vb-pj1:9.7.23"
+msgctxt "pli-tv-bu-vb-pj1:9.7.22"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.24"
+msgctxt "pli-tv-bu-vb-pj1:9.7.23"
 msgid "ajānantassa,"
 msgstr "if he does not know;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.25"
+msgctxt "pli-tv-bu-vb-pj1:9.7.24"
 msgid "asādiyantassa,"
 msgstr "if he does not consent;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.26"
+msgctxt "pli-tv-bu-vb-pj1:9.7.25"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.27"
+msgctxt "pli-tv-bu-vb-pj1:9.7.26"
 msgid "khittacittassa,"
 msgstr "if he is deranged;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.28"
+msgctxt "pli-tv-bu-vb-pj1:9.7.27"
 msgid " vedanāṭṭassa,"
 msgstr "if he is overwhelmed by pain;"
 
-msgctxt "pli-tv-bu-vb-pj1:9.7.29"
+msgctxt "pli-tv-bu-vb-pj1:9.7.28"
 msgid "ādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc139, ms1V_139
-msgctxt "pli-tv-bu-vb-pj1:9.7.30"
+msgctxt "pli-tv-bu-vb-pj1:9.7.29"
 msgid "San­tha­ta­bhā­ṇavāro niṭṭhito."
 msgstr "The section for recitation on covering is finished."
 
 #. HTML: </p><hr><h5>
-msgctxt "pli-tv-bu-vb-pj1:9.7.31"
+msgctxt "pli-tv-bu-vb-pj1:9.7.31.0"
 msgid "4. Vinīta­vatthu­uddāna­gāthā"
 msgstr "Case rulings mnemonic list"
 
 #. HTML: </h5><div class="uddana"><p>
 #. REF: sc140, ms1V_140
-msgctxt "pli-tv-bu-vb-pj1:9.7.32"
+msgctxt "pli-tv-bu-vb-pj1:9.7.31"
 msgid "Makkaṭī vajjiputtā ca,"
 msgstr "The female monkey, and the Vajjians,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj1:9.7.33"
+msgctxt "pli-tv-bu-vb-pj1:9.7.32"
 msgid "gihī naggo ca titthiyā;"
 msgstr "Lay person, and a naked one, ascetics of other sects;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj1:9.7.34"
+msgctxt "pli-tv-bu-vb-pj1:9.7.33"
 msgid "Dāri­kuppala­vaṇṇā ca,"
 msgstr "The girl, and Uppalavaṇṇā,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj1:9.7.35"
+msgctxt "pli-tv-bu-vb-pj1:9.7.34"
 msgid "byañjanehipare duve."
 msgstr "Two others with characteristics."
 
 #. HTML: </p><p>
 #. REF: sc141, ms1V_141
-msgctxt "pli-tv-bu-vb-pj1:9.7.36"
+msgctxt "pli-tv-bu-vb-pj1:9.7.35"
 msgid "Mātā dhītā bhaginī ca,"
 msgstr "Mother, daughter, and sister"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj1:9.7.37"
+msgctxt "pli-tv-bu-vb-pj1:9.7.36"
 msgid "jāyā ca mudu lambinā;"
 msgstr "And wife, supple, with long;"
 
 #. HTML: <br>
 #. REF: pts-vp-pli3.34
-msgctxt "pli-tv-bu-vb-pj1:9.7.38"
+msgctxt "pli-tv-bu-vb-pj1:9.7.37"
 msgid "Dve vaṇā lepacittañca,"
 msgstr "Two on sores, and a picture,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj1:9.7.39"
+msgctxt "pli-tv-bu-vb-pj1:9.7.38"
 msgid "dāru­dhīta­likāya ca."
 msgstr "And a wooden doll."
 
 #. HTML: </p><p>
 #. REF: sc142, ms1V_142
-msgctxt "pli-tv-bu-vb-pj1:9.7.40"
+msgctxt "pli-tv-bu-vb-pj1:9.7.39"
 msgid "Sundarena saha pañca,"
 msgstr "Five with Sundara,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj1:9.7.41"
+msgctxt "pli-tv-bu-vb-pj1:9.7.40"
 msgid "pañca siva­thikaṭ­ṭhikā;"
 msgstr "Five about charnel grounds, bones;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj1:9.7.42"
+msgctxt "pli-tv-bu-vb-pj1:9.7.41"
 msgid "Nāgī yakkhī ca petī ca,"
 msgstr "A female dragon, and a female spirit, and a female ghost,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj1:9.7.43"
+msgctxt "pli-tv-bu-vb-pj1:9.7.42"
 msgid "paṇḍakopahato chupe."
 msgstr "A sexual nonconformist, impaired, should touch."
 
 #. HTML: </p><p>
 #. REF: sc143, ms1V_143
-msgctxt "pli-tv-bu-vb-pj1:9.7.44"
+msgctxt "pli-tv-bu-vb-pj1:9.7.43"
 msgid "Bhaddiye arahaṃ sutto,"
 msgstr "The sleeping Perfected One in Bhaddiya,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj1:9.7.45"
+msgctxt "pli-tv-bu-vb-pj1:9.7.44"
 msgid "sāvatthiyā caturo pare;"
 msgstr "Four others in Sāvatthī;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj1:9.7.46"
+msgctxt "pli-tv-bu-vb-pj1:9.7.45"
 msgid "Vesāliyā tayo mālā,"
 msgstr "Three in Vesālī, garlands,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj1:9.7.47"
+msgctxt "pli-tv-bu-vb-pj1:9.7.46"
 msgid "supine bhārukacchako."
 msgstr "The one from Bharukaccha in his dream."
 
 #. HTML: </p><p>
 #. REF: sc144, pts-vp-en1.52, ms1V_144
-msgctxt "pli-tv-bu-vb-pj1:9.7.48"
+msgctxt "pli-tv-bu-vb-pj1:9.7.47"
 msgid "Supabbā saddhā bhikkhunī,"
 msgstr "Supabbā, Saddhā, a nun,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj1:9.7.49"
+msgctxt "pli-tv-bu-vb-pj1:9.7.48"
 msgid "Sikkhamānā sāmaṇerī ca;"
 msgstr "A trainee nun, and a novice nun;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj1:9.7.50"
+msgctxt "pli-tv-bu-vb-pj1:9.7.49"
 msgid "Vesiyā paṇḍako gihī,"
 msgstr "A prostitute, a sexual nonconformist, a lay person,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj1:9.7.51"
+msgctxt "pli-tv-bu-vb-pj1:9.7.50"
 msgid "Aññamaññaṃ vuḍḍha­pabba­jito migoti."
 msgstr "Each other, one gone forth when old, a deer."
 

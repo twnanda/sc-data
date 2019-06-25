@@ -13,7 +13,7 @@ msgid "Mahālisutta "
 msgstr "With Mahāli "
 
 #. HTML: </h1></div><h2>
-msgctxt "dn6:0.3"
+msgctxt "dn6:1.0"
 msgid "1. Brāhmaṇadūtavatthu "
 msgstr "1. On the Brahmin Emissaries "
 
@@ -99,7 +99,7 @@ msgid "“disvāva mayaṃ taṃ bhavantaṃ gotamaṃ gamissāmā”ti. "
 msgstr "“We’ll go only after we’ve seen Master Gotama.” "
 
 #. HTML: </p><h2>
-msgctxt "dn6:2.9"
+msgctxt "dn6:3.0"
 msgid "2. Oṭṭhaddhalicchavīvatthu "
 msgstr "2. On Oṭṭhaddha the Licchavi "
 
@@ -201,13 +201,13 @@ msgid "Santāneva nu kho, bhante, sunakkhatto licchaviputto dibbāni saddāni n�
 msgstr "The heavenly sounds that Sunakkhatta cannot hear: do such sounds really exist or not?” "
 
 #. HTML: </p><h3>
-msgctxt "dn6:5.6"
+msgctxt "dn6:5.6.0"
 msgid "2.1. Ekaṃsabhāvitasamādhi "
 msgstr "2.1. One-Sided Immersion "
 
 #. HTML: </h3><p>
 #. REF: sc8
-msgctxt "dn6:5.7"
+msgctxt "dn6:5.6"
 msgid "“Santāneva kho, mahāli, sunakkhatto licchaviputto dibbāni saddāni nāssosi piyarūpāni kāmūpasaṃhitāni rajanīyāni, no asantānī”ti. "
 msgstr "“Such sounds really do exist, but Sunakkhatta cannot hear them.” "
 
@@ -406,7 +406,7 @@ msgid "Atthi kho, mahāli, aññeva dhammā uttaritarā ca paṇītatarā ca, ye
 msgstr "There are other things that are finer, for the sake of which the mendicants live the spiritual life under me.” "
 
 #. HTML: </p><h3>
-msgctxt "dn6:12.4"
+msgctxt "dn6:13.0"
 msgid "2.2. Catuariyaphala "
 msgstr "2.2. The Four Noble Fruits "
 
@@ -462,7 +462,7 @@ msgid "Ime kho te, mahāli, dhammā uttaritarā ca paṇītatarā ca, yesaṃ sa
 msgstr "These are the finer things, for the sake of which the mendicants live the spiritual life under me.” "
 
 #. HTML: </p><h3>
-msgctxt "dn6:13.11"
+msgctxt "dn6:14.0"
 msgid "2.3. Ariyaaṭṭhaṅgikamagga "
 msgstr "2.3. The Noble Eightfold Path "
 
@@ -497,7 +497,7 @@ msgid "Ayaṃ kho, mahāli, maggo ayaṃ paṭipadā etesaṃ dhammānaṃ sacch
 msgstr "This is the path and the practice for realizing these things. "
 
 #. HTML: </p><h3>
-msgctxt "dn6:14.7"
+msgctxt "dn6:15.0"
 msgid "2.4. Dvepabbajitavatthu "
 msgstr "2.4. On the Two Renunciates "
 

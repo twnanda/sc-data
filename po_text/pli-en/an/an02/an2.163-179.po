@@ -36,7 +36,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”ti. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.164" id="164"><article><div class="hgroup"><h1>
-msgctxt "an2.163-179:163.1.5"
+msgctxt "an2.163-179:0.1"
 msgid "164 "
 msgstr "164 "
 
@@ -59,7 +59,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.165" id="165"><article><div class="hgroup"><h1>
-msgctxt "an2.163-179:164.1.5"
+msgctxt "an2.163-179:0.1"
 msgid "165 "
 msgstr "165 "
 
@@ -82,7 +82,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.166" id="166"><article><div class="hgroup"><h1>
-msgctxt "an2.163-179:165.1.5"
+msgctxt "an2.163-179:0.1"
 msgid "166 "
 msgstr "166 "
 
@@ -105,7 +105,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.167" id="167"><article><div class="hgroup"><h1>
-msgctxt "an2.163-179:166.1.5"
+msgctxt "an2.163-179:0.1"
 msgid "167 "
 msgstr "167 "
 
@@ -128,7 +128,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.168" id="168"><article><div class="hgroup"><h1>
-msgctxt "an2.163-179:167.1.5"
+msgctxt "an2.163-179:0.1"
 msgid "168 "
 msgstr "168 "
 
@@ -151,7 +151,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.169" id="169"><article><div class="hgroup"><h1>
-msgctxt "an2.163-179:168.1.5"
+msgctxt "an2.163-179:0.1"
 msgid "169 "
 msgstr "169 "
 
@@ -174,7 +174,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.170" id="170"><article><div class="hgroup"><h1>
-msgctxt "an2.163-179:169.1.5"
+msgctxt "an2.163-179:0.1"
 msgid "170 "
 msgstr "170 "
 
@@ -197,7 +197,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.171" id="171"><article><div class="hgroup"><h1>
-msgctxt "an2.163-179:170.1.5"
+msgctxt "an2.163-179:0.1"
 msgid "171 "
 msgstr "171 "
 
@@ -220,7 +220,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.172" id="172"><article><div class="hgroup"><h1>
-msgctxt "an2.163-179:171.1.5"
+msgctxt "an2.163-179:0.1"
 msgid "172 "
 msgstr "172 "
 
@@ -243,7 +243,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.173" id="173"><article><div class="hgroup"><h1>
-msgctxt "an2.163-179:172.1.5"
+msgctxt "an2.163-179:0.1"
 msgid "173 "
 msgstr "173 "
 
@@ -266,7 +266,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.174" id="174"><article><div class="hgroup"><h1>
-msgctxt "an2.163-179:173.1.5"
+msgctxt "an2.163-179:0.1"
 msgid "174 "
 msgstr "174 "
 
@@ -289,7 +289,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.175" id="175"><article><div class="hgroup"><h1>
-msgctxt "an2.163-179:174.1.5"
+msgctxt "an2.163-179:0.1"
 msgid "175 "
 msgstr "175 "
 
@@ -312,7 +312,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.176" id="176"><article><div class="hgroup"><h1>
-msgctxt "an2.163-179:175.1.5"
+msgctxt "an2.163-179:0.1"
 msgid "176 "
 msgstr "176 "
 
@@ -335,7 +335,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.177" id="177"><article><div class="hgroup"><h1>
-msgctxt "an2.163-179:176.1.5"
+msgctxt "an2.163-179:0.1"
 msgid "177 "
 msgstr "177 "
 
@@ -358,7 +358,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.178" id="178"><article><div class="hgroup"><h1>
-msgctxt "an2.163-179:177.1.5"
+msgctxt "an2.163-179:0.1"
 msgid "178 "
 msgstr "178 "
 
@@ -381,7 +381,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.179" id="179"><article><div class="hgroup"><h1>
-msgctxt "an2.163-179:178.1.5"
+msgctxt "an2.163-179:0.1"
 msgid "179 "
 msgstr "179 "
 

@@ -28,7 +28,7 @@ msgid "11. Kosiyasikkhāpada"
 msgstr "11. The training rule on silk"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np11:1.0a"
+msgctxt "pli-tv-bu-vb-np11:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -135,18 +135,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np11:1.23a"
+msgctxt "pli-tv-bu-vb-np11:1.23.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc4, ms1V_2101
-msgctxt "pli-tv-bu-vb-np11:1.24"
+msgctxt "pli-tv-bu-vb-np11:1.23"
 msgid "“Yo pana bhikkhu kosiyamissakaṃ santhataṃ kārāpeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk gets a blanket made that contains silk, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np11:2.1.0a"
+msgctxt "pli-tv-bu-vb-np11:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -238,7 +238,7 @@ msgid "āyasmato dammīti."
 msgstr "‘I give this blanket back to you.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np11:2.2.0a"
+msgctxt "pli-tv-bu-vb-np11:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -272,31 +272,31 @@ msgid "Aññena kataṃ paṭilabhitvā paribhuñjati, āpatti dukkaṭassa."
 msgstr "If he obtains one that was made by someone else and then uses it, he commits an offense of wrong conduct."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np11:2.2.6a"
+msgctxt "pli-tv-bu-vb-np11:2.2.6.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc10, ms1V_2107
-msgctxt "pli-tv-bu-vb-np11:2.2.7"
+msgctxt "pli-tv-bu-vb-np11:2.2.6"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
-msgctxt "pli-tv-bu-vb-np11:2.2.8"
+msgctxt "pli-tv-bu-vb-np11:2.2.7"
 msgid "vitānaṃ vā bhūmattharaṇaṃ vā sāṇipākāraṃ vā bhisiṃ vā bibbohanaṃ vā karoti,"
 msgstr "if he makes a canopy, a floor cover, a screen-wall, a mattress, or a pillow;"
 
-msgctxt "pli-tv-bu-vb-np11:2.2.9"
+msgctxt "pli-tv-bu-vb-np11:2.2.8"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-np11:2.2.10"
+msgctxt "pli-tv-bu-vb-np11:2.2.9"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 # NOTE: It is called the first rule in the Pali since it is the first rule of the second chapter on relinquishment. If, however, one disregards the division into chapters, it is the eleventh rule on relinquishment.
 #. HTML: </p><hr><p class="endsutta">
 #. REF: sc11, ms1V_2108
-msgctxt "pli-tv-bu-vb-np11:2.2.11"
+msgctxt "pli-tv-bu-vb-np11:2.2.10"
 msgid "Kosiyasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ."
 msgstr "The first rule, the training rule on silk, is finished."

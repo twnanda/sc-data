@@ -214,17 +214,17 @@ msgid "yattha sabbeheva saṅgāyitabbaṃ, na vivaditabbaṃ, yathayidaṃ brah
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn33:1.7.9"
+msgctxt "dn33:1.7.9.0"
 msgid "1. Ekaka "
 msgstr "1. Ones "
 
 #. HTML: </h2><p>
 #. REF: pts-vp-pli3.212, sc10
-msgctxt "dn33:1.7.10"
+msgctxt "dn33:1.7.9"
 msgid "Atthi kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena eko dhammo sammadakkhāto. "
 msgstr "There are teachings grouped by one that have been rightly explained by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha. "
 
-msgctxt "dn33:1.7.11"
+msgctxt "dn33:1.7.10"
 msgid "Tattha sabbeheva saṅgāyitabbaṃ, na vivaditabbaṃ, yathayidaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ. "
 msgstr "You should all recite these in concert, without disputing, so that this spiritual path may last for a long time. That would be for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans. "
 
@@ -253,7 +253,7 @@ msgid "Tattha sabbeheva saṅgāyitabbaṃ, na vivaditabbaṃ, yathayidaṃ brah
 msgstr "You should all recite these in concert, without disputing, so that this spiritual path may last for a long time. That would be for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans. "
 
 #. HTML: </p><h2>
-msgctxt "dn33:1.8.6"
+msgctxt "dn33:1.9.0"
 msgid "2. Duka "
 msgstr "2. Twos "
 
@@ -482,7 +482,7 @@ msgid "Tattha sabbeheva saṅgāyitabbaṃ, na vivaditabbaṃ, yathayidaṃ brah
 msgstr "You should all recite these in concert. "
 
 #. HTML: </p><h2>
-msgctxt "dn33:1.9.39"
+msgctxt "dn33:1.10.0"
 msgid "3. Tika "
 msgstr "3. Threes "
 
@@ -1211,7 +1211,7 @@ msgid "Tattha sabbeheva saṅgāyitabbaṃ … pe … atthāya hitāya sukhāya 
 msgstr "You should all recite these in concert. "
 
 #. HTML: </p><h2>
-msgctxt "dn33:1.10.149"
+msgctxt "dn33:1.11.0"
 msgid "4. Catukka "
 msgstr "4. Fours "
 
@@ -2208,7 +2208,7 @@ msgid "Paṭhamabhāṇavāro niṭṭhito. "
 msgstr "The first recitation section is finished. "
 
 #. HTML: </p><h2>
-msgctxt "dn33:1.11.213"
+msgctxt "dn33:2.1.0"
 msgid "5. Pañcaka "
 msgstr "5. Fives "
 
@@ -2851,7 +2851,7 @@ msgid "tattha sabbeheva saṅgāyitabbaṃ … pe … atthāya hitāya sukhāya 
 msgstr "You should all recite these in concert. "
 
 #. HTML: </p><h2>
-msgctxt "dn33:2.1.143"
+msgctxt "dn33:2.2.0"
 msgid "6. Chakka "
 msgstr "6. Sixes "
 
@@ -3454,7 +3454,7 @@ msgid "tattha sabbeheva saṅgāyitabbaṃ … pe … atthāya hitāya sukhāya 
 msgstr "You should all recite these in concert. "
 
 #. HTML: </p><h2>
-msgctxt "dn33:2.2.131"
+msgctxt "dn33:2.3.0"
 msgid "7. Sattaka "
 msgstr "7. Sevens "
 
@@ -3718,7 +3718,7 @@ msgid "Dutiyabhāṇavāro niṭṭhito. "
 msgstr "The second recitation section is finished. "
 
 #. HTML: </p><h2>
-msgctxt "dn33:2.3.54"
+msgctxt "dn33:3.1.0"
 msgid "8. Aṭṭhaka "
 msgstr "8. Eights "
 
@@ -4560,7 +4560,7 @@ msgid "tattha sabbeheva saṅgāyitabbaṃ … pe … atthāya hitāya sukhāya 
 msgstr "You should all recite these in concert. "
 
 #. HTML: </p><h2>
-msgctxt "dn33:3.1.187"
+msgctxt "dn33:3.2.0"
 msgid "9. Navaka "
 msgstr "9. Nines "
 
@@ -4989,7 +4989,7 @@ msgid "Tattha sabbeheva saṅgāyitabbaṃ … pe … atthāya hitāya sukhāya 
 msgstr "You should all recite these in concert. "
 
 #. HTML: </p><h2>
-msgctxt "dn33:3.2.94"
+msgctxt "dn33:3.3.0"
 msgid "10. Dasaka "
 msgstr "10. Tens "
 

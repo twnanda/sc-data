@@ -28,7 +28,7 @@ msgid "13. Dvebhāgasikkhāpada"
 msgstr "13. The training rule on two parts"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np13:1.0a"
+msgctxt "pli-tv-bu-vb-np13:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -87,23 +87,23 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np13:1.12a"
+msgctxt "pli-tv-bu-vb-np13:1.12.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc3, ms1V_2123
-msgctxt "pli-tv-bu-vb-np13:1.13"
+msgctxt "pli-tv-bu-vb-np13:1.12"
 msgid "“Navaṃ pana bhikkhunā santhataṃ kārayamānena dve bhāgā suddhakāḷakānaṃ eḷakalomānaṃ ādātabbā tatiyaṃ odātānaṃ catutthaṃ gocariyānaṃ."
 msgstr "‘If a monk is getting a new blanket made, he should use two parts of entirely black wool, a third part of white, and a fourth part of brown."
 
 #. REF: pts-vp-en2.77
-msgctxt "pli-tv-bu-vb-np13:1.14"
+msgctxt "pli-tv-bu-vb-np13:1.13"
 msgid "Anādā ce bhikkhu dve bhāge suddhakāḷakānaṃ eḷakalomānaṃ tatiyaṃ odātānaṃ catutthaṃ gocariyānaṃ navaṃ santhataṃ kārāpeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "If he gets a new blanket made without using two parts of entirely black wool, a third part of white, and a fourth part of brown, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np13:2.0a"
+msgctxt "pli-tv-bu-vb-np13:2.0"
 msgid ""
 msgstr "Definitions"
 
@@ -225,76 +225,76 @@ msgid "āyasmato dammīti."
 msgstr "‘I give this blanket back to you.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np13:2.23a"
+msgctxt "pli-tv-bu-vb-np13:2.23.0"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><p>
 #. REF: sc11, ms1V_2131
-msgctxt "pli-tv-bu-vb-np13:2.24"
+msgctxt "pli-tv-bu-vb-np13:2.23"
 msgid "Attanā vippakataṃ attanā pariyosāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he finishes what he began himself, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np13:2.25"
+msgctxt "pli-tv-bu-vb-np13:2.24"
 msgid "Attanā vippakataṃ parehi pariyosāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he gets others to finish what he began himself, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np13:2.26"
+msgctxt "pli-tv-bu-vb-np13:2.25"
 msgid "Parehi vippakataṃ attanā pariyosāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he finishes himself what was begun by others, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np13:2.27"
+msgctxt "pli-tv-bu-vb-np13:2.26"
 msgid "Parehi vippakataṃ parehi pariyosāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he gets others to finish what was begun by others, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </p><p>
 #. REF: sc12, ms1V_2132
-msgctxt "pli-tv-bu-vb-np13:2.28"
+msgctxt "pli-tv-bu-vb-np13:2.27"
 msgid "Aññassatthāya karoti vā kārāpeti vā, āpatti dukkaṭassa."
 msgstr "If he makes one, or gets one made, for someone else, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np13:2.29"
+msgctxt "pli-tv-bu-vb-np13:2.28"
 msgid "Aññena kataṃ paṭilabhitvā paribhuñjati, āpatti dukkaṭassa."
 msgstr "If he obtains one that was made by someone else and then uses it, he commits an offense of wrong conduct."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np13:2.29a"
+msgctxt "pli-tv-bu-vb-np13:2.29.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc13, ms1V_2133
-msgctxt "pli-tv-bu-vb-np13:2.30"
+msgctxt "pli-tv-bu-vb-np13:2.29"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
-msgctxt "pli-tv-bu-vb-np13:2.31"
+msgctxt "pli-tv-bu-vb-np13:2.30"
 msgid "tulaṃ odātānaṃ tulaṃ gocariyānaṃ ādiyitvā karoti,"
 msgstr "if he makes one using one measure of white and one measure of brown;"
 
 #. REF: pts-vp-en2.78
-msgctxt "pli-tv-bu-vb-np13:2.32"
+msgctxt "pli-tv-bu-vb-np13:2.31"
 msgid "bahutaraṃ odātānaṃ bahutaraṃ gocariyānaṃ ādiyitvā karoti,"
 msgstr "if he makes on using more than one measure of white and more than one measure of brown;"
 
-msgctxt "pli-tv-bu-vb-np13:2.33"
+msgctxt "pli-tv-bu-vb-np13:2.32"
 msgid "suddhaṃ odātānaṃ suddhaṃ gocariyānaṃ ādiyitvā karoti,"
 msgstr "if he makes one using just white and just brown;"
 
-msgctxt "pli-tv-bu-vb-np13:2.34"
+msgctxt "pli-tv-bu-vb-np13:2.33"
 msgid "vitānaṃ vā bhūmattharaṇaṃ vā sāṇipākāraṃ vā bhisiṃ vā bibbohanaṃ vā karoti,"
 msgstr "if he makes a canopy, a floor cover, a screen-wall, a mattress, or a pillow;"
 
-msgctxt "pli-tv-bu-vb-np13:2.35"
+msgctxt "pli-tv-bu-vb-np13:2.34"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-np13:2.36"
+msgctxt "pli-tv-bu-vb-np13:2.35"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><hr><p class="endsutta">
 #. REF: sc14, ms1V_2134
-msgctxt "pli-tv-bu-vb-np13:2.37"
+msgctxt "pli-tv-bu-vb-np13:2.36"
 msgid "Dvebhāgasikkhāpadaṃ niṭṭhitaṃ tatiyaṃ."
 msgstr "The third rule, the training rule on two parts, is finished."

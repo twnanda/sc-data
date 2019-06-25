@@ -29,12 +29,12 @@ msgid "13. Ujjhāpanakasikkhāpada"
 msgstr "The training rule on complaining"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc13:1.0a"
+msgctxt "pli-tv-bu-vb-pc13:1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pc13:1.0b"
+msgctxt "pli-tv-bu-vb-pc13:1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -106,24 +106,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc13:1.15a"
+msgctxt "pli-tv-bu-vb-pc13:1.15.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc3, ms2V_372
-msgctxt "pli-tv-bu-vb-pc13:1.16"
+msgctxt "pli-tv-bu-vb-pc13:1.15"
 msgid "“Ujjhāpanake pācittiyan”ti."
 msgstr "‘If a monk complains, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc4, ms2V_373
-msgctxt "pli-tv-bu-vb-pc13:1.17"
+msgctxt "pli-tv-bu-vb-pc13:1.16"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc13:2.0a"
+msgctxt "pli-tv-bu-vb-pc13:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -182,19 +182,19 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc13:2.12a"
+msgctxt "pli-tv-bu-vb-pc13:2.12.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. VAR: khiyyanake → khīyanake (s1-3, pts1)
 #. REF: sc6, ms2V_375
-msgctxt "pli-tv-bu-vb-pc13:2.13"
+msgctxt "pli-tv-bu-vb-pc13:2.12"
 msgid "“Ujjhāpanake khiyyanake pācittiyan”ti."
 msgstr "‘If a monk complains or denounces, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc13:3.1.0a"
+msgctxt "pli-tv-bu-vb-pc13:3.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -211,21 +211,21 @@ msgid "upasampannaṃ saṃghena sammataṃ senāsanapaññāpakaṃ vā bhattud
 msgstr "when someone who is fully ordained is the assigner of dwellings or the designator of meals or the distributor of rice-porridge or the distributor of fruit or the distributor of non-staple food or the distributor of small requisites, and he has been agreed upon by the Order as such, then if a monk complains about him or denounces him to one who is fully ordained—desiring to disparage him, desiring to give him a bad reputation, desiring to humiliate him—he commits an offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc13:3.1.2a"
+msgctxt "pli-tv-bu-vb-pc13:3.1.2.0"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><p>
 #. REF: pts-vp-en.2.237
-msgctxt "pli-tv-bu-vb-pc13:3.1.3"
+msgctxt "pli-tv-bu-vb-pc13:3.1.2"
 msgid "Dhammakamme dhammakammasaññī ujjhāpanake khiyyanake āpatti pācittiyassa."
 msgstr "If it is a legitimate procedure, and he perceives it as legitimate, and he complains or denounces, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc13:3.1.4"
+msgctxt "pli-tv-bu-vb-pc13:3.1.3"
 msgid "Dhammakamme vematiko ujjhāpanake khiyyanake āpatti pācittiyassa."
 msgstr "If it is a legitimate procedure, but he is unsure if it is, and he complains or denounces, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc13:3.1.5"
+msgctxt "pli-tv-bu-vb-pc13:3.1.4"
 msgid "Dhammakamme adhammakammasaññī ujjhāpanake khiyyanake āpatti pācittiyassa."
 msgstr "If it is a legitimate procedure, but he perceives it as illegitimate, and he complains or denounces, he commits an offense entailing confession."
 
@@ -259,7 +259,7 @@ msgid "Adhammakamme adhammakammasaññī āpatti dukkaṭassa."
 msgstr "If it is an illegitimate procedure, and he perceives it as illegitimate, he commits an offense of wrong conduct."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc13:3.3.0a"
+msgctxt "pli-tv-bu-vb-pc13:3.3.0"
 msgid ""
 msgstr "Non-offenses"
 

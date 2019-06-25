@@ -74,12 +74,12 @@ msgid "Uddeso niṭṭhito. "
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "mn10:3.7"
+msgctxt "mn10:4.0.1"
 msgid "1. Kāyānupassanā "
 msgstr "1. Observing the Body "
 
 #. HTML: </h2><h3>
-msgctxt "mn10:3.8"
+msgctxt "mn10:4.0.2"
 msgid "1.1. Kāyānupassanāānāpānapabba "
 msgstr "1.1. Mindfulness of Breathing "
 
@@ -165,7 +165,7 @@ msgid "Ānāpānapabbaṃ niṭṭhitaṃ. "
 msgstr " "
 
 #. HTML: </p><h3>
-msgctxt "mn10:5.6"
+msgctxt "mn10:6.0"
 msgid "1.2. Kāyānupassanāiriyāpathapabba "
 msgstr "1.2. The Postures "
 
@@ -204,7 +204,7 @@ msgid "Iriyāpathapabbaṃ niṭṭhitaṃ. "
 msgstr " "
 
 #. HTML: </p><h3>
-msgctxt "mn10:7.6"
+msgctxt "mn10:8.0"
 msgid "1.3. Kāyānupassanāsampajānapabba "
 msgstr "1.3. Situational Awareness "
 
@@ -231,7 +231,7 @@ msgid "Sampajānapabbaṃ niṭṭhitaṃ. "
 msgstr " "
 
 #. HTML: </p><h3>
-msgctxt "mn10:9.4"
+msgctxt "mn10:10.0"
 msgid "1.4. Kāyānupassanāpaṭikūlamanasikārapabba "
 msgstr "1.4. Focusing on the Repulsive "
 
@@ -280,7 +280,7 @@ msgid "Paṭikūlamanasikārapabbaṃ niṭṭhitaṃ. "
 msgstr " "
 
 #. HTML: </p><h3>
-msgctxt "mn10:11.4"
+msgctxt "mn10:12.0"
 msgid "1.5. Kāyānupassanādhātumanasikārapabba "
 msgstr "1.5. Focusing on the Elements "
 
@@ -327,7 +327,7 @@ msgid "Dhātumanasikārapabbaṃ niṭṭhitaṃ. "
 msgstr " "
 
 #. HTML: </p><h3>
-msgctxt "mn10:13.4"
+msgctxt "mn10:14.0"
 msgid "1.6. Kāyānupassanānavasivathikapabba "
 msgstr "1.6. The Charnel Ground Contemplations "
 
@@ -480,7 +480,7 @@ msgid "Cuddasakāyānupassanā niṭṭhitā. "
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "mn10:31.7"
+msgctxt "mn10:32.0"
 msgid "2. Vedanānupassanā "
 msgstr "2. Observing the Feelings "
 
@@ -574,7 +574,7 @@ msgid "Vedanānupassanā niṭṭhitā. "
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "mn10:33.7"
+msgctxt "mn10:34.0"
 msgid "3. Cittānupassanā "
 msgstr "3. Observing the Mind "
 
@@ -614,12 +614,12 @@ msgid "Cittānupassanā niṭṭhitā. "
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "mn10:35.6"
+msgctxt "mn10:36.0.1"
 msgid "4. Dhammānupassanā "
 msgstr "4. Observing Principles "
 
 #. HTML: </h2><h3>
-msgctxt "mn10:35.7"
+msgctxt "mn10:36.0.2"
 msgid "4.1. Dhammānupassanānīvaraṇapabba "
 msgstr "4.1. The Hindrances "
 
@@ -697,7 +697,7 @@ msgid "Nīvaraṇapabbaṃ niṭṭhitaṃ. "
 msgstr " "
 
 #. HTML: </p><h3>
-msgctxt "mn10:37.7"
+msgctxt "mn10:38.0"
 msgid "4.2. Dhammānupassanākhandhapabba "
 msgstr "4.2. The Aggregates "
 
@@ -764,7 +764,7 @@ msgid "Khandhapabbaṃ niṭṭhitaṃ. "
 msgstr " "
 
 #. HTML: </p><h3>
-msgctxt "mn10:39.7"
+msgctxt "mn10:40.0"
 msgid "4.3. Dhammānupassanāāyatanapabba "
 msgstr "4.3. The Sense Fields "
 
@@ -843,7 +843,7 @@ msgid "Āyatanapabbaṃ niṭṭhitaṃ. "
 msgstr " "
 
 #. HTML: </p><h3>
-msgctxt "mn10:41.7"
+msgctxt "mn10:42.0"
 msgid "4.4. Dhammānupassanābojjhaṅgapabba "
 msgstr "4.4. The Awakening Factors "
 
@@ -922,7 +922,7 @@ msgid "Bojjhaṅgapabbaṃ niṭṭhitaṃ. "
 msgstr " "
 
 #. HTML: </p><h3>
-msgctxt "mn10:43.7"
+msgctxt "mn10:44.0"
 msgid "4.5. Dhammānupassanāsaccapabba "
 msgstr "4.5. The Truths "
 

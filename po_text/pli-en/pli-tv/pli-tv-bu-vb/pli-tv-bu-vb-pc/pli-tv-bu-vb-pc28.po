@@ -29,12 +29,12 @@ msgid "28. Nāvābhiruhanasikkhāpada"
 msgstr "The training rule on boarding boats"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc28:0.6"
+msgctxt "pli-tv-bu-vb-pc28:1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pc28:1.0a"
+msgctxt "pli-tv-bu-vb-pc28:1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -103,25 +103,25 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc28:1.14a"
+msgctxt "pli-tv-bu-vb-pc28:1.14.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule">
 #. VAR: ekaṃ nāvaṃ → ekanāvaṃ (s1-3)
 #. REF: sc3,  ms2V_611,  
-msgctxt "pli-tv-bu-vb-pc28:1.15"
+msgctxt "pli-tv-bu-vb-pc28:1.14"
 msgid "“Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaṃ nāvaṃ abhiruheyya, uddhaṅgāminiṃ vā adhogāminiṃ vā, pācittiyan”ti."
 msgstr "‘If a monk boards a boat by appointment with a nun, either to go upstream or downstream, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc4, ms2V_612
-msgctxt "pli-tv-bu-vb-pc28:1.16"
+msgctxt "pli-tv-bu-vb-pc28:1.15"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc28:2.0a"
+msgctxt "pli-tv-bu-vb-pc28:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -198,7 +198,7 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "”And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc28:2.15a"
+msgctxt "pli-tv-bu-vb-pc28:2.15.0"
 msgid ""
 msgstr "Final ruling"
 
@@ -208,12 +208,12 @@ msgstr "Final ruling"
 #. VAR: ekaṃ nāvaṃ → ekanāvaṃ (s1-3)
 #. VAR: abhiruheyya → abhirūheyya (bj, s1-3, pts1)
 #. REF: sc7, ms2V_615
-msgctxt "pli-tv-bu-vb-pc28:2.16"
+msgctxt "pli-tv-bu-vb-pc28:2.15"
 msgid "“Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaṃ nāvaṃ abhiruheyya uddhaṅgāminiṃ vā adhogāminiṃ vā, aññatra tiriyaṃ taraṇāya, pācittiyan”ti."
 msgstr "‘If a monk boards a boat by appointment with a nun, either to go upstream or downstream, unless it is for the purpose of crossing, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc28:3.1.0a"
+msgctxt "pli-tv-bu-vb-pc28:3.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -335,7 +335,7 @@ msgid "Agāmake araññe, aḍḍhayojane aḍḍhayojane āpatti pācittiyassa.
 msgstr "If it is in an uninhabited area, in the wilderness, then for every six kilometers he commits an offense entailing confession."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc28:3.2.0a"
+msgctxt "pli-tv-bu-vb-pc28:3.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -372,7 +372,7 @@ msgid "Asaṃvidahite, asaṃvidahitasaññī, anāpatti."
 msgstr "If there is no appointment, and he perceives that there is not, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc28:3.3.0a"
+msgctxt "pli-tv-bu-vb-pc28:3.3.0"
 msgid ""
 msgstr "Non-offenses"
 

@@ -28,12 +28,12 @@ msgid "2. Udosita(dutiyakathina)sikkhāpada"
 msgstr "2. The training rule on outbuildings"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np2:1.0a"
+msgctxt "pli-tv-bu-vb-np2:1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-np2:1.0b"
+msgctxt "pli-tv-bu-vb-np2:1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -118,24 +118,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-np2:1.18a"
+msgctxt "pli-tv-bu-vb-np2:1.18.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc3, ms1V_1885
-msgctxt "pli-tv-bu-vb-np2:1.19"
+msgctxt "pli-tv-bu-vb-np2:1.18"
 msgid "“Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattampi ce bhikkhu ticīvarena vippavaseyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘When his robe is finished and the robe-making season has ended, if a monk stays apart from his three robes even for a single day, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc4, ms1V_1886
-msgctxt "pli-tv-bu-vb-np2:1.20"
+msgctxt "pli-tv-bu-vb-np2:1.19"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-np2:2.0a"
+msgctxt "pli-tv-bu-vb-np2:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -305,19 +305,19 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np2:2.38a"
+msgctxt "pli-tv-bu-vb-np2:2.38.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. VAR: bhikkhusammutiyā → … sammatiyā (s1-3)
 #. REF: sc10, ms1V_1892
-msgctxt "pli-tv-bu-vb-np2:2.39"
+msgctxt "pli-tv-bu-vb-np2:2.38"
 msgid "“Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattampi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘When his robe is finished and the robe-making season has ended, if a monk stays apart from his three robes even for a single day, except if the monks have agreed, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np2:3.1.0a"
+msgctxt "pli-tv-bu-vb-np2:3.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -418,17 +418,17 @@ msgid "āyasmato dammīti."
 msgstr "‘I give this robe back to you.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np2:3.2.0a"
+msgctxt "pli-tv-bu-vb-np2:3.2.0.1"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-np2:3.2.0b"
+msgctxt "pli-tv-bu-vb-np2:3.2.0.2"
 msgid ""
 msgstr "Permutations part 1"
 
 #. HTML: </h3><h4>
-msgctxt "pli-tv-bu-vb-np2:3.2.0c"
+msgctxt "pli-tv-bu-vb-np2:3.2.0.3"
 msgid ""
 msgstr "Summary"
 
@@ -499,7 +499,7 @@ msgid "Ajjhokāso ekūpacāro nānūpacāro."
 msgstr "out in the open may have a single neighborhood or many."
 
 #. HTML: </p><h4>
-msgctxt "pli-tv-bu-vb-np2:3.3.0a"
+msgctxt "pli-tv-bu-vb-np2:3.3.0"
 msgid ""
 msgstr "Exposition"
 
@@ -1000,7 +1000,7 @@ msgid "tato paraṃ nānūpacāro."
 msgstr "whatever lies beyond that."
 
 #. HTML: </span></p><h3>
-msgctxt "pli-tv-bu-vb-np2:3.18.0a"
+msgctxt "pli-tv-bu-vb-np2:3.18.0"
 msgid ""
 msgstr "Permutations part 2"
 
@@ -1064,7 +1064,7 @@ msgid "Avippavutthe avippavutthasaññī, anāpatti."
 msgstr "If he has not stayed apart and he perceives that he has not stayed apart, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np2:3.19.0a"
+msgctxt "pli-tv-bu-vb-np2:3.19.0"
 msgid ""
 msgstr "Non-offenses"
 

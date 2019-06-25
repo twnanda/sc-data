@@ -28,7 +28,7 @@ msgid "20. Sappāṇakasikkhāpada"
 msgstr "The training rule on containing living beings"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc20:1.0a"
+msgctxt "pli-tv-bu-vb-pc20:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -86,18 +86,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc20:1.12a"
+msgctxt "pli-tv-bu-vb-pc20:1.12.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc2, ms2V_474
-msgctxt "pli-tv-bu-vb-pc20:1.13"
+msgctxt "pli-tv-bu-vb-pc20:1.12"
 msgid "“Yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñceyya vā siñcāpeyya vā, pācittiyan”ti."
 msgstr "‘If a monk pours, or gets poured, water that he knows contains living beings onto grass or clay, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc20:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc20:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -171,7 +171,7 @@ msgid "Sakiṃ āṇatto bahukampi siñcati, āpatti pācittiyassa."
 msgstr "If he only asks once, then even if the other pours many times, he commits one offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc20:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc20:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -203,7 +203,7 @@ msgid "Appāṇake appāṇakasaññī, anāpatti."
 msgstr "If it does not contain living beings, and he perceives it as not containing living beings, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc20:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc20:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

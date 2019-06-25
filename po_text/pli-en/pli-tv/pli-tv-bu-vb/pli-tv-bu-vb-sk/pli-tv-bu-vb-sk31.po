@@ -3,28 +3,28 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-bu-vb-sk31"><article><div class="hgroup"><p class="division">
-msgctxt "pli-tv-bu-vb-sk31:1.1"
+msgctxt "pli-tv-bu-vb-sk31:0.1"
 msgid "Theravāda Vinaya"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-sk31:2.1"
+msgctxt "pli-tv-bu-vb-sk31:0.2"
 msgid "Mahāvibhaṅga"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-sk31:3.1"
+msgctxt "pli-tv-bu-vb-sk31:0.3"
 msgid "Sekhiyakaṇḍa"
 msgstr ""
 
 #. HTML: </p><p>
 #. VAR: Sakkaccavagga → piṇḍapātavagga (^pi-tv-pvr1.1#272 [Katthapaññattivāra/7. Piṇḍapātavagga] ^pi-tv-pvr1.2#192 [Katāpattivāra/7. Piṇḍapātavagga])
-msgctxt "pli-tv-bu-vb-sk31:4.1"
+msgctxt "pli-tv-bu-vb-sk31:0.4"
 msgid "Sakkaccavagga"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-bu-vb-sk31:5.1"
+msgctxt "pli-tv-bu-vb-sk31:0.5"
 msgid "31. Sakkaccasikkhāpada"
 msgstr ""
 

@@ -28,7 +28,7 @@ msgid "Micchādiṭṭhikassa, bhikkhave, anuppannā ceva akusalā dhammā uppaj
 msgstr "When you have wrong view, unskillful qualities arise and skillful qualities decline.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.307" id="307"><article><div class="hgroup"><h1>
-msgctxt "an1.306-315:306.1.3"
+msgctxt "an1.306-315:0.1"
 msgid "307 "
 msgstr "307 "
 
@@ -43,7 +43,7 @@ msgid "Sammādiṭṭhikassa, bhikkhave, anuppannā ceva kusalā dhammā uppajja
 msgstr "When you have right view, unarisen skillful qualities arise and unskillful qualities decline.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.308" id="308"><article><div class="hgroup"><h1>
-msgctxt "an1.306-315:307.1.3"
+msgctxt "an1.306-315:0.1"
 msgid "308 "
 msgstr "308 "
 
@@ -58,7 +58,7 @@ msgid "Micchādiṭṭhikassa, bhikkhave, anuppannā ceva kusalā dhammā nuppaj
 msgstr "When you have wrong view, unskillful qualities arise and skillful qualities decline.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.309" id="309"><article><div class="hgroup"><h1>
-msgctxt "an1.306-315:308.1.3"
+msgctxt "an1.306-315:0.1"
 msgid "309 "
 msgstr "309 "
 
@@ -73,7 +73,7 @@ msgid "Sammādiṭṭhikassa, bhikkhave, anuppannā ceva akusalā dhammā nuppaj
 msgstr "When you have right view, skillful qualities arise and unskillful qualities decline.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.310" id="310"><article><div class="hgroup"><h1>
-msgctxt "an1.306-315:309.1.3"
+msgctxt "an1.306-315:0.1"
 msgid "310 "
 msgstr "310 "
 
@@ -88,7 +88,7 @@ msgid "Ayoniso, bhikkhave, manasi karoto anuppannā ceva micchādiṭṭhi uppaj
 msgstr "When you attend improperly, wrong view arises, and once arisen it grows.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.311" id="311"><article><div class="hgroup"><h1>
-msgctxt "an1.306-315:310.1.3"
+msgctxt "an1.306-315:0.1"
 msgid "311 "
 msgstr "311 "
 
@@ -103,7 +103,7 @@ msgid "Yoniso, bhikkhave, manasi karoto anuppannā ceva sammādiṭṭhi uppajja
 msgstr "When you attend properly, right view arises, and once arisen it grows.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.312" id="312"><article><div class="hgroup"><h1>
-msgctxt "an1.306-315:311.1.3"
+msgctxt "an1.306-315:0.1"
 msgid "312 "
 msgstr "312 "
 
@@ -119,7 +119,7 @@ msgid "Micchādiṭṭhiyā, bhikkhave, samannāgatā sattā kāyassa bhedā par
 msgstr "It is because they have wrong view that sentient beings, when their body breaks up, after death, are reborn in a place of loss, a bad place, the underworld, hell.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.313" id="313"><article><div class="hgroup"><h1>
-msgctxt "an1.306-315:312.1.3"
+msgctxt "an1.306-315:0.1"
 msgid "313 "
 msgstr "313 "
 
@@ -134,7 +134,7 @@ msgid "Sammādiṭṭhiyā, bhikkhave, samannāgatā sattā kāyassa bhedā para
 msgstr "It is because they have right view that sentient beings, when their body breaks up, after death, are reborn in a good place, a heavenly realm.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.314" id="314"><article><div class="hgroup"><h1>
-msgctxt "an1.306-315:313.1.3"
+msgctxt "an1.306-315:0.1"
 msgid "314 "
 msgstr "314 "
 
@@ -180,7 +180,7 @@ msgid "Diṭṭhi hissa, bhikkhave, pāpikā”ti. "
 msgstr "Because their view is bad.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.315" id="315"><article><div class="hgroup"><h1>
-msgctxt "an1.306-315:314.1.10"
+msgctxt "an1.306-315:0.1"
 msgid "315 "
 msgstr "315 "
 

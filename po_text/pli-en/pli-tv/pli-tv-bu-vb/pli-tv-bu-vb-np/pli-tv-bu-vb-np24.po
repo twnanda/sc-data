@@ -28,7 +28,7 @@ msgid "24. Vassikasāṭikasikkhāpada"
 msgstr "24. The training rule on rainy-season robes"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np24:1.0a"
+msgctxt "pli-tv-bu-vb-np24:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -113,28 +113,28 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np24:1.18a"
+msgctxt "pli-tv-bu-vb-np24:1.18.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc3, pts-vp-pli3.253, ms1V_2325
-msgctxt "pli-tv-bu-vb-np24:1.19"
+msgctxt "pli-tv-bu-vb-np24:1.18"
 msgid "“‘Māso seso gimhānan’ti bhikkhunā vassikasāṭikacīvaraṃ pariyesitabbaṃ;"
 msgstr "‘When there is a month left of the hot season, a monk may go looking for cloth for his rainy-season robe."
 
 #. VAR: addhamāso → aḍdhamāso (s1-3)
-msgctxt "pli-tv-bu-vb-np24:1.20"
+msgctxt "pli-tv-bu-vb-np24:1.19"
 msgid "‘addhamāso seso gimhānan’ti katvā nivāsetabbaṃ."
 msgstr "When there is a half-month left, he may sew it and then wear it."
 
 #. VAR: orenaddhamāso → orenaḍdhamāso (s1-3)
-msgctxt "pli-tv-bu-vb-np24:1.21"
+msgctxt "pli-tv-bu-vb-np24:1.20"
 msgid "‘Orena ce māso seso gimhānan’ti vassikasāṭikacīvaraṃ pariyeseyya, ‘orenaddhamāso seso gimhānan’ti katvā nivāseyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "If he goes looking for cloth for his rainy-season robe when there is more than a month left of the hot season, or if he sews it and then wears it when there is more than a half-month left, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np24:2.0a"
+msgctxt "pli-tv-bu-vb-np24:2.0"
 msgid ""
 msgstr "Definitions"
 
@@ -232,129 +232,129 @@ msgid "āyasmato dammīti."
 msgstr "‘I give this cloth for the rainy-season robe back to you.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np24:2.19a"
+msgctxt "pli-tv-bu-vb-np24:2.19.0"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><p>
 #. REF: sc8, ms1V_2330
-msgctxt "pli-tv-bu-vb-np24:2.20"
+msgctxt "pli-tv-bu-vb-np24:2.19"
 msgid "Atirekamāse sese gimhāne atirekasaññī vassikasāṭikacīvaraṃ pariyesati, nissaggiyaṃ pācittiyaṃ."
 msgstr "If there is more than a month left of the hot season, and he perceives it as more, and he goes looking for cloth for a rainy-season robe, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np24:2.21"
+msgctxt "pli-tv-bu-vb-np24:2.20"
 msgid "Atirekamāse sese gimhāne vematiko vassikasāṭikacīvaraṃ pariyesati, nissaggiyaṃ pācittiyaṃ."
 msgstr "If there is more than a month left of the hot season, but he is unsure if there is, and he goes looking for cloth for a rainy-season robe, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np24:2.22"
+msgctxt "pli-tv-bu-vb-np24:2.21"
 msgid "Atirekamāse sese gimhāne ūnakasaññī vassikasāṭikacīvaraṃ pariyesati, nissaggiyaṃ pācittiyaṃ."
 msgstr "If there is more than a month left of the hot season, but he perceives it as less, and he goes looking for cloth for a rainy-season robe, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </p><p>
 #. REF: sc9, ms1V_2331, pts-vp-en2.137
-msgctxt "pli-tv-bu-vb-np24:2.23"
+msgctxt "pli-tv-bu-vb-np24:2.22"
 msgid "Atirekaddhamāse sese gimhāne atirekasaññī katvā nivāseti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If there is more than a half-month left of the hot season, and he perceives it as more, and he wears the rainy-season robe after sewing it, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np24:2.24"
+msgctxt "pli-tv-bu-vb-np24:2.23"
 msgid "Atirekaddhamāse sese gimhāne vematiko katvā nivāseti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If there is more than a half-month left of the hot season, but he is unsure if there is, and he wears the rainy-season robe after sewing it, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np24:2.25"
+msgctxt "pli-tv-bu-vb-np24:2.24"
 msgid "Atirekaddhamāse sese gimhāne ūnakasaññī katvā nivāseti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If there is more than a half-month left of the hot season, but he perceives it as less, and he wears the rainy-season robe after sewing it, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </p><p><span class="rule"> 
 #. REF: sc10, ms1V_2332
-msgctxt "pli-tv-bu-vb-np24:2.26"
+msgctxt "pli-tv-bu-vb-np24:2.25"
 msgid "Satiyā vassikasāṭikāya naggo kāyaṃ ovassāpeti, āpatti dukkaṭassa."
 msgstr "If he has a rainy-season robe, but he bathes naked in the rain, he commits an offense of wrong conduct."
 
 #. HTML: </span> 
-msgctxt "pli-tv-bu-vb-np24:2.27"
+msgctxt "pli-tv-bu-vb-np24:2.26"
 msgid "Ūnakamāse sese gimhāne atirekasaññī, āpatti dukkaṭassa."
 msgstr "If there is less than a month left of the hot season, but he perceives it as more, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np24:2.28"
+msgctxt "pli-tv-bu-vb-np24:2.27"
 msgid "Ūnakamāse sese gimhāne vematiko, āpatti dukkaṭassa."
 msgstr "If there is less than a month left of the hot season, but he is unsure if there is, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np24:2.29"
+msgctxt "pli-tv-bu-vb-np24:2.28"
 msgid "Ūnakamāse sese gimhāne ūnakasaññī, anāpatti."
 msgstr "If there is less than a month left of the hot season, and he perceives it as less, there is no offense."
 
 #. HTML: </p><p>
 #. REF: sc11, pts-vp-pli3.254, ms1V_2333
-msgctxt "pli-tv-bu-vb-np24:2.30"
+msgctxt "pli-tv-bu-vb-np24:2.29"
 msgid "Ūnakaddhamāse sese gimhāne atirekasaññī, āpatti dukkaṭassa."
 msgstr "If there is less than a half-month left of the hot season, but he perceives it as more, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np24:2.31"
+msgctxt "pli-tv-bu-vb-np24:2.30"
 msgid "Ūnakaddhamāse sese gimhāne vematiko, āpatti dukkaṭassa."
 msgstr "If there is less than a half-month left of the hot season, but he is unsure if there is, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np24:2.32"
+msgctxt "pli-tv-bu-vb-np24:2.31"
 msgid "Ūnakaddhamāse sese gimhāne ūnakasaññī, anāpatti."
 msgstr "If there is less than a half-month left of the hot season, and he perceives it as less, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np24:2.32a"
+msgctxt "pli-tv-bu-vb-np24:2.32.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc12, ms1V_2334
-msgctxt "pli-tv-bu-vb-np24:2.33"
+msgctxt "pli-tv-bu-vb-np24:2.32"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
-msgctxt "pli-tv-bu-vb-np24:2.34"
+msgctxt "pli-tv-bu-vb-np24:2.33"
 msgid "“māso seso gimhānan”ti vassikasāṭikacīvaraṃ pariyesati,"
 msgstr "if he goes looking for cloth for the rainy-season robe when there is a month left of the hot season;"
 
-msgctxt "pli-tv-bu-vb-np24:2.35"
+msgctxt "pli-tv-bu-vb-np24:2.34"
 msgid "“addhamāso seso gimhānan”ti katvā nivāseti,"
 msgstr "if he wears the rainy-season robe after sewing it when there is a half-month left of the hot season;"
 
-msgctxt "pli-tv-bu-vb-np24:2.36"
+msgctxt "pli-tv-bu-vb-np24:2.35"
 msgid "“ūnakamāso seso gimhānan”ti vassikasāṭikacīvaraṃ pariyesati,"
 msgstr "if he goes looking for cloth for the rainy-season robe when there is less than a month left of the hot season;"
 
-msgctxt "pli-tv-bu-vb-np24:2.37"
+msgctxt "pli-tv-bu-vb-np24:2.36"
 msgid "“ūnakaddhamāso seso gimhānan”ti katvā nivāseti,"
 msgstr "if he wears the rainy-season robe after sewing it when there is less than a half-month left of the hot season;"
 
-msgctxt "pli-tv-bu-vb-np24:2.38"
+msgctxt "pli-tv-bu-vb-np24:2.37"
 msgid "pariyiṭṭhāya vassikasāṭikāya vassaṃ ukkaḍḍhiyyati,"
 msgstr "if, after looking for a rainy-season robe, he postpones the rains residence;"
 
 #. REF: pts-vp-en2.138
-msgctxt "pli-tv-bu-vb-np24:2.39"
+msgctxt "pli-tv-bu-vb-np24:2.38"
 msgid "nivatthāya vassikasāṭikāya vassaṃ ukkaḍḍhiyyati, dhovitvā nikkhipitabbaṃ;"
 msgstr "if, after wearing a rainy-season robe, he postpones the rains residence (in which case he should wash it and store it and then use it at the right time);"
 
-msgctxt "pli-tv-bu-vb-np24:2.40"
+msgctxt "pli-tv-bu-vb-np24:2.39"
 msgid "samaye nivāsetabbaṃ, acchinnacīvarassa,"
 msgstr "if his robe has been stolen;"
 
-msgctxt "pli-tv-bu-vb-np24:2.41"
+msgctxt "pli-tv-bu-vb-np24:2.40"
 msgid "naṭṭhacīvarassa,"
 msgstr "if his robe has been lost;"
 
-msgctxt "pli-tv-bu-vb-np24:2.42"
+msgctxt "pli-tv-bu-vb-np24:2.41"
 msgid "āpadāsu,"
 msgstr "if there are dangers;"
 
-msgctxt "pli-tv-bu-vb-np24:2.43"
+msgctxt "pli-tv-bu-vb-np24:2.42"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-np24:2.44"
+msgctxt "pli-tv-bu-vb-np24:2.43"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><hr><p class="endsutta">
 #. REF: sc13, ms1V_2335
-msgctxt "pli-tv-bu-vb-np24:2.45"
+msgctxt "pli-tv-bu-vb-np24:2.44"
 msgid "Vassikasāṭikasikkhāpadaṃ niṭṭhitaṃ catutthaṃ."
 msgstr "The fourth rule, the training rule on rainy-season robes, is finished."

@@ -28,7 +28,7 @@ msgid "24. Āmisasikkhāpada"
 msgstr "The training rule on worldly gain"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc24:1.0a"
+msgctxt "pli-tv-bu-vb-pc24:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -103,19 +103,19 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc24:1.16a"
+msgctxt "pli-tv-bu-vb-pc24:1.16.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule">
 #. VAR: āmisahetu therā bhikkhū → āmisahetu bhikkhū (s1-3)
 #. REF: sc3, ms2V_550
-msgctxt "pli-tv-bu-vb-pc24:1.17"
+msgctxt "pli-tv-bu-vb-pc24:1.16"
 msgid "“Yo pana bhikkhu evaṃ vadeyya—‘āmisahetu therā bhikkhū bhikkhuniyo ovandantī’ti, pācittiyan”ti."
 msgstr "‘If a monk says that the senior monks are instructing the nuns for the sake of worldly gain, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc24:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc24:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -171,7 +171,7 @@ msgid "“cīvarahetu piṇḍapātahetu senāsanahetu gilānappaccayabhesajjapa
 msgstr "“He instructs for the sake of robe-cloth/for the sake of almsfood/for the sake of a dwelling/for the sake of medicines/for the sake of honor/for the sake of respect/for the sake of deference/for the sake of veneration/for the sake of worship,” he commits an offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc24:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc24:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -221,7 +221,7 @@ msgid "Adhammakamme adhammakammasaññī, āpatti dukkaṭassa."
 msgstr "If it is an illegitimate procedure, and he perceives it as illegitimate, he commits an offense of wrong conduct."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc24:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc24:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

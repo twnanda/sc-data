@@ -3,18 +3,18 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-pvr8"><article><div class="hgroup"><p class="division">
-msgctxt "pli-tv-pvr8:1.1"
+msgctxt "pli-tv-pvr8:0.1"
 msgid "Parivāra"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-pvr8:2.1"
+msgctxt "pli-tv-pvr8:0.2"
 msgid "Uposathādipucchāvissajjanā"
 msgstr ""
 
 #. HTML: </h1></div><h2>
 #. VAR: 1 Ādimajjhantapucchana → pucchā (bj)
-msgctxt "pli-tv-pvr8:3.1"
+msgctxt "pli-tv-pvr8:4.0"
 msgid "1 Ādimajjhantapucchana"
 msgstr ""
 
@@ -142,7 +142,7 @@ msgstr ""
 
 #. HTML: </p><h2>
 #. VAR: 2 Ādimajjhantavissajjanā → vissajjanā (bj)
-msgctxt "pli-tv-pvr8:5.1"
+msgctxt "pli-tv-pvr8:6.0"
 msgid "2 Ādimajjhantavissajjanā"
 msgstr ""
 

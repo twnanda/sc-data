@@ -28,12 +28,12 @@ msgid "46. Cārittasikkhāpada"
 msgstr "The training rule on visiting"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc46:1.0a"
+msgctxt "pli-tv-bu-vb-pc46:1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pc46:1.0b"
+msgctxt "pli-tv-bu-vb-pc46:1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -140,24 +140,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc46:1.23a"
+msgctxt "pli-tv-bu-vb-pc46:1.23.0"
 msgid ""
 msgstr "First preliminary ruling"
 
 #. HTML: </h3><p><span class="rule">
 #. REF: sc3, ms2V_934
-msgctxt "pli-tv-bu-vb-pc46:1.24"
+msgctxt "pli-tv-bu-vb-pc46:1.23"
 msgid "“Yo pana bhikkhu nimantito sabhatto samāno purebhattaṃ kulesu cārittaṃ āpajjeyya, pācittiyan”ti."
 msgstr "‘If a monk who has been invited to a meal visits families beforehand, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><p>
 #. REF: sc4, ms2V_935 
-msgctxt "pli-tv-bu-vb-pc46:1.25"
+msgctxt "pli-tv-bu-vb-pc46:1.24"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc46:2.0a"
+msgctxt "pli-tv-bu-vb-pc46:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -249,24 +249,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc46:2.19a"
+msgctxt "pli-tv-bu-vb-pc46:2.19.0"
 msgid ""
 msgstr "Second preliminary ruling"
 
 #. HTML: </h3><p><span class="rule">
 #. REF: sc7, ms2V_938
-msgctxt "pli-tv-bu-vb-pc46:2.20"
+msgctxt "pli-tv-bu-vb-pc46:2.19"
 msgid "“Yo pana bhikkhu nimantito sabhatto samāno purebhattaṃ vā pacchābhattaṃ vā kulesu cārittaṃ āpajjeyya, pācittiyan”ti."
 msgstr "‘If a monk who has been invited to a meal visits families beforehand or afterwards, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc8, ms2V_939 
-msgctxt "pli-tv-bu-vb-pc46:2.21"
+msgctxt "pli-tv-bu-vb-pc46:2.20"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc46:3.0a"
+msgctxt "pli-tv-bu-vb-pc46:3.0"
 msgid ""
 msgstr "Third sub-story"
 
@@ -295,32 +295,32 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc46:3.5a"
+msgctxt "pli-tv-bu-vb-pc46:3.5.0"
 msgid ""
 msgstr "Third preliminary ruling"
 
 #. HTML: </h3><p><span class="rule">
 #. REF: sc10, ms2V_941 
-msgctxt "pli-tv-bu-vb-pc46:3.6"
+msgctxt "pli-tv-bu-vb-pc46:3.5"
 msgid "“Yo pana bhikkhu nimantito sabhatto samāno purebhattaṃ vā pacchābhattaṃ vā kulesu cārittaṃ āpajjeyya, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk who has been invited to a meal visits families beforehand or afterwards, unless there is an appropriate reason, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc46:3.7"
+msgctxt "pli-tv-bu-vb-pc46:3.6"
 msgid "Tatthāyaṃ samayo."
 msgstr "The appropriate reason is this:"
 
-msgctxt "pli-tv-bu-vb-pc46:3.8"
+msgctxt "pli-tv-bu-vb-pc46:3.7"
 msgid "Cīvaradānasamayo—ayaṃ tattha samayo”ti."
 msgstr "it is the robe-giving season.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc11, ms2V_942 
-msgctxt "pli-tv-bu-vb-pc46:3.9"
+msgctxt "pli-tv-bu-vb-pc46:3.8"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc46:4.0a"
+msgctxt "pli-tv-bu-vb-pc46:4.0"
 msgid ""
 msgstr "Fourth sub-story"
 
@@ -349,32 +349,32 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc46:4.5a"
+msgctxt "pli-tv-bu-vb-pc46:4.5.0"
 msgid ""
 msgstr "Fourth preliminary ruling"
 
 #. HTML: </h3><p><span class="rule">
 #. REF: sc13, pts-vp-pli4.100, ms2V_944
-msgctxt "pli-tv-bu-vb-pc46:4.6"
+msgctxt "pli-tv-bu-vb-pc46:4.5"
 msgid "“Yo pana bhikkhu nimantito sabhatto samāno purebhattaṃ vā pacchābhattaṃ vā kulesu cārittaṃ āpajjeyya, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk who has been invited to a meal visits families beforehand or afterwards, unless there is an appropriate reason, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc46:4.7"
+msgctxt "pli-tv-bu-vb-pc46:4.6"
 msgid "Tatthāyaṃ samayo."
 msgstr "The appropriate reasons are these:"
 
-msgctxt "pli-tv-bu-vb-pc46:4.8"
+msgctxt "pli-tv-bu-vb-pc46:4.7"
 msgid "Cīvaradānasamayo, cīvarakārasamayo—ayaṃ tattha samayo”ti."
 msgstr "it is the robe-giving season, he is making a robe.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc14, ms2V_945 
-msgctxt "pli-tv-bu-vb-pc46:4.9"
+msgctxt "pli-tv-bu-vb-pc46:4.8"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc46:5.0a"
+msgctxt "pli-tv-bu-vb-pc46:5.0"
 msgid ""
 msgstr "Fifth sub-story"
 
@@ -403,26 +403,26 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc46:5.5a"
+msgctxt "pli-tv-bu-vb-pc46:5.5.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule">
 #. REF: sc16, ms2V_947
-msgctxt "pli-tv-bu-vb-pc46:5.6"
+msgctxt "pli-tv-bu-vb-pc46:5.5"
 msgid "“Yo pana bhikkhu nimantito sabhatto samāno santaṃ bhikkhuṃ anāpucchā purebhattaṃ vā pacchābhattaṃ vā kulesu cārittaṃ āpajjeyya, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk who has been invited to a meal visits families beforehand or afterwards without informing an available monk, unless there is an appropriate reason, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc46:5.7"
+msgctxt "pli-tv-bu-vb-pc46:5.6"
 msgid "Tatthāyaṃ samayo."
 msgstr "The appropriate reasons are these:"
 
-msgctxt "pli-tv-bu-vb-pc46:5.8"
+msgctxt "pli-tv-bu-vb-pc46:5.7"
 msgid "Cīvaradānasamayo, cīvarakārasamayo—ayaṃ tattha samayo”ti."
 msgstr "it is the robe-giving season, he is making a robe.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc46:6.1.0a"
+msgctxt "pli-tv-bu-vb-pc46:6.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -587,7 +587,7 @@ msgid "cīvare kayiramāne."
 msgstr "when he is making a robe."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc46:6.2.0a"
+msgctxt "pli-tv-bu-vb-pc46:6.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -621,7 +621,7 @@ msgid "Animantite animantitasaññī, anāpatti."
 msgstr "If he has not been invited, and he does not perceive that he has, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc46:6.3.0a"
+msgctxt "pli-tv-bu-vb-pc46:6.3.0"
 msgid ""
 msgstr "Non-offenses"
 

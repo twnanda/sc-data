@@ -28,7 +28,7 @@ msgid "10. Rājasikkhāpada"
 msgstr "10. The training rule on kings"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np10:1.1.0a"
+msgctxt "pli-tv-bu-vb-np10:1.1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -304,7 +304,7 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np10:1.3.0a"
+msgctxt "pli-tv-bu-vb-np10:1.3.0"
 msgid ""
 msgstr "Final ruling"
 
@@ -420,7 +420,7 @@ msgid "ayaṃ tattha sāmīcī”ti."
 msgstr "This is the proper procedure.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np10:2.1.0a"
+msgctxt "pli-tv-bu-vb-np10:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -750,7 +750,7 @@ msgid "ayaṃ tattha anudhammatā."
 msgstr "this is the right method."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np10:2.3.0a"
+msgctxt "pli-tv-bu-vb-np10:2.3.0"
 msgid ""
 msgstr "Permutations"
 
@@ -783,7 +783,7 @@ msgid "Ūnakatikkhattuṃ codanāya ūnakachakkhattuṃ ṭhānena ūnakasaññ�
 msgstr "If he prompts less than three times and stands less than six times, and he perceives that it is less, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np10:2.4.0a"
+msgctxt "pli-tv-bu-vb-np10:2.4.0"
 msgid ""
 msgstr "Non-offenses"
 

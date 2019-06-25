@@ -29,7 +29,7 @@ msgid "3. Tatiyakathinasikkhāpada"
 msgstr "3. The third training rule on the robe-making season"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np3:1.1.0a"
+msgctxt "pli-tv-bu-vb-np3:1.1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -180,33 +180,33 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np3:1.2.17a"
+msgctxt "pli-tv-bu-vb-np3:1.2.17.0"
 msgid ""
 msgstr "Final ruling"
 
 # NOTE: _Cīvara_ means both a finished robe and any cloth that can be used to make a robe. Thus I vary my translation depending on the context.
 #. HTML: </h2><p><span class="rule">
 #. REF: sc4, ms1V_1924, pts-vp-en2.26
-msgctxt "pli-tv-bu-vb-np3:1.2.18"
+msgctxt "pli-tv-bu-vb-np3:1.2.17"
 msgid "“Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine bhikkhuno paneva akālacīvaraṃ uppajjeyya, ākaṅkhamānena bhikkhunā paṭiggahetabbaṃ."
 msgstr "‘When his robe is finished and the robe-making season has ended, if out-of-season robe-cloth is given to a monk, he may receive it if he wishes."
 
-msgctxt "pli-tv-bu-vb-np3:1.2.19"
+msgctxt "pli-tv-bu-vb-np3:1.2.18"
 msgid "Paṭiggahetvā khippameva kāretabbaṃ."
 msgstr "If he receives it, he should quickly make a robe."
 
 #. VAR: māsaparamaṃ tena → māsa­paraman­tena (s1-3, pts1)
-msgctxt "pli-tv-bu-vb-np3:1.2.20"
+msgctxt "pli-tv-bu-vb-np3:1.2.19"
 msgid "No cassa pāripūri, māsaparamaṃ tena bhikkhunā taṃ cīvaraṃ nikkhipitabbaṃ ūnassa pāripūriyā satiyā paccāsāya."
 msgstr "If there is not enough cloth, but he is expecting more, he should keep it at most one month to make up the lack."
 
 #. VAR: uttari → uttariṃ (bj, s1-3, pts1)
-msgctxt "pli-tv-bu-vb-np3:1.2.21"
+msgctxt "pli-tv-bu-vb-np3:1.2.20"
 msgid "Tato ce uttari nikkhipeyya, satiyāpi paccāsāya, nissaggiyaṃ pācittiyan”ti."
 msgstr "If he keeps it beyond that, even if he expects more cloth, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np3:2.1.0a"
+msgctxt "pli-tv-bu-vb-np3:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -513,7 +513,7 @@ msgid "Visabhāge uppanne mūlacīvare paccāsācīvaraṃ uppajjati, rattiyo ca
 msgstr "If he obtains the expected robe-cloth, but it is different from the robe-cloth originally obtained, and there are days remaining, he does not have to make a robe if he does not want to."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np3:2.3.0a"
+msgctxt "pli-tv-bu-vb-np3:2.3.0"
 msgid ""
 msgstr "Permutations"
 
@@ -581,7 +581,7 @@ msgid "Māsānatikkante anatikkantasaññī, anāpatti."
 msgstr "If it is less than a month and he perceives it as less than a month, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np3:2.4.0a"
+msgctxt "pli-tv-bu-vb-np3:2.4.0"
 msgid ""
 msgstr "Non-offenses"
 

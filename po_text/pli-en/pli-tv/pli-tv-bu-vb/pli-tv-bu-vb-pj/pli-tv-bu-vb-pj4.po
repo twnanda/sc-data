@@ -23,12 +23,12 @@ msgid "Catut­tha­pā­rāji­ka­sikkhā­pada"
 msgstr "4. The fourth training rule"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pj4:0.5"
+msgctxt "pli-tv-bu-vb-pj4:1.1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pj4:1.1.0a"
+msgctxt "pli-tv-bu-vb-pj4:1.1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -552,49 +552,49 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "“… And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pj4:1.3.38a"
+msgctxt "pli-tv-bu-vb-pj4:1.3.38.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc18, ms1V_551, pts-vp-en1.158
-msgctxt "pli-tv-bu-vb-pj4:1.3.39"
+msgctxt "pli-tv-bu-vb-pj4:1.3.38"
 msgid "“Yo pana bhikkhu anabhijānaṃ uttari­manus­sa­dhammaṃ attupanāyikaṃ ala­mariya­ñāṇadas­sanaṃ samudācareyya—"
 msgstr "‘If a monk falsely claims for himself a superhuman quality, knowledge and vision worthy of the noble ones, saying,"
 
-msgctxt "pli-tv-bu-vb-pj4:1.3.40"
+msgctxt "pli-tv-bu-vb-pj4:1.3.39"
 msgid "‘iti jānāmi iti passāmī’ti,"
 msgstr "“This I know, this I see,”"
 
-msgctxt "pli-tv-bu-vb-pj4:1.3.41"
+msgctxt "pli-tv-bu-vb-pj4:1.3.40"
 msgid "tato aparena samayena sama­nug­gāhīya­māno vā asama­nug­gāhīya­māno vā āpanno visuddhāpekkho evaṃ vadeyya—"
 msgstr "but after some time—whether questioned or not, but having committed the offense and desiring purification—should say:"
 
 #. REF: pts-vp-pli3.91
-msgctxt "pli-tv-bu-vb-pj4:1.3.42"
+msgctxt "pli-tv-bu-vb-pj4:1.3.41"
 msgid "‘ajānamevaṃ, āvuso, avacaṃ jānāmi,"
 msgstr "“Not knowing I said that I know,"
 
-msgctxt "pli-tv-bu-vb-pj4:1.3.43"
+msgctxt "pli-tv-bu-vb-pj4:1.3.42"
 msgid "apassaṃ passāmi."
 msgstr "not seeing that I see;"
 
-msgctxt "pli-tv-bu-vb-pj4:1.3.44"
+msgctxt "pli-tv-bu-vb-pj4:1.3.43"
 msgid "Tucchaṃ musā vilapin’ti,"
 msgstr "what I said was empty and false,”"
 
-msgctxt "pli-tv-bu-vb-pj4:1.3.45"
+msgctxt "pli-tv-bu-vb-pj4:1.3.44"
 msgid "ayampi pārājiko hoti asaṃvāso”ti."
 msgstr "he too is expelled and excluded from the community.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc19, ms1V_552
-msgctxt "pli-tv-bu-vb-pj4:1.3.46"
+msgctxt "pli-tv-bu-vb-pj4:1.3.45"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pj4:2.0a"
+msgctxt "pli-tv-bu-vb-pj4:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -649,49 +649,49 @@ msgid "“Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pj4:2.11a"
+msgctxt "pli-tv-bu-vb-pj4:2.11.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. VAR: attupanāyikaṃ → attūpanāyikaṃ (bj, s1-3, pts1)
 #. REF: sc22, ms1V_555
-msgctxt "pli-tv-bu-vb-pj4:2.12"
+msgctxt "pli-tv-bu-vb-pj4:2.11"
 msgid "“Yo pana bhikkhu anabhijānaṃ uttari­manus­sa­dhammaṃ attupanāyikaṃ ala­mariya­ñāṇadas­sanaṃ samudācareyya—"
 msgstr "‘If a monk falsely claims for himself a superhuman quality, knowledge and vision worthy of the noble ones, saying,"
 
-msgctxt "pli-tv-bu-vb-pj4:2.13"
+msgctxt "pli-tv-bu-vb-pj4:2.12"
 msgid "‘iti jānāmi iti passāmī’ti,"
 msgstr "“This I know, this I see,”"
 
 #. VAR: sama­nug­gāhīya­māno → sama­nug­gāhiya­māno (bj, s1-3)
 #. VAR: asama­nug­gāhīya­māno → asama­nug­gāhiya­māno (bj, s1-3)
-msgctxt "pli-tv-bu-vb-pj4:2.14"
+msgctxt "pli-tv-bu-vb-pj4:2.13"
 msgid "tato aparena samayena sama­nug­gāhīya­māno vā asama­nug­gāhīya­māno vā āpanno visuddhāpekkho evaṃ vadeyya—"
 msgstr "but after some time—whether he is questioned or not, but having committed the offense and desiring purification—should say:"
 
-msgctxt "pli-tv-bu-vb-pj4:2.15"
+msgctxt "pli-tv-bu-vb-pj4:2.14"
 msgid "‘ajānamevaṃ, āvuso, avacaṃ jānāmi,"
 msgstr "“Not knowing I said that I know,"
 
-msgctxt "pli-tv-bu-vb-pj4:2.16"
+msgctxt "pli-tv-bu-vb-pj4:2.15"
 msgid "apassaṃ passāmi."
 msgstr "not seeing that I see;"
 
-msgctxt "pli-tv-bu-vb-pj4:2.17"
+msgctxt "pli-tv-bu-vb-pj4:2.16"
 msgid "Tucchaṃ musā vilapin’ti,"
 msgstr "what I said was empty and false,”"
 
-msgctxt "pli-tv-bu-vb-pj4:2.18"
+msgctxt "pli-tv-bu-vb-pj4:2.17"
 msgid "aññatra adhimānā,"
 msgstr "unless it is due to overestimation,"
 
-msgctxt "pli-tv-bu-vb-pj4:2.19"
+msgctxt "pli-tv-bu-vb-pj4:2.18"
 msgid "ayampi pārājiko hoti asaṃvāso”ti."
 msgstr "he too is expelled and excluded from the community.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pj4:3.0a"
+msgctxt "pli-tv-bu-vb-pj4:3.0"
 msgid ""
 msgstr "Definitions"
 
@@ -1015,12 +1015,12 @@ msgid "“asaṃvāso”ti."
 msgstr "“excluded from the community.”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pj4:4.1.0a"
+msgctxt "pli-tv-bu-vb-pj4:4.1.0.1"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><h4>
-msgctxt "pli-tv-bu-vb-pj4:4.1.0b"
+msgctxt "pli-tv-bu-vb-pj4:4.1.0.2"
 msgid ""
 msgstr "Summary"
 
@@ -1035,229 +1035,229 @@ msgid "jhānaṃ vimokkho samādhi samāpatti ñāṇadassanaṃ maggabhāvanā 
 msgstr "absorption, release, stillness, attainment, knowledge and vision, development of the path, realization of the fruits, abandoning the defilements, a mind without hindrances, delighting in empty dwellings."
 
 #. HTML: </p><h4>
-msgctxt "pli-tv-bu-vb-pj4:4.1.2a"
+msgctxt "pli-tv-bu-vb-pj4:4.1.2.0"
 msgid ""
 msgstr "Definitions"
 
 #. HTML: </h4><p><span class="term"> 
 #. REF: sc42, ms1V_575
-msgctxt "pli-tv-bu-vb-pj4:4.1.3"
+msgctxt "pli-tv-bu-vb-pj4:4.1.2"
 msgid "Jhānanti"
 msgstr "Absorption:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pj4:4.1.4"
+msgctxt "pli-tv-bu-vb-pj4:4.1.3"
 msgid "paṭhamaṃ jhānaṃ"
 msgstr "the first absorption,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.5"
+msgctxt "pli-tv-bu-vb-pj4:4.1.4"
 msgid "dutiyaṃ jhānaṃ"
 msgstr "the second absorption,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.6"
+msgctxt "pli-tv-bu-vb-pj4:4.1.5"
 msgid "tatiyaṃ jhānaṃ"
 msgstr "the third absorption,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.7"
+msgctxt "pli-tv-bu-vb-pj4:4.1.6"
 msgid "catutthaṃ jhānaṃ."
 msgstr "the fourth absorption."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc43, ms1V_576
-msgctxt "pli-tv-bu-vb-pj4:4.1.8"
+msgctxt "pli-tv-bu-vb-pj4:4.1.7"
 msgid "Vimokkhoti"
 msgstr "Release:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pj4:4.1.9"
+msgctxt "pli-tv-bu-vb-pj4:4.1.8"
 msgid "suññato vimokkho"
 msgstr "emptiness release,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.10"
+msgctxt "pli-tv-bu-vb-pj4:4.1.9"
 msgid "animitto vimokkho"
 msgstr "signless release,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.11"
+msgctxt "pli-tv-bu-vb-pj4:4.1.10"
 msgid "appaṇihito vimokkho."
 msgstr "desireless release."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc44, pts-vp-pli3.93, ms1V_577
-msgctxt "pli-tv-bu-vb-pj4:4.1.12"
+msgctxt "pli-tv-bu-vb-pj4:4.1.11"
 msgid "Samādhīti"
 msgstr "Stillness:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pj4:4.1.13"
+msgctxt "pli-tv-bu-vb-pj4:4.1.12"
 msgid "suññato samādhi"
 msgstr "emptiness stillness,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.14"
+msgctxt "pli-tv-bu-vb-pj4:4.1.13"
 msgid "animitto samādhi"
 msgstr "signless stillness,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.15"
+msgctxt "pli-tv-bu-vb-pj4:4.1.14"
 msgid "appaṇihito samādhi."
 msgstr "desireless stillness."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc45, ms1V_578
-msgctxt "pli-tv-bu-vb-pj4:4.1.16"
+msgctxt "pli-tv-bu-vb-pj4:4.1.15"
 msgid "Samāpattīti"
 msgstr "Attainment:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pj4:4.1.17"
+msgctxt "pli-tv-bu-vb-pj4:4.1.16"
 msgid "suññatā samāpatti"
 msgstr "emptiness attainment,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.18"
+msgctxt "pli-tv-bu-vb-pj4:4.1.17"
 msgid "animittā samāpatti"
 msgstr "signless attainment,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.19"
+msgctxt "pli-tv-bu-vb-pj4:4.1.18"
 msgid "appaṇihitā samāpatti."
 msgstr "desireless attainment."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc46, ms1V_579
-msgctxt "pli-tv-bu-vb-pj4:4.1.20"
+msgctxt "pli-tv-bu-vb-pj4:4.1.19"
 msgid "Ñāṇadassananti"
 msgstr "Knowledge and vision:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pj4:4.1.21"
+msgctxt "pli-tv-bu-vb-pj4:4.1.20"
 msgid "tisso vijjā."
 msgstr "the three true insights."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc47, ms1V_580
-msgctxt "pli-tv-bu-vb-pj4:4.1.22"
+msgctxt "pli-tv-bu-vb-pj4:4.1.21"
 msgid "Maggabhāvanāti"
 msgstr "Development of the path:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pj4:4.1.23"
+msgctxt "pli-tv-bu-vb-pj4:4.1.22"
 msgid "cattāro satipaṭṭhānā,"
 msgstr "the four applications of mindfulness,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.24"
+msgctxt "pli-tv-bu-vb-pj4:4.1.23"
 msgid "cattāro sammappadhānā,"
 msgstr "the four right efforts,"
 
 #. REF: pts-vp-en1.162
-msgctxt "pli-tv-bu-vb-pj4:4.1.25"
+msgctxt "pli-tv-bu-vb-pj4:4.1.24"
 msgid "cattāro iddhipādā,"
 msgstr "the four bases of supernormal power,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.26"
+msgctxt "pli-tv-bu-vb-pj4:4.1.25"
 msgid "pañcindriyāni,"
 msgstr "the five spiritual faculties,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.27"
+msgctxt "pli-tv-bu-vb-pj4:4.1.26"
 msgid "pañca balāni,"
 msgstr "the five spiritual powers,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.28"
+msgctxt "pli-tv-bu-vb-pj4:4.1.27"
 msgid "satta bojjhaṅgā,"
 msgstr "the seven factors of awakening,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.29"
+msgctxt "pli-tv-bu-vb-pj4:4.1.28"
 msgid "ariyo aṭṭhaṅgiko maggo."
 msgstr "the noble eightfold path."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc48, ms1V_581
-msgctxt "pli-tv-bu-vb-pj4:4.1.30"
+msgctxt "pli-tv-bu-vb-pj4:4.1.29"
 msgid "Phala­sacchi­kiriyāti"
 msgstr "Realization of the fruits:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pj4:4.1.31"
+msgctxt "pli-tv-bu-vb-pj4:4.1.30"
 msgid "sotā­patti­phalassa sacchikiriyā,"
 msgstr "realization of the fruit of stream-entry,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.32"
+msgctxt "pli-tv-bu-vb-pj4:4.1.31"
 msgid "sakadā­gāmi­phalassa sacchikiriyā,"
 msgstr "realization of the fruit of once-returning,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.33"
+msgctxt "pli-tv-bu-vb-pj4:4.1.32"
 msgid "anāgā­mi­phalassa sacchikiriyā,"
 msgstr "realization of the fruit of non-returning,"
 
 #. VAR: arahattassa → arahat­ta­phalassa (s1-3, pts1)
-msgctxt "pli-tv-bu-vb-pj4:4.1.34"
+msgctxt "pli-tv-bu-vb-pj4:4.1.33"
 msgid "arahattassa sacchikiriyā."
 msgstr "realization of perfection."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc49, ms1V_582
-msgctxt "pli-tv-bu-vb-pj4:4.1.35"
+msgctxt "pli-tv-bu-vb-pj4:4.1.34"
 msgid "Kilesappahānanti"
 msgstr "Abandoning the defilements:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pj4:4.1.36"
+msgctxt "pli-tv-bu-vb-pj4:4.1.35"
 msgid "rāgassa pahānaṃ"
 msgstr "the abandoning of sensual desire,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.37"
+msgctxt "pli-tv-bu-vb-pj4:4.1.36"
 msgid "dosassa pahānaṃ"
 msgstr "the abandoning of ill-will,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.38"
+msgctxt "pli-tv-bu-vb-pj4:4.1.37"
 msgid "mohassa pahānaṃ."
 msgstr "the abandoning of confusion."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc50, ms1V_583
-msgctxt "pli-tv-bu-vb-pj4:4.1.39"
+msgctxt "pli-tv-bu-vb-pj4:4.1.38"
 msgid "Vinīvaraṇatā cittassāti"
 msgstr "A mind without hindrances:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pj4:4.1.40"
+msgctxt "pli-tv-bu-vb-pj4:4.1.39"
 msgid "rāgā cittaṃ vinīvaraṇatā,"
 msgstr "a mind without sensual desire,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.41"
+msgctxt "pli-tv-bu-vb-pj4:4.1.40"
 msgid "dosā cittaṃ vinīvaraṇatā,"
 msgstr "a mind without ill-will,"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.42"
+msgctxt "pli-tv-bu-vb-pj4:4.1.41"
 msgid "mohā cittaṃ vinīvaraṇatā."
 msgstr "a mind without confusion."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc51, ms1V_584
-msgctxt "pli-tv-bu-vb-pj4:4.1.43"
+msgctxt "pli-tv-bu-vb-pj4:4.1.42"
 msgid "Suññāgāre abhiratīti"
 msgstr "Delighting in empty dwellings:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pj4:4.1.44"
+msgctxt "pli-tv-bu-vb-pj4:4.1.43"
 msgid "paṭhamena jhānena suññāgāre abhirati,"
 msgstr "because of the first absorption, there is delight in empty dwellings;"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.45"
+msgctxt "pli-tv-bu-vb-pj4:4.1.44"
 msgid "dutiyena jhānena suññāgāre abhirati,"
 msgstr "because of the second absorption, there is delight in empty dwellings;"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.46"
+msgctxt "pli-tv-bu-vb-pj4:4.1.45"
 msgid "tatiyena jhānena suññāgāre abhirati,"
 msgstr "because of the third absorption, there is delight in empty dwellings;"
 
-msgctxt "pli-tv-bu-vb-pj4:4.1.47"
+msgctxt "pli-tv-bu-vb-pj4:4.1.46"
 msgid "catutthena jhānena suññāgāre abhirati."
 msgstr "because of the fourth absorption, there is delight in empty dwellings."
 
 #. HTML: </span></p><h4>
-msgctxt "pli-tv-bu-vb-pj4:4.2.0a"
+msgctxt "pli-tv-bu-vb-pj4:4.2.0.1"
 msgid ""
 msgstr "Exposition"
 
 #. HTML: </h4><h5>
-msgctxt "pli-tv-bu-vb-pj4:4.2.0b"
+msgctxt "pli-tv-bu-vb-pj4:4.2.0.2"
 msgid ""
 msgstr "First absorption"
 
@@ -2040,13 +2040,13 @@ msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pj4:4.3.150a"
+msgctxt "pli-tv-bu-vb-pj4:4.3.150.0"
 msgid ""
 msgstr "Other individual attainments"
 
 #. HTML: </h5><p>
 #. REF: sc82, ms1V_615
-msgctxt "pli-tv-bu-vb-pj4:4.3.151"
+msgctxt "pli-tv-bu-vb-pj4:4.3.150"
 msgid "Yathā idaṃ paṭhamaṃ jhānaṃ vitthāritaṃ evaṃ sabbampi vitthāretabbaṃ."
 msgstr "As the first absorption has been expanded in detail, so all should be expanded:"
 
@@ -2481,7 +2481,7 @@ msgid "Suddhikaṃ niṭṭhitaṃ."
 msgstr "The basic series is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pj4:4.6.0a"
+msgctxt "pli-tv-bu-vb-pj4:4.6.0"
 msgid ""
 msgstr "Combinations of two attainments"
 
@@ -3702,7 +3702,7 @@ msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pj4:4.9.0a"
+msgctxt "pli-tv-bu-vb-pj4:4.9.0"
 msgid ""
 msgstr "Combinations of more than two attainments"
 
@@ -3713,83 +3713,83 @@ msgid "Yathā ekamūlakaṃ vitthāritaṃ evameva dumūlakādipi vitthāretabba
 msgstr "The sections on two root items, etc., are to be given in detail in the same way as the section on one root item."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pj4:4.9.1a"
+msgctxt "pli-tv-bu-vb-pj4:4.9.1.0"
 msgid ""
 msgstr "Combination of all attainments"
 
 #. HTML: </h5><p>
 #. REF: sc140, ms1V_673
-msgctxt "pli-tv-bu-vb-pj4:4.9.2"
+msgctxt "pli-tv-bu-vb-pj4:4.9.1"
 msgid "Idaṃ sabbamūlakaṃ"
 msgstr "This is the section on all root items:"
 
 #. HTML: </p><p>
 #. REF: sc141, pts-vp-en1.167, ms1V_674
-msgctxt "pli-tv-bu-vb-pj4:4.9.3"
+msgctxt "pli-tv-bu-vb-pj4:4.9.2"
 msgid "Tīhākārehi … pe …"
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-pj4:4.9.4"
+msgctxt "pli-tv-bu-vb-pj4:4.9.3"
 msgid "Tīhākārehi … pe … sattahākārehi paṭhamañca jhānaṃ dutiyañca jhānaṃ tatiyañca jhānaṃ catutthañca jhānaṃ suññatañca vimokkhaṃ animittañca vimokkhaṃ appaṇihitañca vimokkhaṃ suññatañca samādhiṃ animittañca samādhiṃ appaṇihitañca samādhiṃ suññatañca samāpattiṃ animittañca samāpattiṃ appaṇihitañca samāpattiṃ tisso ca vijjā cattāro ca satipaṭṭhāne cattāro ca sammappadhāne cattāro ca iddhipāde pañca ca indriyāni pañca ca balāni satta ca bojjhaṅge ariyañca aṭṭhaṅgikaṃ maggaṃ sotā­patti­phalañca sakadā­gāmi­phalañca anāgā­mi­phalañca arahattañca samāpajjiṃ …"
 msgstr "If he lies in full awareness, saying, “I attained the first absorption and the second absorption and the third absorption and the fourth absorption and the emptiness release and the signless release and the desireless release and the emptiness stillness and the signless stillness and the desireless stillness and the emptiness attainment and the signless attainment and the desireless attainment and the three true insights and the four applications of mindfulness and the four right efforts and the four bases for spiritual power and the five spiritual faculties and the five spiritual powers and the seven factors of awakening and the noble eightfold path and the fruit of stream-entry and the fruit of once-returning and the fruit of non-returning and perfection …"
 
-msgctxt "pli-tv-bu-vb-pj4:4.9.5"
+msgctxt "pli-tv-bu-vb-pj4:4.9.4"
 msgid "samāpajjāmi …"
 msgstr "I’m attaining …"
 
-msgctxt "pli-tv-bu-vb-pj4:4.9.6"
+msgctxt "pli-tv-bu-vb-pj4:4.9.5"
 msgid "samāpanno … pe …"
 msgstr "I’ve attained … etc. …"
 
-msgctxt "pli-tv-bu-vb-pj4:4.9.7"
+msgctxt "pli-tv-bu-vb-pj4:4.9.6"
 msgid "rāgo ca me catto, doso ca me catto, moho ca me catto vanto mutto pahīno paṭinissaṭṭho ukkheṭito samukkheṭito."
 msgstr "and I’ve given up sensual desire/renounced it/let it go/abandoned it/relinquished it/forsaken it/thrown it aside and I’ve given up ill-will/renounced it/let it go/abandoned it/relinquished it/forsaken it/thrown it aside and I’ve given up confusion/renounced it/let it go/abandoned it/relinquished it/forsaken it/thrown it aside"
 
-msgctxt "pli-tv-bu-vb-pj4:4.9.8"
+msgctxt "pli-tv-bu-vb-pj4:4.9.7"
 msgid "Rāgā ca me cittaṃ vinīvaraṇaṃ, dosā ca me cittaṃ vinīvaraṇaṃ, mohā ca me cittaṃ vinīvaraṇanti sampajānamusā bhaṇantassa āpatti pārājikassa—"
 msgstr "and my mind is free from the hindrance of sensual desire and my mind is free from the hindrance of ill-will and my mind is free from the hindrance of confusion,” he commits an offense entailing expulsion when three conditions are fulfilled … when seven conditions are fulfilled:"
 
-msgctxt "pli-tv-bu-vb-pj4:4.9.9"
+msgctxt "pli-tv-bu-vb-pj4:4.9.8"
 msgid "pubbevassa hoti musā bhaṇissanti,"
 msgstr "before he has lied, he knows he is going to lie;"
 
-msgctxt "pli-tv-bu-vb-pj4:4.9.10"
+msgctxt "pli-tv-bu-vb-pj4:4.9.9"
 msgid "bhaṇantassa hoti musā bhaṇāmīti,"
 msgstr "while lying, he knows he is lying;"
 
-msgctxt "pli-tv-bu-vb-pj4:4.9.11"
+msgctxt "pli-tv-bu-vb-pj4:4.9.10"
 msgid "bhaṇitassa hoti musā mayā bhaṇitanti,"
 msgstr "after he has lied, he knows he has lied;"
 
-msgctxt "pli-tv-bu-vb-pj4:4.9.12"
+msgctxt "pli-tv-bu-vb-pj4:4.9.11"
 msgid "vinidhāya diṭṭhiṃ,"
 msgstr "he misrepresents his view of what is true;"
 
-msgctxt "pli-tv-bu-vb-pj4:4.9.13"
+msgctxt "pli-tv-bu-vb-pj4:4.9.12"
 msgid "vinidhāya khantiṃ,"
 msgstr "he misrepresents his belief of what is true;"
 
-msgctxt "pli-tv-bu-vb-pj4:4.9.14"
+msgctxt "pli-tv-bu-vb-pj4:4.9.13"
 msgid "vinidhāya ruciṃ,"
 msgstr "he misrepresents his acceptance of what is true;"
 
-msgctxt "pli-tv-bu-vb-pj4:4.9.15"
+msgctxt "pli-tv-bu-vb-pj4:4.9.14"
 msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc142, ms1V_675
-msgctxt "pli-tv-bu-vb-pj4:4.9.16"
+msgctxt "pli-tv-bu-vb-pj4:4.9.15"
 msgid "Sabbamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on all root items is finished."
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:4.9.17"
+msgctxt "pli-tv-bu-vb-pj4:4.9.16"
 msgid "Suddhi­ka­vāraka­thā niṭṭhitā."
 msgstr "The exposition of the section on the basic series is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pj4:5.1.0a"
+msgctxt "pli-tv-bu-vb-pj4:5.1.0"
 msgid ""
 msgstr "Meaning to say first absorption, but saying something else"
 
@@ -3976,7 +3976,7 @@ msgid "Vatthu­vi­sārakassa ekamūlakassa khaṇḍacakkaṃ niṭṭhitaṃ."
 msgstr "The unconnected permutation series on one root item with a speech extension is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pj4:5.2.0a"
+msgctxt "pli-tv-bu-vb-pj4:5.2.0"
 msgid ""
 msgstr "Meaning to say second absorption, but saying something else"
 
@@ -4030,7 +4030,7 @@ msgid "Mūlaṃ saṃkhittaṃ."
 msgstr "The basis in brief."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pj4:5.3.0a"
+msgctxt "pli-tv-bu-vb-pj4:5.3.0"
 msgid ""
 msgstr "Meaning to say he is free from confusion, but saying something else"
 
@@ -4065,7 +4065,7 @@ msgid "Vatthu­vi­sārakassa ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item with a speech extension is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pj4:5.4.0a"
+msgctxt "pli-tv-bu-vb-pj4:5.4.0"
 msgid ""
 msgstr "Meaning to say any particular combination of individual attainments, but saying something else"
 
@@ -4076,133 +4076,133 @@ msgid "Yathā ekamūlakaṃ vitthāritaṃ evameva dumūlakādipi vitthāretabba
 msgstr "The sections on two root items, etc., are to be given in detail in the same way as the section on one root item."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pj4:5.4.1a"
+msgctxt "pli-tv-bu-vb-pj4:5.4.1.0"
 msgid ""
 msgstr "Meaning to say all the attainments but one, and instead saying the remaining one"
 
 #. HTML: </h5><p>
-msgctxt "pli-tv-bu-vb-pj4:5.4.2"
+msgctxt "pli-tv-bu-vb-pj4:5.4.1"
 msgid "Idaṃ sabbamūlakaṃ"
 msgstr "This is the section on all root items:"
 
 #. HTML: </p><p>
 #. REF: sc155, ms1V_688
-msgctxt "pli-tv-bu-vb-pj4:5.4.3"
+msgctxt "pli-tv-bu-vb-pj4:5.4.2"
 msgid "Tīhākārehi … pe … sattahākārehi paṭhamañca jhānaṃ dutiyañca jhānaṃ tatiyañca jhānaṃ catutthañca jhānaṃ suññatañca vimokkhaṃ animittañca vimokkhaṃ appaṇihitañca vimokkhaṃ suññatañca samādhiṃ animittañca samādhiṃ appaṇihitañca samādhiṃ suññatañca samāpattiṃ animittañca samāpattiṃ appaṇihitañca samāpattiṃ tisso ca vijjā cattāro ca satipaṭṭhāne cattāro ca sammappadhāne cattāro ca iddhipāde pañca ca indriyāni pañca ca balāni satta ca bojjhaṅge ariyañca aṭṭhaṅgikaṃ maggaṃ sotā­patti­phalañca sakadā­gāmi­phalañca anāgā­mi­phalañca arahattañca samāpajjiṃ … pe …"
 msgstr "If he lies in full awareness, meaning to say, “I attained the first absorption and the second absorption and the third absorption and the fourth absorption and the emptiness release and the signless release and the desireless release and the emptiness stillness and the signless stillness and the desireless stillness and the emptiness attainment and the signless attainment and the desireless attainment and the three true insights and the four applications of mindfulness and the four right efforts and the four bases for spiritual power and the five spiritual faculties and the five spiritual powers and the seven factors of awakening and the noble eightfold path and the fruit of stream-entry and the fruit of once-returning and the fruit of non-returning and perfection …"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.4"
+msgctxt "pli-tv-bu-vb-pj4:5.4.3"
 msgid "rāgo ca me catto …"
 msgstr "and I’ve given up sensual desire …"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.5"
+msgctxt "pli-tv-bu-vb-pj4:5.4.4"
 msgid "doso ca me catto …"
 msgstr "and I’ve given up ill-will …"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.6"
+msgctxt "pli-tv-bu-vb-pj4:5.4.5"
 msgid "moho ca me catto vanto mutto pahīno paṭinissaṭṭho ukkheṭito samukkheṭito, rāgā ca me cittaṃ vinīvaraṇaṃ dosā ca me cittaṃ vinīvaraṇanti vattukāmo mohā me cittaṃ vinīvaraṇanti sampajānamusā bhaṇantassa paṭi­vijānan­tassa āpatti pārājikassa;"
 msgstr "and I’ve given up confusion/renounced it/let it go/abandoned it/relinquished it/forsaken it/thrown it aside and my mind is free from the hindrance of sensual desire and my mind is free from the hindrance of ill-will,” while actually saying, “My mind is free from the hindrance of confusion,” then, if the listener understands, he commits an offense entailing expulsion when three conditions are fulfilled;"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.7"
+msgctxt "pli-tv-bu-vb-pj4:5.4.6"
 msgid "na paṭi­vijānan­tassa āpatti thullaccayassa."
 msgstr "if the listener does not understand, he commits a serious offense when three conditions are fulfilled … when seven conditions are fulfilled."
 
 #. HTML: </p><p>
 #. REF: sc156, ms1V_689
-msgctxt "pli-tv-bu-vb-pj4:5.4.8"
+msgctxt "pli-tv-bu-vb-pj4:5.4.7"
 msgid "Tīhākārehi dutiyañca jhānaṃ tatiyañca jhānaṃ catutthañca jhānaṃ suññatañca vimokkhaṃ animittañca vimokkhaṃ appaṇihitañca vimokkhaṃ suññatañca samādhiṃ animittañca samādhiṃ appaṇihitañca samādhiṃ suññatañca samāpattiṃ animittañca samāpattiṃ appaṇihitañca samāpattiṃ tisso ca vijjā cattāro ca satipaṭṭhāne cattāro ca sammappadhāne cattāro ca iddhipāde pañca ca indriyāni pañca ca balāni satta ca bojjhaṅge ariyañca aṭṭhaṅgikaṃ maggaṃ sotā­patti­phalañca sakadā­gāmi­phalañca anāgā­mi­phalañca arahattañca samāpajjiṃ … pe …"
 msgstr "If he lies in full awareness, meaning to say, “I attained the second absorption and the third absorption and the fourth absorption and the emptiness release and the signless release and the desireless release and the emptiness stillness and the signless stillness and the desireless stillness and the emptiness attainment and the signless attainment and the desireless attainment and the three true insights and the four applications of mindfulness and the four right efforts and the four bases for spiritual power and the five spiritual faculties and the five spiritual powers and the seven factors of awakening and the noble eightfold path and the fruit of stream-entry and the fruit of once-returning and the fruit of non-returning and perfection …"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.9"
+msgctxt "pli-tv-bu-vb-pj4:5.4.8"
 msgid "rāgo ca me catto …"
 msgstr "and I’ve given up sensual desire …"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.10"
+msgctxt "pli-tv-bu-vb-pj4:5.4.9"
 msgid "doso ca me catto …"
 msgstr "and I’ve given up ill-will …"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.11"
+msgctxt "pli-tv-bu-vb-pj4:5.4.10"
 msgid "moho ca me catto vanto mutto pahīno paṭinissaṭṭho ukkheṭito samukkheṭito, rāgā ca me cittaṃ vinīvaraṇaṃ dosā ca me cittaṃ vinīvaraṇaṃ mohā ca me cittaṃ vinīvaraṇanti vattukāmo paṭhamaṃ jhānaṃ samāpajjinti sampajānamusā bhaṇantassa paṭi­vijānan­tassa āpatti pārājikassa;"
 msgstr "and I’ve given up confusion/renounced it/let it go/abandoned it/relinquished it/forsaken it/thrown it aside and my mind is free from the hindrance of sensual desire and my mind is free from the hindrance of ill-will and my mind is free from the hindrance of confusion,” while actually saying, “I attained the first absorption,” then, if the listener understands, he commits an offense entailing expulsion when three conditions are fulfilled;"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.12"
+msgctxt "pli-tv-bu-vb-pj4:5.4.11"
 msgid "na paṭi­vijānan­tassa āpatti thullaccayassa."
 msgstr "if the listener does not understand, there is a serious offense when three conditions are fulfilled."
 
 #. HTML: </p><p>
 #. REF: sc157, ms1V_690
-msgctxt "pli-tv-bu-vb-pj4:5.4.13"
+msgctxt "pli-tv-bu-vb-pj4:5.4.12"
 msgid "Tīhākārehi tatiyañca jhānaṃ catutthañca jhānaṃ … pe …"
 msgstr "If he lies in full awareness, meaning to say, “I attained the third absorption and the fourth absorption …"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.14"
+msgctxt "pli-tv-bu-vb-pj4:5.4.13"
 msgid "mohā ca me cittaṃ vinīvaraṇaṃ paṭhamañca jhānaṃ samāpajjinti vattukāmo dutiyaṃ jhānaṃ samāpajjinti sampajānamusā bhaṇantassa paṭi­vijānan­tassa āpatti pārājikassa;"
 msgstr "and my mind is free from the hindrance of confusion and I attained the first absorption,” while actually saying, “I attained the second absorption,” then, if the listener understands, he commits an offense entailing expulsion when three conditions are fulfilled;"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.15"
+msgctxt "pli-tv-bu-vb-pj4:5.4.14"
 msgid "na paṭi­vijānan­tassa āpatti thullaccayassa."
 msgstr "if the listener does not understand, he commits a serious offense when three conditions are fulfilled."
 
 #. HTML: </p><p>
 #. REF: sc158, ms1V_691
-msgctxt "pli-tv-bu-vb-pj4:5.4.16"
+msgctxt "pli-tv-bu-vb-pj4:5.4.15"
 msgid "Tīhākārehi … pe … sattahākārehi mohā ca me cittaṃ vinīvaraṇaṃ paṭhamañca jhānaṃ dutiyañca jhānaṃ tatiyañca jhānaṃ catutthañca jhānaṃ … pe …"
 msgstr "If he lies in full awareness, meaning to say, “My mind is free from the hindrance of confusion and I attained the first absorption and the second absorption and the third absorption and the fourth absorption …"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.17"
+msgctxt "pli-tv-bu-vb-pj4:5.4.16"
 msgid "rāgā ca me cittaṃ vinīvaraṇanti vattukāmo dosā me cittaṃ vinīvaraṇanti sampajānamusā bhaṇantassa paṭi­vijānan­tassa āpatti pārājikassa;"
 msgstr "and my mind is free from the hindrance of sensual desire,” while actually saying, “My mind is free from the hindrance of ill-will,” then, if the listener understands, he commits an offense entailing expulsion when three conditions are fulfilled;"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.18"
+msgctxt "pli-tv-bu-vb-pj4:5.4.17"
 msgid "na paṭi­vijānan­tassa āpatti thullaccayassa—"
 msgstr "if the listener does not understand, he commits a serious offense when three conditions are fulfilled … when seven conditions are fulfilled:"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.19"
+msgctxt "pli-tv-bu-vb-pj4:5.4.18"
 msgid "pubbevassa hoti musā bhaṇissanti,"
 msgstr "before he has lied, he knows he is going to lie;"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.20"
+msgctxt "pli-tv-bu-vb-pj4:5.4.19"
 msgid "bhaṇantassa hoti musā bhaṇāmīti,"
 msgstr "while lying, he knows he is lying;"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.21"
+msgctxt "pli-tv-bu-vb-pj4:5.4.20"
 msgid "bhaṇitassa hoti musā mayā bhaṇitanti,"
 msgstr "after he has lied, he knows he has lied;"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.22"
+msgctxt "pli-tv-bu-vb-pj4:5.4.21"
 msgid "vinidhāya diṭṭhiṃ,"
 msgstr "he misrepresents his view of what is true;"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.23"
+msgctxt "pli-tv-bu-vb-pj4:5.4.22"
 msgid "vinidhāya khantiṃ,"
 msgstr "he misrepresents his belief of what is true;"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.24"
+msgctxt "pli-tv-bu-vb-pj4:5.4.23"
 msgid "vinidhāya ruciṃ,"
 msgstr "he misrepresents his acceptance of what is true;"
 
-msgctxt "pli-tv-bu-vb-pj4:5.4.25"
+msgctxt "pli-tv-bu-vb-pj4:5.4.24"
 msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc159, ms1V_692
-msgctxt "pli-tv-bu-vb-pj4:5.4.26"
+msgctxt "pli-tv-bu-vb-pj4:5.4.25"
 msgid "Vatthu­vi­sārakassa sabbamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on all root items with a speech extension is finished."
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:5.4.27"
+msgctxt "pli-tv-bu-vb-pj4:5.4.26"
 msgid "Vatthu­vi­sārakassa cakkapeyyālaṃ niṭṭhitaṃ."
 msgstr "The successive permutation series with a speech extension is finished."
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:5.4.28"
+msgctxt "pli-tv-bu-vb-pj4:5.4.27"
 msgid "Vatthu­kā­ma­vāraka­thā niṭṭhitā."
 msgstr "The exposition of the section on ʻmeaning to say’ is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pj4:6.1.0a"
+msgctxt "pli-tv-bu-vb-pj4:6.1.0"
 msgid ""
 msgstr "Gross hinting: in regard to dwellings"
 
@@ -4564,13 +4564,13 @@ msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pj4:6.1.86a"
+msgctxt "pli-tv-bu-vb-pj4:6.1.86.0"
 msgid ""
 msgstr "Gross hinting: in regard to any requisite"
 
 #. HTML: </h5><p>
 #. REF: sc166, ms1V_699
-msgctxt "pli-tv-bu-vb-pj4:6.1.87"
+msgctxt "pli-tv-bu-vb-pj4:6.1.86"
 msgid "Yathā idaṃ vitthāritaṃ evameva sesānipi vitthā­retab­bāni."
 msgstr "The remainder should be given in detail in the same way:"
 
@@ -4768,7 +4768,7 @@ msgid "Uttari­manus­sa­dhamma­cakka­peyyā­laṃ niṭṭhitaṃ."
 msgstr "The successive permutation series on superhuman qualities is finished."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pj4:7.0a"
+msgctxt "pli-tv-bu-vb-pj4:7.0"
 msgid ""
 msgstr "Non-offenses"
 
@@ -4803,177 +4803,177 @@ msgid "ādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pj4:7.8"
+msgctxt "pli-tv-bu-vb-pj4:7.8.0"
 msgid "4.1. Vinīta­vatthu­uddāna­gāthā"
 msgstr "Case rulings mnemonic list"
 
 #. HTML: </h5><div class="uddana"><p>
 #. VAR: Adhimāne → adhimānena (bj, pts1)
 #. REF: sc172, ms1V_705,  
-msgctxt "pli-tv-bu-vb-pj4:7.9"
+msgctxt "pli-tv-bu-vb-pj4:7.8"
 msgid "Adhimāne araññamhi,"
 msgstr "About overestimation, in the wilderness,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.10"
+msgctxt "pli-tv-bu-vb-pj4:7.9"
 msgid "piṇ­ḍo­paj­jhāriyā­patho;"
 msgstr "Almsfood, a preceptor, behavior;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.11"
+msgctxt "pli-tv-bu-vb-pj4:7.10"
 msgid "Saṃyojanā rahodhammā,"
 msgstr "Fetters, qualities in private,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.12"
+msgctxt "pli-tv-bu-vb-pj4:7.11"
 msgid "vihāro paccupaṭṭhito."
 msgstr "A dwelling, attended on."
 
 #. HTML: </p><p>
 #. REF: sc173, ms1V_706
-msgctxt "pli-tv-bu-vb-pj4:7.13"
+msgctxt "pli-tv-bu-vb-pj4:7.12"
 msgid "Na dukkaraṃ viriyamathopi maccuno,"
 msgstr "Not difficult, energy, fear of death,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.14"
+msgctxt "pli-tv-bu-vb-pj4:7.13"
 msgid "Bhāyāvuso vippaṭisāri sammā;"
 msgstr "Remorseful friend, rightly;"
 
 #. HTML: <br>
 #. REF: pts-vp-en1.172
-msgctxt "pli-tv-bu-vb-pj4:7.15"
+msgctxt "pli-tv-bu-vb-pj4:7.14"
 msgid "Viriyena yogena ārādhanāya,"
 msgstr "By energy, by exertion,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.16"
+msgctxt "pli-tv-bu-vb-pj4:7.15"
 msgid "Atha vedanāya adhivāsanā duve."
 msgstr "Two on the enduring of feeling."
 
 #. HTML: </p><p>
 #. REF: sc174, ms1V_707
-msgctxt "pli-tv-bu-vb-pj4:7.17"
+msgctxt "pli-tv-bu-vb-pj4:7.16"
 msgid "Brāhmaṇe pañca vatthūni,"
 msgstr "Five stories on a brahmin,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.18"
+msgctxt "pli-tv-bu-vb-pj4:7.17"
 msgid "aññaṃ byākaraṇā tayo;"
 msgstr "Three on declaring final knowledge;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.19"
+msgctxt "pli-tv-bu-vb-pj4:7.18"
 msgid "Agārāvaraṇā kāmā,"
 msgstr "House, rejected sense-pleasures,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.20"
+msgctxt "pli-tv-bu-vb-pj4:7.19"
 msgid "rati cāpi apakkami."
 msgstr "And delight, set out."
 
 #. HTML: </p><p>
 #. REF: sc175, ms1V_708
-msgctxt "pli-tv-bu-vb-pj4:7.21"
+msgctxt "pli-tv-bu-vb-pj4:7.20"
 msgid "Aṭṭhi pesi ubho gāvaghātakā,"
 msgstr "Bone, lump: both are cattle-butchers,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.22"
+msgctxt "pli-tv-bu-vb-pj4:7.21"
 msgid "Piṇḍo sākuṇiko nicchavi orabbhi;"
 msgstr "A morsel is a poultry-butcher, a sheep-butcher is flayed;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.23"
+msgctxt "pli-tv-bu-vb-pj4:7.22"
 msgid "Asi ca sūkariko satti māgavi,"
 msgstr "And a pig-butcher and sword, a deer-hunter and knife,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.24"
+msgctxt "pli-tv-bu-vb-pj4:7.23"
 msgid "Usu ca kāraṇiko sūci sārathi."
 msgstr "And a torturer and arrow, a horse trainer and needle."
 
 #. HTML: </p><p>
 #. REF: sc176, ms1V_709
-msgctxt "pli-tv-bu-vb-pj4:7.25"
+msgctxt "pli-tv-bu-vb-pj4:7.24"
 msgid "Yo ca sibbīyati sūcako hi so,"
 msgstr "And a slanderer is sewn,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.26"
+msgctxt "pli-tv-bu-vb-pj4:7.25"
 msgid "Aṇḍabhāri ahu gāmakūṭako;"
 msgstr "A corrupt magistrate with testicles as burden;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.27"
+msgctxt "pli-tv-bu-vb-pj4:7.26"
 msgid "Kūpe nimuggo hi so pāradāriko,"
 msgstr "An adulterer submerged in a pit,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.28"
+msgctxt "pli-tv-bu-vb-pj4:7.27"
 msgid "Gūthakhādī ahu duṭṭhabrāhmaṇo."
 msgstr "An eater of dung was a wicked brahmin."
 
 #. HTML: </p><p>
 #. REF: sc177, ms1V_710
-msgctxt "pli-tv-bu-vb-pj4:7.29"
+msgctxt "pli-tv-bu-vb-pj4:7.28"
 msgid "Nicchavitthī aticārinī ahu,"
 msgstr "A flayed woman was an adulteress,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.30"
+msgctxt "pli-tv-bu-vb-pj4:7.29"
 msgid "Maṅgulitthī ahu ikkhaṇitthikā;"
 msgstr "An ugly woman was a fortune-teller;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.31"
+msgctxt "pli-tv-bu-vb-pj4:7.30"
 msgid "Okilinī hi sapat­taṅ­gā­rokiri,"
 msgstr "A sweltering woman scattered coals on a co-wife,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.32"
+msgctxt "pli-tv-bu-vb-pj4:7.31"
 msgid "Sīsacchinno ahu coraghātako."
 msgstr "A beheaded man was an executioner."
 
 #. HTML: </p><p>
 #. REF: sc178, ms1V_711
-msgctxt "pli-tv-bu-vb-pj4:7.33"
+msgctxt "pli-tv-bu-vb-pj4:7.32"
 msgid "Bhikkhu bhikkhunī sikkhamānā,"
 msgstr "A monk, a nun, a trainee nun,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.34"
+msgctxt "pli-tv-bu-vb-pj4:7.33"
 msgid "Sāmaṇero atha sāmaṇerikā;"
 msgstr "A novice monk, then a novice nun;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.35"
+msgctxt "pli-tv-bu-vb-pj4:7.34"
 msgid "Kassapassa vinayasmiṃ pabbajaṃ,"
 msgstr "These having gone forth in the training of Kassapa"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.36"
+msgctxt "pli-tv-bu-vb-pj4:7.35"
 msgid "Pāpakam­ma­makariṃsu tāvade."
 msgstr "Did bad deeds just then."
 
 #. HTML: </p><p>
 #. REF: sc179, ms1V_712
-msgctxt "pli-tv-bu-vb-pj4:7.37"
+msgctxt "pli-tv-bu-vb-pj4:7.36"
 msgid "Tapodā rājagahe yuddhaṃ,"
 msgstr "The Tapodā in Rājagaha, battle,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.38"
+msgctxt "pli-tv-bu-vb-pj4:7.37"
 msgid "nāgānogāhanena ca;"
 msgstr "And with the plunging in of elephants;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.39"
+msgctxt "pli-tv-bu-vb-pj4:7.38"
 msgid "Sobhito arahaṃ bhikkhu,"
 msgstr "The perfected monk Sobhita"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj4:7.40"
+msgctxt "pli-tv-bu-vb-pj4:7.39"
 msgid "pañca­kap­pasataṃ sareti."
 msgstr "Recalls five hundred eons."
 
@@ -5895,7 +5895,7 @@ msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti. #35"
 msgstr "“You’ve committed an offense entailing expulsion.”"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pj4:9.1.0a"
+msgctxt "pli-tv-bu-vb-pj4:9.1.0"
 msgid ""
 msgstr "Case details, part 2"
 

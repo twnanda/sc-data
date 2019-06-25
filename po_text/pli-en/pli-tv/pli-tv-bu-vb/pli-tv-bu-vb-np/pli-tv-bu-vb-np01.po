@@ -36,12 +36,12 @@ msgid "Ime kho panāyasmanto tiṃsa nissaggiyā pācittiyā dhammā uddesaṃ �
 msgstr "Venerables, these thirty rules entailing relinquishment and confession come up for recitation."
 
 #. HTML: </p><hr><h2>
-msgctxt "pli-tv-bu-vb-np1:1.0a"
+msgctxt "pli-tv-bu-vb-np1:1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-np1:1.0b"
+msgctxt "pli-tv-bu-vb-np1:1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -106,97 +106,97 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-np1:1.13a"
+msgctxt "pli-tv-bu-vb-np1:1.13.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc4
-msgctxt "pli-tv-bu-vb-np1:1.14"
+msgctxt "pli-tv-bu-vb-np1:1.13"
 msgid "“Yo pana bhikkhu atirekacīvaraṃ dhāreyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk has extra robe-cloth, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><p>
 #. REF: sc5, pts-vp-en2.4, ms1V_1865
-msgctxt "pli-tv-bu-vb-np1:1.15"
+msgctxt "pli-tv-bu-vb-np1:1.14"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-np1:1.15a"
+msgctxt "pli-tv-bu-vb-np1:1.15.0"
 msgid ""
 msgstr "Second sub-story"
 
 #. HTML: </h3><p>
 #. REF: sc6, pts-vp-pli3.196
-msgctxt "pli-tv-bu-vb-np1:1.16"
+msgctxt "pli-tv-bu-vb-np1:1.15"
 msgid "Tena kho pana samayena āyasmato ānandassa atirekacīvaraṃ uppannaṃ hoti."
 msgstr "Soon afterwards robe-cloth was given to Venerable Ānanda."
 
-msgctxt "pli-tv-bu-vb-np1:1.17"
+msgctxt "pli-tv-bu-vb-np1:1.16"
 msgid "Āyasmā ca ānando taṃ cīvaraṃ āyasmato sāriputtassa dātukāmo hoti."
 msgstr "He wanted to give it to Venerable Sāriputta"
 
-msgctxt "pli-tv-bu-vb-np1:1.18"
+msgctxt "pli-tv-bu-vb-np1:1.17"
 msgid "Āyasmā ca sāriputto sākete viharati."
 msgstr "who was staying at Sāketa."
 
-msgctxt "pli-tv-bu-vb-np1:1.19"
+msgctxt "pli-tv-bu-vb-np1:1.18"
 msgid "Atha kho āyasmato ānandassa etadahosi—"
 msgstr "Knowing that the Buddha had laid down a rule against having extra robe-cloth, Ānanda thought,"
 
-msgctxt "pli-tv-bu-vb-np1:1.20"
+msgctxt "pli-tv-bu-vb-np1:1.19"
 msgid "“bhagavatā sikkhāpadaṃ paññattaṃ—"
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-np1:1.21"
+msgctxt "pli-tv-bu-vb-np1:1.20"
 msgid "‘na atirekacīvaraṃ dhāretabban’ti."
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-np1:1.22"
+msgctxt "pli-tv-bu-vb-np1:1.21"
 msgid "Idañca me atirekacīvaraṃ uppannaṃ."
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-np1:1.23"
+msgctxt "pli-tv-bu-vb-np1:1.22"
 msgid "Ahañcimaṃ cīvaraṃ āyasmato sāriputtassa dātukāmo."
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-np1:1.24"
+msgctxt "pli-tv-bu-vb-np1:1.23"
 msgid "Āyasmā ca sāriputto sākete viharati."
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-np1:1.25"
+msgctxt "pli-tv-bu-vb-np1:1.24"
 msgid "Kathaṃ nu kho mayā paṭipajjitabban”ti?"
 msgstr "“What should I do in this situation?”"
 
-msgctxt "pli-tv-bu-vb-np1:1.26"
+msgctxt "pli-tv-bu-vb-np1:1.25"
 msgid "Atha kho āyasmā ānando bhagavato etamatthaṃ ārocesi."
 msgstr "He told the Master, and the Master said,"
 
-msgctxt "pli-tv-bu-vb-np1:1.27"
+msgctxt "pli-tv-bu-vb-np1:1.26"
 msgid "“Kīvaciraṃ panānanda, sāriputto āgacchissatī”ti?"
 msgstr "“How long is it, Ānanda, before Sāriputta returns?”"
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-np1:1.28"
+msgctxt "pli-tv-bu-vb-np1:1.27"
 msgid "“Navamaṃ vā, bhagavā, divasaṃ dasamaṃ vā”ti."
 msgstr "“Nine or ten days, Master.”"
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-np1:1.29"
+msgctxt "pli-tv-bu-vb-np1:1.28"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "Soon afterwards the Master gave a teaching and addressed the monks:"
 
-msgctxt "pli-tv-bu-vb-np1:1.30"
+msgctxt "pli-tv-bu-vb-np1:1.29"
 msgid "“anujānāmi, bhikkhave, dasāhaparamaṃ atirekacīvaraṃ dhāretuṃ."
 msgstr "“Monks, you should keep extra robe-cloth for ten days at the most."
 
-msgctxt "pli-tv-bu-vb-np1:1.31"
+msgctxt "pli-tv-bu-vb-np1:1.30"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np1:1.31a"
+msgctxt "pli-tv-bu-vb-np1:1.31.0"
 msgid ""
 msgstr "Final ruling"
 
@@ -204,16 +204,16 @@ msgstr "Final ruling"
 #. HTML: </h2><p><span class="rule">
 #. VAR: kathine → kaṭhine (bj, s1-3, pts1)
 #. REF: sc7, ms1V_1867, pts-vp-en2.5
-msgctxt "pli-tv-bu-vb-np1:1.32"
+msgctxt "pli-tv-bu-vb-np1:1.31"
 msgid "“Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine dasāhaparamaṃ atirekacīvaraṃ dhāretabbaṃ."
 msgstr "‘When his robe is finished and the robe-making season has ended, a monk should keep extra robe-cloth for ten days at the most."
 
-msgctxt "pli-tv-bu-vb-np1:1.33"
+msgctxt "pli-tv-bu-vb-np1:1.32"
 msgid "Taṃ atikkāmayato nissaggiyaṃ pācittiyan”ti."
 msgstr "If he keeps it beyond that, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np1:3.1.0a"
+msgctxt "pli-tv-bu-vb-np1:3.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -416,7 +416,7 @@ msgid "“imaṃ cīvaraṃ āyasmato dammī”ti."
 msgstr "‘I give this robe-cloth back to you.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np1:4.0a"
+msgctxt "pli-tv-bu-vb-np1:4.0"
 msgid ""
 msgstr "Permutations"
 
@@ -484,25 +484,25 @@ msgid "Dasāhānatikkante anatikkantasaññī, anāpatti."
 msgstr "If it is less than ten days and he perceives it as less than ten days, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np1:4.14a"
+msgctxt "pli-tv-bu-vb-np1:4.14.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc20, ms1V_1880
-msgctxt "pli-tv-bu-vb-np1:4.15"
+msgctxt "pli-tv-bu-vb-np1:4.14"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
-msgctxt "pli-tv-bu-vb-np1:4.16"
+msgctxt "pli-tv-bu-vb-np1:4.15"
 msgid "antodasāhaṃ adhiṭṭheti, vikappeti, vissajjeti, nassati, vinassati, ḍayhati, acchinditvā gaṇhanti, vissāsaṃ gaṇhanti,"
 msgstr "if within ten days it has been determined, transferred, given away, lost, destroyed, burnt, stolen, or taken on trust;"
 
-msgctxt "pli-tv-bu-vb-np1:4.17"
+msgctxt "pli-tv-bu-vb-np1:4.16"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-np1:4.18"
+msgctxt "pli-tv-bu-vb-np1:4.17"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 

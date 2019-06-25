@@ -240,39 +240,39 @@ msgid "Atha kho lohicco brāhmaṇo buddhappamukhaṃ bhikkhusaṅghaṃ paṇī
 msgstr "Then Lohicca served and satisfied the mendicant Saṅgha headed by the Buddha with his own hands with a variety of delicious foods. "
 
 #. HTML: </p><h2>
-msgctxt "dn12:9.3"
+msgctxt "dn12:9.3.0"
 msgid "1. Lohiccabrāhmaṇānuyoga "
 msgstr "1. Questioning Lohicca "
 
 #. HTML: </h2><p>
 #. REF: sc10
-msgctxt "dn12:9.4"
+msgctxt "dn12:9.3"
 msgid "Atha kho lohicco brāhmaṇo bhagavantaṃ bhuttāviṃ onītapattapāṇiṃ aññataraṃ nīcaṃ āsanaṃ gahetvā ekamantaṃ nisīdi. "
 msgstr "When the Buddha had eaten and washed his hand and bowl, Lohicca took a low seat and sat to one side. "
 
 #. HTML: </p><p>
-msgctxt "dn12:9.5"
+msgctxt "dn12:9.4"
 msgid "Ekamantaṃ nisinnaṃ kho lohiccaṃ brāhmaṇaṃ bhagavā etadavoca: "
 msgstr "The Buddha said to him, "
 
-msgctxt "dn12:9.6"
+msgctxt "dn12:9.5"
 msgid "“saccaṃ kira te, lohicca, evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ: "
 msgstr "“Is it really true, Lohicca, that you have such a harmful misconception: "
 
-msgctxt "dn12:9.7"
+msgctxt "dn12:9.6"
 msgid "‘idha samaṇo vā brāhmaṇo vā kusalaṃ dhammaṃ adhigaccheyya, kusalaṃ dhammaṃ adhigantvā na parassa āroceyya, kiñhi paro parassa karissati. "
 msgstr "‘Should an ascetic or brahmin achieve some skillful quality, they ought not inform anyone else. For what can one person do for another? "
 
-msgctxt "dn12:9.8"
+msgctxt "dn12:9.7"
 msgid "Seyyathāpi nāma purāṇaṃ bandhanaṃ chinditvā aññaṃ navaṃ bandhanaṃ kareyya; "
 msgstr "Suppose someone cut off an old bond, only to create another new bond. "
 
-msgctxt "dn12:9.9"
+msgctxt "dn12:9.8"
 msgid "evaṃ sampadamidaṃ pāpakaṃ lobhadhammaṃ vadāmi, kiñhi paro parassa karissatī’”ti? "
 msgstr "That’s the consequence of such a wicked, greedy deed, I say. For what can one person do for another?’” "
 
 #. HTML: </p><p>
-msgctxt "dn12:9.10"
+msgctxt "dn12:9.9"
 msgid "“Evaṃ, bho gotama”. "
 msgstr "“Yes, Master Gotama.” "
 
@@ -544,7 +544,7 @@ msgid "nirayaṃ vā tiracchānayoniṃ vā. "
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn12:15.12"
+msgctxt "dn12:16.0"
 msgid "2. Tayocodanārahā "
 msgstr "2. Three Teachers Who Deserve to Be Reprimanded "
 
@@ -726,7 +726,7 @@ msgid "yo ca panevarūpe satthāro codeti, sā codanā bhūtā tacchā dhammikā
 msgstr "When someone reprimands such teachers, the reprimand is true, substantive, legitimate, and blameless.” "
 
 #. HTML: </p><h2>
-msgctxt "dn12:18.16"
+msgctxt "dn12:19.0"
 msgid "3. Nacodanārahasatthu "
 msgstr "3. A Teacher Who Does Not Deserve to Be Reprimanded "
 

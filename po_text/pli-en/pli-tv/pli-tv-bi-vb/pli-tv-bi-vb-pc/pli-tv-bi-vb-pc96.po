@@ -3,27 +3,27 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-bi-vb-pc96"><article><div class="hgroup"><p class="division">
-msgctxt "pli-tv-bi-vb-pc96:1.1"
+msgctxt "pli-tv-bi-vb-pc96:0.1"
 msgid "Theravāda Vinaya"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bi-vb-pc96:2.1"
+msgctxt "pli-tv-bi-vb-pc96:0.2"
 msgid "Bhikkhunivibhaṅga"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bi-vb-pc96:3.1"
+msgctxt "pli-tv-bi-vb-pc96:0.3"
 msgid "Pācittiyakaṇḍa"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-bi-vb-pc96:4.1"
+msgctxt "pli-tv-bi-vb-pc96:0.4"
 msgid "96. Chattupāhanavagga"
 msgstr ""
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bi-vb-pc96:5.1"
+msgctxt "pli-tv-bi-vb-pc96:6.0"
 msgid "13. Asaṅkaccikasikkhāpada"
 msgstr ""
 
@@ -187,13 +187,13 @@ msgid "Chattupāhanavaggo navamo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bi-vb-pc96:15.1"
+msgctxt "pli-tv-bi-vb-pc96:17.0.1"
 msgid "Dhammikavagga"
 msgstr ""
 
 #. HTML: </h2><h2>
 #. VAR: 10 Nandasikkhāpada → ^pi-tv-bu-vb-pc1#6 [Pācittiyā 1: Musāvādasikkhāpada] (1:50)
-msgctxt "pli-tv-bi-vb-pc96:16.1"
+msgctxt "pli-tv-bi-vb-pc96:17.0.2"
 msgid "10 Nandasikkhāpada"
 msgstr ""
 

@@ -23,12 +23,12 @@ msgid "Dutiya­pā­rāji­ka­sikkhā­pada"
 msgstr "2. The second training rule"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pj2:0.5"
+msgctxt "pli-tv-bu-vb-pj2:1.1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pj2:1.1.0a"
+msgctxt "pli-tv-bu-vb-pj2:1.1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -600,36 +600,36 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pj2:1.6.27a"
+msgctxt "pli-tv-bu-vb-pj2:1.6.27.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc16, ms1V_206
-msgctxt "pli-tv-bu-vb-pj2:1.6.28"
+msgctxt "pli-tv-bu-vb-pj2:1.6.27"
 msgid "“Yo pana bhikkhu adinnaṃ they­ya­saṅ­khā­taṃ ādiyeyya,"
 msgstr "‘If a monk, intending to steal, takes what has not been given to him—"
 
-msgctxt "pli-tv-bu-vb-pj2:1.6.29"
+msgctxt "pli-tv-bu-vb-pj2:1.6.28"
 msgid "yathārūpe adinnādāne rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā—"
 msgstr "the sort of theft for which kings, having caught a thief, would beat, imprison, or banish him, saying,"
 
-msgctxt "pli-tv-bu-vb-pj2:1.6.30"
+msgctxt "pli-tv-bu-vb-pj2:1.6.29"
 msgid "‘corosi bālosi mūḷhosi thenosī’ti,"
 msgstr "“You’re a bandit, you’re a fool, you’ve gone astray, you’re a thief”—"
 
-msgctxt "pli-tv-bu-vb-pj2:1.6.31"
+msgctxt "pli-tv-bu-vb-pj2:1.6.30"
 msgid "tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayampi pārājiko hoti asaṃvāso”ti."
 msgstr "he too is expelled and excluded from the community.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc17, ms1V_207
-msgctxt "pli-tv-bu-vb-pj2:1.6.32"
+msgctxt "pli-tv-bu-vb-pj2:1.6.31"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pj2:2.0a"
+msgctxt "pli-tv-bu-vb-pj2:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -757,30 +757,30 @@ msgid "… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "“… And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pj2:2.27a"
+msgctxt "pli-tv-bu-vb-pj2:2.27.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc20, ms1V_210
-msgctxt "pli-tv-bu-vb-pj2:2.28"
+msgctxt "pli-tv-bu-vb-pj2:2.27"
 msgid "“Yo pana bhikkhu gāmā vā araññā vā adinnaṃ they­ya­saṅ­khā­taṃ ādiyeyya,"
 msgstr "‘If a monk, intending to steal, takes from a village or from the wilderness what has not been given to him—"
 
-msgctxt "pli-tv-bu-vb-pj2:2.29"
+msgctxt "pli-tv-bu-vb-pj2:2.28"
 msgid "yathārūpe adinnādāne rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā—"
 msgstr "the sort of theft for which kings, having caught a thief, would beat, imprison, or banish him, saying,"
 
-msgctxt "pli-tv-bu-vb-pj2:2.30"
+msgctxt "pli-tv-bu-vb-pj2:2.29"
 msgid "‘corosi bālosi mūḷhosi thenosī’ti, tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayampi pārājiko hoti asaṃvāso”ti."
 msgstr "“You’re a bandit, you’re a fool, you’ve gone astray, you’re a thief”—"
 
-msgctxt "pli-tv-bu-vb-pj2:2.31"
+msgctxt "pli-tv-bu-vb-pj2:2.30"
 msgid "tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayampi pārājiko hoti asaṃvāso”ti."
 msgstr "he too is expelled and excluded from the community.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pj2:3.0a"
+msgctxt "pli-tv-bu-vb-pj2:3.0"
 msgid ""
 msgstr "Definitions"
 
@@ -1062,17 +1062,17 @@ msgid "Tena vuccati—“asaṃvāso”ti."
 msgstr "therefore it is called “excluded from the community.”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pj2:4.1.0a"
+msgctxt "pli-tv-bu-vb-pj2:4.1.0.1"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pj2:4.1.0b"
+msgctxt "pli-tv-bu-vb-pj2:4.1.0.2"
 msgid ""
 msgstr "Permutations part 1"
 
 #. HTML: </h3><h4>
-msgctxt "pli-tv-bu-vb-pj2:4.1.0c"
+msgctxt "pli-tv-bu-vb-pj2:4.1.0.3"
 msgid ""
 msgstr "Summary"
 
@@ -1085,7 +1085,7 @@ msgid "Bhūmaṭṭhaṃ thalaṭṭhaṃ ākāsaṭṭhaṃ vehāsaṭṭhaṃ 
 msgstr "Being in the earth, being on the ground, being in the air, being above ground, being in water, being in a boat, being in a vehicle, carried as a burden, being in a park, being in a monastic dwelling, being in a field, being on a plot of land, being in a village, being in the wilderness, water, toothbrush, forest tree, that which is carried, that which is deposited, customs station, a living being, footless, two-footed, four-footed, many-footed, a spy, a keeper of entrusted property, a mutually agreed theft, an action by appointment, the making of a sign."
 
 #. HTML: </p><h4>
-msgctxt "pli-tv-bu-vb-pj2:4.2.0a"
+msgctxt "pli-tv-bu-vb-pj2:4.2.0"
 msgid ""
 msgstr "Exposition"
 
@@ -2486,7 +2486,7 @@ msgid "Avahārakassa āpatti pārājikassa."
 msgstr "but an offense entailing expulsion for the thief."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pj2:5.1.0a"
+msgctxt "pli-tv-bu-vb-pj2:5.1.0"
 msgid ""
 msgstr "Permutations part 2"
 
@@ -2760,7 +2760,7 @@ msgid "Oramati, ubhinnaṃ anāpatti."
 msgstr "and desists, there is no offense for either."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pj2:6.1.0a"
+msgctxt "pli-tv-bu-vb-pj2:6.1.0"
 msgid ""
 msgstr "Permutations part 3"
 
@@ -3086,7 +3086,7 @@ msgid "Ṭhānā cāveti, āpatti dukkaṭassa."
 msgstr "if he moves it from its base, he commits an offense of wrong conduct."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pj2:6.4.0a"
+msgctxt "pli-tv-bu-vb-pj2:6.4.0"
 msgid ""
 msgstr "Non-offenses"
 
@@ -3146,224 +3146,224 @@ msgid "Adinnādānamhi paṭha­ma­bhā­ṇavāro niṭṭhito."
 msgstr "The first section on stealing is finished."
 
 #. HTML: </p><hr><h5>
-msgctxt "pli-tv-bu-vb-pj2:6.4.13"
+msgctxt "pli-tv-bu-vb-pj2:6.4.13.0"
 msgid "2.1. Vinīta­vatthu­uddāna­gāthā"
 msgstr "Case rulings mnemonic list"
 
 #. HTML: </h5><div class="uddana"><p>
 #. REF: sc92, ms1V_282
-msgctxt "pli-tv-bu-vb-pj2:6.4.14"
+msgctxt "pli-tv-bu-vb-pj2:6.4.13"
 msgid "Rajakehi pañca akkhātā,"
 msgstr "Five are told with dyers,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.15"
+msgctxt "pli-tv-bu-vb-pj2:6.4.14"
 msgid "caturo attharaṇehi ca;"
 msgstr "And four with blankets;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.16"
+msgctxt "pli-tv-bu-vb-pj2:6.4.15"
 msgid "Andhakārena ve pañca,"
 msgstr "Five with darkness,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.17"
+msgctxt "pli-tv-bu-vb-pj2:6.4.16"
 msgid "pañca hāraṇakena ca."
 msgstr "And five with a carrier."
 
 #. HTML: </p><p>
 #. REF: sc93, ms1V_283
-msgctxt "pli-tv-bu-vb-pj2:6.4.18"
+msgctxt "pli-tv-bu-vb-pj2:6.4.17"
 msgid "Niruttiyā pañca akkhātā,"
 msgstr "Five are told with ways of speaking,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.19"
+msgctxt "pli-tv-bu-vb-pj2:6.4.18"
 msgid "vātehi apare duve;"
 msgstr "Another two with wind;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.20"
+msgctxt "pli-tv-bu-vb-pj2:6.4.19"
 msgid "Asambhinne kusāpāto,"
 msgstr "Fresh, the dropping of a grass ticket,"
 
 #. HTML: <br>
 #. VAR: jantaggena → jantāgharena (s1-3) | jantagghena (pts1)
-msgctxt "pli-tv-bu-vb-pj2:6.4.21"
+msgctxt "pli-tv-bu-vb-pj2:6.4.20"
 msgid "jantaggena sahā dasa."
 msgstr "With the sauna it is ten."
 
 #. HTML: </p><p>
 #. REF: sc94, ms1V_284
-msgctxt "pli-tv-bu-vb-pj2:6.4.22"
+msgctxt "pli-tv-bu-vb-pj2:6.4.21"
 msgid "Vighāsehi pañca akkhātā,"
 msgstr "Five are told with animal kills,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.23"
+msgctxt "pli-tv-bu-vb-pj2:6.4.22"
 msgid "pañca ceva amūlakā;"
 msgstr "And five without grounds;"
 
 #. HTML: <br>
 #. VAR: kuramaṃsañca → kūramaṃsañca (s1-3) | kuru-maṃsañ ca (pts1)
-msgctxt "pli-tv-bu-vb-pj2:6.4.24"
+msgctxt "pli-tv-bu-vb-pj2:6.4.23"
 msgid "Dubbhikkhe kuramaṃsañca,"
 msgstr "During a shortage of food: boiled rice, and meat,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.25"
+msgctxt "pli-tv-bu-vb-pj2:6.4.24"
 msgid "pūva­sak­kha­li­modakā."
 msgstr "Biscuits, pastries, confectioneries."
 
 #. HTML: </p><p>
 #. VAR: Cha­parik­khā­ra­thavikā → saparik­khā­ra­thavi­kaṃ (bj) | saparik­khā­ra­thavikā (s1-3, pts1)
 #. REF: sc95, ms1V_285,  
-msgctxt "pli-tv-bu-vb-pj2:6.4.26"
+msgctxt "pli-tv-bu-vb-pj2:6.4.25"
 msgid "Cha­parik­khā­ra­thavikā,"
 msgstr "Six on articles, bag,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.27"
+msgctxt "pli-tv-bu-vb-pj2:6.4.26"
 msgid "bhisivaṃsā na nikkhame;"
 msgstr "Mattress, bamboo, on not coming out;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.28"
+msgctxt "pli-tv-bu-vb-pj2:6.4.27"
 msgid "Khādanīyañca vissāsaṃ,"
 msgstr "And taking food on trust,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.29"
+msgctxt "pli-tv-bu-vb-pj2:6.4.28"
 msgid "sasaññāyapare duve."
 msgstr "Another two on perceiving as one’s own."
 
 #. HTML: </p><p>
 #. REF: sc96, ms1V_286
-msgctxt "pli-tv-bu-vb-pj2:6.4.30"
+msgctxt "pli-tv-bu-vb-pj2:6.4.29"
 msgid "Satta nāvaharāmāti,"
 msgstr "Seven on “We didn’t take,”"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.31"
+msgctxt "pli-tv-bu-vb-pj2:6.4.30"
 msgid "satta ceva avāharuṃ;"
 msgstr "And seven where they did take;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.32"
+msgctxt "pli-tv-bu-vb-pj2:6.4.31"
 msgid "Saṃghassa avaharuṃ satta,"
 msgstr "Seven where they took from the Order,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.33"
+msgctxt "pli-tv-bu-vb-pj2:6.4.32"
 msgid "pupphehi apare duve."
 msgstr "Another two with flowers."
 
 #. HTML: </p><p>
 #. REF: sc97, ms1V_287
-msgctxt "pli-tv-bu-vb-pj2:6.4.34"
+msgctxt "pli-tv-bu-vb-pj2:6.4.33"
 msgid "Tayo ca vuttavādino,"
 msgstr "And three on taking messages,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.35"
+msgctxt "pli-tv-bu-vb-pj2:6.4.34"
 msgid "maṇi tīṇi atikkame;"
 msgstr "Three on taking jewels past;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.36"
+msgctxt "pli-tv-bu-vb-pj2:6.4.35"
 msgid "Sūkarā ca migā macchā,"
 msgstr "And pigs, deer, fish,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.37"
+msgctxt "pli-tv-bu-vb-pj2:6.4.36"
 msgid "yānañcāpi pavattayi."
 msgstr "And he set a vehicle in motion."
 
 #. HTML: </p><p>
 #. REF: sc98, ms1V_288
-msgctxt "pli-tv-bu-vb-pj2:6.4.38"
+msgctxt "pli-tv-bu-vb-pj2:6.4.37"
 msgid "Duve pesī duve dārū,"
 msgstr "Two on a piece, two on wood,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.39"
+msgctxt "pli-tv-bu-vb-pj2:6.4.38"
 msgid "paṃsukūlaṃ duve dakā;"
 msgstr "Discarded, two on water;"
 
 #. HTML: <br>
 #. REF: pts-vp-pli3.56, "
-msgctxt "pli-tv-bu-vb-pj2:6.4.40"
+msgctxt "pli-tv-bu-vb-pj2:6.4.39"
 msgid "Anu­pubba­vidhā­nena,"
 msgstr "Step by step, by arrangement,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.41"
+msgctxt "pli-tv-bu-vb-pj2:6.4.40"
 msgid "tadañño na paripūrayi."
 msgstr "Another did not amount to it."
 
 #. HTML: </p><p>
 #. REF: sc99, ms1V_289
-msgctxt "pli-tv-bu-vb-pj2:6.4.42"
+msgctxt "pli-tv-bu-vb-pj2:6.4.41"
 msgid "Sāvatthiyā caturo muṭṭhī,"
 msgstr "Four handfuls at Sāvatthī,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.43"
+msgctxt "pli-tv-bu-vb-pj2:6.4.42"
 msgid "dve vighāsā duve tiṇā;"
 msgstr "Two on scraps of meat, two about grass;"
 
 #. HTML: <br>
 #. REF: pts-vp-en1.94
-msgctxt "pli-tv-bu-vb-pj2:6.4.44"
+msgctxt "pli-tv-bu-vb-pj2:6.4.43"
 msgid "Saṃghassa bhājayuṃ satta,"
 msgstr "Seven where they divided the belongings of the Order,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.45"
+msgctxt "pli-tv-bu-vb-pj2:6.4.44"
 msgid "satta ceva assāmikā."
 msgstr "And seven on non-owners."
 
 #. HTML: </p><p>
 #. VAR: Dārudakā → dārudakaṃ (bj) | dārūdakā (s2, s3)
 #. REF: sc100, ms1V_290,  
-msgctxt "pli-tv-bu-vb-pj2:6.4.46"
+msgctxt "pli-tv-bu-vb-pj2:6.4.45"
 msgid "Dārudakā mattikā dve tiṇāni,"
 msgstr "Wood, water, clay, two on grass,"
 
 #. HTML: <br>
 #. VAR: avahāsi seyyaṃ → avahāsiseyyuṃ (bj) | avahāsi theyyaṃ (pts1)
-msgctxt "pli-tv-bu-vb-pj2:6.4.47"
+msgctxt "pli-tv-bu-vb-pj2:6.4.46"
 msgid "Saṃghassa satta avahāsi seyyaṃ;"
 msgstr "Seven on taking the Order’s bedding;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.48"
+msgctxt "pli-tv-bu-vb-pj2:6.4.47"
 msgid "Sassāmikaṃ na cāpi nīhareyya,"
 msgstr "And one should not take away what has an owner,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.49"
+msgctxt "pli-tv-bu-vb-pj2:6.4.48"
 msgid "Hareyya sassāmikaṃ tāvakālikaṃ."
 msgstr "One may borrow what has an owner."
 
 #. HTML: </p><p>
 #. REF: sc101, ms1V_291
-msgctxt "pli-tv-bu-vb-pj2:6.4.50"
+msgctxt "pli-tv-bu-vb-pj2:6.4.49"
 msgid "Campā rājagahe ceva,"
 msgstr "Campā, and in Rājagaha,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.51"
+msgctxt "pli-tv-bu-vb-pj2:6.4.50"
 msgid "vesāliyā ca ajjuko;"
 msgstr "And Ajjuka at Vesālī;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.52"
+msgctxt "pli-tv-bu-vb-pj2:6.4.51"
 msgid "Bārāṇasī ca kosambī,"
 msgstr "And Benares, Kosambī,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.53"
+msgctxt "pli-tv-bu-vb-pj2:6.4.52"
 msgid "sāgalā daḷhikena cāti."
 msgstr "And Sāgalā with Dalhika."
 

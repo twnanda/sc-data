@@ -80,7 +80,7 @@ msgid "Imāni kho, bhikkhave, dve balānī”ti. "
 msgstr "These are the two powers.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.12" id="12"><article><div class="hgroup"><h1>
-msgctxt "an2.11-20:11.2.7"
+msgctxt "an2.11-20:0.1"
 msgid "12 "
 msgstr "12 "
 
@@ -137,7 +137,7 @@ msgid "Imāni kho, bhikkhave, dve balānī”ti. "
 msgstr "These are the two powers.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.13" id="13"><article><div class="hgroup"><h1>
-msgctxt "an2.11-20:12.2.5"
+msgctxt "an2.11-20:0.1"
 msgid "13 "
 msgstr "13 "
 
@@ -206,7 +206,7 @@ msgid "Imāni kho, bhikkhave, dve balānī”ti. "
 msgstr "These are the two powers.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.14" id="14"><article><div class="hgroup"><h1>
-msgctxt "an2.11-20:13.2.8"
+msgctxt "an2.11-20:0.1"
 msgid "14 "
 msgstr "14 "
 
@@ -229,7 +229,7 @@ msgid "Imā kho, bhikkhave, dve tathāgatassa dhammadesanā”ti. "
 msgstr "These are two ways of teaching the Dhamma.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.15" id="15"><article><div class="hgroup"><h1>
-msgctxt "an2.11-20:14.1.5"
+msgctxt "an2.11-20:0.1"
 msgid "15 "
 msgstr "15 "
 
@@ -371,7 +371,7 @@ msgid "Yasmiñca kho, bhikkhave, adhikaraṇe āpanno ca bhikkhu codako ca bhikk
 msgstr "But in a disciplinary issue, if both the offending mendicant and the accusing mendicant carefully checks themselves, you can expect that issue won’t lead to lasting acrimony and enmity, and the mendicants will live comfortably.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.16" id="16"><article><div class="hgroup"><h1>
-msgctxt "an2.11-20:15.4.3"
+msgctxt "an2.11-20:0.1"
 msgid "16 "
 msgstr "16 "
 
@@ -426,7 +426,7 @@ msgid "Upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ sara�
 msgstr "From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.17" id="17"><article><div class="hgroup"><h1>
-msgctxt "an2.11-20:16.3.5"
+msgctxt "an2.11-20:0.1"
 msgid "17 "
 msgstr "17 "
 
@@ -534,7 +534,7 @@ msgid "“Abhikkantaṃ, bho gotama … pe … upāsakaṃ maṃ bhavaṃ gotamo
 msgstr "“Excellent, Master Gotama! … From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.18" id="18"><article><div class="hgroup"><h1>
-msgctxt "an2.11-20:17.3.2"
+msgctxt "an2.11-20:0.1"
 msgid "18 "
 msgstr "18 "
 
@@ -623,7 +623,7 @@ msgid "Yamidaṃ, ānanda, mayā ekaṃsena karaṇīyaṃ akkhātaṃ kāyasuca
 msgstr "These are the benefits they should expect.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.19" id="19"><article><div class="hgroup"><h1>
-msgctxt "an2.11-20:18.2.10"
+msgctxt "an2.11-20:0.1"
 msgid "19 "
 msgstr "19 "
 
@@ -715,7 +715,7 @@ msgid "‘kusalaṃ, bhikkhave, bhāvethā’”ti. "
 msgstr "‘Develop the skillful.’” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.20" id="20"><article><div class="hgroup"><h1>
-msgctxt "an2.11-20:19.2.11"
+msgctxt "an2.11-20:0.1"
 msgid "20 "
 msgstr "20 "
 

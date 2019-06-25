@@ -3,27 +3,27 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-bi-vb-sk1-75"><article><div class="hgroup"><p class="division">
-msgctxt "pli-tv-bi-vb-sk1-75:1.1"
+msgctxt "pli-tv-bi-vb-sk1-75:0.1"
 msgid "Theravāda Vinaya"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bi-vb-sk1-75:2.1"
+msgctxt "pli-tv-bi-vb-sk1-75:0.2"
 msgid "Bhikkhunivibhaṅga"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-bi-vb-sk1-75:3.1"
+msgctxt "pli-tv-bi-vb-sk1-75:0.3"
 msgid "Sekhiyā:"
 msgstr ""
 
 #. HTML: </b>
-msgctxt "pli-tv-bi-vb-sk1-75:3.2"
+msgctxt "pli-tv-bi-vb-sk1-75:0.4"
 msgid "Sekhiyakaṇḍa"
 msgstr ""
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bi-vb-sk1-75:4.1"
+msgctxt "pli-tv-bi-vb-sk1-75:5.0"
 msgid "1. Parimaṇḍalavagga"
 msgstr ""
 
@@ -35,7 +35,7 @@ msgstr ""
 
 #. HTML: </p><h3>
 #. VAR: 1.10 Dutiyaukkhittakasikkhāpada → ^pi-tv-bu-vb-sk2#1 [Sekhiyā 2: Dutiyaparimaṇḍalasikkhāpada] (2:147)
-msgctxt "pli-tv-bi-vb-sk1-75:6.1"
+msgctxt "pli-tv-bi-vb-sk1-75:7.0"
 msgid "1.10 Dutiyaukkhittakasikkhāpada"
 msgstr ""
 
@@ -130,13 +130,13 @@ msgid "(Saṃkhittaṃ.)"
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bi-vb-sk1-75:12.1"
+msgctxt "pli-tv-bi-vb-sk1-75:14.0.1"
 msgid "7. 7 Pādukavagga"
 msgstr ""
 
 #. HTML: </h2><h3>
 #. VAR: 7.15 Udakeuccārasikkhāpada → ^pi-tv-bu-vb-sk50#1 [Sekhiyā 50: Capucapukārakasikkhāpada] (50:195)
-msgctxt "pli-tv-bi-vb-sk1-75:13.1"
+msgctxt "pli-tv-bi-vb-sk1-75:14.0.2"
 msgid "7.15 Udakeuccārasikkhāpada"
 msgstr ""
 

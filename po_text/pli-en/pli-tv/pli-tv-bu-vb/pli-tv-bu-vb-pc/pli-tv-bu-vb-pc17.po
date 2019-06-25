@@ -28,7 +28,7 @@ msgid "17. Nikkaḍḍhanasikkhāpada"
 msgstr "The training rule on throwing out"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc17:1.0a"
+msgctxt "pli-tv-bu-vb-pc17:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -175,18 +175,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc17:1.31a"
+msgctxt "pli-tv-bu-vb-pc17:1.31.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc4, ms2V_431
-msgctxt "pli-tv-bu-vb-pc17:1.32"
+msgctxt "pli-tv-bu-vb-pc17:1.31"
 msgid "“Yo pana bhikkhu bhikkhuṃ kupito anattamano saṃghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyan”ti."
 msgstr "‘If a monk, in anger, throws another monk out of a dwelling belonging to the Order, or gets him thrown out, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc17:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc17:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -285,7 +285,7 @@ msgid "Sakiṃ āṇatto bahukepi dvāre atikkāmeti, āpatti pācittiyassa."
 msgstr "If he only asks once, then even if the other makes him go through many doors, he commits one offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc17:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc17:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -345,7 +345,7 @@ msgid "Attano puggalike anāpatti."
 msgstr "If it belongs to himself, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc17:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc17:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

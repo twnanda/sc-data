@@ -29,7 +29,7 @@ msgid "36. Dutiyapavāraṇāsikkhāpada"
 msgstr "The second training rule on satisfaction"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc36:1.0a"
+msgctxt "pli-tv-bu-vb-pc36:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -166,18 +166,18 @@ msgid "evañca pana bhikkhave imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc36:1.29a"
+msgctxt "pli-tv-bu-vb-pc36:1.29.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc3, ms2V_786
-msgctxt "pli-tv-bu-vb-pc36:1.30"
+msgctxt "pli-tv-bu-vb-pc36:1.29"
 msgid "“Yo pana bhikkhu bhikkhuṃ bhuttāviṃ pavāritaṃ anatirittena khādanīyena vā bhojanīyena vā abhihaṭṭhuṃ pavāreyya—‘handa, bhikkhu, khāda vā bhuñja vā’ti, jānaṃ āsādanāpekkho, bhuttasmiṃ, pācittiyan”ti."
 msgstr "‘If a monk invites another monk, whom he knows has eaten and expressed his satisfaction, to eats staple or non-staple food which is not left over, saying, “Here, monk, eat,” aiming to criticize him, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc36:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc36:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -358,7 +358,7 @@ msgid "Bhojanapariyosāne āpatti pācittiyassa."
 msgstr "When the other monk has finished eating, he commits an offense entailing confession."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc36:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc36:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -403,7 +403,7 @@ msgid "Appavārite appavāritasaññī, anāpatti."
 msgstr "If the other monk has not expressed his satisfaction, and he perceives that he has not, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc36:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc36:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

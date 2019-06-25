@@ -13,7 +13,7 @@ msgid "Udumbarikasutta "
 msgstr "The Lion’s Roar at Udumbarikā’s Monastery "
 
 #. HTML: </h1></div><h2>
-msgctxt "dn25:0.3"
+msgctxt "dn25:1.0"
 msgid "1. Nigrodhaparibbājakavatthu "
 msgstr "1. On the Wanderer Nigrodha "
 
@@ -224,7 +224,7 @@ msgid "Evaṃ vutte, te paribbājakā tuṇhī ahesuṃ. "
 msgstr "Then those wanderers fell silent. "
 
 #. HTML: </p><h2>
-msgctxt "dn25:6.11"
+msgctxt "dn25:7.0"
 msgid "2. Tapojigucchāvāda "
 msgstr "2. Mortification in Disgust of Sin "
 
@@ -423,7 +423,7 @@ msgid "“Evaṃ paripuṇṇāyapi kho ahaṃ, nigrodha, tapojigucchāya anekav
 msgstr "“But even such a completed mortification has many defects, I say.” "
 
 #. HTML: </p><h3>
-msgctxt "dn25:8.26"
+msgctxt "dn25:9.0"
 msgid "2.1. Upakkilesa "
 msgstr "2.1. Defects "
 
@@ -734,7 +734,7 @@ msgid "ko pana vādo aññataraññatarenā”ti. "
 msgstr "let alone one or other of them.” "
 
 #. HTML: </p><h3>
-msgctxt "dn25:12.20"
+msgctxt "dn25:13.0"
 msgid "2.2. Parisuddhapapaṭikappattakathā "
 msgstr "2.2. On Reaching the Shoots "
 
@@ -1015,7 +1015,7 @@ msgid "api ca kho papaṭikappattā hotī”ti. "
 msgstr "Rather, it has only reached the shoots.” "
 
 #. HTML: </p><h3>
-msgctxt "dn25:15.19"
+msgctxt "dn25:16.0"
 msgid "2.3. Parisuddhatacappattakathā "
 msgstr "2.3. On Reaching the Bark "
 
@@ -1149,7 +1149,7 @@ msgid "api ca kho tacappattā hotī”ti. "
 msgstr "Rather, it has only reached the bark.” "
 
 #. HTML: </p><h3>
-msgctxt "dn25:17.11"
+msgctxt "dn25:18.0"
 msgid "2.4. Parisuddhaphegguppattakathā "
 msgstr "2.4. On Reaching the Softwood "
 
@@ -1238,7 +1238,7 @@ msgid "api ca kho phegguppattā hotī”ti. "
 msgstr "Rather, it has only reached the softwood.” "
 
 #. HTML: </p><h2>
-msgctxt "dn25:18.19"
+msgctxt "dn25:19.0"
 msgid "3. Parisuddhaaggappattasārappattakathā "
 msgstr "3. On Reaching the Heartwood "
 
@@ -1340,7 +1340,7 @@ msgid "“ettha mayaṃ anassāma sācariyakā, na mayaṃ ito bhiyyo uttaritara
 msgstr "“In that case, we’re lost, and so is our tradition! We don’t know anything better or finer than that!” "
 
 #. HTML: </p><h2>
-msgctxt "dn25:19.22"
+msgctxt "dn25:20.0"
 msgid "4. Nigrodhassapajjhāyana "
 msgstr "4. Nigrodha Feels Depressed "
 
@@ -1468,7 +1468,7 @@ msgid "‘buddho so bhagavā bodhāya dhammaṃ deseti, danto so bhagavā damath
 msgstr "‘The Blessed One is awakened, tamed, serene, crossed over, and extinguished. And he teaches Dhamma for awakening, taming, serenity, crossing over, and extinguishment’?” "
 
 #. HTML: </p><h2>
-msgctxt "dn25:21.17"
+msgctxt "dn25:22.0"
 msgid "5. Brahmacariyapariyosānasacchikiriyā "
 msgstr "5. The Culmination of the Spiritual Path "
 
@@ -1604,7 +1604,7 @@ msgid "Yathānusiṭṭhaṃ tathā paṭipajjamāno—yassatthāya kulaputtā s
 msgstr "By practicing as instructed they will realize the supreme end of the spiritual path in this very life, in seven days. "
 
 #. HTML: </p><h2>
-msgctxt "dn25:22.32"
+msgctxt "dn25:23.0"
 msgid "6. Paribbājakānaṃpajjhāyana "
 msgstr "6. The Wanderers Feel Depressed "
 

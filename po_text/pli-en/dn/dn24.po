@@ -13,7 +13,7 @@ msgid "Pāthikasutta "
 msgstr "About Pāṭikaputta "
 
 #. HTML: </h1></div><h2>
-msgctxt "dn24:0.3"
+msgctxt "dn24:1.1.0"
 msgid "1. Sunakkhattavatthu "
 msgstr "1. On Sunakkhatta "
 
@@ -408,7 +408,7 @@ msgid "Evaṃ kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkame
 msgstr "Though I spoke to Sunakkhatta like this, he still left this teaching and training, like someone on the highway to hell. "
 
 #. HTML: </p><h2>
-msgctxt "dn24:1.6.14"
+msgctxt "dn24:1.7.0"
 msgid "2. Korakkhattiyavatthu "
 msgstr "2. On Korakkhattiya "
 
@@ -665,7 +665,7 @@ msgid "Evampi kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkame
 msgstr "Though I spoke to Sunakkhatta like this, he still left this teaching and training, like someone on the highway to hell. "
 
 #. HTML: </p><h2>
-msgctxt "dn24:1.10.12"
+msgctxt "dn24:1.11.0"
 msgid "3. Acelakaḷāramaṭṭakavatthu "
 msgstr "3. On the Naked Ascetic Kaḷāramaṭṭaka "
 
@@ -869,7 +869,7 @@ msgid "Evampi kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkame
 msgstr "Though I spoke to Sunakkhatta like this, he still left this teaching and training, like someone on the highway to hell. "
 
 #. HTML: </p><h2>
-msgctxt "dn24:1.14.14"
+msgctxt "dn24:1.15.0"
 msgid "4. Acelapāthikaputtavatthu "
 msgstr "4. On the Naked Ascetic Pāṭikaputta "
 
@@ -1193,7 +1193,7 @@ msgid "Yassadāni tvaṃ, sunakkhatta, icchasi, tassa ārocehī’ti. "
 msgstr "Now you may tell him, if you so wish.’ "
 
 #. HTML: </p><h2>
-msgctxt "dn24:1.18.40"
+msgctxt "dn24:1.19.0"
 msgid "5. Iddhipāṭihāriyakathā "
 msgstr "5. On Demonstrations of Psychic Power "
 
@@ -2072,7 +2072,7 @@ msgid "Evampi kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkame
 msgstr "Though I spoke to Sunakkhatta like this, he still left this teaching and training, like someone on the highway to hell. "
 
 #. HTML: </p><h2>
-msgctxt "dn24:2.13.13"
+msgctxt "dn24:2.14.0"
 msgid "6. Aggaññapaññattikathā "
 msgstr "6. On Describing the Origin of the World "
 

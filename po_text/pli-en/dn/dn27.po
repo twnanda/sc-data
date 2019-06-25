@@ -173,7 +173,7 @@ msgid "Te brahmānañceva abbhācikkhanti, musā ca bhāsanti, bahuñca apuñña
 msgstr "They misrepresent the brahmins, speak falsely, and make much bad karma. "
 
 #. HTML: </p><h2>
-msgctxt "dn27:4.13"
+msgctxt "dn27:5.0"
 msgid "1. Catuvaṇṇasuddhi "
 msgstr "1. Purification in the Four Castes "
 
@@ -401,7 +401,7 @@ msgid "Tedha honti manomayā pītibhakkhā sayaṃpabhā antalikkhacarā subha�
 msgstr "Here they are mind-made, feeding on rapture, self-luminous, moving through the sky, steadily glorious, and they remain like that for a very long time. "
 
 #. HTML: </p><h2>
-msgctxt "dn27:10.7"
+msgctxt "dn27:11.0"
 msgid "2. Rasapathavipātubhāva "
 msgstr "2. Solid Nectar Appears "
 
@@ -467,7 +467,7 @@ msgid "Tesaṃ rasapathaviṃ aṅguliyā sāyataṃ acchādesi, taṇhā ca tes
 msgstr "They too enjoyed it, and craving was born in them. "
 
 #. HTML: </p><h2>
-msgctxt "dn27:11.14"
+msgctxt "dn27:12.0"
 msgid "3. Candimasūriyādipātubhāva "
 msgstr "3. The Moon and Sun Appear "
 
@@ -564,7 +564,7 @@ msgid "Tadeva porāṇaṃ aggaññaṃ akkharaṃ anusaranti, na tvevassa attha
 msgstr "They’re just remembering an ancient traditional saying, but they don’t understand what it means. "
 
 #. HTML: </p><h2>
-msgctxt "dn27:13.13"
+msgctxt "dn27:14.0"
 msgid "4. Bhūmipappaṭakapātubhāva "
 msgstr "4. Ground-Sprouts "
 
@@ -618,7 +618,7 @@ msgid "Tesaṃ vaṇṇātimānapaccayā mānātimānajātikānaṃ bhūmipappa�
 msgstr "And the vanity of the beautiful ones made the ground-sprouts vanish. "
 
 #. HTML: </p><h2>
-msgctxt "dn27:14.12"
+msgctxt "dn27:14.12.0"
 msgid "5. Padālatāpātubhāva "
 msgstr "5. Bursting Pods "
 
@@ -627,15 +627,15 @@ msgstr "5. Bursting Pods "
 #. REF: sc18
 #. VAR: kalambukā → kalambakā (s1-3)
 #. VAR: padālatā → bhadālatā (bj) | badālatā (pts1)
-msgctxt "dn27:14.13"
+msgctxt "dn27:14.12"
 msgid "Bhūmipappaṭake antarahite padālatā pāturahosi, seyyathāpi nāma kalambukā; evameva pāturahosi. "
 msgstr "When the ground-sprouts had vanished, bursting pods appeared, like the fruit of the kadam tree. "
 
-msgctxt "dn27:14.14"
+msgctxt "dn27:14.13"
 msgid "Sā ahosi vaṇṇasampannā gandhasampannā rasasampannā, seyyathāpi nāma sampannaṃ vā sappi sampannaṃ vā navanītaṃ evaṃvaṇṇā ahosi. "
 msgstr "They were beautiful, fragrant, and delicious, like ghee or butter. "
 
-msgctxt "dn27:14.15"
+msgctxt "dn27:14.14"
 msgid "Seyyathāpi nāma khuddamadhuṃ aneḷakaṃ; evamassādā ahosi. "
 msgstr "And they were as sweet as pure manuka honey. "
 
@@ -693,7 +693,7 @@ msgid "Tadeva porāṇaṃ aggaññaṃ akkharaṃ anusaranti, na tvevassa attha
 msgstr "They’re just remembering an ancient traditional saying, but they don’t understand what it means. "
 
 #. HTML: </p><h2>
-msgctxt "dn27:15.13"
+msgctxt "dn27:16.0"
 msgid "6. Akaṭṭhapākasālipātubhāva "
 msgstr "6. Ripe Untilled Rice "
 
@@ -720,59 +720,59 @@ msgid "Atha kho te, vāseṭṭha, sattā akaṭṭhapākaṃ sāliṃ paribhuñ
 msgstr "Then those beings eating the ripe untilled rice, with that as their food and nourishment, remained for a very long time. "
 
 #. HTML: </p><h2>
-msgctxt "dn27:16.6"
+msgctxt "dn27:16.6.0"
 msgid "7. Itthipurisaliṅgapātubhāva "
 msgstr "7. Gender Appears "
 
 # NOTE: Comm here offers nothing on what litthi/purisa-linga actually means, but at Pj 1 it says massudāṭhikādi “beard and whiskers, etc.” So it seems this is not restricted to genitals.
 #. HTML: </h2><p>
 #. REF: sc22
-msgctxt "dn27:16.7"
+msgctxt "dn27:16.6"
 msgid "Yathā yathā kho te, vāseṭṭha, sattā akaṭṭhapākaṃ sāliṃ paribhuñjantā tambhakkhā tadāhārā ciraṃ dīghamaddhānaṃ aṭṭhaṃsu tathā tathā tesaṃ sattānaṃ bhiyyoso mattāya kharattañceva kāyasmiṃ okkami, vaṇṇavevaṇṇatā ca paññāyittha, itthiyā ca itthiliṅgaṃ pāturahosi purisassa ca purisaliṅgaṃ. "
 msgstr "But so long as they ate that ripe untilled rice, their bodies became more solid and they diverged in appearance. And female characteristics appeared on women, while male characteristics appeared on men. "
 
-msgctxt "dn27:16.8"
+msgctxt "dn27:16.7"
 msgid "Itthī ca purisaṃ ativelaṃ upanijjhāyati puriso ca itthiṃ. "
 msgstr "Women spent too much time gazing at men, and men at women. "
 
-msgctxt "dn27:16.9"
+msgctxt "dn27:16.8"
 msgid "Tesaṃ ativelaṃ aññamaññaṃ upanijjhāyataṃ sārāgo udapādi, pariḷāho kāyasmiṃ okkami. "
 msgstr "They became lustful, and their bodies burned with fever. "
 
-msgctxt "dn27:16.10"
+msgctxt "dn27:16.9"
 msgid "Te pariḷāhapaccayā methunaṃ dhammaṃ paṭiseviṃsu. "
 msgstr "Due to this fever they had sex with each other. "
 
 # NOTE: Unless seṭṭhiṃ khipanti means “they threw millionares” I am stumped by this. Comm says “Seṭṭhinti chārikaṃ” which is equally plausible and unsupported. Mu Kd 17 has “pāṃśum api kṣipanti, loṣṭam api śarkarā api kapālāny api”, all of which are earthy: dust, mud lumps, potsherds, etc. Nevertheless, in the absence of anything better I follow comm.
 #. HTML: </p><p>
 #. REF: pts-vp-pli3.89, sc23
-msgctxt "dn27:16.11"
+msgctxt "dn27:16.10"
 msgid "Ye kho pana te, vāseṭṭha, tena samayena sattā passanti methunaṃ dhammaṃ paṭisevante, aññe paṃsuṃ khipanti, aññe seṭṭhiṃ khipanti, aññe gomayaṃ khipanti: "
 msgstr "Those who saw them having sex pelted them with dirt, ashes, or cow-dung, saying, "
 
 # NOTE: Nassa could mean “die! “or” get lost”, but I take the softer.
 #. VAR: asuci → vasalī (bj, mr) | vasali (s1-3)
 #. VAR: asucī → vasalī (bj, mr) | vasali (s1-3)
-msgctxt "dn27:16.12"
+msgctxt "dn27:16.11"
 msgid "‘nassa asuci, nassa asucī’ti. "
 msgstr "‘Get lost, filth! Get lost, filth! "
 
-msgctxt "dn27:16.13"
+msgctxt "dn27:16.12"
 msgid "‘Kathañhi nāma satto sattassa evarūpaṃ karissatī’ti. "
 msgstr "How on earth can one being do that to another?’ "
 
 # NOTE: nibbuyhamānā is unusual, and I think has a stronger meaning than “led”. It is used of being swept away by a river. I think the bride was carried out by the guests. Note that Skt here has cūrṇam api kṣipanti gandham api mālyam api vastrajālāny api kṣipanti, which sounds much more pleasant!
 #. VAR: nibbuyhamānāya → niggayhamānāya (mr)
-msgctxt "dn27:16.14"
+msgctxt "dn27:16.13"
 msgid "Tadetarahipi manussā ekaccesu janapadesu vadhuyā nibbuyhamānāya aññe paṃsuṃ khipanti, aññe seṭṭhiṃ khipanti, aññe gomayaṃ khipanti. "
 msgstr "And even today people in some countries, when a bride is carried off, pelt her with dirt, ashes, or cow-dung. "
 
-msgctxt "dn27:16.15"
+msgctxt "dn27:16.14"
 msgid "Tadeva porāṇaṃ aggaññaṃ akkharaṃ anusaranti, na tvevassa atthaṃ ājānanti. "
 msgstr "They’re just remembering an ancient traditional saying, but they don’t understand what it means. "
 
 #. HTML: </p><h2>
-msgctxt "dn27:16.16"
+msgctxt "dn27:17.0"
 msgid "8. Methunadhammasamācāra "
 msgstr "8. Sexual Intercourse "
 
@@ -882,7 +882,7 @@ msgid "lūnampi nappaṭivirūḷhaṃ, apadānaṃ paññāyittha, saṇḍasa�
 msgstr "it didn’t grow back after reaping, the cutting showed, and the rice stood in clumps. "
 
 #. HTML: </p><h2>
-msgctxt "dn27:17.24"
+msgctxt "dn27:18.0"
 msgid "9. Sālivibhāga "
 msgstr "9. Dividing the Fields "
 
@@ -1056,7 +1056,7 @@ msgid "Tadagge kho, vāseṭṭha, adinnādānaṃ paññāyati, garahā paññ�
 msgstr "From that day on stealing was found, and blaming and lying and the taking up of rods. "
 
 #. HTML: </p><h2>
-msgctxt "dn27:19.13"
+msgctxt "dn27:20.0"
 msgid "10. Mahāsammatarājā "
 msgstr "10. The Elected King "
 
@@ -1129,7 +1129,7 @@ msgid "Dhammo hi, vāseṭṭha, seṭṭho janetasmiṃ diṭṭhe ceva dhamme 
 msgstr "For principle, Vāseṭṭha, is the best thing about people in both this life and the next. "
 
 #. HTML: </p><h2>
-msgctxt "dn27:21.6"
+msgctxt "dn27:22.0"
 msgid "11. Brāhmaṇamaṇḍala "
 msgstr "11. The Circle of Brahmins "
 
@@ -1224,7 +1224,7 @@ msgid "Dhammo hi, vāseṭṭha, seṭṭho janetasmiṃ diṭṭhe ceva dhamme 
 msgstr "For principle, Vāseṭṭha, is the best thing about people in both this life and the next. "
 
 #. HTML: </p><h2>
-msgctxt "dn27:23.8"
+msgctxt "dn27:24.0"
 msgid "12. Vessamaṇḍala "
 msgstr "12. The Circle of Merchants "
 
@@ -1250,7 +1250,7 @@ msgid "Dhammo hi, vāseṭṭha, seṭṭho janetasmiṃ diṭṭhe ceva dhamme 
 msgstr "For principle, Vāseṭṭha, is the best thing about people in both this life and the next. "
 
 #. HTML: </p><h2>
-msgctxt "dn27:24.5"
+msgctxt "dn27:25.0"
 msgid "13. Suddamaṇḍala "
 msgstr "13. The Circle of Workers "
 
@@ -1311,7 +1311,7 @@ msgid "Dhammo hi, vāseṭṭha, seṭṭho janetasmiṃ diṭṭhe ceva dhamme 
 msgstr "For principle, Vāseṭṭha, is the best thing about people in both this life and the next. "
 
 #. HTML: </p><h2>
-msgctxt "dn27:26.9"
+msgctxt "dn27:27.0"
 msgid "14. Duccaritādikathā "
 msgstr "14. On Bad Conduct "
 
@@ -1382,7 +1382,7 @@ msgid "samaṇopi kho, vāseṭṭha, kāyena dvayakārī, vācāya dvayakārī,
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn27:29.6"
+msgctxt "dn27:30.0"
 msgid "15. Bodhipakkhiyabhāvanā "
 msgstr "15. The Qualities That Lead to Awakening "
 

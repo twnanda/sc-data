@@ -28,12 +28,12 @@ msgid "27. Saṃvidhānasikkhāpada"
 msgstr "The training rule on appointments"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc27:0.6"
+msgctxt "pli-tv-bu-vb-pc27:1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pc27:1.0a"
+msgctxt "pli-tv-bu-vb-pc27:1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -100,24 +100,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha."
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc27:1.14a"
+msgctxt "pli-tv-bu-vb-pc27:1.14.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc3, ms2V_591
-msgctxt "pli-tv-bu-vb-pc27:1.15"
+msgctxt "pli-tv-bu-vb-pc27:1.14"
 msgid "“Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya, antamaso gāmantarampi, pācittiyan”ti."
 msgstr "‘If a monk travels on a main road by appointment with a nun, even if just between villages, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc4, ms2V_592
-msgctxt "pli-tv-bu-vb-pc27:1.16"
+msgctxt "pli-tv-bu-vb-pc27:1.15"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc27:2.0a"
+msgctxt "pli-tv-bu-vb-pc27:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -188,23 +188,23 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "”And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc27:2.14a"
+msgctxt "pli-tv-bu-vb-pc27:2.14.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc7, ms2V_595
-msgctxt "pli-tv-bu-vb-pc27:2.15"
+msgctxt "pli-tv-bu-vb-pc27:2.14"
 msgid "“Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya, antamaso gāmantarampi, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk travels on a main road by appointment with a nun, even if just between villages, unless there is an appropriate reason, he commits an offense entailing confession."
 
 # NOTE: _Sattho_, often translated as caravan. According to [](Sp-ṭ.2.489) this refers either to a caravan of travelers walking on foot or to a caravan of carts: _satthoti jaṅghasattho sakaṭasattho vā_.
-msgctxt "pli-tv-bu-vb-pc27:2.16"
+msgctxt "pli-tv-bu-vb-pc27:2.15"
 msgid "Tatthāyaṃ samayo. Satthagamanīyo hoti maggo sāsaṅkasammato sappaṭibhayo—ayaṃ tattha samayo”ti."
 msgstr "The appropriate reason is that the road is considered dangerous and frightening and should be traveled with a group.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc27:3.1.0a"
+msgctxt "pli-tv-bu-vb-pc27:3.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -332,7 +332,7 @@ msgid "“gacchatha, bhaginiyo”ti."
 msgstr "“Go, Sisters.”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc27:3.2.0a"
+msgctxt "pli-tv-bu-vb-pc27:3.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -369,7 +369,7 @@ msgid "Asaṃvidahite asaṃvidahitasaññī, anāpatti."
 msgstr "If there is no appointment, and he perceives that there is not, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc27:3.3.0a"
+msgctxt "pli-tv-bu-vb-pc27:3.3.0"
 msgid ""
 msgstr "Non-offenses"
 

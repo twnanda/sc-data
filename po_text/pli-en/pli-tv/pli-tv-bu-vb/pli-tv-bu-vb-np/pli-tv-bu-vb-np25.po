@@ -28,7 +28,7 @@ msgid "25. Cīvaraacchindanasikkhāpada"
 msgstr "25. The training rule on taking robe-cloth back"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np25:1.0a"
+msgctxt "pli-tv-bu-vb-np25:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -153,224 +153,224 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np25:1.27a"
+msgctxt "pli-tv-bu-vb-np25:1.27.0"
 msgid ""
 msgstr "Final ruling"
 
 # NOTE: _Cīvara_ means both a finished robe and any cloth that can be used to make a robe. Thus I vary my translation depending on the context.
 #. HTML: </h2><p><span class="rule">
 #. REF: sc3, ms1V_2338
-msgctxt "pli-tv-bu-vb-np25:1.28"
+msgctxt "pli-tv-bu-vb-np25:1.27"
 msgid "“Yo pana bhikkhu bhikkhussa sāmaṃ cīvaraṃ datvā kupito anattamano acchindeyya vā acchindāpeyya vā, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk himself gives robe-cloth to a monk, but then, in anger, takes it back or gets it taken back, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np25:1.28a"
+msgctxt "pli-tv-bu-vb-np25:1.28.0"
 msgid ""
 msgstr "Definitions"
 
 #. HTML: </h2><p><span class="term"> 
 #. REF: sc4
-msgctxt "pli-tv-bu-vb-np25:1.29"
+msgctxt "pli-tv-bu-vb-np25:1.28"
 msgid "Yo panāti"
 msgstr "A:"
 
 #. HTML: </span><span class="gloss">
-msgctxt "pli-tv-bu-vb-np25:1.30"
+msgctxt "pli-tv-bu-vb-np25:1.29"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. HTML: </span><span class="term">
-msgctxt "pli-tv-bu-vb-np25:1.31"
+msgctxt "pli-tv-bu-vb-np25:1.30"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
 #. HTML: </span><span class="gloss">
-msgctxt "pli-tv-bu-vb-np25:1.32"
+msgctxt "pli-tv-bu-vb-np25:1.31"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
-msgctxt "pli-tv-bu-vb-np25:1.33"
+msgctxt "pli-tv-bu-vb-np25:1.32"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc5, ms1V_2340
-msgctxt "pli-tv-bu-vb-np25:1.34"
+msgctxt "pli-tv-bu-vb-np25:1.33"
 msgid "Bhikkhussāti"
 msgstr "To a monk:"
 
 #. HTML: </span><span class="gloss">
-msgctxt "pli-tv-bu-vb-np25:1.35"
+msgctxt "pli-tv-bu-vb-np25:1.34"
 msgid "aññassa bhikkhussa."
 msgstr "to another monk."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc6, ms1V_2341
-msgctxt "pli-tv-bu-vb-np25:1.36"
+msgctxt "pli-tv-bu-vb-np25:1.35"
 msgid "Sāmanti"
 msgstr "Himself:"
 
 #. HTML: </span><span class="gloss">
-msgctxt "pli-tv-bu-vb-np25:1.37"
+msgctxt "pli-tv-bu-vb-np25:1.36"
 msgid "sayaṃ datvā."
 msgstr "he himself has given it."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc7, ms1V_2342
-msgctxt "pli-tv-bu-vb-np25:1.38"
+msgctxt "pli-tv-bu-vb-np25:1.37"
 msgid "Cīvaraṃ nāma"
 msgstr "Robe-cloth:"
 
 # NOTE: The six are linen, cotton, silk, wool, sunn hemp, and hemp; see [](Mv.8.3.1).
 # NOTE: This means not smaller than 8 by 4 standard (_sugata_) finger-breadths, or 16 by 8 cm; see [](Kkh. 94.4) and BMC I, pp. 565-566.
 #. HTML: </span><span class="gloss">
-msgctxt "pli-tv-bu-vb-np25:1.39"
+msgctxt "pli-tv-bu-vb-np25:1.38"
 msgid "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ, vikappanupagaṃ pacchimaṃ."
 msgstr "one of the six kinds of robe-cloth, but not smaller than what can be transferred."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc8, ms1V_2343
-msgctxt "pli-tv-bu-vb-np25:1.40"
+msgctxt "pli-tv-bu-vb-np25:1.39"
 msgid "Kupito anattamanoti"
 msgstr "In anger:"
 
 #. HTML: </span><span class="gloss">
-msgctxt "pli-tv-bu-vb-np25:1.41"
+msgctxt "pli-tv-bu-vb-np25:1.40"
 msgid "anabhiraddho āhatacitto khilajāto."
 msgstr "discontent, having hatred, hostile."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc9, ms1V_2344
-msgctxt "pli-tv-bu-vb-np25:1.42"
+msgctxt "pli-tv-bu-vb-np25:1.41"
 msgid "Acchindeyyāti"
 msgstr "Takes […] back:"
 
 #. HTML: </span><span class="gloss"> 
 #. VAR: nissaggiyaṃ pācittiyaṃ → nissaggiyaṃ hoti (s1-3)
-msgctxt "pli-tv-bu-vb-np25:1.43"
+msgctxt "pli-tv-bu-vb-np25:1.42"
 msgid "sayaṃ acchindati, nissaggiyaṃ pācittiyaṃ."
 msgstr "if he takes it back himself, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc10, ms1V_2345
-msgctxt "pli-tv-bu-vb-np25:1.44"
+msgctxt "pli-tv-bu-vb-np25:1.43"
 msgid "Acchindāpeyyāti"
 msgstr "Gets […] taken back:"
 
 #. HTML: </span><span class="gloss">
-msgctxt "pli-tv-bu-vb-np25:1.45"
+msgctxt "pli-tv-bu-vb-np25:1.44"
 msgid "aññaṃ āṇāpeti, āpatti dukkaṭassa."
 msgstr "if he asks another, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np25:1.46"
+msgctxt "pli-tv-bu-vb-np25:1.45"
 msgid "Sakiṃ āṇatto bahukampi acchindati, nissaggiyaṃ hoti."
 msgstr "If he only asks once, then even if the other takes back many times, it becomes subject to relinquishment."
 
 #. HTML: </span></p><hr><p>
-msgctxt "pli-tv-bu-vb-np25:1.47"
+msgctxt "pli-tv-bu-vb-np25:1.46"
 msgid "Nissajjitabbaṃ saṃghassa vā gaṇassa vā puggalassa vā."
 msgstr "The robe-clot) should be relinquished to an Order, a group, or an individual."
 
 #. HTML: <span class="kamma">
-msgctxt "pli-tv-bu-vb-np25:1.48"
+msgctxt "pli-tv-bu-vb-np25:1.47"
 msgid "Evañca pana, bhikkhave, nissajjitabbaṃ …"
 msgstr "“And, monks, it should be relinquished in this way. …"
 
 #. HTML: <span class="pe">
-msgctxt "pli-tv-bu-vb-np25:1.49"
+msgctxt "pli-tv-bu-vb-np25:1.48"
 msgid "pe …"
 msgstr "To be expanded as in [Relinquishment 1, paragraphs 13–17](pli-tv-bu-vb-np1#13), with appropriate substitutions. "
 
 #. HTML: </span>
 #. REF: pts-vp-en2.141
-msgctxt "pli-tv-bu-vb-np25:1.50"
+msgctxt "pli-tv-bu-vb-np25:1.49"
 msgid "“idaṃ me, bhante, cīvaraṃ bhikkhussa sāmaṃ datvā acchinnaṃ nissaggiyaṃ imāhaṃ saṃghassa nissajjāmī”ti … pe …"
 msgstr "‘Venerables, this robe-cloth which I took back after giving it to a monk is to be relinquished. I relinquish it to the Order.’ …"
 
-msgctxt "pli-tv-bu-vb-np25:1.51"
+msgctxt "pli-tv-bu-vb-np25:1.50"
 msgid "dadeyyāti … pe …"
 msgstr "the Order should give …"
 
-msgctxt "pli-tv-bu-vb-np25:1.52"
+msgctxt "pli-tv-bu-vb-np25:1.51"
 msgid "dadeyyunti … pe …"
 msgstr "you should give …"
 
-msgctxt "pli-tv-bu-vb-np25:1.53"
+msgctxt "pli-tv-bu-vb-np25:1.52"
 msgid "āyasmato dammīti."
 msgstr "‘I give this robe-cloth back to you.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np25:1.53a"
+msgctxt "pli-tv-bu-vb-np25:1.53.0"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><p>
 #. REF: sc11, ms1V_2346
-msgctxt "pli-tv-bu-vb-np25:1.54"
+msgctxt "pli-tv-bu-vb-np25:1.53"
 msgid "Upasampanne upasampannasaññī cīvaraṃ datvā kupito anattamano acchindati vā acchindāpeti vā, nissaggiyaṃ pācittiyaṃ."
 msgstr "If the other monk is fully ordained and he perceives him as fully ordained, and after giving him robe-cloth, he takes it back in anger or gets it taken back, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np25:1.55"
+msgctxt "pli-tv-bu-vb-np25:1.54"
 msgid "Upasampanne vematiko cīvaraṃ datvā kupito anattamano acchindati vā acchindāpeti vā, nissaggiyaṃ pācittiyaṃ."
 msgstr "If the other monk is fully ordained, but he is unsure if he is, and after giving him robe-cloth, he takes it back in anger or gets it taken back, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np25:1.56"
+msgctxt "pli-tv-bu-vb-np25:1.55"
 msgid "Upasampanne anupasampannasaññī cīvaraṃ datvā kupito anattamano acchindati vā acchindāpeti vā, nissaggiyaṃ pācittiyaṃ."
 msgstr "If the other monk is fully ordained, but he perceives him as not fully ordained, and after giving him robe-cloth, he takes it back in anger or gets it taken back, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </p><p>
 #. REF: sc12, ms1V_2347
-msgctxt "pli-tv-bu-vb-np25:1.57"
+msgctxt "pli-tv-bu-vb-np25:1.56"
 msgid "Aññaṃ parikkhāraṃ datvā kupito anattamano acchindati vā acchindāpeti vā, āpatti dukkaṭassa."
 msgstr "If, after giving him another requisite, he takes it back in anger or gets it taken back, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np25:1.58"
+msgctxt "pli-tv-bu-vb-np25:1.57"
 msgid "Anupasampannassa cīvaraṃ vā aññaṃ vā parikkhāraṃ datvā kupito anattamano acchindati vā acchindāpeti vā, āpatti dukkaṭassa."
 msgstr "If, after giving robe-cloth or another requisite to a person who is not fully ordained, he takes it back in anger or gets it taken back, he commits an offense of wrong conduct."
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-np25:1.59"
+msgctxt "pli-tv-bu-vb-np25:1.58"
 msgid "Anupasampanne upasampannasaññī, āpatti dukkaṭassa."
 msgstr "If the other monk is not fully ordained, but he perceives him as fully ordained, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np25:1.60"
+msgctxt "pli-tv-bu-vb-np25:1.59"
 msgid "Anupasampanne vematiko, āpatti dukkaṭassa."
 msgstr "If the other monk is not fully ordained, but he is unsure if he is, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np25:1.61"
+msgctxt "pli-tv-bu-vb-np25:1.60"
 msgid "Anupasampanne anupasampannasaññī, āpatti dukkaṭassa."
 msgstr "If the other monk is not fully ordained, and he perceives him as not fully ordained, he commits an offense of wrong conduct."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np25:1.61a"
+msgctxt "pli-tv-bu-vb-np25:1.61.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc13, ms1V_2348
-msgctxt "pli-tv-bu-vb-np25:1.62"
+msgctxt "pli-tv-bu-vb-np25:1.61"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
-msgctxt "pli-tv-bu-vb-np25:1.63"
+msgctxt "pli-tv-bu-vb-np25:1.62"
 msgid "so vā deti,"
 msgstr "if the other monk gives it back;"
 
-msgctxt "pli-tv-bu-vb-np25:1.64"
+msgctxt "pli-tv-bu-vb-np25:1.63"
 msgid "tassa vā vissasanto gaṇhāti,"
 msgstr "if he takes it on trust from him;"
 
-msgctxt "pli-tv-bu-vb-np25:1.65"
+msgctxt "pli-tv-bu-vb-np25:1.64"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-np25:1.66"
+msgctxt "pli-tv-bu-vb-np25:1.65"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><hr><p class="endsutta">
 #. REF: sc14, ms1V_2349
-msgctxt "pli-tv-bu-vb-np25:1.67"
+msgctxt "pli-tv-bu-vb-np25:1.66"
 msgid "Cīvaraacchindanasikkhāpadaṃ niṭṭhitaṃ pañcamaṃ."
 msgstr "The fifth rule, the training rule on taking robe-cloth back, is finished."

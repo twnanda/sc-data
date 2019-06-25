@@ -28,12 +28,12 @@ msgid "21. Ovādasikkhāpada"
 msgstr "The training rule on the instruction"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc21:0.6"
+msgctxt "pli-tv-bu-vb-pc21:1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pc21:1.0a"
+msgctxt "pli-tv-bu-vb-pc21:1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -250,24 +250,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "the Master said, “And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc21:1.47a"
+msgctxt "pli-tv-bu-vb-pc21:1.47.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc9, ms2V_492
-msgctxt "pli-tv-bu-vb-pc21:1.48"
+msgctxt "pli-tv-bu-vb-pc21:1.47"
 msgid "“Yo pana bhikkhu asammato bhikkhuniyo ovadeyya pācittiyan”ti."
 msgstr "‘If a monk who has not been agreed upon instructs the nuns, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc10, pts-vp-en.2.265, ms2V_493
-msgctxt "pli-tv-bu-vb-pc21:1.49"
+msgctxt "pli-tv-bu-vb-pc21:1.48"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc21:2.0a"
+msgctxt "pli-tv-bu-vb-pc21:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -447,7 +447,7 @@ msgid "anujānāmi, bhikkhave, imehi aṭṭhahaṅgehi samannāgataṃ bhikkhu�
 msgstr "Monks, you should appoint a monk who possesses these eight qualities as an instructor of the nuns.”"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc21:3.1.0a"
+msgctxt "pli-tv-bu-vb-pc21:3.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -643,7 +643,7 @@ msgid "Ovādaṃ aniyyādetvā aññaṃ dhammaṃ bhaṇati, āpatti dukkaṭas
 msgstr "If he does not present the instruction, but he gives them another teaching, then he commits an offense of wrong conduct."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc21:3.2.0a"
+msgctxt "pli-tv-bu-vb-pc21:3.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -816,7 +816,7 @@ msgid "Dhammakamme dhammakammasaññī samaggaṃ bhikkhunisaṃghaṃ samaggasa
 msgstr "If it is a legitimate procedure and he perceives it as legitimate, and the Order of nuns is complete and he perceives it as complete, then if he instructs those nuns, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc21:3.3.0a"
+msgctxt "pli-tv-bu-vb-pc21:3.3.0"
 msgid ""
 msgstr "Non-offenses"
 

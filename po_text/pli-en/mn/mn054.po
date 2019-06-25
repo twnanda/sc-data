@@ -511,7 +511,7 @@ msgid "Bhagavā etadavoca: "
 msgstr "The Buddha said this: "
 
 #. HTML: </p><h2>
-msgctxt "mn54:14.8"
+msgctxt "mn54:15.0"
 msgid "1. Kāmādīnavakathā "
 msgstr "1. The Dangers of Sensual Pleasures "
 

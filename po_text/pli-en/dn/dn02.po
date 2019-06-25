@@ -13,7 +13,7 @@ msgid "Sāmaññaphalasutta "
 msgstr "The Fruits of the Ascetic Life "
 
 #. HTML: </h1></div><h2>
-msgctxt "dn2:0.3"
+msgctxt "dn2:1.0"
 msgid "1. Rājāmaccakathā "
 msgstr "1. A Discussion With the King’s Ministers "
 
@@ -184,7 +184,7 @@ msgid "Evaṃ vutte, rājā māgadho ajātasattu vedehiputto tuṇhī ahosi. "
 msgstr "But when he had spoken, the king remained silent. "
 
 #. HTML: </p><h2>
-msgctxt "dn2:7.6"
+msgctxt "dn2:8.0"
 msgid "2. Komārabhaccajīvakakathā "
 msgstr "2. A Discussion With Jīvaka Komārabhacca "
 
@@ -300,7 +300,7 @@ msgid "Abhikkama, mahārāja, abhikkama, mahārāja, ete maṇḍalamāḷe dīp
 msgstr "Go forward, great king, go forward! Those are lamps shining in the pavilion.” "
 
 #. HTML: </p><h2>
-msgctxt "dn2:10.13"
+msgctxt "dn2:11.0"
 msgid "3. Sāmaññaphalapucchā "
 msgstr "3. The Question About the Fruits of the Ascetic Life "
 
@@ -431,7 +431,7 @@ msgid "“Tena hi, mahārāja, bhāsassū”ti. "
 msgstr "“Well, speak then, great king.” "
 
 #. HTML: </p><h3>
-msgctxt "dn2:15.6"
+msgctxt "dn2:16.0"
 msgid "3.1. Pūraṇakassapavāda "
 msgstr "3.1. The Doctrine of Pūraṇa Kassapa "
 
@@ -517,7 +517,7 @@ msgid "Anabhinanditvā appaṭikkositvā anattamano, anattamanavācaṃ anicchā
 msgstr "I was displeased, but did not express my displeasure. Neither accepting what he said nor contradicting it, I got up from my seat and left. "
 
 #. HTML: </p><h3>
-msgctxt "dn2:18.8"
+msgctxt "dn2:19.0"
 msgid "3.2. Makkhaligosālavāda "
 msgstr "3.2. The Doctrine of Makkhali Gosāla "
 
@@ -621,7 +621,7 @@ msgid "Anabhinanditvā appaṭikkositvā anattamano, anattamanavācaṃ anicchā
 msgstr "I was displeased, but did not express my displeasure. Neither accepting what he said nor contradicting it, I got up from my seat and left. "
 
 #. HTML: </p><h3>
-msgctxt "dn2:21.8"
+msgctxt "dn2:22.0"
 msgid "3.3. Ajitakesakambalavāda "
 msgstr "3.3. The Doctrine of Ajita Kesakambala "
 
@@ -714,7 +714,7 @@ msgid "Anabhinanditvā appaṭikkositvā anattamano anattamanavācaṃ anicchār
 msgstr "I was displeased, but did not express my displeasure. Neither accepting what he said nor contradicting it, I got up from my seat and left. "
 
 #. HTML: </p><h3>
-msgctxt "dn2:24.8"
+msgctxt "dn2:25.0"
 msgid "3.4. Pakudhakaccāyanavāda "
 msgstr "3.4. The Doctrine of Pakudha Kaccāyana "
 
@@ -812,7 +812,7 @@ msgid "anabhinanditvā appaṭikkositvā anattamano, anattamanavācaṃ anicchā
 msgstr "I was displeased, but did not express my displeasure. Neither accepting what he said nor contradicting it, I got up from my seat and left. "
 
 #. HTML: </p><h3>
-msgctxt "dn2:27.8"
+msgctxt "dn2:28.0"
 msgid "3.5. Nigaṇṭhanāṭaputtavāda "
 msgstr "3.5. The Doctrine of Nigaṇṭha Nātaputta "
 
@@ -896,7 +896,7 @@ msgid "Anabhinanditvā appaṭikkositvā anattamano anattamanavācaṃ anicchār
 msgstr "I was displeased, but did not express my displeasure. Neither accepting what he said nor contradicting it, I got up from my seat and left. "
 
 #. HTML: </p><h3>
-msgctxt "dn2:30.8"
+msgctxt "dn2:31.0"
 msgid "3.6. Sañcayabelaṭṭhaputtavāda "
 msgstr "3.6. The Doctrine of Sañjaya Belaṭṭhiputta "
 
@@ -1039,12 +1039,12 @@ msgid "Anabhinanditvā appaṭikkositvā anattamano anattamanavācaṃ anicchār
 msgstr "I was displeased, but did not express my displeasure. Neither accepting what he said nor contradicting it, I got up from my seat and left. "
 
 #. HTML: </p><h2>
-msgctxt "dn2:33.11"
+msgctxt "dn2:34.0.1"
 msgid "4. Sāmaññaphala "
 msgstr "4. The Fruits of the Ascetic Life "
 
 #. HTML: </h2><h3>
-msgctxt "dn2:33.12"
+msgctxt "dn2:34.0.2"
 msgid "4.1. Paṭhamasandiṭṭhikasāmaññaphala "
 msgstr "4.1. The First Fruit of the Ascetic Life "
 
@@ -1189,7 +1189,7 @@ msgid "“Idaṃ kho te, mahārāja, mayā paṭhamaṃ diṭṭheva dhamme sand
 msgstr "“This is the first fruit of the ascetic life that’s apparent in the present life, which I point out to you.” "
 
 #. HTML: </p><h3>
-msgctxt "dn2:36.7"
+msgctxt "dn2:37.0"
 msgid "4.2. Dutiyasandiṭṭhikasāmaññaphala "
 msgstr "4.2. The Second Fruit of the Ascetic Life "
 
@@ -1311,7 +1311,7 @@ msgid "“Idaṃ kho te, mahārāja, mayā dutiyaṃ diṭṭheva dhamme sandi�
 msgstr "“This is the second fruit of the ascetic life that’s apparent in the present life, which I point out to you.” "
 
 #. HTML: </p><h3>
-msgctxt "dn2:38.7"
+msgctxt "dn2:39.0"
 msgid "4.3. Paṇītatarasāmaññaphala "
 msgstr "4.3. The Finer Fruits of the Ascetic Life "
 
@@ -1394,12 +1394,12 @@ msgid "So evaṃ pabbajito samāno pātimokkhasaṃvarasaṃvuto viharati ācār
 msgstr "Once they’ve gone forth, they live restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. They act skillfully by body and speech. They’re purified in livelihood and accomplished in ethical conduct. They guard the sense doors, have mindfulness and situational awareness, and are content. "
 
 #. HTML: </p><h4>
-msgctxt "dn2:42.2"
+msgctxt "dn2:43.0.1"
 msgid "4.3.1. Sīla "
 msgstr "4.3.1. Ethics "
 
 #. HTML: </h4><h5>
-msgctxt "dn2:42.3"
+msgctxt "dn2:43.0.2"
 msgid "4.3.1.1. Cūḷasīla "
 msgstr "4.3.1.1. The Shorter Section on Ethics "
 
@@ -1570,7 +1570,7 @@ msgid "Cūḷasīlaṃ niṭṭhitaṃ. "
 msgstr "The shorter section on ethics is finished. "
 
 #. HTML: </p><h5>
-msgctxt "dn2:45.22"
+msgctxt "dn2:46.0"
 msgid "4.3.1.2. Majjhimasīla "
 msgstr "4.3.1.2. The Middle Section on Ethics "
 
@@ -1750,7 +1750,7 @@ msgid "Majjhimasīlaṃ niṭṭhitaṃ. "
 msgstr "The middle section on ethics is finished. "
 
 #. HTML: </p><h5>
-msgctxt "dn2:55.4"
+msgctxt "dn2:56.0"
 msgid "4.3.1.3. Mahāsīla "
 msgstr "4.3.1.3. The Long Section on Ethics "
 
@@ -1908,12 +1908,12 @@ msgid "Mahāsīlaṃ niṭṭhitaṃ. "
 msgstr "The longer section on ethics is finished. "
 
 #. HTML: </p><h4>
-msgctxt "dn2:63.7"
+msgctxt "dn2:64.0.1"
 msgid "4.3.2. Samādhi "
 msgstr "4.3.2. Immersion "
 
 #. HTML: </h4><h5>
-msgctxt "dn2:63.8"
+msgctxt "dn2:64.0.2"
 msgid "4.3.2.1. Indriyasaṃvara "
 msgstr "4.3.2.1. Sense Restraint "
 
@@ -1964,7 +1964,7 @@ msgid "Evaṃ kho, mahārāja, bhikkhu indriyesu guttadvāro hoti. "
 msgstr "That’s how a mendicant guards the sense doors. "
 
 #. HTML: </p><h5>
-msgctxt "dn2:64.12"
+msgctxt "dn2:65.0"
 msgid "4.3.2.2. Satisampajañña "
 msgstr "4.3.2.2. Mindfulness and Situational Awareness "
 
@@ -1983,7 +1983,7 @@ msgid "Evaṃ kho, mahārāja, bhikkhu satisampajaññena samannāgato hoti. "
 msgstr "That’s how a mendicant has mindfulness and situational awareness. "
 
 #. HTML: </p><h5>
-msgctxt "dn2:65.4"
+msgctxt "dn2:66.0"
 msgid "4.3.2.3. Santosa "
 msgstr "4.3.2.3. Contentment "
 
@@ -2010,7 +2010,7 @@ msgid "Evaṃ kho, mahārāja, bhikkhu santuṭṭho hoti. "
 msgstr "That’s how a mendicant is content. "
 
 #. HTML: </p><h5>
-msgctxt "dn2:66.6"
+msgctxt "dn2:67.0"
 msgid "4.3.2.4. Nīvara­ṇap­pahāna "
 msgstr "4.3.2.4. Giving Up the Hindrances "
 
@@ -2222,17 +2222,17 @@ msgid "Tassime pañca nīvaraṇe pahīne attani samanupassato pāmojjaṃ jāya
 msgstr "Seeing that the hindrances have been given up in them, joy springs up. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when blissful, the mind becomes immersed. "
 
 #. HTML: </p><h5>
-msgctxt "dn2:75.2"
+msgctxt "dn2:75.2.0"
 msgid "4.3.2.5. Paṭhamajhāna "
 msgstr "4.3.2.5. First Absorption "
 
 #. HTML: </h5><p>
 #. REF: sc89
-msgctxt "dn2:75.3"
+msgctxt "dn2:75.2"
 msgid "So vivicceva kāmehi, vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati. "
 msgstr "Quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected. "
 
-msgctxt "dn2:75.4"
+msgctxt "dn2:75.3"
 msgid "So imameva kāyaṃ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṃ hoti. "
 msgstr "They drench, steep, fill, and spread their body with rapture and bliss born of seclusion. There’s no part of the body that’s not spread with rapture and bliss born of seclusion. "
 
@@ -2251,7 +2251,7 @@ msgid "Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sa
 msgstr "This, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. "
 
 #. HTML: </p><h5>
-msgctxt "dn2:76.4"
+msgctxt "dn2:77.0"
 msgid "4.3.2.6. Dutiyajhāna "
 msgstr "4.3.2.6. Second Absorption "
 
@@ -2286,7 +2286,7 @@ msgid "Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sa
 msgstr "This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. "
 
 #. HTML: </p><h5>
-msgctxt "dn2:78.5"
+msgctxt "dn2:79.0"
 msgid "4.3.2.7. Tatiyajhāna "
 msgstr "4.3.2.7. Third Absorption "
 
@@ -2318,7 +2318,7 @@ msgid "Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sa
 msgstr "This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. "
 
 #. HTML: </p><h5>
-msgctxt "dn2:80.4"
+msgctxt "dn2:81.0"
 msgid "4.3.2.8. Catutthajhāna "
 msgstr "4.3.2.8. Fourth Absorption "
 
@@ -2343,12 +2343,12 @@ msgid "Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sa
 msgstr "This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. "
 
 #. HTML: </p><h4>
-msgctxt "dn2:82.4"
+msgctxt "dn2:83.0.1"
 msgid "4.3.3. Aṭṭhañāṇa "
 msgstr "4.3.3. The Eight Knowledges "
 
 #. HTML: </h4><h5>
-msgctxt "dn2:82.5"
+msgctxt "dn2:83.0.2"
 msgid "4.3.3.1. Vipassanāñāṇa "
 msgstr "4.3.3.1. Knowledge and Vision "
 
@@ -2416,7 +2416,7 @@ msgid "Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sa
 msgstr "This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. "
 
 #. HTML: </p><h5>
-msgctxt "dn2:84.11"
+msgctxt "dn2:85.0"
 msgid "4.3.3.2. ­Manoma­yiddhi­ñāṇa "
 msgstr "4.3.3.2. Mind-Made Body "
 
@@ -2487,7 +2487,7 @@ msgid "Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sa
 msgstr "This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. "
 
 #. HTML: </p><h5>
-msgctxt "dn2:86.13"
+msgctxt "dn2:87.0"
 msgid "4.3.3.3. Iddhividhañāṇa "
 msgstr "4.3.3.3. Psychic Powers "
 
@@ -2530,7 +2530,7 @@ msgid "Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sa
 msgstr "This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. "
 
 #. HTML: </p><h5>
-msgctxt "dn2:88.7"
+msgctxt "dn2:89.0"
 msgid "4.3.3.4. Dibbasotañāṇa "
 msgstr "4.3.3.4. Clairaudience "
 
@@ -2565,7 +2565,7 @@ msgid "Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sa
 msgstr "This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. "
 
 #. HTML: </p><h5>
-msgctxt "dn2:90.5"
+msgctxt "dn2:91.0"
 msgid "4.3.3.5. Cetopariyañāṇa "
 msgstr "4.3.3.5. Comprehending the Minds of Others "
 
@@ -2598,7 +2598,7 @@ msgid "Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sa
 msgstr "This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. "
 
 #. HTML: </p><h5>
-msgctxt "dn2:92.5"
+msgctxt "dn2:93.0"
 msgid "4.3.3.6. Pubbe­nivāsā­nus­sati­ñāṇa "
 msgstr "4.3.3.6. Recollection of Past Lives "
 
@@ -2633,7 +2633,7 @@ msgid "Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sa
 msgstr "This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. "
 
 #. HTML: </p><h5>
-msgctxt "dn2:94.5"
+msgctxt "dn2:95.0"
 msgid "4.3.3.7. Dibba­cak­khu­ñāṇa "
 msgstr "4.3.3.7. Clairvoyance "
 
@@ -2668,7 +2668,7 @@ msgid "Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sa
 msgstr "This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. "
 
 #. HTML: </p><h5>
-msgctxt "dn2:96.5"
+msgctxt "dn2:97.0"
 msgid "4.3.3.8. Āsa­vak­kha­ya­ñāṇa "
 msgstr "4.3.3.8. Ending of Defilements "
 
@@ -2738,7 +2738,7 @@ msgid "Imasmā ca pana, mahārāja, sandiṭṭhikā sāmaññaphalā aññaṃ 
 msgstr "And, great king, there is no other fruit of the ascetic life apparent in the present life which is better and finer than this.” "
 
 #. HTML: </p><h2>
-msgctxt "dn2:98.10"
+msgctxt "dn2:99.0"
 msgid "5. Ajātasattuupāsakattapaṭivedanā "
 msgstr "5. Ajātasattu Declares Himself a Lay Follower "
 

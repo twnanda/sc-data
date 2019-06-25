@@ -28,7 +28,7 @@ msgid "8. Upakkhaṭasikkhāpada"
 msgstr "8. The training rule on what is set aside"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np8:1.0a"
+msgctxt "pli-tv-bu-vb-np8:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -188,36 +188,36 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np8:1.34a"
+msgctxt "pli-tv-bu-vb-np8:1.34.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. VAR: cīvaracetāpannaṃ → cīvara­ce­tāpanaṃ (s1-3, pts1)
 #. REF: sc5, ms1V_2019
-msgctxt "pli-tv-bu-vb-np8:1.35"
+msgctxt "pli-tv-bu-vb-np8:1.34"
 msgid "“Bhikkhuṃ paneva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti—"
 msgstr "‘If a layman or laywoman has set aside a robe fund for an unrelated monk, thinking,"
 
-msgctxt "pli-tv-bu-vb-np8:1.36"
+msgctxt "pli-tv-bu-vb-np8:1.35"
 msgid "‘iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuṃ cīvarena acchādessāmī’ti;"
 msgstr "‘With this robe fund I will buy a robe and give it to monk so-and-so;’"
 
 #. REF: pts-vp-en2.55
-msgctxt "pli-tv-bu-vb-np8:1.37"
+msgctxt "pli-tv-bu-vb-np8:1.36"
 msgid "tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya—"
 msgstr "and if that monk, without first being invited, approaches them and specifies the kind of robe he wants, saying,"
 
-msgctxt "pli-tv-bu-vb-np8:1.38"
+msgctxt "pli-tv-bu-vb-np8:1.37"
 msgid "‘sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī’ti,"
 msgstr "‘It would be good if you would use this robe fund to buy such-and-such a robe and then give it to me,’"
 
-msgctxt "pli-tv-bu-vb-np8:1.39"
+msgctxt "pli-tv-bu-vb-np8:1.38"
 msgid "kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyan”ti."
 msgstr "and he does so because he wants something nice, he commits and offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np8:2.1.0a"
+msgctxt "pli-tv-bu-vb-np8:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -464,7 +464,7 @@ msgid "āyasmato dammīti."
 msgstr "‘I give this robe back to you.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np8:2.2.0a"
+msgctxt "pli-tv-bu-vb-np8:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -498,7 +498,7 @@ msgid "Ñātake ñātakasaññī, anāpatti."
 msgstr "If the lay person is related and the monk perceives them as related, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np8:2.3.0a"
+msgctxt "pli-tv-bu-vb-np8:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

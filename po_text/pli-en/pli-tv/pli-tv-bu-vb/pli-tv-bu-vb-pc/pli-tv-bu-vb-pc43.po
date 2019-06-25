@@ -28,7 +28,7 @@ msgid "43. Sabhojanasikkhāpada"
 msgstr "The training rule on lustful"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc43:1.0a"
+msgctxt "pli-tv-bu-vb-pc43:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -154,18 +154,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc43:1.27a"
+msgctxt "pli-tv-bu-vb-pc43:1.27.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule">
 #. REF: sc4, ms2V_897
-msgctxt "pli-tv-bu-vb-pc43:1.28"
+msgctxt "pli-tv-bu-vb-pc43:1.27"
 msgid "“Yo pana bhikkhu sabhojane kule anupakhajja nisajjaṃ kappeyya, pācittiyan”ti."
 msgstr "‘If a monk sits down intruding on a lustful couple, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc43:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc43:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -233,7 +233,7 @@ msgid "Khuddake ghare piṭṭhivaṃsaṃ atikkamitvā nisīdati, āpatti pāci
 msgstr "In a small house, if he sits down after going beyond the ridge beam, he commits an offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc43:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc43:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -266,7 +266,7 @@ msgid "Nasayanighare nasayanigharasaññī, anāpatti."
 msgstr "If it is not a bedroom, and he does not perceives it as a bedroom, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc43:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc43:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

@@ -68,7 +68,7 @@ msgid "Kevalā esā, bhikkhave, sappurisabhūmi yadidaṃ kataññutā katavedit
 msgstr "It is totally the level of a good person to be grateful and thankful.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.33" id="33"><article><div class="hgroup"><h1>
-msgctxt "an2.32-41:32.2.8"
+msgctxt "an2.32-41:0.1"
 msgid "33 "
 msgstr "33 "
 
@@ -118,7 +118,7 @@ msgid "Yo ca kho, bhikkhave, mātāpitaro assaddhe saddhāsampadāya samādapeti
 msgstr "But you have done enough, more than enough, to repay them if you encourage, settle, and ground unfaithful parents in faith, unethical parents in ethical conduct, stingy parents in generosity, or ignorant parents in wisdom.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.34" id="34"><article><div class="hgroup"><h1>
-msgctxt "an2.32-41:33.1.10"
+msgctxt "an2.32-41:0.1"
 msgid "34 "
 msgstr "34 "
 
@@ -163,7 +163,7 @@ msgid "“Abhikkantaṃ, bho gotama … pe … upāsakaṃ maṃ bhavaṃ gotamo
 msgstr "“Excellent, Master Gotama! … From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.35" id="35"><article><div class="hgroup"><h1>
-msgctxt "an2.32-41:34.3.2"
+msgctxt "an2.32-41:0.1"
 msgid "35 "
 msgstr "35 "
 
@@ -234,7 +234,7 @@ msgid "Ettha dinnaṃ mahapphalan”ti. "
 msgstr "what’s given here is very fruitful.” "
 
 #. HTML: </p></blockquote></article></section><section class="sutta" data-uid="an2.36" id="36"><article><div class="hgroup"><h1>
-msgctxt "an2.32-41:35.3.7"
+msgctxt "an2.32-41:0.1"
 msgid "36 "
 msgstr "36 "
 
@@ -484,7 +484,7 @@ msgid "Anassuṃ kho, sāriputta, aññatitthiyā paribbājakā ye imaṃ dhamma
 msgstr "Those wanderers who follow other paths, Sāriputta, who have not heard this exposition of the teaching are lost.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.37" id="37"><article><div class="hgroup"><h1>
-msgctxt "an2.32-41:36.6.17"
+msgctxt "an2.32-41:0.1"
 msgid "37 "
 msgstr "37 "
 
@@ -611,7 +611,7 @@ msgid "Upāsakaṃ maṃ bhavaṃ kaccāno dhāretu ajjatagge pāṇupetaṃ sar
 msgstr "From this day forth, may Master Kaccāna remember me as a lay follower who has gone for refuge for life.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.38" id="38"><article><div class="hgroup"><h1>
-msgctxt "an2.32-41:37.10.5"
+msgctxt "an2.32-41:0.1"
 msgid "38 "
 msgstr "38 "
 
@@ -694,7 +694,7 @@ msgid "“Abhikkantaṃ, bho kaccāna … pe … upāsakaṃ maṃ bhavaṃ kacc
 msgstr "Excellent, Master Kaccāna! … From this day forth, may Master Kaccāna remember me as a lay follower who has gone for refuge for life.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.39" id="39"><article><div class="hgroup"><h1>
-msgctxt "an2.32-41:38.4.2"
+msgctxt "an2.32-41:0.1"
 msgid "39 "
 msgstr "39 "
 
@@ -754,7 +754,7 @@ msgid "Tayidaṃ, bhikkhave, hoti bahujanahitāya bahujanasukhāya, bahuno janas
 msgstr "This is for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.40" id="40"><article><div class="hgroup"><h1>
-msgctxt "an2.32-41:39.2.7"
+msgctxt "an2.32-41:0.1"
 msgid "40 "
 msgstr "40 "
 
@@ -779,7 +779,7 @@ msgid "Gihī vā, bhikkhave, pabbajito vā sammāpaṭipanno sammāpaṭipattād
 msgstr "Because of right practice, both laypeople and renunciates succeed in completing the procedure of the skillful teaching.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.41" id="41"><article><div class="hgroup"><h1>
-msgctxt "an2.32-41:40.2.3"
+msgctxt "an2.32-41:0.1"
 msgid "41 "
 msgstr "41 "
 

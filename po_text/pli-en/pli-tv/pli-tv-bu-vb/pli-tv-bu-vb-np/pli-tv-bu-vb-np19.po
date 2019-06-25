@@ -28,7 +28,7 @@ msgid "19. Rūpiyasaṃvohārasikkhāpada"
 msgstr "19. The training rule on trading with money"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np19:1.0a"
+msgctxt "pli-tv-bu-vb-np19:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -101,18 +101,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np19:1.15a"
+msgctxt "pli-tv-bu-vb-np19:1.15.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc4, ms1V_2225
-msgctxt "pli-tv-bu-vb-np19:1.16"
+msgctxt "pli-tv-bu-vb-np19:1.15"
 msgid "“Yo pana bhikkhu nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk trades with money in various ways, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np19:2.0a"
+msgctxt "pli-tv-bu-vb-np19:2.0"
 msgid ""
 msgstr "Definitions"
 
@@ -407,74 +407,74 @@ msgid "Sace nimittaṃ katvā pāteti, āpatti dukkaṭassa."
 msgstr "If he takes note of where he drops it, he commits an offense of wrong conduct."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np19:2.63a"
+msgctxt "pli-tv-bu-vb-np19:2.63.0"
 msgid ""
 msgstr "Permutations"
 
 # NOTE: The commentarial explanation makes it clear that what is meant here is that one exchanges money into money. The same is true for the next two cases. See [](Sp.3.696.30): “For one who is exchanging a relinquishable object with a relinquishable object, in accordance with the cases spoken of in the previous training rule,” _purimasikkhāpade vuttavatthūsu nissaggiyavatthunā nissaggiyavatthuṃ cetāpentassa_.
 #. HTML: </h2><p>
 #. REF: sc13, ms1V_2234
-msgctxt "pli-tv-bu-vb-np19:2.64"
+msgctxt "pli-tv-bu-vb-np19:2.63"
 msgid "Rūpiye rūpiyasaññī rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is money, and he perceives it as money, and he exchanges it into money, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np19:2.65"
+msgctxt "pli-tv-bu-vb-np19:2.64"
 msgid "Rūpiye vematiko rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is money, but he is unsure if it is, and he exchanges it into money, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np19:2.66"
+msgctxt "pli-tv-bu-vb-np19:2.65"
 msgid "Rūpiye arūpiyasaññī rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is money, but he does not perceive it as money, and he exchanges it into money, he commits an offense entailing relinquishment and confession."
 
 # NOTE: The commentarial explanation makes it clear that what is meant here is that one exchanges what is not money into money, that is, one is selling something and therefore ending up with money. The same is true for the next two cases. See [](Sp.3.697.7): “One exchanges one’s own non-money for someone else’s money,” _attano vā hi arūpiyena parassa rūpiyaṃ cetāpeyya_.
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-np19:2.67"
+msgctxt "pli-tv-bu-vb-np19:2.66"
 msgid "Arūpiye rūpiyasaññī rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is not money, but he perceives it as money, and he exchanges it into money, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np19:2.68"
+msgctxt "pli-tv-bu-vb-np19:2.67"
 msgid "Arūpiye vematiko rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is not money, but he is unsure if it is, and he exchanges it into money, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np19:2.69"
+msgctxt "pli-tv-bu-vb-np19:2.68"
 msgid "Arūpiye arūpiyasaññī rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is not money, and he does not perceive it as money, but he exchanges it into money, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </p><p>
 #. REF: sc14, ms1V_2235
-msgctxt "pli-tv-bu-vb-np19:2.70"
+msgctxt "pli-tv-bu-vb-np19:2.69"
 msgid "Arūpiye rūpiyasaññī, āpatti dukkaṭassa."
 msgstr "If it is not money, but he perceives it as money, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np19:2.71"
+msgctxt "pli-tv-bu-vb-np19:2.70"
 msgid "Arūpiye vematiko, āpatti dukkaṭassa."
 msgstr "If it is not money, but he is unsure of it, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np19:2.72"
+msgctxt "pli-tv-bu-vb-np19:2.71"
 msgid "Arūpiye arūpiyasaññī, anāpatti."
 msgstr "If it is not money, and he does not perceive it as money, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np19:2.72a"
+msgctxt "pli-tv-bu-vb-np19:2.72.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc15, ms1V_2236
-msgctxt "pli-tv-bu-vb-np19:2.73"
+msgctxt "pli-tv-bu-vb-np19:2.72"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
-msgctxt "pli-tv-bu-vb-np19:2.74"
+msgctxt "pli-tv-bu-vb-np19:2.73"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-np19:2.75"
+msgctxt "pli-tv-bu-vb-np19:2.74"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><hr><p class="endsutta">
 #. REF: sc16, ms1V_2237
-msgctxt "pli-tv-bu-vb-np19:2.76"
+msgctxt "pli-tv-bu-vb-np19:2.75"
 msgid "Rūpiyasaṃvohārasikkhāpadaṃ niṭṭhitaṃ navamaṃ."
 msgstr "The ninth rule, the training rule on trading with money, is finished."

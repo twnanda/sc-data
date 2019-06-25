@@ -40,7 +40,7 @@ msgid "Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ dānānaṃ yadidaṃ dhammad�
 msgstr "The better of these two gifts is the gift of the teaching.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.142" id="142"><article><div class="hgroup"><h1>
-msgctxt "an2.141-150:141.1.6"
+msgctxt "an2.141-150:0.1"
 msgid "142 "
 msgstr "142 "
 
@@ -67,7 +67,7 @@ msgid "Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ yāgānaṃ yadidaṃ dhammay�
 msgstr "The better of these two offerings is an offering of the teaching.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.143" id="143"><article><div class="hgroup"><h1>
-msgctxt "an2.141-150:142.1.6"
+msgctxt "an2.141-150:0.1"
 msgid "143 "
 msgstr "143 "
 
@@ -94,7 +94,7 @@ msgid "Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ cāgānaṃ yadidaṃ dhammac�
 msgstr "The better of these two acts of generosity is generosity with the teaching.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.144" id="144"><article><div class="hgroup"><h1>
-msgctxt "an2.141-150:143.1.6"
+msgctxt "an2.141-150:0.1"
 msgid "144 "
 msgstr "144 "
 
@@ -121,7 +121,7 @@ msgid "Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ pariccāgānaṃ yadidaṃ dha
 msgstr "The better of these two kinds of charity is a charity in the teaching.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.145" id="145"><article><div class="hgroup"><h1>
-msgctxt "an2.141-150:144.1.6"
+msgctxt "an2.141-150:0.1"
 msgid "145 "
 msgstr "145 "
 
@@ -148,7 +148,7 @@ msgid "Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ bhogānaṃ yadidaṃ dhammabh
 msgstr "The better of these two riches is riches in the teaching.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.146" id="146"><article><div class="hgroup"><h1>
-msgctxt "an2.141-150:145.1.6"
+msgctxt "an2.141-150:0.1"
 msgid "146 "
 msgstr "146 "
 
@@ -175,7 +175,7 @@ msgid "Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sambhogānaṃ yadidaṃ dhamm
 msgstr "The better of these two kinds of enjoyment is the enjoyment of the teaching.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.147" id="147"><article><div class="hgroup"><h1>
-msgctxt "an2.141-150:146.1.6"
+msgctxt "an2.141-150:0.1"
 msgid "147 "
 msgstr "147 "
 
@@ -202,7 +202,7 @@ msgid "Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ saṃvibhāgānaṃ yadidaṃ 
 msgstr "The better of these two kinds of sharing is sharing the teaching.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.148" id="148"><article><div class="hgroup"><h1>
-msgctxt "an2.141-150:147.1.6"
+msgctxt "an2.141-150:0.1"
 msgid "148 "
 msgstr "148 "
 
@@ -229,7 +229,7 @@ msgid "Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ saṅgahānaṃ yadidaṃ dham
 msgstr "The better of these two kinds of inclusion is inclusion in the teaching.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.149" id="149"><article><div class="hgroup"><h1>
-msgctxt "an2.141-150:148.1.6"
+msgctxt "an2.141-150:0.1"
 msgid "149 "
 msgstr "149 "
 
@@ -256,7 +256,7 @@ msgid "Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ anuggahānaṃ yadidaṃ dhamm
 msgstr "The better of these two kinds of support is support in the teaching.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.150" id="150"><article><div class="hgroup"><h1>
-msgctxt "an2.141-150:149.1.6"
+msgctxt "an2.141-150:0.1"
 msgid "150 "
 msgstr "150 "
 

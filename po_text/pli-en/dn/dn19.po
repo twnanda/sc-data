@@ -38,7 +38,7 @@ msgid "“Ārocehi me tvaṃ, pañcasikhā”ti bhagavā avoca. "
 msgstr "“Tell me, Pañcasikha,” said the Buddha. "
 
 #. HTML: </p><h2>
-msgctxt "dn19:1.6"
+msgctxt "dn19:2.0"
 msgid "1. Devasabhā "
 msgstr "1. The Council of the Gods "
 
@@ -193,7 +193,7 @@ msgid "‘dibbā vata bho, kāyā paripūrenti, hāyanti asurakāyā’ti. "
 msgstr "‘The heavenly hosts swell, while the demon hosts dwindle!’ "
 
 #. HTML: </p><h2>
-msgctxt "dn19:3.23"
+msgctxt "dn19:4.0"
 msgid "2. Aṭṭhayathābhuccavaṇṇa "
 msgstr "2. Eight Genuine Praises "
 
@@ -460,7 +460,7 @@ msgid "obhāso vipulo mahā’ti. "
 msgstr "a light vast and great. "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn19:15.9"
+msgctxt "dn19:16.0"
 msgid "3. Sanaṅkumārakathā "
 msgstr "3. On Sanaṅkumāra "
 
@@ -664,167 +664,167 @@ msgid "te ca mayaṃ saṅkhāya modāmā’ti. "
 msgstr "knowing them, too, we rejoice.’ "
 
 #. HTML: </p><h2>
-msgctxt "dn19:19.5"
+msgctxt "dn19:19.5.0"
 msgid "4. Aṭṭhayathābhuccavaṇṇa "
 msgstr "4. Eight Genuine Praises "
 
 #. HTML: </h2><p>
 #. REF: sc31
-msgctxt "dn19:19.6"
+msgctxt "dn19:19.5"
 msgid "Atha, bhante, brahmā sanaṅkumāro sakkaṃ devānamindaṃ etadavoca: "
 msgstr "Then Brahmā said to Sakka, "
 
-msgctxt "dn19:19.7"
+msgctxt "dn19:19.6"
 msgid "‘sādhu, devānaminda, mayampi tassa bhagavato aṭṭha yathābhucce vaṇṇe suṇeyyāmā’ti. "
 msgstr "‘It would be good, lord of gods, if I could also hear the eight genuine praises of the Buddha.’ "
 
 #. HTML: </p><p>
-msgctxt "dn19:19.8"
+msgctxt "dn19:19.7"
 msgid "‘Evaṃ, mahābrahme’ti kho, bhante, sakko devānamindo brahmuno sanaṅkumārassa bhagavato aṭṭha yathābhucce vaṇṇe payirudāhāsi. "
 msgstr "Saying, ‘Yes, Great Brahmā,’ Sakka repeated the eight genuine praises for him. "
 
 #. HTML: </p><p>
 #. REF: pts-cs20, sc32
-msgctxt "dn19:20.1"
+msgctxt "dn19:20.0"
 msgid "‘Taṃ kiṃ maññati, bhavaṃ mahābrahmā? "
 msgstr " "
 
-msgctxt "dn19:20.2"
+msgctxt "dn19:20.1"
 msgid "Yāvañca so bhagavā bahujanahitāya paṭipanno bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ. "
 msgstr " "
 
-msgctxt "dn19:20.3"
+msgctxt "dn19:20.2"
 msgid "Evaṃ bahujanahitāya paṭipannaṃ bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā. (1) "
 msgstr " "
 
 #. HTML: </p><p>
 #. REF: pts-cs21, sc33
-msgctxt "dn19:21.1"
+msgctxt "dn19:21.0"
 msgid "Svākkhāto kho pana tena bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhi. "
 msgstr " "
 
-msgctxt "dn19:21.2"
+msgctxt "dn19:21.1"
 msgid "Evaṃ opaneyyikassa dhammassa desetāraṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā. (2) "
 msgstr " "
 
 #. HTML: </p><p>
 #. REF: pts-cs22, pts-vp-pli2.229, sc34
-msgctxt "dn19:22.1"
+msgctxt "dn19:22.0"
 msgid "“Idaṃ kusalan”ti kho pana tena bhagavatā supaññattaṃ, “idaṃ akusalan”ti supaññattaṃ, “idaṃ sāvajjaṃ idaṃ anavajjaṃ, idaṃ sevitabbaṃ idaṃ na sevitabbaṃ, idaṃ hīnaṃ idaṃ paṇītaṃ, idaṃ kaṇhasukkasappaṭibhāgan”ti supaññattaṃ. "
 msgstr " "
 
-msgctxt "dn19:22.2"
+msgctxt "dn19:22.1"
 msgid "Evaṃ kusalākusalasāvajjānavajjasevitabbāsevitabbahīnapaṇītakaṇhasukkasappaṭibhāgānaṃ dhammānaṃ paññāpetāraṃ. "
 msgstr " "
 
-msgctxt "dn19:22.3"
+msgctxt "dn19:22.2"
 msgid "Imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā. (3) "
 msgstr " "
 
 #. HTML: </p><p>
 #. REF: pts-cs23, sc35
-msgctxt "dn19:23.1"
+msgctxt "dn19:23.0"
 msgid "Supaññattā kho pana tena bhagavatā sāvakānaṃ nibbānagāminī paṭipadā saṃsandati nibbānañca paṭipadā ca. "
 msgstr " "
 
-msgctxt "dn19:23.2"
+msgctxt "dn19:23.1"
 msgid "Seyyathāpi nāma gaṅgodakaṃ yamunodakena saṃsandati sameti; "
 msgstr " "
 
-msgctxt "dn19:23.3"
+msgctxt "dn19:23.2"
 msgid "evameva supaññattā tena bhagavatā sāvakānaṃ nibbānagāminī paṭipadā saṃsandati nibbānañca paṭipadā ca. "
 msgstr " "
 
-msgctxt "dn19:23.4"
+msgctxt "dn19:23.3"
 msgid "Evaṃ nibbānagāminiyā paṭipadāya paññāpetāraṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā. (4) "
 msgstr " "
 
 #. HTML: </p><p>
 #. REF: pts-cs24, sc36
-msgctxt "dn19:24.1"
+msgctxt "dn19:24.0"
 msgid "Abhinipphanno kho pana tassa bhagavato lābho abhinipphanno siloko, yāva maññe khattiyā sampiyāyamānarūpā viharanti. "
 msgstr " "
 
-msgctxt "dn19:24.2"
+msgctxt "dn19:24.1"
 msgid "Vigatamado kho pana so bhagavā āhāraṃ āhāreti. "
 msgstr " "
 
-msgctxt "dn19:24.3"
+msgctxt "dn19:24.2"
 msgid "Evaṃ vigatamadaṃ āhāraṃ āharayamānaṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā. (5) "
 msgstr " "
 
 #. HTML: </p><p>
 #. REF: pts-cs25, sc37
-msgctxt "dn19:25.1"
+msgctxt "dn19:25.0"
 msgid "Laddhasahāyo kho pana so bhagavā sekhānañceva paṭipannānaṃ khīṇāsavānañca vusitavataṃ, te bhagavā apanujja ekārāmataṃ anuyutto viharati. "
 msgstr " "
 
-msgctxt "dn19:25.2"
+msgctxt "dn19:25.1"
 msgid "Evaṃ ekārāmataṃ anuyuttaṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā. (6) "
 msgstr " "
 
 #. HTML: </p><p>
 #. REF: pts-cs26, sc38
-msgctxt "dn19:26.1"
+msgctxt "dn19:26.0"
 msgid "Yathāvādī kho pana so bhagavā tathākārī, yathākārī tathāvādī; "
 msgstr " "
 
-msgctxt "dn19:26.2"
+msgctxt "dn19:26.1"
 msgid "iti yathāvādī tathākārī, yathākārī tathāvādī. "
 msgstr " "
 
-msgctxt "dn19:26.3"
+msgctxt "dn19:26.2"
 msgid "Evaṃ dhammānudhammappaṭippannaṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā. (7) "
 msgstr " "
 
 #. HTML: </p><p>
 #. REF: pts-cs27, pts-vp-pli2.230, sc39
-msgctxt "dn19:27.1"
+msgctxt "dn19:27.0"
 msgid "Tiṇṇavicikiccho kho pana so bhagavā vigatakathaṅkatho pariyositasaṅkappo ajjhāsayaṃ ādibrahmacariyaṃ. "
 msgstr " "
 
-msgctxt "dn19:27.2"
+msgctxt "dn19:27.1"
 msgid "Evaṃ tiṇṇavicikicchaṃ vigatakathaṅkathaṃ pariyositasaṅkappaṃ ajjhāsayaṃ ādibrahmacariyaṃ. "
 msgstr " "
 
-msgctxt "dn19:27.3"
+msgctxt "dn19:27.2"
 msgid "Imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā’ti. (8) "
 msgstr " "
 
 #. HTML: </p><p>
 #. REF: pts-cs28, sc40
-msgctxt "dn19:28.1"
+msgctxt "dn19:28.0"
 msgid "Ime kho, bhante, sakko devānamindo brahmuno sanaṅkumārassa bhagavato aṭṭha yathābhucce vaṇṇe payirudāhāsi. "
 msgstr " "
 
-msgctxt "dn19:28.2"
+msgctxt "dn19:28.1"
 msgid "Tena sudaṃ, bhante, brahmā sanaṅkumāro attamano hoti pamudito pītisomanassajāto bhagavato aṭṭha yathābhucce vaṇṇe sutvā. "
 msgstr "Hearing them, Brahmā Sanaṅkumāra was uplifted and overjoyed, full of rapture and happiness. "
 
-msgctxt "dn19:28.3"
+msgctxt "dn19:28.2"
 msgid "Atha, bhante, brahmā sanaṅkumāro oḷārikaṃ attabhāvaṃ abhinimminitvā kumāravaṇṇī hutvā pañcasikho devānaṃ tāvatiṃsānaṃ pāturahosi. "
 msgstr "Then Brahmā Sanaṅkumāra manifested in a solid corporeal form, taking on the appearance of the youth Pañcasikha, and appeared to the gods of the Thirty-Three. "
 
-msgctxt "dn19:28.4"
+msgctxt "dn19:28.3"
 msgid "So vehāsaṃ abbhuggantvā ākāse antalikkhe pallaṅkena nisīdi. "
 msgstr "Rising into the air, he sat cross-legged in the sky, "
 
-msgctxt "dn19:28.5"
+msgctxt "dn19:28.4"
 msgid "Seyyathāpi, bhante, balavā puriso supaccatthate vā pallaṅke same vā bhūmibhāge pallaṅkena nisīdeyya; "
 msgstr "like a strong man might sit cross-legged on a well-appointed couch or on level ground. "
 
-msgctxt "dn19:28.6"
+msgctxt "dn19:28.5"
 msgid "evameva kho, bhante, brahmā sanaṅkumāro vehāsaṃ abbhuggantvā ākāse antalikkhe pallaṅkena nisīditvā deve tāvatiṃse āmantesi: "
 msgstr "There he addressed the gods of the Thirty-Three: "
 
 #. HTML: </p><h2>
-msgctxt "dn19:28.7"
+msgctxt "dn19:28.7.0"
 msgid "5. Govindabrāhmaṇavatthu "
 msgstr "5. The Story of the Steward "
 
 #. HTML: </h2><p>
 #. REF: sc41
-msgctxt "dn19:28.8"
+msgctxt "dn19:28.7"
 msgid "‘Taṃ kiṃ maññanti, bhonto devā tāvatiṃsā, yāva dīgharattaṃ mahāpaññova so bhagavā ahosi. "
 msgstr "‘What do the gods of the Thirty-Three think about the extent of the Buddha’s great wisdom? "
 
@@ -893,7 +893,7 @@ msgid "“Evaṃ, devā”ti. "
 msgstr "“Yes, sire.” "
 
 #. HTML: </p><h2>
-msgctxt "dn19:29.15"
+msgctxt "dn19:30.0"
 msgid "6. Mahāgovindavatthu "
 msgstr "6. The Story of the Great Steward "
 
@@ -970,7 +970,7 @@ msgid "Iminā kho evaṃ, bho, pariyāyena jotipālassa māṇavassa govindo mah
 msgstr "And that’s how the student Jotipāla came to be known as the Great Steward. "
 
 #. HTML: </p><h3>
-msgctxt "dn19:31.7"
+msgctxt "dn19:32.0"
 msgid "6.1. Rajjasaṃvibhajana "
 msgstr "6.1. Dividing the Realm "
 
@@ -1243,7 +1243,7 @@ msgid "Paṭhamabhāṇavāro niṭṭhito. "
 msgstr "The first recitation section is finished. "
 
 #. HTML: </p><h3>
-msgctxt "dn19:36.18"
+msgctxt "dn19:37.0"
 msgid "6.2. Kittisaddaabbhuggamana "
 msgstr "6.2. A Good Reputation "
 
@@ -1502,7 +1502,7 @@ msgid "Na kho panāhaṃ brahmānaṃ passāmi, na brahmunā sākacchemi na brah
 msgstr "But I neither see Brahmā nor discuss with him.” "
 
 #. HTML: </p><h3>
-msgctxt "dn19:43.7"
+msgctxt "dn19:44.0"
 msgid "6.3. Brahmunāsākacchā "
 msgstr "6.3. A Discussion With Brahmā "
 
@@ -1814,7 +1814,7 @@ msgid "“Yassadāni bhavaṃ govindo kālaṃ maññatī”ti. "
 msgstr "“Please do so, Steward, at your convenience.” "
 
 #. HTML: </p><h3>
-msgctxt "dn19:46.24"
+msgctxt "dn19:47.0"
 msgid "6.4. Reṇurājaāmantanā "
 msgstr "6.4. Informing King Reṇu "
 
@@ -2040,7 +2040,7 @@ msgid "Atha yā te gati, sā no gati bhavissatī”ti. "
 msgstr " "
 
 #. HTML: </p><h3>
-msgctxt "dn19:47.44"
+msgctxt "dn19:48.0"
 msgid "6.5. Chakhattiyaāmantanā "
 msgstr "6.5. Informing the Six Aristocrats "
 
@@ -2364,7 +2364,7 @@ msgid "“Na ciraṃ kho, bho, sattāhaṃ, āgamessāmahaṃ bhavante sattāhan
 msgstr "“A week is not too long, sirs. I will wait that long.” "
 
 #. HTML: </p><h3>
-msgctxt "dn19:55.8"
+msgctxt "dn19:56.0"
 msgid "6.6. Brāhmaṇamahāsālādīnaṃāmantanā "
 msgstr "6.6. Informing the Brahmins "
 
@@ -2435,7 +2435,7 @@ msgid "“Sace bhavaṃ govindo agārasmā anagāriyaṃ pabbajissati, mayampi a
 msgstr "“If the Steward is going forth from the lay life to homelessness, we shall do so too. Your destiny shall be ours.” "
 
 #. HTML: </p><h3>
-msgctxt "dn19:56.16"
+msgctxt "dn19:57.0"
 msgid "6.7. Bhariyānaṃāmantanā "
 msgstr "6.7. Informing the Wives "
 
@@ -2471,7 +2471,7 @@ msgid "Sace bhavaṃ govindo agārasmā anagāriyaṃ pabbajissati, mayampi agā
 msgstr "If you are going forth from the lay life to homelessness, we shall do so too. Your destiny shall be ours.” "
 
 #. HTML: </p><h3>
-msgctxt "dn19:57.8"
+msgctxt "dn19:58.0"
 msgid "6.8. Mahāgovindapabbajjā "
 msgstr "6.8. The Great Steward Goes Forth "
 

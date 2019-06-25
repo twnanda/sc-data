@@ -3,22 +3,22 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-bi-vb-ss13"><article><div class="hgroup"><p class="division">
-msgctxt "pli-tv-bi-vb-ss13:1.1"
+msgctxt "pli-tv-bi-vb-ss13:0.1"
 msgid "Theravāda Vinaya"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bi-vb-ss13:2.1"
+msgctxt "pli-tv-bi-vb-ss13:0.2"
 msgid "Bhikkhunivibhaṅga"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bi-vb-ss13:3.1"
+msgctxt "pli-tv-bi-vb-ss13:0.3"
 msgid "Saṃghādisesakaṇḍa"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-bi-vb-ss13:4.1"
+msgctxt "pli-tv-bi-vb-ss13:0.4"
 msgid "Saṅghādisesā 13: Dutiyapāpasamācārasikkhāpada"
 msgstr ""
 
@@ -855,7 +855,7 @@ msgstr ""
 
 #. HTML: </p><h2>
 #. VAR: 17 Kuladūsakasikkhāpada → ^pi-tv-bu-vb-ss10#7 [Saṅghādisesā 10: Saṃghabhedasikkhāpada] (10:14)
-msgctxt "pli-tv-bi-vb-ss13:32.1"
+msgctxt "pli-tv-bi-vb-ss13:33.0"
 msgid "17 Kuladūsakasikkhāpada"
 msgstr ""
 

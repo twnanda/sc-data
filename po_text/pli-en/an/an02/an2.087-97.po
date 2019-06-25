@@ -36,7 +36,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”ti. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.88" id="88"><article><div class="hgroup"><h1>
-msgctxt "an2.87-97:87.1.5"
+msgctxt "an2.87-97:0.1"
 msgid "88 "
 msgstr "88 "
 
@@ -59,7 +59,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”ti. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.89" id="89"><article><div class="hgroup"><h1>
-msgctxt "an2.87-97:88.1.5"
+msgctxt "an2.87-97:0.1"
 msgid "89 "
 msgstr "89 "
 
@@ -82,7 +82,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”ti. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.90" id="90"><article><div class="hgroup"><h1>
-msgctxt "an2.87-97:89.1.5"
+msgctxt "an2.87-97:0.1"
 msgid "90 "
 msgstr "90 "
 
@@ -105,7 +105,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”ti. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.91" id="91"><article><div class="hgroup"><h1>
-msgctxt "an2.87-97:90.1.5"
+msgctxt "an2.87-97:0.1"
 msgid "91 "
 msgstr "91 "
 
@@ -128,7 +128,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”ti. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.92" id="92"><article><div class="hgroup"><h1>
-msgctxt "an2.87-97:91.1.5"
+msgctxt "an2.87-97:0.1"
 msgid "92 "
 msgstr "92 "
 
@@ -151,7 +151,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”ti. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.93" id="93"><article><div class="hgroup"><h1>
-msgctxt "an2.87-97:92.1.5"
+msgctxt "an2.87-97:0.1"
 msgid "93 "
 msgstr "93 "
 
@@ -174,7 +174,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”ti. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.94" id="94"><article><div class="hgroup"><h1>
-msgctxt "an2.87-97:93.1.5"
+msgctxt "an2.87-97:0.1"
 msgid "94 "
 msgstr "94 "
 
@@ -197,7 +197,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”ti. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.95" id="95"><article><div class="hgroup"><h1>
-msgctxt "an2.87-97:94.1.5"
+msgctxt "an2.87-97:0.1"
 msgid "95 "
 msgstr "95 "
 
@@ -220,7 +220,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”ti. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.96" id="96"><article><div class="hgroup"><h1>
-msgctxt "an2.87-97:95.1.5"
+msgctxt "an2.87-97:0.1"
 msgid "96 "
 msgstr "96 "
 
@@ -243,7 +243,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”ti. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.97" id="97"><article><div class="hgroup"><h1>
-msgctxt "an2.87-97:96.1.5"
+msgctxt "an2.87-97:0.1"
 msgid "97 "
 msgstr "97 "
 

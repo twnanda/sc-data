@@ -28,12 +28,12 @@ msgid "12. Aññavādakasikkhāpada"
 msgstr "The training rule on evasive speech"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc12:0.6"
+msgctxt "pli-tv-bu-vb-pc12:1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pc12:1.0a"
+msgctxt "pli-tv-bu-vb-pc12:1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -180,24 +180,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "the Master said, “And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc12:1.32a"
+msgctxt "pli-tv-bu-vb-pc12:1.32.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc7, ms2V_356
-msgctxt "pli-tv-bu-vb-pc12:1.33"
+msgctxt "pli-tv-bu-vb-pc12:1.32"
 msgid "“Aññavādake pācittiyan”ti."
 msgstr "‘If a monk speaks evasively, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc8, ms2V_357
-msgctxt "pli-tv-bu-vb-pc12:1.34"
+msgctxt "pli-tv-bu-vb-pc12:1.33"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc12:2.0a"
+msgctxt "pli-tv-bu-vb-pc12:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -328,18 +328,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "the Master said, “And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc12:2.28a"
+msgctxt "pli-tv-bu-vb-pc12:2.28.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc14, ms2V_363
-msgctxt "pli-tv-bu-vb-pc12:2.29"
+msgctxt "pli-tv-bu-vb-pc12:2.28"
 msgid "“Aññavādake vihesake pācittiyan”ti."
 msgstr "‘If a monk speaks evasively or harasses, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc12:3.1.0a"
+msgctxt "pli-tv-bu-vb-pc12:3.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -378,38 +378,38 @@ msgid "Eso vihesako nāma."
 msgstr "this is called “one who harasses.”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc12:3.1.7a"
+msgctxt "pli-tv-bu-vb-pc12:3.1.7.0"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><p>
 #. REF: sc17, ms2V_366
-msgctxt "pli-tv-bu-vb-pc12:3.1.8"
+msgctxt "pli-tv-bu-vb-pc12:3.1.7"
 msgid "Aropite aññavādake saṃghamajjhe vatthusmiṃ vā āpattiyā vā anuyuñjīyamāno taṃ na kathetukāmo taṃ na ugghāṭetukāmo aññenaññaṃ paṭicarati—"
 msgstr "If he has not been charged with evasive speech, but he is being examined in the midst of the Order about an action that was the basis for an offense or about the class of an offense, and he then speaks evasively because he does not want to talk about it or reveal it, saying,"
 
-msgctxt "pli-tv-bu-vb-pc12:3.1.9"
+msgctxt "pli-tv-bu-vb-pc12:3.1.8"
 msgid "“ko āpanno, kiṃ āpanno, kismiṃ āpanno, kathaṃ āpanno, kaṃ bhaṇatha, kiṃ bhaṇathā”ti, āpatti dukkaṭassa."
 msgstr "“Who has committed an offense? What offense has been committed? In regard to what has an offense has been committed? How has an offense been committed? Who are you talking about? What are you talking about?” then he commits an offense of wrong conduct."
 
 #. HTML: </p><p>
 #. REF: pts-vp-en.2.233
-msgctxt "pli-tv-bu-vb-pc12:3.1.10"
+msgctxt "pli-tv-bu-vb-pc12:3.1.9"
 msgid "Aropite vihesake saṃghamajjhe vatthusmiṃ vā āpattiyā vā anuyuñjīyamāno taṃ na kathetukāmo taṃ na ugghāṭetukāmo tuṇhībhūto saṃghaṃ viheseti, āpatti dukkaṭassa."
 msgstr "If he has not been charged with harassment, but he is being examined in the midst of the Order about an action that was the basis for an offense or about the class of an offense, and he then harasses the Order by remaining silent because he does not want to talk about it or reveal it, then he commits an offense of wrong conduct."
 
 #. HTML: </p><p> 
-msgctxt "pli-tv-bu-vb-pc12:3.1.11"
+msgctxt "pli-tv-bu-vb-pc12:3.1.10"
 msgid "Ropite aññavādake saṃghamajjhe vatthusmiṃ vā āpattiyā vā anuyuñjīyamāno taṃ na kathetukāmo taṃ na ugghāṭetukāmo aññenaññaṃ paṭicarati—"
 msgstr "If he has been charged with evasive speech, and he is being examined in the midst of the Order about an action that was the basis for an offense or about the class of an offense, and he then speaks evasively because he does not want to talk about it or reveal it, saying,"
 
 #. HTML: </p><p> 
-msgctxt "pli-tv-bu-vb-pc12:3.1.12"
+msgctxt "pli-tv-bu-vb-pc12:3.1.11"
 msgid "“ko āpanno, kiṃ āpanno, kismiṃ āpanno, kathaṃ āpanno, kaṃ bhaṇatha, kiṃ bhaṇathā”ti, āpatti pācittiyassa."
 msgstr "“Who has committed an offense? What offense has been committed? In regard to what has an offense has been committed? How has an offense been committed? Who are you talking about? What are you talking about?” then he commits an offense entailing confession."
 
 #. HTML: </p><p> 
-msgctxt "pli-tv-bu-vb-pc12:3.1.13"
+msgctxt "pli-tv-bu-vb-pc12:3.1.12"
 msgid "Ropite vihesake saṃghamajjhe vatthusmiṃ vā āpattiyā vā anuyuñjīyamāno taṃ na kathetukāmo taṃ na ugghāṭetukāmo tuṇhībhūto saṃghaṃ viheseti, āpatti pācittiyassa."
 msgstr "If he has been charged with harassment, and he is being examined in the midst of the Order about an action that was the basis for an offense or about the class of an offense, and he then harasses the Order by remaining silent because he does not want to talk about it or reveal it, then he commits an offense entailing confession."
 
@@ -441,7 +441,7 @@ msgid "Adhammakamme adhammakammasaññī, āpatti dukkaṭassa."
 msgstr "If it is an illegitimate procedure, and he perceives it as illegitimate, he commits an offense of wrong conduct."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc12:3.3.0a"
+msgctxt "pli-tv-bu-vb-pc12:3.3.0"
 msgid ""
 msgstr "Non-offenses"
 

@@ -28,7 +28,7 @@ msgid "26. Cīvarasibbanasikkhāpada"
 msgstr "The training rule on sewing robes"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc26:1.0a"
+msgctxt "pli-tv-bu-vb-pc26:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -167,18 +167,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc26:1.29a"
+msgctxt "pli-tv-bu-vb-pc26:1.29.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc4, ms2V_578
-msgctxt "pli-tv-bu-vb-pc26:1.30"
+msgctxt "pli-tv-bu-vb-pc26:1.29"
 msgid "“Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṃ sibbeyya vā sibbāpeyya vā, pācittiyan”ti."
 msgstr "‘If a monk sews a robe for an unrelated nun, or gets one sewn, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc26:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc26:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -269,7 +269,7 @@ msgid "Sakiṃ āṇatto bahukampi sibbati, āpatti pācittiyassa."
 msgstr "If he only asks once, then even if the other sews many times, he commits one offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc26:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc26:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -306,7 +306,7 @@ msgid "Ñātikāya ñātikasaññī, anāpatti."
 msgstr "If she is related and he perceives her as related, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc26:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc26:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

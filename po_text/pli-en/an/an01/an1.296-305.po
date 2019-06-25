@@ -37,7 +37,7 @@ msgid "Ayaṃ kho, bhikkhave, ekadhammo bhāvito bahulīkato ekantanibbidāya vi
 msgstr "This one thing, when developed and cultivated, leads solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.297" id="297"><article><div class="hgroup"><h1>
-msgctxt "an1.296-305:296.1.5"
+msgctxt "an1.296-305:0.1"
 msgid "297–305 "
 msgstr "297–305 "
 

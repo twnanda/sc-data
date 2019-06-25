@@ -3,27 +3,27 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-pvr1.9"><article><div class="hgroup"><p class="division">
-msgctxt "pli-tv-pvr1.9:1.1"
+msgctxt "pli-tv-pvr1.9:0.1"
 msgid "Parivāra"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-pvr1.9:2.1"
+msgctxt "pli-tv-pvr1.9:0.2"
 msgid "Bhikkhuvibhaṅga"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-pvr1.9:3.1"
+msgctxt "pli-tv-pvr1.9:0.3"
 msgid "Dutiyabhāga"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-pvr1.9:4.1"
+msgctxt "pli-tv-pvr1.9:0.4"
 msgid "Katthapaññattivāra"
 msgstr ""
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-pvr1.9:5.1"
+msgctxt "pli-tv-pvr1.9:6.0"
 msgid "1. Pārājikakaṇḍa"
 msgstr ""
 
@@ -361,7 +361,7 @@ msgid "Cattāro pārājikā niṭṭhitā."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr1.9:15.1"
+msgctxt "pli-tv-pvr1.9:16.0"
 msgid "2. Saṃghādisesakaṇḍādi"
 msgstr ""
 

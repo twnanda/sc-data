@@ -40,7 +40,7 @@ msgid "Namo tassa Bhagavato Arahato Sammāsambuddhassa."
 msgstr "Homage to the Master, the Perfected One, the fully Awakened One"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc1:1.0a"
+msgctxt "pli-tv-bu-vb-pc1:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -133,18 +133,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc1:1.19a"
+msgctxt "pli-tv-bu-vb-pc1:1.19.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: pts-vp-en.2.166, ms2V_6, sc6
-msgctxt "pli-tv-bu-vb-pc1:1.20"
+msgctxt "pli-tv-bu-vb-pc1:1.19"
 msgid "“Sampajānamusāvāde pācittiyan”ti."
 msgstr "‘If a monk lies in full awareness, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc1:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc1:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -162,103 +162,103 @@ msgid "visaṃvādanapurekkhārassa vācā, girā, byappatho, vacībhedo, vācas
 msgstr "the speech of one who is intent on deceiving—his words, his way of speaking, his breaking into speech, his verbal expression, his eight kinds of ignoble speech: he says that he has seen what he has not seen; he says that he has heard what he has not heard; he says that he has sensed what he has not sensed; he says that he has known what he has not known; he says that he has not seen what he has seen; he says that he has not heard what he has heard; he says that he has not sensed what he has sensed; he says that he has not known what he has known."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc1:2.1.2a"
+msgctxt "pli-tv-bu-vb-pc1:2.1.1.0.1"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><h4>
-msgctxt "pli-tv-bu-vb-pc1:2.1.2b"
+msgctxt "pli-tv-bu-vb-pc1:2.1.1.0.2"
 msgid ""
 msgstr "Definitions"
 
 #. HTML: </h4><p><span class="term"> 
 #. REF: sc8, ms2V_8
-msgctxt "pli-tv-bu-vb-pc1:2.1.3"
+msgctxt "pli-tv-bu-vb-pc1:2.1.1"
 msgid "Adiṭṭhaṃ nāma"
 msgstr "Not seen:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc1:2.1.4"
+msgctxt "pli-tv-bu-vb-pc1:2.1.2"
 msgid "na cakkhunā diṭṭhaṃ."
 msgstr "not seen with the eye."
 
 #. HTML: </span><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc1:2.1.5"
+msgctxt "pli-tv-bu-vb-pc1:2.1.3"
 msgid "Assutaṃ nāma"
 msgstr "Not heard:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc1:2.1.6"
+msgctxt "pli-tv-bu-vb-pc1:2.1.4"
 msgid "na sotena sutaṃ."
 msgstr "not heard with the ear."
 
 #. HTML: </span><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc1:2.1.7"
+msgctxt "pli-tv-bu-vb-pc1:2.1.5"
 msgid "Amutaṃ nāma"
 msgstr "Not sensed:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc1:2.1.8"
+msgctxt "pli-tv-bu-vb-pc1:2.1.6"
 msgid "na ghānena ghāyitaṃ, na jivhāya sāyitaṃ, na kāyena phuṭṭhaṃ."
 msgstr "not smelled with the nose, not tasted with the tongue, not touched with the body."
 
 #. HTML: </span><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc1:2.1.9"
+msgctxt "pli-tv-bu-vb-pc1:2.1.7"
 msgid "Aviññātaṃ nāma"
 msgstr "Not known:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc1:2.1.10"
+msgctxt "pli-tv-bu-vb-pc1:2.1.8"
 msgid "na manasā viññātaṃ."
 msgstr "not known with the mind."
 
 #. HTML: </span><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc1:2.1.11"
+msgctxt "pli-tv-bu-vb-pc1:2.1.9"
 msgid "Diṭṭhaṃ nāma"
 msgstr "Seen:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc1:2.1.12"
+msgctxt "pli-tv-bu-vb-pc1:2.1.10"
 msgid "cakkhunā diṭṭhaṃ."
 msgstr "seen with the eye."
 
 #. HTML: </span><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc1:2.1.13"
+msgctxt "pli-tv-bu-vb-pc1:2.1.11"
 msgid "Sutaṃ nāma"
 msgstr "Heard:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc1:2.1.14"
+msgctxt "pli-tv-bu-vb-pc1:2.1.12"
 msgid "sotena sutaṃ."
 msgstr "heard with the ear."
 
 #. HTML: </span><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc1:2.1.15"
+msgctxt "pli-tv-bu-vb-pc1:2.1.13"
 msgid "Mutaṃ nāma"
 msgstr "Sensed:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc1:2.1.16"
+msgctxt "pli-tv-bu-vb-pc1:2.1.14"
 msgid "ghānena ghāyitaṃ, jivhāya sāyitaṃ, kāyena phuṭṭhaṃ."
 msgstr "smelled with the nose, tasted with the tongue, touched with the body."
 
 #. HTML: </span><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc1:2.1.17"
+msgctxt "pli-tv-bu-vb-pc1:2.1.15"
 msgid "Viññātaṃ nāma"
 msgstr "Known:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc1:2.1.18"
+msgctxt "pli-tv-bu-vb-pc1:2.1.16"
 msgid "manasā viññātaṃ."
 msgstr "known with the mind."
 
 #. HTML: </span></p><h4>
-msgctxt "pli-tv-bu-vb-pc1:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc1:2.2.0.1"
 msgid ""
 msgstr "Exposition"
 
 #. HTML: </h4><h5>
-msgctxt "pli-tv-bu-vb-pc1:2.2.0b"
+msgctxt "pli-tv-bu-vb-pc1:2.2.0.2"
 msgid ""
 msgstr "Falsely claiming to have experienced what he has not experienced: a single sense door"
 
@@ -353,7 +353,7 @@ msgid "pubbevassa hoti “musā bhaṇissan”ti, bhaṇantassa hoti “musā bh
 msgstr "before he has lied, he knows he is going to lie; while lying, he knows he is lying; after he has lied, he knows he has lied; in misrepresenting his view of what is true; in misrepresenting his belief of what is true; in misrepresenting his acceptance of what is true; in misrepresenting his sentiment of what is true."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc1:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc1:2.3.0"
 msgid ""
 msgstr "Falsely claiming to have experienced what he has not experienced: multiple sense doors"
 
@@ -463,7 +463,7 @@ msgid "tīhākārehi aviññātaṃ “viññātañca me diṭṭhañca sutañca
 msgstr "If he lies in full awareness, saying that he has known and seen and heard and sensed what he has not known, he commits an offense entailing confession when three conditions are fulfilled …"
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc1:2.4.0a"
+msgctxt "pli-tv-bu-vb-pc1:2.4.0"
 msgid ""
 msgstr "Falsely claiming not to have experienced what he has experienced"
 
@@ -486,7 +486,7 @@ msgid "viññātaṃ “aviññātaṃ me”ti sampajānamusā bhaṇantassa āp
 msgstr "saying that he has not known what he has known, he commits an offense entailing confession when three conditions are fulfilled …"
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc1:2.5.0a"
+msgctxt "pli-tv-bu-vb-pc1:2.5.0"
 msgid ""
 msgstr "Falsely claiming to have experienced with one sense what he has experienced with another"
 
@@ -596,7 +596,7 @@ msgid "tīhākārehi viññātaṃ “diṭṭhañca me sutañca mutañcā”ti 
 msgstr "saying that he has seen and heard and sensed what he known, he commits an offense entailing confession when three conditions are fulfilled …"
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc1:2.6.0a"
+msgctxt "pli-tv-bu-vb-pc1:2.6.0"
 msgid ""
 msgstr "Making claims while having doubts"
 
@@ -663,7 +663,7 @@ msgid "pubbevassa hoti “musā bhaṇissan”ti, bhaṇantassa hoti “musā bh
 msgstr "before he has lied, he knows he is going to lie; while lying, he knows he is lying; after he has lied, he knows he has lied; in misrepresenting his view of what is true; in misrepresenting his belief of what is true; in misrepresenting his acceptance of what is true; in misrepresenting his sentiment of what is true."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc1:2.7.0a"
+msgctxt "pli-tv-bu-vb-pc1:2.7.0"
 msgid ""
 msgstr "Non-offenses"
 

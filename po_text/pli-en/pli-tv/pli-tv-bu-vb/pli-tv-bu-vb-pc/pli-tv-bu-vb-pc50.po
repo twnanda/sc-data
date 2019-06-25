@@ -28,7 +28,7 @@ msgid "50. Uyyodhikasikkhāpada"
 msgstr "The training rule on battles"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc50:1.0a"
+msgctxt "pli-tv-bu-vb-pc50:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -117,19 +117,19 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc50:1.19a"
+msgctxt "pli-tv-bu-vb-pc50:1.19.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule">
 #. VAR: uyyodhikaṃ → uyyodhakaṃ (s3)
 #. REF: sc3, ms2V_1007
-msgctxt "pli-tv-bu-vb-pc50:1.20"
+msgctxt "pli-tv-bu-vb-pc50:1.19"
 msgid "“Dirattatirattañce bhikkhu senāya vasamāno uyyodhikaṃ vā balaggaṃ vā senābyūhaṃ vā anīkadassanaṃ vā gaccheyya, pācittiyan”ti."
 msgstr "‘If a monk who is staying with an army for two or three nights goes to a battle, a troop review, a massing of the army, or a troop inspection, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc50:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc50:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -220,7 +220,7 @@ msgid "Dassanūpacāraṃ vijahitvā punappunaṃ passati, āpatti dukkaṭassa.
 msgstr "Every time he moves outside of the range of sight and then sees it again, he commits an offense of wrong conduct."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc50:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc50:2.2.0"
 msgid ""
 msgstr "Non-offenses"
 

@@ -23,12 +23,12 @@ msgid "Sañ­carit­ta­sikkhā­pada"
 msgstr "5. The training rule on mediation"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-ss5:1.1.0a"
+msgctxt "pli-tv-bu-vb-ss5:1.1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-ss5:1.1.0b"
+msgctxt "pli-tv-bu-vb-ss5:1.1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -573,24 +573,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-ss5:1.5.12a"
+msgctxt "pli-tv-bu-vb-ss5:1.5.12.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc15, pts-vp-pli3.138, ms1V_1234
-msgctxt "pli-tv-bu-vb-ss5:1.5.13"
+msgctxt "pli-tv-bu-vb-ss5:1.5.12"
 msgid "“Yo pana bhikkhu sañcarittaṃ samāpajjeyya, itthiyā vā purisamatiṃ purisassa vā itthimatiṃ, jāyattane vā jārattane vā, saṃghādiseso”ti."
 msgstr "‘If a monk mediates a man’s intentions to a woman or a woman’s intentions to a man, for marriage or for an affair, he commits an offense entailing suspension.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc16, ms1V_1235 
-msgctxt "pli-tv-bu-vb-ss5:1.5.14"
+msgctxt "pli-tv-bu-vb-ss5:1.5.13"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-ss5:2.1.0a"
+msgctxt "pli-tv-bu-vb-ss5:2.1.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -802,19 +802,19 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ss5:2.2.13a"
+msgctxt "pli-tv-bu-vb-ss5:2.2.13.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. VAR: itthimatiṃ → itthīmatiṃ (bj, s1-3)
 #. REF: sc23, ms1V_1242, pts-vp-en1.236
-msgctxt "pli-tv-bu-vb-ss5:2.2.14"
+msgctxt "pli-tv-bu-vb-ss5:2.2.13"
 msgid "“Yo pana bhikkhu sañcarittaṃ samāpajjeyya, itthiyā vā purisamatiṃ purisassa vā itthimatiṃ, jāyattane vā jārattane vā, antamaso taṅkhaṇikāyapi, saṃghādiseso”ti."
 msgstr "‘If a monk mediates a man’s intentions to a woman or a woman’s intentions to a man, for marriage or for an affair, even if just a brief one, he commits an offense entailing suspension.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ss5:3.0a"
+msgctxt "pli-tv-bu-vb-ss5:3.0"
 msgid ""
 msgstr "Definitions"
 
@@ -917,17 +917,17 @@ msgid "… pe … tenapi vuccati “saṃghādiseso”ti."
 msgstr "… Therefore, too, it is called “an offense entailing suspension.”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ss5:4.1.0a"
+msgctxt "pli-tv-bu-vb-ss5:4.1.0.1"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-ss5:4.1.0b"
+msgctxt "pli-tv-bu-vb-ss5:4.1.0.2"
 msgid ""
 msgstr "Permutations part 1"
 
 #. HTML: </h3><h4>
-msgctxt "pli-tv-bu-vb-ss5:4.1.0c"
+msgctxt "pli-tv-bu-vb-ss5:4.1.0.3"
 msgid ""
 msgstr "Summary"
 
@@ -952,7 +952,7 @@ msgid "dhanakkītā chandavāsinī bhogavāsinī paṭavāsinī odapattakinī ob
 msgstr "the bought wife, the wife by choice, the wife through property, the wife through clothes, the wife through the bowl-of-water ritual, the wife through removing the head pad, the slave wife, the servant wife, the captured wife, the momentary wife."
 
 #. HTML: </p><h4>
-msgctxt "pli-tv-bu-vb-ss5:4.2.0a"
+msgctxt "pli-tv-bu-vb-ss5:4.2.0"
 msgid ""
 msgstr "Definitions"
 
@@ -1186,12 +1186,12 @@ msgid "taṅkhaṇikā vuccati."
 msgstr "this refers to a wife for one occasion."
 
 #. HTML: </span></p><h4>
-msgctxt "pli-tv-bu-vb-ss5:4.4.0a"
+msgctxt "pli-tv-bu-vb-ss5:4.4.0.1"
 msgid ""
 msgstr "Exposition"
 
 #. HTML: </h4><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.4.0b"
+msgctxt "pli-tv-bu-vb-ss5:4.4.0.2"
 msgid ""
 msgstr "Mediating between a man and a single bought wife"
 
@@ -1271,283 +1271,283 @@ msgid "Nikkhepapadāni."
 msgstr "The setting out of the steps."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.4.17a"
+msgctxt "pli-tv-bu-vb-ss5:4.4.17.0"
 msgid ""
 msgstr "Mediating between a man and two bought wives"
 
 #. HTML: </h5><p>
 #. REF: sc57, ms1V_1276 
-msgctxt "pli-tv-bu-vb-ss5:4.4.18"
+msgctxt "pli-tv-bu-vb-ss5:4.4.17"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.19"
+msgctxt "pli-tv-bu-vb-ss5:4.4.18"
 msgid "“gaccha, bhante, itthannāmaṃ mātu­rak­khi­tañca pitu­rak­khi­tañca brūhi—"
 msgstr "“Venerable, go to so-and-so protected by her mother and so-and-so protected by her father and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.20"
+msgctxt "pli-tv-bu-vb-ss5:4.4.19"
 msgid "‘hotha kira itthannāmassa bhariyāyo dhanakkītā’”ti."
 msgstr "‘Please be the bought wives of so-and-so.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.21"
+msgctxt "pli-tv-bu-vb-ss5:4.4.20"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p>
 #. REF: sc58, ms1V_1277 
-msgctxt "pli-tv-bu-vb-ss5:4.4.22"
+msgctxt "pli-tv-bu-vb-ss5:4.4.21"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.23"
+msgctxt "pli-tv-bu-vb-ss5:4.4.22"
 msgid "“gaccha, bhante, itthannāmaṃ mātu­rak­khi­tañca ­mātāpi­tu­rak­khi­tañca … pe …"
 msgstr "“Venerable, go to so-and-so protected by her mother and so-and-so protected by her parents …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.24"
+msgctxt "pli-tv-bu-vb-ss5:4.4.23"
 msgid "mātu­rak­khi­tañca bhātu­rak­khi­tañca …"
 msgstr "so-and-so protected by her mother and so-and-so protected by her brother …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.25"
+msgctxt "pli-tv-bu-vb-ss5:4.4.24"
 msgid "mātu­rak­khi­tañca bhagi­ni­rak­khi­tañca …"
 msgstr "so-and-so protected by her mother and so-and-so protected by her sister …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.26"
+msgctxt "pli-tv-bu-vb-ss5:4.4.25"
 msgid "mātu­rak­khi­tañca ñāti­rak­khi­tañca …"
 msgstr "so-and-so protected by her mother and so-and-so protected by her relatives …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.27"
+msgctxt "pli-tv-bu-vb-ss5:4.4.26"
 msgid "mātu­rak­khi­tañca gotta­rak­khi­tañca …"
 msgstr "so-and-so protected by her mother and so-and-so protected by her kinsmen …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.28"
+msgctxt "pli-tv-bu-vb-ss5:4.4.27"
 msgid "mātu­rak­khi­tañca dhamma­rak­khi­tañca …"
 msgstr "so-and-so protected by her mother and so-and-so protected by her religion …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.29"
+msgctxt "pli-tv-bu-vb-ss5:4.4.28"
 msgid "mātu­rak­khi­tañca sārakkhañca …"
 msgstr "so-and-so protected by her mother and so-and-so otherwise protected …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.30"
+msgctxt "pli-tv-bu-vb-ss5:4.4.29"
 msgid "mātu­rak­khi­tañca saparidaṇḍañca brūhi—"
 msgstr "so-and-so protected by her mother and so-and-so protected by the threat of punishment and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.31"
+msgctxt "pli-tv-bu-vb-ss5:4.4.30"
 msgid "‘hotha kira itthannāmassa bhariyāyo dhanakkītā’”ti."
 msgstr "‘Please be the bought wives of so-and-so.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.32"
+msgctxt "pli-tv-bu-vb-ss5:4.4.31"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc59, ms1V_1278 
-msgctxt "pli-tv-bu-vb-ss5:4.4.33"
+msgctxt "pli-tv-bu-vb-ss5:4.4.32"
 msgid "Khaṇḍacakkaṃ."
 msgstr "The unconnected permutation series."
 
 #. HTML: </p><p>
 #. REF: sc60, ms1V_1279 
-msgctxt "pli-tv-bu-vb-ss5:4.4.34"
+msgctxt "pli-tv-bu-vb-ss5:4.4.33"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.35"
+msgctxt "pli-tv-bu-vb-ss5:4.4.34"
 msgid "“gaccha, bhante, itthannāmaṃ pitu­rak­khi­tañca ­mātāpi­tu­rak­khi­tañca brūhi—"
 msgstr "“Venerable, go to so-and-so protected by her father and so-and-so protected by her parents and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.36"
+msgctxt "pli-tv-bu-vb-ss5:4.4.35"
 msgid "‘hotha kira itthannāmassa bhariyāyo dhanakkītā’”ti."
 msgstr "‘Please be the bought wives of so-and-so.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.37"
+msgctxt "pli-tv-bu-vb-ss5:4.4.36"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p>
 #. REF: sc61, ms1V_1280 
-msgctxt "pli-tv-bu-vb-ss5:4.4.38"
+msgctxt "pli-tv-bu-vb-ss5:4.4.37"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.39"
+msgctxt "pli-tv-bu-vb-ss5:4.4.38"
 msgid "“gaccha, bhante, itthannāmaṃ pitu­rak­khi­tañca bhātu­rak­khi­tañca … pe …"
 msgstr "“Venerable, go to so-and-so protected by her father and so-and-so protected by her brother …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.40"
+msgctxt "pli-tv-bu-vb-ss5:4.4.39"
 msgid "pitu­rak­khi­tañca bhagi­ni­rak­khi­tañca …"
 msgstr "so-and-so protected by her father and so-and-so protected by her sister …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.41"
+msgctxt "pli-tv-bu-vb-ss5:4.4.40"
 msgid "pitu­rak­khi­tañca ñāti­rak­khi­tañca …"
 msgstr "so-and-so protected by her father and so-and-so protected by her relatives …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.42"
+msgctxt "pli-tv-bu-vb-ss5:4.4.41"
 msgid "pitu­rak­khi­tañca gotta­rak­khi­tañca …"
 msgstr "so-and-so protected by her father and so-and-so protected by her kinsmen …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.43"
+msgctxt "pli-tv-bu-vb-ss5:4.4.42"
 msgid "pitu­rak­khi­tañca dhamma­rak­khi­tañca …"
 msgstr "so-and-so protected by her father and so-and-so protected by her religion …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.44"
+msgctxt "pli-tv-bu-vb-ss5:4.4.43"
 msgid "pitu­rak­khi­tañca sārakkhañca …"
 msgstr "so-and-so protected by her father and so-and-so otherwise protected …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.45"
+msgctxt "pli-tv-bu-vb-ss5:4.4.44"
 msgid "pitu­rak­khi­tañca saparidaṇḍañca brūhi—"
 msgstr "so-and-so protected by her father and so-and-so protected by the threat of punishment and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.46"
+msgctxt "pli-tv-bu-vb-ss5:4.4.45"
 msgid "‘hotha kira itthannāmassa bhariyāyo dhanakkītā’”ti."
 msgstr "‘Please be the bought wives of so-and-so.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.47"
+msgctxt "pli-tv-bu-vb-ss5:4.4.46"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p>
 #. REF: sc62, ms1V_1281 
-msgctxt "pli-tv-bu-vb-ss5:4.4.48"
+msgctxt "pli-tv-bu-vb-ss5:4.4.47"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.49"
+msgctxt "pli-tv-bu-vb-ss5:4.4.48"
 msgid "“gaccha, bhante, itthannāmaṃ pitu­rak­khi­tañca mātu­rak­khi­tañca brūhi—"
 msgstr "“Venerable, go to so-and-so protected by her father and so-and-so protected by her mother and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.50"
+msgctxt "pli-tv-bu-vb-ss5:4.4.49"
 msgid "‘hotha kira itthannāmassa bhariyāyo dhanakkītā’”ti."
 msgstr "‘Please be the bought wives of so-and-so.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.51"
+msgctxt "pli-tv-bu-vb-ss5:4.4.50"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc63, ms1V_1282 
-msgctxt "pli-tv-bu-vb-ss5:4.4.52"
+msgctxt "pli-tv-bu-vb-ss5:4.4.51"
 msgid "Baddhacakkaṃ mūlaṃ saṃkhittaṃ."
 msgstr "The linked permutation series, the basis in brief."
 
 #. HTML: </p><p>
 #. VAR: () → () s1-3 potthakesu
 #. REF: sc64, ms1V_1283
-msgctxt "pli-tv-bu-vb-ss5:4.4.53"
+msgctxt "pli-tv-bu-vb-ss5:4.4.52"
 msgid "() Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.54"
+msgctxt "pli-tv-bu-vb-ss5:4.4.53"
 msgid "“gaccha, bhante, itthannāmaṃ saparidaṇḍañca mātu­rak­khi­tañca brūhi—"
 msgstr "“Venerable, go to so-and-so protected by the threat of punishment and so-and-so protected by her mother and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.55"
+msgctxt "pli-tv-bu-vb-ss5:4.4.54"
 msgid "‘hotha kira itthannāmassa bhariyāyo dhanakkītā’”ti."
 msgstr "‘Please be the bought wives of so-and-so.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.56"
+msgctxt "pli-tv-bu-vb-ss5:4.4.55"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p>
 #. REF: sc65, ms1V_1284 
-msgctxt "pli-tv-bu-vb-ss5:4.4.57"
+msgctxt "pli-tv-bu-vb-ss5:4.4.56"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.58"
+msgctxt "pli-tv-bu-vb-ss5:4.4.57"
 msgid "“gaccha, bhante, itthannāmaṃ saparidaṇḍañca pitu­rak­khi­tañca … pe …"
 msgstr "“Venerable, go to so-and-so protected by the threat of punishment and so-and-so protected by her father …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.59"
+msgctxt "pli-tv-bu-vb-ss5:4.4.58"
 msgid "saparidaṇḍañca ­mātāpi­tu­rak­khi­tañca …"
 msgstr "so-and-so protected by the threat of punishment and so-and-so protected by her parents …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.60"
+msgctxt "pli-tv-bu-vb-ss5:4.4.59"
 msgid "saparidaṇḍañca bhātu­rak­khi­tañca …"
 msgstr "so-and-so protected by the threat of punishment and so-and-so protected by her brother …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.61"
+msgctxt "pli-tv-bu-vb-ss5:4.4.60"
 msgid "saparidaṇḍañca bhagi­ni­rak­khi­tañca …"
 msgstr "so-and-so protected by the threat of punishment and so-and-so protected by her sister …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.62"
+msgctxt "pli-tv-bu-vb-ss5:4.4.61"
 msgid "saparidaṇḍañca ñāti­rak­khi­tañca …"
 msgstr "so-and-so protected by the threat of punishment and so-and-so protected by her relatives …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.63"
+msgctxt "pli-tv-bu-vb-ss5:4.4.62"
 msgid "saparidaṇḍañca gotta­rak­khi­tañca …"
 msgstr "so-and-so protected by the threat of punishment and so-and-so protected by her kinsmen …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.64"
+msgctxt "pli-tv-bu-vb-ss5:4.4.63"
 msgid "saparidaṇḍañca dhamma­rak­khi­tañca …"
 msgstr "so-and-so protected by the threat of punishment and so-and-so protected by her religion …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.65"
+msgctxt "pli-tv-bu-vb-ss5:4.4.64"
 msgid "saparidaṇḍañca sārakkhañca brūhi—"
 msgstr "so-and-so protected by the threat of punishment and so-and-so otherwise protected and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.66"
+msgctxt "pli-tv-bu-vb-ss5:4.4.65"
 msgid "‘hotha kira itthannāmassa bhariyāyo dhanakkītā’”ti."
 msgstr "‘Please be the bought wives of so-and-so.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.67"
+msgctxt "pli-tv-bu-vb-ss5:4.4.66"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc66, ms1V_1285 
-msgctxt "pli-tv-bu-vb-ss5:4.4.68"
+msgctxt "pli-tv-bu-vb-ss5:4.4.67"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.4.68a"
+msgctxt "pli-tv-bu-vb-ss5:4.4.68.0"
 msgid ""
 msgstr "Mediating between a man and three to nine bought wives"
 
 #. HTML: </h5><p>
 #. REF: sc67, ms1V_1286 
-msgctxt "pli-tv-bu-vb-ss5:4.4.69"
+msgctxt "pli-tv-bu-vb-ss5:4.4.68"
 msgid "Evaṃ dumūlakampi timūlakampi yāva navamūlakaṃ kātabbaṃ."
 msgstr "The sections on two root items, three root items, up to nine root items, are to be done in the same way."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.4.69a"
+msgctxt "pli-tv-bu-vb-ss5:4.4.69.0"
 msgid ""
 msgstr "Mediating between a man and ten bought wives"
 
 #. HTML: </h5><p>
 #. REF: sc68, ms1V_1287 
-msgctxt "pli-tv-bu-vb-ss5:4.4.70"
+msgctxt "pli-tv-bu-vb-ss5:4.4.69"
 msgid "Idaṃ dasamūlakaṃ—"
 msgstr "This is the section on ten root items:"
 
 #. HTML: </p><p>
 #. REF: sc69, ms1V_1288 
-msgctxt "pli-tv-bu-vb-ss5:4.4.71"
+msgctxt "pli-tv-bu-vb-ss5:4.4.70"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.72"
+msgctxt "pli-tv-bu-vb-ss5:4.4.71"
 msgid "“gaccha, bhante, itthannāmaṃ mātu­rak­khi­tañca pitu­rak­khi­tañca ­mātāpi­tu­rak­khi­tañca bhātu­rak­khi­tañca bhagi­ni­rak­khi­tañca ñāti­rak­khi­tañca gotta­rak­khi­tañca dhamma­rak­khi­tañca sārakkhañca saparidaṇḍañca brūhi—"
 msgstr "“Venerable, go to so-and-so protected by her mother and so-and-so protected by her father and so-and-so protected by her parents and so-and-so protected by her brother and so-and-so protected by her sister and so-and-so protected by her relatives and so-and-so protected by her kinsmen and so-and-so protected by her religion and so-and-so otherwise protected and so-and-so protected by the threat of punishment and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.73"
+msgctxt "pli-tv-bu-vb-ss5:4.4.72"
 msgid "‘hotha kira itthannāmassa bhariyāyo dhanakkītā’”ti."
 msgstr "‘Please be the bought wives of so-and-so.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.4.74"
+msgctxt "pli-tv-bu-vb-ss5:4.4.73"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc70, ms1V_1289 
-msgctxt "pli-tv-bu-vb-ss5:4.4.75"
+msgctxt "pli-tv-bu-vb-ss5:4.4.74"
 msgid "Dhanak­kītā­cakkaṃ niṭṭhitaṃ."
 msgstr "The permutation series on bought wives is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.5.0a"
+msgctxt "pli-tv-bu-vb-ss5:4.5.0"
 msgid ""
 msgstr "Mediating between a man and other kinds of wives"
 
@@ -1602,275 +1602,275 @@ msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­ses
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.5.12a"
+msgctxt "pli-tv-bu-vb-ss5:4.5.12.0"
 msgid ""
 msgstr "Mediating between a man and a single momentary wife"
 
 #. HTML: </h5><p>
 #. REF: sc72, ms1V_1291 
-msgctxt "pli-tv-bu-vb-ss5:4.5.13"
+msgctxt "pli-tv-bu-vb-ss5:4.5.12"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.14"
+msgctxt "pli-tv-bu-vb-ss5:4.5.13"
 msgid "“gaccha, bhante, itthannāmaṃ piturakkhitaṃ brūhi … pe …"
 msgstr "“Venerable, go to so-and-so protected by her father and say …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.15"
+msgctxt "pli-tv-bu-vb-ss5:4.5.14"
 msgid "­mātāpi­tu­rak­khi­taṃ brūhi …"
 msgstr "so-and-so protected by her parents …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.16"
+msgctxt "pli-tv-bu-vb-ss5:4.5.15"
 msgid "bhāturakkhitaṃ brūhi …"
 msgstr "so-and-so protected by her brother …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.17"
+msgctxt "pli-tv-bu-vb-ss5:4.5.16"
 msgid "bhagi­ni­rak­khi­taṃ brūhi …"
 msgstr "so-and-so protected by her sister …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.18"
+msgctxt "pli-tv-bu-vb-ss5:4.5.17"
 msgid "ñātirakkhitaṃ brūhi …"
 msgstr "so-and-so protected by her relatives …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.19"
+msgctxt "pli-tv-bu-vb-ss5:4.5.18"
 msgid "gottarakkhitaṃ brūhi …"
 msgstr "so-and-so protected by her kinsmen …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.20"
+msgctxt "pli-tv-bu-vb-ss5:4.5.19"
 msgid "dhamma­rak­khi­taṃ brūhi …"
 msgstr "so-and-so protected by her religion …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.21"
+msgctxt "pli-tv-bu-vb-ss5:4.5.20"
 msgid "sārakkhaṃ brūhi …"
 msgstr "so-and-so otherwise protected …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.22"
+msgctxt "pli-tv-bu-vb-ss5:4.5.21"
 msgid "saparidaṇḍaṃ brūhi—"
 msgstr "so-and-so protected by the threat of punishment and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.23"
+msgctxt "pli-tv-bu-vb-ss5:4.5.22"
 msgid "‘hohi kira itthannāmassa bhariyā muhuttikā’”ti."
 msgstr "‘Please be the momentary wife of so-and-so.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.24"
+msgctxt "pli-tv-bu-vb-ss5:4.5.23"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc73, ms1V_1292 
-msgctxt "pli-tv-bu-vb-ss5:4.5.25"
+msgctxt "pli-tv-bu-vb-ss5:4.5.24"
 msgid "Nikkhepapadāni."
 msgstr "The setting out of the steps."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.5.25a"
+msgctxt "pli-tv-bu-vb-ss5:4.5.25.0"
 msgid ""
 msgstr "Mediating between a man and two momentary wives"
 
 #. HTML: </h5><p>
 #. REF: sc74, ms1V_1293 
-msgctxt "pli-tv-bu-vb-ss5:4.5.26"
+msgctxt "pli-tv-bu-vb-ss5:4.5.25"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.27"
+msgctxt "pli-tv-bu-vb-ss5:4.5.26"
 msgid "“gaccha, bhante, itthannāmaṃ mātu­rak­khi­tañca pitu­rak­khi­tañca brūhi—"
 msgstr "“Venerable, go to so-and-so protected by her mother and so-and-so protected by her father and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.28"
+msgctxt "pli-tv-bu-vb-ss5:4.5.27"
 msgid "‘hotha kira itthannāmassa bhariyāyo muhuttikā’”ti."
 msgstr "‘Please be the momentary wives of so-and-so.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.29"
+msgctxt "pli-tv-bu-vb-ss5:4.5.28"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p>
 #. REF: sc75, ms1V_1294 
-msgctxt "pli-tv-bu-vb-ss5:4.5.30"
+msgctxt "pli-tv-bu-vb-ss5:4.5.29"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.31"
+msgctxt "pli-tv-bu-vb-ss5:4.5.30"
 msgid "“gaccha, bhante, itthannāmaṃ mātu­rak­khi­tañca ­mātāpi­tu­rak­khi­tañca … pe …"
 msgstr "“Venerable, go to so-and-so protected by her mother and so-and-so protected by her parents …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.32"
+msgctxt "pli-tv-bu-vb-ss5:4.5.31"
 msgid "mātu­rak­khi­tañca saparidaṇḍañca brūhi—"
 msgstr "so-and-so protected by her mother and so-and-so protected by the threat of punishment and say, "
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.33"
+msgctxt "pli-tv-bu-vb-ss5:4.5.32"
 msgid "‘hotha kira itthannāmassa bhariyāyo muhuttikā’”ti."
 msgstr "‘Please be the momentary wives of so-and-so.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.34"
+msgctxt "pli-tv-bu-vb-ss5:4.5.33"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc76, ms1V_1295 
-msgctxt "pli-tv-bu-vb-ss5:4.5.35"
+msgctxt "pli-tv-bu-vb-ss5:4.5.34"
 msgid "Khaṇḍacakkaṃ."
 msgstr "The unconnected permutation series."
 
 #. HTML: </p><p>
 #. REF: sc77, ms1V_1296 
-msgctxt "pli-tv-bu-vb-ss5:4.5.36"
+msgctxt "pli-tv-bu-vb-ss5:4.5.35"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.37"
+msgctxt "pli-tv-bu-vb-ss5:4.5.36"
 msgid "“gaccha, bhante, itthannāmaṃ pitu­rak­khi­tañca ­mātāpi­tu­rak­khi­tañca brūhi—"
 msgstr "“Venerable, go to so-and-so protected by her father and so-and-so protected by her parents and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.38"
+msgctxt "pli-tv-bu-vb-ss5:4.5.37"
 msgid "‘hotha kira itthannāmassa bhariyāyo muhuttikā’”ti."
 msgstr "‘Please be the momentary wives of so-and-so.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.39"
+msgctxt "pli-tv-bu-vb-ss5:4.5.38"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p>
 #. REF: sc78, ms1V_1297 
-msgctxt "pli-tv-bu-vb-ss5:4.5.40"
+msgctxt "pli-tv-bu-vb-ss5:4.5.39"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.41"
+msgctxt "pli-tv-bu-vb-ss5:4.5.40"
 msgid "“gaccha, bhante, itthannāmaṃ pitu­rak­khi­tañca bhātu­rak­khi­tañca … pe …"
 msgstr "“Venerable, go to so-and-so protected by her father and so-and-so protected by her brother …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.42"
+msgctxt "pli-tv-bu-vb-ss5:4.5.41"
 msgid "pitu­rak­khi­tañca saparidaṇḍañca brūhi—"
 msgstr "so-and-so protected by her father and so-and-so protected by the threat of punishment and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.43"
+msgctxt "pli-tv-bu-vb-ss5:4.5.42"
 msgid "‘hotha kira itthannāmassa bhariyāyo muhuttikā’”ti."
 msgstr "‘Please be the momentary wives of so-and-so.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.44"
+msgctxt "pli-tv-bu-vb-ss5:4.5.43"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p>
 #. REF: sc79, ms1V_1298 
-msgctxt "pli-tv-bu-vb-ss5:4.5.45"
+msgctxt "pli-tv-bu-vb-ss5:4.5.44"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.46"
+msgctxt "pli-tv-bu-vb-ss5:4.5.45"
 msgid "“gaccha, bhante, itthannāmaṃ pitu­rak­khi­tañca mātu­rak­khi­tañca brūhi—"
 msgstr "“Venerable, go to so-and-so protected by her father and so-and-so protected by her mother and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.47"
+msgctxt "pli-tv-bu-vb-ss5:4.5.46"
 msgid "‘hotha kira itthannāmassa bhariyāyo muhuttikā’”ti."
 msgstr "‘Please be the momentary wives of so-and-so.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.48"
+msgctxt "pli-tv-bu-vb-ss5:4.5.47"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc80, ms1V_1299 
-msgctxt "pli-tv-bu-vb-ss5:4.5.49"
+msgctxt "pli-tv-bu-vb-ss5:4.5.48"
 msgid "Baddhacakkaṃ mūlaṃ saṃkhittaṃ."
 msgstr "The linked permutation series, the basis in brief."
 
 #. HTML: </p><p>
 #. REF: sc81, ms1V_1300 
-msgctxt "pli-tv-bu-vb-ss5:4.5.50"
+msgctxt "pli-tv-bu-vb-ss5:4.5.49"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.51"
+msgctxt "pli-tv-bu-vb-ss5:4.5.50"
 msgid "“gaccha, bhante, itthannāmaṃ saparidaṇḍañca mātu­rak­khi­tañca brūhi—"
 msgstr "“Venerable, go to so-and-so protected by the threat of punishment and so-and-so protected by her mother and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.52"
+msgctxt "pli-tv-bu-vb-ss5:4.5.51"
 msgid "‘hotha kira itthannāmassa bhariyāyo muhuttikā’”ti."
 msgstr "‘Please be the momentary wives of so-and-so.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.53"
+msgctxt "pli-tv-bu-vb-ss5:4.5.52"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p>
 #. REF: sc82, ms1V_1301 
-msgctxt "pli-tv-bu-vb-ss5:4.5.54"
+msgctxt "pli-tv-bu-vb-ss5:4.5.53"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.55"
+msgctxt "pli-tv-bu-vb-ss5:4.5.54"
 msgid "“gaccha, bhante, itthannāmaṃ saparidaṇḍañca pitu­rak­khi­tañca … pe …"
 msgstr "“Venerable, go to so-and-so protected by the threat of punishment and so-and-so protected by her father …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.56"
+msgctxt "pli-tv-bu-vb-ss5:4.5.55"
 msgid "saparidaṇḍañca sārakkhañca brūhi—"
 msgstr "so-and-so protected by the threat of punishment and so-and-so otherwise protected and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.57"
+msgctxt "pli-tv-bu-vb-ss5:4.5.56"
 msgid "‘hotha kira itthannāmassa bhariyāyo muhuttikā’”ti."
 msgstr "‘Please be the momentary wives of so-and-so.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.58"
+msgctxt "pli-tv-bu-vb-ss5:4.5.57"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc83, ms1V_1302 
-msgctxt "pli-tv-bu-vb-ss5:4.5.59"
+msgctxt "pli-tv-bu-vb-ss5:4.5.58"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.5.59a"
+msgctxt "pli-tv-bu-vb-ss5:4.5.59.0"
 msgid ""
 msgstr "Mediating between a man and three to nine momentary wives"
 
 #. HTML: </h5><p>
 #. REF: sc84, ms1V_1303 
-msgctxt "pli-tv-bu-vb-ss5:4.5.60"
+msgctxt "pli-tv-bu-vb-ss5:4.5.59"
 msgid "Dumūlakādīnipi evameva kātabbāni."
 msgstr "The sections on two root items, etc., are to be done in the same way."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.5.60a"
+msgctxt "pli-tv-bu-vb-ss5:4.5.60.0"
 msgid ""
 msgstr "Mediating between a man and ten momentary wives"
 
 #. HTML: </h5><p>
 #. REF: sc85, ms1V_1304 
-msgctxt "pli-tv-bu-vb-ss5:4.5.61"
+msgctxt "pli-tv-bu-vb-ss5:4.5.60"
 msgid "Idaṃ dasamūlakaṃ—"
 msgstr "This is the section on ten root items:"
 
 #. HTML: </p><p>
 #. REF: sc86, pts-vp-pli3.141, ms1V_1305, pts-vp-en1.240
-msgctxt "pli-tv-bu-vb-ss5:4.5.62"
+msgctxt "pli-tv-bu-vb-ss5:4.5.61"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.63"
+msgctxt "pli-tv-bu-vb-ss5:4.5.62"
 msgid "“gaccha, bhante, itthannāmaṃ mātu­rak­khi­tañca pitu­rak­khi­tañca ­mātāpi­tu­rak­khi­tañca bhātu­rak­khi­tañca bhagi­ni­rak­khi­tañca ñāti­rak­khi­tañca gotta­rak­khi­tañca dhamma­rak­khi­tañca sārakkhañca saparidaṇḍañca brūhi—"
 msgstr "“Venerable, go to so-and-so protected by her mother and so-and-so protected by her father and so-and-so protected by her parents and so-and-so protected by her brother and so-and-so protected by her sister and so-and-so protected by her relatives and so-and-so protected by her kinsmen and so-and-so protected by her religion and so-and-so otherwise protected and so-and-so protected by the threat of punishment and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.64"
+msgctxt "pli-tv-bu-vb-ss5:4.5.63"
 msgid "‘hotha kira itthannāmassa bhariyāyo muhuttikā’”ti."
 msgstr "‘Please be the momentary wives of so-and-so.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.5.65"
+msgctxt "pli-tv-bu-vb-ss5:4.5.64"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc87, ms1V_1306 
-msgctxt "pli-tv-bu-vb-ss5:4.5.66"
+msgctxt "pli-tv-bu-vb-ss5:4.5.65"
 msgid "Muhut­ti­kā­cakkaṃ niṭṭhitaṃ."
 msgstr "The permutation series on momentary wives is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.6.0a"
+msgctxt "pli-tv-bu-vb-ss5:4.6.0"
 msgid ""
 msgstr "Mediating between a man and one protected by her mother: a single motive"
 
@@ -1949,469 +1949,469 @@ msgid "Nikkhepapadāni."
 msgstr "The setting out of the steps."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.6.17a"
+msgctxt "pli-tv-bu-vb-ss5:4.6.17.0"
 msgid ""
 msgstr "Mediating between a man and one protected by her mother: combinations of two motives"
 
 #. HTML: </h5><p>
 #. REF: sc91, ms1V_1310 
-msgctxt "pli-tv-bu-vb-ss5:4.6.18"
+msgctxt "pli-tv-bu-vb-ss5:4.6.17"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.19"
+msgctxt "pli-tv-bu-vb-ss5:4.6.18"
 msgid "“gaccha, bhante, itthannāmaṃ māturakkhitaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so protected by her mother and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.20"
+msgctxt "pli-tv-bu-vb-ss5:4.6.19"
 msgid "‘hohi kira itthannāmassa bhariyā dhanakkītā ca chandavāsinī cā’”ti."
 msgstr "‘Please be the bought wife of so-and-so and his wife by choice.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.21"
+msgctxt "pli-tv-bu-vb-ss5:4.6.20"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p>
 #. REF: sc92, ms1V_1311 
-msgctxt "pli-tv-bu-vb-ss5:4.6.22"
+msgctxt "pli-tv-bu-vb-ss5:4.6.21"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.23"
+msgctxt "pli-tv-bu-vb-ss5:4.6.22"
 msgid "“gaccha, bhante, itthannāmaṃ māturakkhitaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so protected by her mother and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.24"
+msgctxt "pli-tv-bu-vb-ss5:4.6.23"
 msgid "‘hohi kira itthannāmassa bhariyā dhanakkītā ca bhogavāsinī ca … pe …"
 msgstr "‘Please be the bought wife of so-and-so and his wife through property …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.25"
+msgctxt "pli-tv-bu-vb-ss5:4.6.24"
 msgid "dhanakkītā ca paṭavāsinī ca …"
 msgstr "his bought wife and his wife through clothes …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.26"
+msgctxt "pli-tv-bu-vb-ss5:4.6.25"
 msgid "dhanakkītā ca odapattakinī ca …"
 msgstr "his bought wife and his wife through the bowl-of-water ritual …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.27"
+msgctxt "pli-tv-bu-vb-ss5:4.6.26"
 msgid "dhanakkītā ca obhaṭacumbaṭā ca …"
 msgstr "his bought wife and his wife through removing the head pad …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.28"
+msgctxt "pli-tv-bu-vb-ss5:4.6.27"
 msgid "dhanakkītā ca dāsī ca bhariyā ca …"
 msgstr "his bought wife and his slave wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.29"
+msgctxt "pli-tv-bu-vb-ss5:4.6.28"
 msgid "dhanakkītā ca kammakārī ca bhariyā ca …"
 msgstr "his bought wife and his servant wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.30"
+msgctxt "pli-tv-bu-vb-ss5:4.6.29"
 msgid "dhanakkītā ca dhajāhaṭā ca …"
 msgstr "his bought wife and his captured wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.31"
+msgctxt "pli-tv-bu-vb-ss5:4.6.30"
 msgid "dhanakkītā ca muhuttikā cā’”ti."
 msgstr "his bought wife and his momentary wife.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.32"
+msgctxt "pli-tv-bu-vb-ss5:4.6.31"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc93, ms1V_1312 
-msgctxt "pli-tv-bu-vb-ss5:4.6.33"
+msgctxt "pli-tv-bu-vb-ss5:4.6.32"
 msgid "Khaṇḍacakkaṃ."
 msgstr "The unconnected permutation series."
 
 #. HTML: </p><p>
 #. REF: sc94, ms1V_1313 
-msgctxt "pli-tv-bu-vb-ss5:4.6.34"
+msgctxt "pli-tv-bu-vb-ss5:4.6.33"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.35"
+msgctxt "pli-tv-bu-vb-ss5:4.6.34"
 msgid "“gaccha, bhante, itthannāmaṃ māturakkhitaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so protected by her mother and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.36"
+msgctxt "pli-tv-bu-vb-ss5:4.6.35"
 msgid "‘hohi kira itthannāmassa bhariyā chandavāsinī ca bhogavāsinī ca … pe …"
 msgstr "‘Please be the wife by choice of so-and-so and his wife through property …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.37"
+msgctxt "pli-tv-bu-vb-ss5:4.6.36"
 msgid "chandavāsinī ca muhuttikā ca …"
 msgstr "his wife by choice and his momentary wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.38"
+msgctxt "pli-tv-bu-vb-ss5:4.6.37"
 msgid "chandavāsinī ca dhanakkītā cā’”ti."
 msgstr "his wife by choice and his bought wife.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.39"
+msgctxt "pli-tv-bu-vb-ss5:4.6.38"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc95, ms1V_1314 
-msgctxt "pli-tv-bu-vb-ss5:4.6.40"
+msgctxt "pli-tv-bu-vb-ss5:4.6.39"
 msgid "Baddhacakkaṃ mūlaṃ saṃkhittaṃ."
 msgstr "The linked permutation series, the basis in brief."
 
 #. HTML: </p><p>
 #. REF: sc96, ms1V_1315 
-msgctxt "pli-tv-bu-vb-ss5:4.6.41"
+msgctxt "pli-tv-bu-vb-ss5:4.6.40"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.42"
+msgctxt "pli-tv-bu-vb-ss5:4.6.41"
 msgid "“gaccha, bhante, itthannāmaṃ māturakkhitaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so protected by her mother and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.43"
+msgctxt "pli-tv-bu-vb-ss5:4.6.42"
 msgid "‘hohi kira itthannāmassa bhariyā muhuttikā ca dhanakkītā ca … pe …"
 msgstr "‘Please be the momentary wife of so-and-so and his bought wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.44"
+msgctxt "pli-tv-bu-vb-ss5:4.6.43"
 msgid "muhuttikā ca chandavāsinī ca … pe …"
 msgstr "his momentary wife and his wife by choice …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.45"
+msgctxt "pli-tv-bu-vb-ss5:4.6.44"
 msgid "muhuttikā ca dhajāhaṭā cā’”ti."
 msgstr "his momentary wife and his captured wife.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.46"
+msgctxt "pli-tv-bu-vb-ss5:4.6.45"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc97, ms1V_1316 
-msgctxt "pli-tv-bu-vb-ss5:4.6.47"
+msgctxt "pli-tv-bu-vb-ss5:4.6.46"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.6.47a"
+msgctxt "pli-tv-bu-vb-ss5:4.6.47.0"
 msgid ""
 msgstr "Mediating between a man and one protected by her mother: combinations of three to nine motives"
 
 #. HTML: </h5><p>
 #. REF: sc98, ms1V_1317 
-msgctxt "pli-tv-bu-vb-ss5:4.6.48"
+msgctxt "pli-tv-bu-vb-ss5:4.6.47"
 msgid "Dumūlakādīnipi evameva kātabbāni."
 msgstr "The sections on two root items, etc., are to be done in the same way."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.6.49"
+msgctxt "pli-tv-bu-vb-ss5:4.6.49.0"
 msgid ""
 msgstr "Mediating between a man and one protected by her mother: ten motives"
 
 #. HTML: </h5><p>
 #. REF: sc99, ms1V_1318 
-msgctxt "pli-tv-bu-vb-ss5:4.6.50"
+msgctxt "pli-tv-bu-vb-ss5:4.6.49"
 msgid "Idaṃ dasamūlakaṃ—"
 msgstr "This is the section on ten root items:"
 
 #. HTML: </p><p>
 #. REF: sc100, ms1V_1319 
-msgctxt "pli-tv-bu-vb-ss5:4.6.51"
+msgctxt "pli-tv-bu-vb-ss5:4.6.50"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.52"
+msgctxt "pli-tv-bu-vb-ss5:4.6.51"
 msgid "“gaccha, bhante, itthannāmaṃ māturakkhitaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so protected by her mother and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.53"
+msgctxt "pli-tv-bu-vb-ss5:4.6.52"
 msgid "‘hohi kira itthannāmassa bhariyā dhanakkītā ca chandavāsinī ca bhogavāsinī ca paṭavāsinī ca odapattakinī ca obhaṭacumbaṭā ca dāsī ca bhariyā ca kammakārī ca bhariyā ca dhajāhaṭā ca muhuttikā cā’”ti."
 msgstr "‘Please be the bought wife of so-and-so and his wife by choice and his wife through property and his wife through clothes and his wife through the bowl-of-water ritual and his wife through removing the head pad and his slave wife and his servant wife and his captured wife and his momentary wife.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.54"
+msgctxt "pli-tv-bu-vb-ss5:4.6.53"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc101, ms1V_1320 
-msgctxt "pli-tv-bu-vb-ss5:4.6.55"
+msgctxt "pli-tv-bu-vb-ss5:4.6.54"
 msgid "Mātu­rak­khi­tā­cakkaṃ niṭṭhitaṃ."
 msgstr "The permutation series on the one guarded by her mother is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.6.55a"
+msgctxt "pli-tv-bu-vb-ss5:4.6.55.0"
 msgid ""
 msgstr "Mediating between a man and one protected in various ways: any combination of motives"
 
 #. HTML: </h5><p>
 #. REF: sc102, ms1V_1321 
-msgctxt "pli-tv-bu-vb-ss5:4.6.56"
+msgctxt "pli-tv-bu-vb-ss5:4.6.55"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.57"
+msgctxt "pli-tv-bu-vb-ss5:4.6.56"
 msgid "“gaccha, bhante, itthannāmaṃ piturakkhitaṃ … pe …"
 msgstr "“Venerable, go to so-and-so protected by her father …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.58"
+msgctxt "pli-tv-bu-vb-ss5:4.6.57"
 msgid "­mātāpi­tu­rak­khi­taṃ …"
 msgstr "so-and-so protected by her parents …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.59"
+msgctxt "pli-tv-bu-vb-ss5:4.6.58"
 msgid "bhāturakkhitaṃ …"
 msgstr "so-and-so protected by her brother …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.60"
+msgctxt "pli-tv-bu-vb-ss5:4.6.59"
 msgid "bhagi­ni­rak­khi­taṃ …"
 msgstr "so-and-so protected by her sister …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.61"
+msgctxt "pli-tv-bu-vb-ss5:4.6.60"
 msgid "ñātirakkhitaṃ …"
 msgstr "so-and-so protected by her relatives …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.62"
+msgctxt "pli-tv-bu-vb-ss5:4.6.61"
 msgid "gottarakkhitaṃ …"
 msgstr "so-and-so protected by her kinsmen …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.63"
+msgctxt "pli-tv-bu-vb-ss5:4.6.62"
 msgid "dhamma­rak­khi­taṃ …"
 msgstr "so-and-so protected by her religion …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.64"
+msgctxt "pli-tv-bu-vb-ss5:4.6.63"
 msgid "sārakkhaṃ …"
 msgstr "so-and-so otherwise protected …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.65"
+msgctxt "pli-tv-bu-vb-ss5:4.6.64"
 msgid "saparidaṇḍaṃ brūhi—"
 msgstr "so-and-so protected by the threat of punishment and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.66"
+msgctxt "pli-tv-bu-vb-ss5:4.6.65"
 msgid "‘hohi kira itthannāmassa bhariyā dhanakkītā’”ti."
 msgstr "‘Please be the bought wife of so-and-so.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.67"
+msgctxt "pli-tv-bu-vb-ss5:4.6.66"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.6.68"
+msgctxt "pli-tv-bu-vb-ss5:4.6.68.0"
 msgid ""
 msgstr "Mediating between a man and one protected by the threat of punishment: a single motive"
 
 #. HTML: </h5><p>
 #. REF: sc103, ms1V_1322 
-msgctxt "pli-tv-bu-vb-ss5:4.6.69"
+msgctxt "pli-tv-bu-vb-ss5:4.6.68"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.70"
+msgctxt "pli-tv-bu-vb-ss5:4.6.69"
 msgid "“gaccha, bhante, itthannāmaṃ saparidaṇḍaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so protected by the threat of punishment and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.71"
+msgctxt "pli-tv-bu-vb-ss5:4.6.70"
 msgid "‘hohi kira itthannāmassa bhariyā chandavāsinī … pe …"
 msgstr "‘Please be the wife by choice of so-and-so …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.72"
+msgctxt "pli-tv-bu-vb-ss5:4.6.71"
 msgid "bhogavāsinī …"
 msgstr "his wife through property …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.73"
+msgctxt "pli-tv-bu-vb-ss5:4.6.72"
 msgid "paṭavāsinī …"
 msgstr "his wife through clothes …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.74"
+msgctxt "pli-tv-bu-vb-ss5:4.6.73"
 msgid "odapattakinī …"
 msgstr "his wife through the bowl-of-water ritual …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.75"
+msgctxt "pli-tv-bu-vb-ss5:4.6.74"
 msgid "obhaṭacumbaṭā …"
 msgstr "his wife through removing the head pad …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.76"
+msgctxt "pli-tv-bu-vb-ss5:4.6.75"
 msgid "dāsī ca bhariyā ca …"
 msgstr "his slave wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.77"
+msgctxt "pli-tv-bu-vb-ss5:4.6.76"
 msgid "kammakārī ca bhariyā ca …"
 msgstr "his servant wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.78"
+msgctxt "pli-tv-bu-vb-ss5:4.6.77"
 msgid "dhajāhaṭā …"
 msgstr "his captured wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.79"
+msgctxt "pli-tv-bu-vb-ss5:4.6.78"
 msgid "muhuttikā’”ti."
 msgstr "his momentary wife.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.80"
+msgctxt "pli-tv-bu-vb-ss5:4.6.79"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc104, ms1V_1323 
-msgctxt "pli-tv-bu-vb-ss5:4.6.81"
+msgctxt "pli-tv-bu-vb-ss5:4.6.80"
 msgid "Nikkhepapadāni."
 msgstr "The setting out of the steps."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.6.81a"
+msgctxt "pli-tv-bu-vb-ss5:4.6.81.0"
 msgid ""
 msgstr "Mediating between a man and one protected by the threat of punishment: combinations of two motives"
 
 #. HTML: </h5><p>
 #. REF: sc105, ms1V_1324 
-msgctxt "pli-tv-bu-vb-ss5:4.6.82"
+msgctxt "pli-tv-bu-vb-ss5:4.6.81"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.83"
+msgctxt "pli-tv-bu-vb-ss5:4.6.82"
 msgid "“gaccha, bhante, itthannāmaṃ saparidaṇḍaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so protected by the threat of punishment and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.84"
+msgctxt "pli-tv-bu-vb-ss5:4.6.83"
 msgid "‘hohi kira itthannāmassa bhariyā dhanakkītā ca chandavāsinī cā’”ti."
 msgstr "‘Please be the bought wife of so-and-so and his wife by choice.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.85"
+msgctxt "pli-tv-bu-vb-ss5:4.6.84"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p>
 #. REF: sc106, ms1V_1325 
-msgctxt "pli-tv-bu-vb-ss5:4.6.86"
+msgctxt "pli-tv-bu-vb-ss5:4.6.85"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.87"
+msgctxt "pli-tv-bu-vb-ss5:4.6.86"
 msgid "“gaccha, bhante, itthannāmaṃ saparidaṇḍaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so protected by the threat of punishment and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.88"
+msgctxt "pli-tv-bu-vb-ss5:4.6.87"
 msgid "‘hohi kira itthannāmassa bhariyā dhanakkītā ca bhogavāsinī ca … pe …"
 msgstr "‘Please be the bought wife of so-and-so and his wife through property …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.89"
+msgctxt "pli-tv-bu-vb-ss5:4.6.88"
 msgid "dhanakkītā ca muhuttikā cā’”ti."
 msgstr "his bought wife and his momentary wife.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.90"
+msgctxt "pli-tv-bu-vb-ss5:4.6.89"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc107, ms1V_1326 
-msgctxt "pli-tv-bu-vb-ss5:4.6.91"
+msgctxt "pli-tv-bu-vb-ss5:4.6.90"
 msgid "Khaṇḍacakkaṃ."
 msgstr "The unconnected permutation series."
 
 #. HTML: </p><p>
 #. REF: sc108, ms1V_1327 
-msgctxt "pli-tv-bu-vb-ss5:4.6.92"
+msgctxt "pli-tv-bu-vb-ss5:4.6.91"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.93"
+msgctxt "pli-tv-bu-vb-ss5:4.6.92"
 msgid "“gaccha, bhante, itthannāmaṃ saparidaṇḍaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so protected by the threat of punishment and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.94"
+msgctxt "pli-tv-bu-vb-ss5:4.6.93"
 msgid "‘hohi kira itthannāmassa bhariyā chandavāsinī ca bhogavāsinī ca … pe …"
 msgstr "‘Please be the wife by choice of so-and-so and his wife through property …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.95"
+msgctxt "pli-tv-bu-vb-ss5:4.6.94"
 msgid "chandavāsinī ca muhuttikā ca …"
 msgstr "his wife by choice and his momentary wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.96"
+msgctxt "pli-tv-bu-vb-ss5:4.6.95"
 msgid "chandavāsinī ca dhanakkītā cā’”ti."
 msgstr "his wife by choice and his bought wife.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.97"
+msgctxt "pli-tv-bu-vb-ss5:4.6.96"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc109, ms1V_1328 
-msgctxt "pli-tv-bu-vb-ss5:4.6.98"
+msgctxt "pli-tv-bu-vb-ss5:4.6.97"
 msgid "Baddhacakkaṃ mūlaṃ saṃkhittaṃ."
 msgstr "The linked permutation series, the basis in brief."
 
 #. HTML: </p><p>
 #. REF: sc110, ms1V_1329 
-msgctxt "pli-tv-bu-vb-ss5:4.6.99"
+msgctxt "pli-tv-bu-vb-ss5:4.6.98"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.100"
+msgctxt "pli-tv-bu-vb-ss5:4.6.99"
 msgid "“gaccha, bhante, itthannāmaṃ saparidaṇḍaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so protected by the threat of punishment and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.101"
+msgctxt "pli-tv-bu-vb-ss5:4.6.100"
 msgid "‘hohi kira itthannāmassa bhariyā muhuttikā ca dhanakkītā ca … pe …"
 msgstr "‘Please be the momentary wife of so-and-so and his bought wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.102"
+msgctxt "pli-tv-bu-vb-ss5:4.6.101"
 msgid "muhuttikā ca chandavāsinī ca … pe …"
 msgstr "his momentary wife and his wife by choice …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.103"
+msgctxt "pli-tv-bu-vb-ss5:4.6.102"
 msgid "muhuttikā ca dhajāhaṭā cā’”ti."
 msgstr "his momentary wife and his captured wife.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.104"
+msgctxt "pli-tv-bu-vb-ss5:4.6.103"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc111, ms1V_1330 
-msgctxt "pli-tv-bu-vb-ss5:4.6.105"
+msgctxt "pli-tv-bu-vb-ss5:4.6.104"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.6.105a"
+msgctxt "pli-tv-bu-vb-ss5:4.6.105.0"
 msgid ""
 msgstr "Mediating between a man and one protected by the threat of punishment: combinations of three to nine motives"
 
 #. HTML: </h5><p>
 #. REF: sc112, ms1V_1331 
-msgctxt "pli-tv-bu-vb-ss5:4.6.106"
+msgctxt "pli-tv-bu-vb-ss5:4.6.105"
 msgid "Dumūlakampi timūlakampi yāva navamūlakaṃ evameva kātabbaṃ."
 msgstr "The sections on two root items, three root items, up to nine root items, are to be done in the same way."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.6.106a"
+msgctxt "pli-tv-bu-vb-ss5:4.6.106.0"
 msgid ""
 msgstr "Mediating between a man and one protected by the threat of punishment: ten motives"
 
 #. HTML: </h5><p>
 #. REF: sc113, ms1V_1332 
-msgctxt "pli-tv-bu-vb-ss5:4.6.107"
+msgctxt "pli-tv-bu-vb-ss5:4.6.106"
 msgid "Idaṃ dasamūlakaṃ—"
 msgstr "This is the section on ten root items:"
 
 #. HTML: </p><p>
 #. REF: sc114, ms1V_1333 
-msgctxt "pli-tv-bu-vb-ss5:4.6.108"
+msgctxt "pli-tv-bu-vb-ss5:4.6.107"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.109"
+msgctxt "pli-tv-bu-vb-ss5:4.6.108"
 msgid "“gaccha, bhante, itthannāmaṃ saparidaṇḍaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so protected by the threat of punishment and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.110"
+msgctxt "pli-tv-bu-vb-ss5:4.6.109"
 msgid "‘hohi kira itthannāmassa bhariyā dhanakkītā ca chandavāsinī ca bhogavāsinī ca paṭavāsinī ca odapattakinī ca obhaṭacumbaṭā ca dāsī ca bhariyā ca kammakārī ca bhariyā ca dhajāhaṭā ca muhuttikā cā’”ti."
 msgstr "‘Please be the bought wife of so-and-so and his wife by choice and his wife through property and his wife through clothes and his wife through the bowl-of-water ritual and his wife through removing the head pad and his slave wife and his servant wife and his captured wife and his momentary wife.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.6.111"
+msgctxt "pli-tv-bu-vb-ss5:4.6.110"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc115, ms1V_1334 
-msgctxt "pli-tv-bu-vb-ss5:4.6.112"
+msgctxt "pli-tv-bu-vb-ss5:4.6.111"
 msgid "Sapari­daṇḍā­cakkaṃ niṭṭhitaṃ."
 msgstr "The permutation series for the one protected by the threat of punishment is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.7.0a"
+msgctxt "pli-tv-bu-vb-ss5:4.7.0"
 msgid ""
 msgstr "Incremental increase in both wives and motives"
 
@@ -2501,7 +2501,7 @@ msgid "Ubhato­vaḍḍha­kaṃ niṭṭhitaṃ."
 msgstr "The increase of both items is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.8.0a"
+msgctxt "pli-tv-bu-vb-ss5:4.8.0"
 msgid ""
 msgstr "Relationships arranged for a man"
 
@@ -2552,7 +2552,7 @@ msgid "Ubhato­vaḍḍha­kaṃ yathā purimanayo tatheva vitthāretabbaṃ."
 msgstr "The increase of both items is to be expanded as before."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.9.0a"
+msgctxt "pli-tv-bu-vb-ss5:4.9.0"
 msgid ""
 msgstr "Relationships arranged by the mother: a single motive"
 
@@ -2631,154 +2631,154 @@ msgid "Nikkhepapadāni."
 msgstr "The setting out of the steps."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.9.17a"
+msgctxt "pli-tv-bu-vb-ss5:4.9.17.0"
 msgid ""
 msgstr "Relationships arranged by the mother: combinations of two motives"
 
 #. HTML: </h5><p>
 #. REF: sc128, ms1V_1347 
-msgctxt "pli-tv-bu-vb-ss5:4.9.18"
+msgctxt "pli-tv-bu-vb-ss5:4.9.17"
 msgid "Māturakkhitāya mātā bhikkhuṃ pahiṇati—"
 msgstr "The mother of one protected by her mother sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.9.19"
+msgctxt "pli-tv-bu-vb-ss5:4.9.18"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.9.20"
+msgctxt "pli-tv-bu-vb-ss5:4.9.19"
 msgid "‘hotu itthannāmassa bhariyā dhanakkītā ca chandavāsinī ca … pe …"
 msgstr "‘I have a wife for you who can be your bought wife and your wife by choice …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.9.21"
+msgctxt "pli-tv-bu-vb-ss5:4.9.20"
 msgid "dhanakkītā ca bhogavāsinī ca … pe …"
 msgstr "your bought wife and your wife through property …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.9.22"
+msgctxt "pli-tv-bu-vb-ss5:4.9.21"
 msgid "dhanakkītā ca muhuttikā cā’”ti."
 msgstr "your bought wife and your momentary wife.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.9.23"
+msgctxt "pli-tv-bu-vb-ss5:4.9.22"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc129, ms1V_1348 
-msgctxt "pli-tv-bu-vb-ss5:4.9.24"
+msgctxt "pli-tv-bu-vb-ss5:4.9.23"
 msgid "Khaṇḍacakkaṃ."
 msgstr "The unconnected permutation series."
 
 #. HTML: </p><p>
 #. REF: sc130, ms1V_1349 
-msgctxt "pli-tv-bu-vb-ss5:4.9.25"
+msgctxt "pli-tv-bu-vb-ss5:4.9.24"
 msgid "Māturakkhitāya mātā bhikkhuṃ pahiṇati—"
 msgstr "The mother of one protected by her mother sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.9.26"
+msgctxt "pli-tv-bu-vb-ss5:4.9.25"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.9.27"
+msgctxt "pli-tv-bu-vb-ss5:4.9.26"
 msgid "‘hotu itthannāmassa bhariyā chandavāsinī ca bhogavāsinī ca … pe …"
 msgstr "‘I have a wife for you who can be your wife by choice and your wife through property …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.9.28"
+msgctxt "pli-tv-bu-vb-ss5:4.9.27"
 msgid "chandavāsinī ca muhuttikā ca …"
 msgstr "your wife by choice and your momentary wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.9.29"
+msgctxt "pli-tv-bu-vb-ss5:4.9.28"
 msgid "chandavāsinī ca dhanakkītā cā’”ti."
 msgstr "your wife by choice and your bought wife.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.9.30"
+msgctxt "pli-tv-bu-vb-ss5:4.9.29"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc131, ms1V_1350 
-msgctxt "pli-tv-bu-vb-ss5:4.9.31"
+msgctxt "pli-tv-bu-vb-ss5:4.9.30"
 msgid "Baddhacakkaṃ mūlaṃ saṃkhittaṃ."
 msgstr "The linked permutation series, the basis in brief."
 
 #. HTML: </p><p>
 #. REF: sc132, ms1V_1351 
-msgctxt "pli-tv-bu-vb-ss5:4.9.32"
+msgctxt "pli-tv-bu-vb-ss5:4.9.31"
 msgid "Māturakkhitāya mātā bhikkhuṃ pahiṇati—"
 msgstr "The mother of one protected by her mother sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.9.33"
+msgctxt "pli-tv-bu-vb-ss5:4.9.32"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.9.34"
+msgctxt "pli-tv-bu-vb-ss5:4.9.33"
 msgid "‘hotu itthannāmassa bhariyā muhuttikā ca dhanakkītā ca … pe …"
 msgstr "‘I have a wife for you who can be your momentary wife and your bought wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.9.35"
+msgctxt "pli-tv-bu-vb-ss5:4.9.34"
 msgid "muhuttikā ca chandavāsinī ca … pe …"
 msgstr "your momentary wife and your wife by choice …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.9.36"
+msgctxt "pli-tv-bu-vb-ss5:4.9.35"
 msgid "muhuttikā ca dhajāhaṭā cā’”ti."
 msgstr "your momentary wife and your captured wife.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.9.37"
+msgctxt "pli-tv-bu-vb-ss5:4.9.36"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc133, ms1V_1352 
-msgctxt "pli-tv-bu-vb-ss5:4.9.38"
+msgctxt "pli-tv-bu-vb-ss5:4.9.37"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.9.38a"
+msgctxt "pli-tv-bu-vb-ss5:4.9.38.0"
 msgid ""
 msgstr "Relationships arranged by the mother: combinations of three to nine motives"
 
 #. HTML: </h5><p>
 #. REF: sc134, ms1V_1353 
-msgctxt "pli-tv-bu-vb-ss5:4.9.39"
+msgctxt "pli-tv-bu-vb-ss5:4.9.38"
 msgid "Dumūlakampi timūlakampi yāva navamūlakaṃ evameva kātabbaṃ."
 msgstr "The sections on two root items, three root items, up to nine root items, are to be done in the same way."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.9.39a"
+msgctxt "pli-tv-bu-vb-ss5:4.9.39.0"
 msgid ""
 msgstr "Relationships arranged by the mother: ten motives"
 
 #. HTML: </h5><p>
 #. REF: sc135, ms1V_1354 
-msgctxt "pli-tv-bu-vb-ss5:4.9.40"
+msgctxt "pli-tv-bu-vb-ss5:4.9.39"
 msgid "Idaṃ dasamūlakaṃ—"
 msgstr "This is the section on ten root items:"
 
 #. HTML: </p><p>
 #. REF: sc136, ms1V_1355 
-msgctxt "pli-tv-bu-vb-ss5:4.9.41"
+msgctxt "pli-tv-bu-vb-ss5:4.9.40"
 msgid "Māturakkhitāya mātā bhikkhuṃ pahiṇati—"
 msgstr "The mother of one protected by her mother sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.9.42"
+msgctxt "pli-tv-bu-vb-ss5:4.9.41"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.9.43"
+msgctxt "pli-tv-bu-vb-ss5:4.9.42"
 msgid "‘hotu itthannāmassa bhariyā dhanakkītā ca chandavāsinī ca bhogavāsinī ca paṭavāsinī ca odapattakinī ca obhaṭacumbaṭā ca dāsī ca bhariyā ca kammakārī ca bhariyā ca dhajāhaṭā ca muhuttikā cā’”ti."
 msgstr "‘I have a wife for you who can be your bought wife and your wife by choice and your wife through property and your wife through clothes and your wife through the bowl-of-water ritual and your wife through removing the head pad and your slave wife and your servant wife and your captured wife and your momentary wife.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.9.44"
+msgctxt "pli-tv-bu-vb-ss5:4.9.43"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc137, ms1V_1356 
-msgctxt "pli-tv-bu-vb-ss5:4.9.45"
+msgctxt "pli-tv-bu-vb-ss5:4.9.44"
 msgid "Mātucakkaṃ niṭṭhitaṃ."
 msgstr "The permutation series on the mother is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.10.0a"
+msgctxt "pli-tv-bu-vb-ss5:4.10.0"
 msgid ""
 msgstr "Relationships arranged by various people: any combination of motives"
 
@@ -2834,215 +2834,215 @@ msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­ses
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.10.12a"
+msgctxt "pli-tv-bu-vb-ss5:4.10.12.0"
 msgid ""
 msgstr "Relationships arranged by the one who punishes: a single motive"
 
 #. HTML: </h5><p>
 #. REF: sc139, ms1V_1358 
-msgctxt "pli-tv-bu-vb-ss5:4.10.13"
+msgctxt "pli-tv-bu-vb-ss5:4.10.12"
 msgid "Saparidaṇḍāya yena daṇḍo ṭhapito hoti so bhikkhuṃ pahiṇati—"
 msgstr "The one who punishes in relation to one protected by the threat of punishment sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.14"
+msgctxt "pli-tv-bu-vb-ss5:4.10.13"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.15"
+msgctxt "pli-tv-bu-vb-ss5:4.10.14"
 msgid "‘hotu itthannāmassa bhariyā chandavāsinī … pe …"
 msgstr "‘I have a wife for you who can be your wife by choice …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.16"
+msgctxt "pli-tv-bu-vb-ss5:4.10.15"
 msgid "bhogavāsinī …"
 msgstr "your wife through property …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.17"
+msgctxt "pli-tv-bu-vb-ss5:4.10.16"
 msgid "paṭavāsinī …"
 msgstr "your wife through clothes …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.18"
+msgctxt "pli-tv-bu-vb-ss5:4.10.17"
 msgid "odapattakinī …"
 msgstr "your wife through the bowl-of-water ritual …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.19"
+msgctxt "pli-tv-bu-vb-ss5:4.10.18"
 msgid "obhaṭacumbaṭā …"
 msgstr "your wife through removing the head pad …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.20"
+msgctxt "pli-tv-bu-vb-ss5:4.10.19"
 msgid "dāsī ca bhariyā ca …"
 msgstr "your slave wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.21"
+msgctxt "pli-tv-bu-vb-ss5:4.10.20"
 msgid "kammakārī ca bhariyā ca …"
 msgstr "your servant wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.22"
+msgctxt "pli-tv-bu-vb-ss5:4.10.21"
 msgid "dhajāhaṭā …"
 msgstr "your captured wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.23"
+msgctxt "pli-tv-bu-vb-ss5:4.10.22"
 msgid "muhuttikā’”ti."
 msgstr "your momentary wife.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.24"
+msgctxt "pli-tv-bu-vb-ss5:4.10.23"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc140, ms1V_1359 
-msgctxt "pli-tv-bu-vb-ss5:4.10.25"
+msgctxt "pli-tv-bu-vb-ss5:4.10.24"
 msgid "Nikkhepapadāni."
 msgstr "The setting out of the steps."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.10.25a"
+msgctxt "pli-tv-bu-vb-ss5:4.10.25.0"
 msgid ""
 msgstr "Relationships arranged by the one who punishes: two motives"
 
 #. HTML: </h5><p>
 #. REF: sc141, ms1V_1360 
-msgctxt "pli-tv-bu-vb-ss5:4.10.26"
+msgctxt "pli-tv-bu-vb-ss5:4.10.25"
 msgid "Saparidaṇḍāya yena daṇḍo ṭhapito hoti so bhikkhuṃ pahiṇati—"
 msgstr "The one who punishes in relation to one protected by the threat of punishment sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.27"
+msgctxt "pli-tv-bu-vb-ss5:4.10.26"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.28"
+msgctxt "pli-tv-bu-vb-ss5:4.10.27"
 msgid "‘hotu itthannāmassa bhariyā dhanakkītā ca chandavāsinī ca … pe …"
 msgstr "‘I have a wife for you who can be your bought wife and your wife by choice …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.29"
+msgctxt "pli-tv-bu-vb-ss5:4.10.28"
 msgid "dhanakkītā ca bhogavāsinī ca … pe …"
 msgstr "your bought wife and your wife through property …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.30"
+msgctxt "pli-tv-bu-vb-ss5:4.10.29"
 msgid "dhanakkītā ca muhuttikā cā’”ti."
 msgstr "your bought wife and your momentary wife.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.31"
+msgctxt "pli-tv-bu-vb-ss5:4.10.30"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc142, ms1V_1361 
-msgctxt "pli-tv-bu-vb-ss5:4.10.32"
+msgctxt "pli-tv-bu-vb-ss5:4.10.31"
 msgid "Khaṇḍacakkaṃ."
 msgstr "The unconnected permutation series."
 
 #. HTML: </p><p>
 #. REF: sc143, ms1V_1362 
-msgctxt "pli-tv-bu-vb-ss5:4.10.33"
+msgctxt "pli-tv-bu-vb-ss5:4.10.32"
 msgid "Saparidaṇḍāya yena daṇḍo ṭhapito hoti so bhikkhuṃ pahiṇati—"
 msgstr "The one who punishes in relation to one protected by the threat of punishment sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.34"
+msgctxt "pli-tv-bu-vb-ss5:4.10.33"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.35"
+msgctxt "pli-tv-bu-vb-ss5:4.10.34"
 msgid "‘hotu itthannāmassa bhariyā chandavāsinī ca bhogavāsinī ca … pe …"
 msgstr "‘I have a wife for you who can be your wife by choice and your wife through property …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.36"
+msgctxt "pli-tv-bu-vb-ss5:4.10.35"
 msgid "chandavāsinī ca muhuttikā ca …"
 msgstr "your wife by choice and your momentary wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.37"
+msgctxt "pli-tv-bu-vb-ss5:4.10.36"
 msgid "chandavāsinī ca dhanakkītā cā’”ti."
 msgstr "your wife by choice and your bought wife.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.38"
+msgctxt "pli-tv-bu-vb-ss5:4.10.37"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc144, ms1V_1363 
-msgctxt "pli-tv-bu-vb-ss5:4.10.39"
+msgctxt "pli-tv-bu-vb-ss5:4.10.38"
 msgid "Baddhacakkaṃ mūlaṃ saṃkhittaṃ."
 msgstr "The linked permutation series, the basis in brief."
 
 #. HTML: </p><p>
 #. REF: sc145, ms1V_1364 
-msgctxt "pli-tv-bu-vb-ss5:4.10.40"
+msgctxt "pli-tv-bu-vb-ss5:4.10.39"
 msgid "Saparidaṇḍāya yena daṇḍo, ṭhapito hoti so bhikkhuṃ pahiṇati—"
 msgstr "The one who punishes in relation to one protected by the threat of punishment sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.41"
+msgctxt "pli-tv-bu-vb-ss5:4.10.40"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.42"
+msgctxt "pli-tv-bu-vb-ss5:4.10.41"
 msgid "‘hotu itthannāmassa bhariyā muhuttikā ca dhanakkītā ca … pe …"
 msgstr "‘I have a wife for you who can be your momentary wife and your bought wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.43"
+msgctxt "pli-tv-bu-vb-ss5:4.10.42"
 msgid "muhuttikā ca chandavāsinī ca … pe …"
 msgstr "who can be your momentary wife and your wife by choice …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.44"
+msgctxt "pli-tv-bu-vb-ss5:4.10.43"
 msgid "muhuttikā ca dhajāhaṭā cā’”ti."
 msgstr "who can be your momentary wife and your captured wife.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.45"
+msgctxt "pli-tv-bu-vb-ss5:4.10.44"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc146, ms1V_1365 
-msgctxt "pli-tv-bu-vb-ss5:4.10.46"
+msgctxt "pli-tv-bu-vb-ss5:4.10.45"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.10.46a"
+msgctxt "pli-tv-bu-vb-ss5:4.10.46.0"
 msgid ""
 msgstr "Relationships arranged by the one who punishes: three to nine motives"
 
 #. HTML: </h5><p>
 #. REF: sc147, ms1V_1366 
-msgctxt "pli-tv-bu-vb-ss5:4.10.47"
+msgctxt "pli-tv-bu-vb-ss5:4.10.46"
 msgid "Dumūlakampi timūlakampi yāva navamūlakaṃ evameva kātabbaṃ."
 msgstr "The sections on two root items, three root items, up to nine root items, are to be done in the same way."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.10.47a"
+msgctxt "pli-tv-bu-vb-ss5:4.10.47.0"
 msgid ""
 msgstr "Relationships arranged by the one who punishes: ten motives"
 
 #. HTML: </h5><p>
 #. REF: sc148, ms1V_1367 
-msgctxt "pli-tv-bu-vb-ss5:4.10.48"
+msgctxt "pli-tv-bu-vb-ss5:4.10.47"
 msgid "Idaṃ dasamūlakaṃ—"
 msgstr "This is the section on ten root items:"
 
 #. HTML: </p><p>
 #. REF: sc149, ms1V_1368 
-msgctxt "pli-tv-bu-vb-ss5:4.10.49"
+msgctxt "pli-tv-bu-vb-ss5:4.10.48"
 msgid "Saparidaṇḍāya yena daṇḍo ṭhapito hoti so bhikkhuṃ pahiṇati—"
 msgstr "The one who punishes in relation to one protected by the threat of punishment sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.50"
+msgctxt "pli-tv-bu-vb-ss5:4.10.49"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.51"
+msgctxt "pli-tv-bu-vb-ss5:4.10.50"
 msgid "‘hotu itthannāmassa bhariyā dhanakkītā ca chandavāsinī ca bhogavāsinī ca paṭavāsinī ca odapattakinī ca obhaṭacumbaṭā ca dāsī ca bhariyā ca kammakārī ca bhariyā ca dhajāhaṭā ca muhuttikā cā’”ti."
 msgstr "‘I have a wife for you who can be your bought wife and your wife by choice and your wife through property and your wife through clothes and your wife through the bowl-of-water ritual and your wife through removing the head pad and your slave wife and your servant wife and your captured wife and your momentary wife.’”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.10.52"
+msgctxt "pli-tv-bu-vb-ss5:4.10.51"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc150, ms1V_1369 
-msgctxt "pli-tv-bu-vb-ss5:4.10.53"
+msgctxt "pli-tv-bu-vb-ss5:4.10.52"
 msgid "Daṇḍa­ṭhapi­ta­cakkaṃ niṭṭhitaṃ."
 msgstr "The permutation series on the one who punishes is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.11.0a"
+msgctxt "pli-tv-bu-vb-ss5:4.11.0"
 msgid ""
 msgstr "The one protected by her mother taking the initiative: a single motive"
 
@@ -3121,436 +3121,436 @@ msgid "Nikkhepapadāni."
 msgstr "The setting out of the steps."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.11.17a"
+msgctxt "pli-tv-bu-vb-ss5:4.11.17.0"
 msgid ""
 msgstr "The one protected by her mother taking the initiative: two motives"
 
 #. HTML: </h5><p>
 #. REF: sc154, ms1V_1373 
-msgctxt "pli-tv-bu-vb-ss5:4.11.18"
+msgctxt "pli-tv-bu-vb-ss5:4.11.17"
 msgid "Māturakkhitā bhikkhuṃ pahiṇati—"
 msgstr "The one protected by her mother sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.19"
+msgctxt "pli-tv-bu-vb-ss5:4.11.18"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.20"
+msgctxt "pli-tv-bu-vb-ss5:4.11.19"
 msgid "‘homi itthannāmassa bhariyā dhanakkītā ca chandavāsinī cā’”ti."
 msgstr "that I’ll be his bought wife and his wife by choice.”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.21"
+msgctxt "pli-tv-bu-vb-ss5:4.11.20"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p>
 #. REF: sc155, ms1V_1374 
-msgctxt "pli-tv-bu-vb-ss5:4.11.22"
+msgctxt "pli-tv-bu-vb-ss5:4.11.21"
 msgid "Māturakkhitā bhikkhuṃ pahiṇati—"
 msgstr "The one protected by her mother sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.23"
+msgctxt "pli-tv-bu-vb-ss5:4.11.22"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.24"
+msgctxt "pli-tv-bu-vb-ss5:4.11.23"
 msgid "‘homi itthannāmassa bhariyā dhanakkītā ca bhogavāsinī ca … pe …"
 msgstr "that I’ll be his bought wife and his wife through property …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.25"
+msgctxt "pli-tv-bu-vb-ss5:4.11.24"
 msgid "dhanakkītā ca paṭavāsinī ca … pe …"
 msgstr "his bought wife and his wife through clothes …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.26"
+msgctxt "pli-tv-bu-vb-ss5:4.11.25"
 msgid "dhanakkītā ca muhuttikā cā’”ti."
 msgstr "his bought wife and his momentary wife.”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.27"
+msgctxt "pli-tv-bu-vb-ss5:4.11.26"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc156, ms1V_1375 
-msgctxt "pli-tv-bu-vb-ss5:4.11.28"
+msgctxt "pli-tv-bu-vb-ss5:4.11.27"
 msgid "Khaṇḍacakkaṃ."
 msgstr "The unconnected permutation series."
 
 #. HTML: </p><p>
 #. REF: sc157, ms1V_1376 
-msgctxt "pli-tv-bu-vb-ss5:4.11.29"
+msgctxt "pli-tv-bu-vb-ss5:4.11.28"
 msgid "Māturakkhitā bhikkhuṃ pahiṇati—"
 msgstr "The one protected by her mother sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.30"
+msgctxt "pli-tv-bu-vb-ss5:4.11.29"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.31"
+msgctxt "pli-tv-bu-vb-ss5:4.11.30"
 msgid "‘homi itthannāmassa bhariyā chandavāsinī ca bhogavāsinī ca … pe …"
 msgstr "that I’ll be his wife by choice and his wife though property …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.32"
+msgctxt "pli-tv-bu-vb-ss5:4.11.31"
 msgid "chandavāsinī ca muhuttikā ca …"
 msgstr "his wife by choice and his momentary wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.33"
+msgctxt "pli-tv-bu-vb-ss5:4.11.32"
 msgid "chandavāsinī ca dhanakkītā cā’”ti."
 msgstr "his wife by choice and his bought wife.”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.34"
+msgctxt "pli-tv-bu-vb-ss5:4.11.33"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc158, ms1V_1377 
-msgctxt "pli-tv-bu-vb-ss5:4.11.35"
+msgctxt "pli-tv-bu-vb-ss5:4.11.34"
 msgid "Baddhacakkaṃ mūlaṃ saṃkhittaṃ."
 msgstr "The linked permutation series, the basis in brief."
 
 #. HTML: </p><p>
 #. REF: sc159, ms1V_1378 
-msgctxt "pli-tv-bu-vb-ss5:4.11.36"
+msgctxt "pli-tv-bu-vb-ss5:4.11.35"
 msgid "Māturakkhitā bhikkhuṃ pahiṇati—"
 msgstr "The one protected by her mother sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.37"
+msgctxt "pli-tv-bu-vb-ss5:4.11.36"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.38"
+msgctxt "pli-tv-bu-vb-ss5:4.11.37"
 msgid "‘homi itthannāmassa bhariyā muhuttikā ca dhanakkītā ca … pe …"
 msgstr "that I’ll be his momentary wife and his bought wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.39"
+msgctxt "pli-tv-bu-vb-ss5:4.11.38"
 msgid "muhuttikā ca chandavāsinī ca … pe …"
 msgstr "his momentary wife and his wife by choice …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.40"
+msgctxt "pli-tv-bu-vb-ss5:4.11.39"
 msgid "muhuttikā ca dhajāhaṭā cā’”ti."
 msgstr "his momentary wife and his captured wife.”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.41"
+msgctxt "pli-tv-bu-vb-ss5:4.11.40"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc160, ms1V_1379 
-msgctxt "pli-tv-bu-vb-ss5:4.11.42"
+msgctxt "pli-tv-bu-vb-ss5:4.11.41"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.11.42a"
+msgctxt "pli-tv-bu-vb-ss5:4.11.42.0"
 msgid ""
 msgstr "The one protected by her mother taking the initiative: three to nine motives"
 
 #. HTML: </h5><p>
 #. REF: sc161, ms1V_1380 
-msgctxt "pli-tv-bu-vb-ss5:4.11.43"
+msgctxt "pli-tv-bu-vb-ss5:4.11.42"
 msgid "Dumūlakādīnipi evameva kātabbāni."
 msgstr "The sections on two root items, etc., are to be done in the same way."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.11.43a"
+msgctxt "pli-tv-bu-vb-ss5:4.11.43.0"
 msgid ""
 msgstr "The one protected by her mother taking the initiative: ten motives"
 
 #. HTML: </h5><p>
 #. REF: sc162, ms1V_1381 
-msgctxt "pli-tv-bu-vb-ss5:4.11.44"
+msgctxt "pli-tv-bu-vb-ss5:4.11.43"
 msgid "Idaṃ dasamūlakaṃ—"
 msgstr "This is the section on ten root items:"
 
 #. HTML: </p><p>
 #. REF: sc163, ms1V_1382 
-msgctxt "pli-tv-bu-vb-ss5:4.11.45"
+msgctxt "pli-tv-bu-vb-ss5:4.11.44"
 msgid "Māturakkhitā bhikkhuṃ pahiṇati—"
 msgstr "The one protected by her mother sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.46"
+msgctxt "pli-tv-bu-vb-ss5:4.11.45"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.47"
+msgctxt "pli-tv-bu-vb-ss5:4.11.46"
 msgid "‘homi itthannāmassa bhariyā dhanakkītā ca chandavāsinī ca bhogavāsinī ca paṭavāsinī ca odapattakinī ca obhaṭacumbaṭā ca dāsī ca bhariyā ca kammakārī ca bhariyā ca dhajāhaṭā ca muhuttikā cā’”ti."
 msgstr "that I’ll be his bought wife and his wife by choice and his wife through property and his wife through clothes and his wife through the bowl-of-water ritual and his wife through removing the head pad and his slave wife and his servant wife and his captured wife and his momentary wife.”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.48"
+msgctxt "pli-tv-bu-vb-ss5:4.11.47"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc164, ms1V_1383 
-msgctxt "pli-tv-bu-vb-ss5:4.11.49"
+msgctxt "pli-tv-bu-vb-ss5:4.11.48"
 msgid "Aparaṃ mātu­rak­khi­tā­cakkaṃ niṭṭhitaṃ."
 msgstr "The further permutation series on the one guarded by her mother is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.11.49a"
+msgctxt "pli-tv-bu-vb-ss5:4.11.49.0"
 msgid ""
 msgstr "The ones protected by various people taking the initiative: any combination of motives"
 
 #. HTML: </h5><p>
 #. REF: sc165, ms1V_1384 
-msgctxt "pli-tv-bu-vb-ss5:4.11.50"
+msgctxt "pli-tv-bu-vb-ss5:4.11.49"
 msgid "Piturakkhitā bhikkhuṃ pahiṇati … pe …"
 msgstr "The one protected by her father sends a monk …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.51"
+msgctxt "pli-tv-bu-vb-ss5:4.11.50"
 msgid "­mātāpi­tu­rak­khitā bhikkhuṃ pahiṇati …"
 msgstr "the one protected by her parents send a monk …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.52"
+msgctxt "pli-tv-bu-vb-ss5:4.11.51"
 msgid "bhāturakkhitā bhikkhuṃ pahiṇati …"
 msgstr "the one protected by her brother sends a monk …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.53"
+msgctxt "pli-tv-bu-vb-ss5:4.11.52"
 msgid "bhagi­ni­rak­khitā bhikkhuṃ pahiṇati …"
 msgstr "the one protected by her sister sends a monk …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.54"
+msgctxt "pli-tv-bu-vb-ss5:4.11.53"
 msgid "ñātirakkhitā bhikkhuṃ pahiṇati …"
 msgstr "the one protected by her relatives sends a monk …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.55"
+msgctxt "pli-tv-bu-vb-ss5:4.11.54"
 msgid "gottarakkhitā bhikkhuṃ pahiṇati …"
 msgstr "the one protected by her kinsmen sends a monk …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.56"
+msgctxt "pli-tv-bu-vb-ss5:4.11.55"
 msgid "dhammarakkhitā bhikkhuṃ pahiṇati …"
 msgstr "the one protected by her religion sends a monk …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.57"
+msgctxt "pli-tv-bu-vb-ss5:4.11.56"
 msgid "sārakkhā bhikkhuṃ pahiṇati …"
 msgstr "the one otherwise protected sends a monk …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.58"
+msgctxt "pli-tv-bu-vb-ss5:4.11.57"
 msgid "saparidaṇḍā bhikkhuṃ pahiṇati—"
 msgstr "the one protected by the threat of punishment sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.59"
+msgctxt "pli-tv-bu-vb-ss5:4.11.58"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.60"
+msgctxt "pli-tv-bu-vb-ss5:4.11.59"
 msgid "‘homi itthannāmassa bhariyā dhanakkītā’”ti."
 msgstr "that I’ll be his bought wife.”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.61"
+msgctxt "pli-tv-bu-vb-ss5:4.11.60"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.11.61a"
+msgctxt "pli-tv-bu-vb-ss5:4.11.61.0"
 msgid ""
 msgstr "The one protected by the threat of punishment taking the initiative: a single motive"
 
 #. HTML: </h5><p>
 #. REF: sc166, ms1V_1385 
-msgctxt "pli-tv-bu-vb-ss5:4.11.62"
+msgctxt "pli-tv-bu-vb-ss5:4.11.61"
 msgid "Saparidaṇḍā bhikkhuṃ pahiṇati—"
 msgstr "The one protected by the threat of punishment sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.63"
+msgctxt "pli-tv-bu-vb-ss5:4.11.62"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.64"
+msgctxt "pli-tv-bu-vb-ss5:4.11.63"
 msgid "‘homi itthannāmassa bhariyā chandavāsinī … pe …"
 msgstr "that I’ll be his wife by choice …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.65"
+msgctxt "pli-tv-bu-vb-ss5:4.11.64"
 msgid "bhogavāsinī …"
 msgstr "his wife through property …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.66"
+msgctxt "pli-tv-bu-vb-ss5:4.11.65"
 msgid "paṭavāsinī …"
 msgstr "his wife through clothes …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.67"
+msgctxt "pli-tv-bu-vb-ss5:4.11.66"
 msgid "odapattakinī …"
 msgstr "his wife through the bowl-of-water ritual …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.68"
+msgctxt "pli-tv-bu-vb-ss5:4.11.67"
 msgid "obhaṭacumbaṭā …"
 msgstr "his wife through removing the head pad …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.69"
+msgctxt "pli-tv-bu-vb-ss5:4.11.68"
 msgid "dāsī ca bhariyā ca …"
 msgstr "his slave wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.70"
+msgctxt "pli-tv-bu-vb-ss5:4.11.69"
 msgid "kammakārī ca bhariyā ca …"
 msgstr "his servant wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.71"
+msgctxt "pli-tv-bu-vb-ss5:4.11.70"
 msgid "dhajāhaṭā …"
 msgstr "his captured wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.72"
+msgctxt "pli-tv-bu-vb-ss5:4.11.71"
 msgid "muhuttikā’”ti."
 msgstr "his momentary wife.”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.73"
+msgctxt "pli-tv-bu-vb-ss5:4.11.72"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc167, ms1V_1386 
-msgctxt "pli-tv-bu-vb-ss5:4.11.74"
+msgctxt "pli-tv-bu-vb-ss5:4.11.73"
 msgid "Nikkhepapadāni."
 msgstr "The setting out of the steps."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.11.74a"
+msgctxt "pli-tv-bu-vb-ss5:4.11.74.0"
 msgid ""
 msgstr "The one protected by the threat of punishment taking the initiative: two motives"
 
 #. HTML: </h5><p>
 #. REF: sc168, ms1V_1387 
-msgctxt "pli-tv-bu-vb-ss5:4.11.75"
+msgctxt "pli-tv-bu-vb-ss5:4.11.74"
 msgid "Saparidaṇḍā bhikkhuṃ pahiṇati—"
 msgstr "The one protected by the threat of punishment sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.76"
+msgctxt "pli-tv-bu-vb-ss5:4.11.75"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.77"
+msgctxt "pli-tv-bu-vb-ss5:4.11.76"
 msgid "‘homi itthannāmassa bhariyā dhanakkītā ca chandavāsinī ca … pe …"
 msgstr "that I’ll be his bought wife and his wife by choice …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.78"
+msgctxt "pli-tv-bu-vb-ss5:4.11.77"
 msgid "dhanakkītā ca muhuttikā cā’”ti."
 msgstr "his bought wife and his momentary wife.”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.79"
+msgctxt "pli-tv-bu-vb-ss5:4.11.78"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc169, ms1V_1388 
-msgctxt "pli-tv-bu-vb-ss5:4.11.80"
+msgctxt "pli-tv-bu-vb-ss5:4.11.79"
 msgid "Khaṇḍacakkaṃ."
 msgstr "The unconnected permutation series."
 
 #. HTML: </p><p>
 #. REF: sc170, ms1V_1389 
-msgctxt "pli-tv-bu-vb-ss5:4.11.81"
+msgctxt "pli-tv-bu-vb-ss5:4.11.80"
 msgid "Saparidaṇḍā bhikkhuṃ pahiṇati—"
 msgstr "The one protected by the threat of punishment sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.82"
+msgctxt "pli-tv-bu-vb-ss5:4.11.81"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.83"
+msgctxt "pli-tv-bu-vb-ss5:4.11.82"
 msgid "‘homi itthannāmassa bhariyā chandavāsinī ca bhogavāsinī ca … pe …"
 msgstr "that I’ll be his wife by choice and his wife though property …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.84"
+msgctxt "pli-tv-bu-vb-ss5:4.11.83"
 msgid "chandavāsinī ca muhuttikā ca …"
 msgstr "his wife by choice and his momentary wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.85"
+msgctxt "pli-tv-bu-vb-ss5:4.11.84"
 msgid "chandavāsinī ca dhanakkītā cā’”ti."
 msgstr "his wife by choice and his bought wife.”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.86"
+msgctxt "pli-tv-bu-vb-ss5:4.11.85"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc171, ms1V_1390 
-msgctxt "pli-tv-bu-vb-ss5:4.11.87"
+msgctxt "pli-tv-bu-vb-ss5:4.11.86"
 msgid "Baddhacakkaṃ, mūlaṃ saṃkhittaṃ."
 msgstr "The linked permutation series, the basis in brief."
 
 #. HTML: </p><p>
 #. REF: sc172, ms1V_1391 
-msgctxt "pli-tv-bu-vb-ss5:4.11.88"
+msgctxt "pli-tv-bu-vb-ss5:4.11.87"
 msgid "Saparidaṇḍā bhikkhuṃ pahiṇati—"
 msgstr "The one protected by the threat of punishment sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.89"
+msgctxt "pli-tv-bu-vb-ss5:4.11.88"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.90"
+msgctxt "pli-tv-bu-vb-ss5:4.11.89"
 msgid "‘homi itthannāmassa bhariyā muhuttikā ca dhanakkītā ca … pe …"
 msgstr "that I’ll be his momentary wife and his bought wife …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.91"
+msgctxt "pli-tv-bu-vb-ss5:4.11.90"
 msgid "muhuttikā ca chandavāsinī ca … pe …"
 msgstr "his momentary wife and his wife by choice …"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.92"
+msgctxt "pli-tv-bu-vb-ss5:4.11.91"
 msgid "muhuttikā ca dhajāhaṭā cā’”ti."
 msgstr "his momentary wife and his captured wife.”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.93"
+msgctxt "pli-tv-bu-vb-ss5:4.11.92"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc173, ms1V_1392 
-msgctxt "pli-tv-bu-vb-ss5:4.11.94"
+msgctxt "pli-tv-bu-vb-ss5:4.11.93"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.11.94a"
+msgctxt "pli-tv-bu-vb-ss5:4.11.94.0"
 msgid ""
 msgstr "The one protected by the threat of punishment taking the initiative: three to nine motives"
 
 #. HTML: </h5><p>
 #. REF: sc174, ms1V_1393 
-msgctxt "pli-tv-bu-vb-ss5:4.11.95"
+msgctxt "pli-tv-bu-vb-ss5:4.11.94"
 msgid "Dumūlakādīnipi evameva kātabbāni."
 msgstr "The sections on two root items, etc., are to be done in the same way."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.11.95a"
+msgctxt "pli-tv-bu-vb-ss5:4.11.95.0"
 msgid ""
 msgstr "The one protected by the threat of punishment taking the initiative: ten motives"
 
 #. HTML: </h5><p>
 #. REF: sc175, ms1V_1394 
-msgctxt "pli-tv-bu-vb-ss5:4.11.96"
+msgctxt "pli-tv-bu-vb-ss5:4.11.95"
 msgid "Idaṃ dasamūlakaṃ—"
 msgstr "This is the section on ten root items:"
 
 #. HTML: </p><p>
 #. REF: sc176, ms1V_1395, pts-vp-en1.242
-msgctxt "pli-tv-bu-vb-ss5:4.11.97"
+msgctxt "pli-tv-bu-vb-ss5:4.11.96"
 msgid "Saparidaṇḍā bhikkhuṃ pahiṇati—"
 msgstr "The one protected by the threat of punishment sends a monk, saying,"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.98"
+msgctxt "pli-tv-bu-vb-ss5:4.11.97"
 msgid "“gaccha, bhante, itthannāmaṃ brūhi—"
 msgstr "“Venerable, go to so-and-so and say"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.99"
+msgctxt "pli-tv-bu-vb-ss5:4.11.98"
 msgid "‘homi itthannāmassa bhariyā dhanakkītā ca chandavāsinī ca bhogavāsinī ca paṭavāsinī ca odapattakinī ca obhaṭacumbaṭā ca dāsī ca bhariyā ca kammakārī ca bhariyā ca dhajāhaṭā ca muhuttikā cā’”ti."
 msgstr "that I’ll be his bought wife and his wife by choice and his wife through property and his wife through clothes and his wife through the bowl-of-water ritual and his wife through removing the head pad and his slave wife and his servant wife and his captured wife and his momentary wife.”"
 
-msgctxt "pli-tv-bu-vb-ss5:4.11.100"
+msgctxt "pli-tv-bu-vb-ss5:4.11.99"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. HTML: </p><p class="endsection">
 #. REF: sc177, ms1V_1396 
-msgctxt "pli-tv-bu-vb-ss5:4.11.101"
+msgctxt "pli-tv-bu-vb-ss5:4.11.100"
 msgid "Aparaṃ sapari­daṇḍā­cakkaṃ niṭṭhitaṃ."
 msgstr "The further permutation series on the one protected by the threat of punishment is finished."
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-ss5:4.11.102"
+msgctxt "pli-tv-bu-vb-ss5:4.11.101"
 msgid "Sabbaṃ cakkapeyyālaṃ niṭṭhitaṃ."
 msgstr "The whole successive permutation series is finished"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-ss5:4.12.0a"
+msgctxt "pli-tv-bu-vb-ss5:4.12.0"
 msgid ""
 msgstr "Permutations part 2"
 
@@ -3702,7 +3702,7 @@ msgid "Paṭiggaṇhāti antevāsiṃ vīmaṃsāpeti antevāsī vīmaṃsitvā 
 msgstr "If he accepts the mission, but gets a pupil to find out the response, and the pupil then reports back on his own initiative, they both commit a serious offense."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-ss5:4.15.0a"
+msgctxt "pli-tv-bu-vb-ss5:4.15.0"
 msgid ""
 msgstr "Permutations part 3"
 
@@ -3731,7 +3731,7 @@ msgid "Gacchanto visaṃvādeti, āgacchanto visaṃvādeti, anāpatti."
 msgstr "If he neither fulfills the agreement when he goes nor when he returns, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ss5:4.16.0a"
+msgctxt "pli-tv-bu-vb-ss5:4.16.0"
 msgid ""
 msgstr "Non-offenses"
 
@@ -3754,28 +3754,28 @@ msgid "ādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss5:4.16.5"
+msgctxt "pli-tv-bu-vb-ss5:4.16.5.0"
 msgid "5.1. Vinīta­vatthu­uddāna­gāthā"
 msgstr "Case rulings mnemonic list"
 
 #. HTML: </h5><div class="uddana"><p>
 #. REF: sc192
-msgctxt "pli-tv-bu-vb-ss5:4.16.6"
+msgctxt "pli-tv-bu-vb-ss5:4.16.5"
 msgid "Suttā matā ca nikkhantā,"
 msgstr "Asleep, and dead, gone out,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-ss5:4.16.7"
+msgctxt "pli-tv-bu-vb-ss5:4.16.6"
 msgid "anitthī itthipaṇḍakā;"
 msgstr "Not a woman, a sexually non-conformist female;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-ss5:4.16.8"
+msgctxt "pli-tv-bu-vb-ss5:4.16.7"
 msgid "Kalahaṃ katvāna sammodi,"
 msgstr "He reconciled them after quarreling,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-ss5:4.16.9"
+msgctxt "pli-tv-bu-vb-ss5:4.16.8"
 msgid "sañcarittañca paṇḍaketi."
 msgstr "And he was a mediator for sexual nonconformists."
 

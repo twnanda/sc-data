@@ -13,7 +13,7 @@ msgid "Kūṭadantasutta "
 msgstr "With Kūṭadanta "
 
 #. HTML: </h1></div><h2>
-msgctxt "dn5:0.3"
+msgctxt "dn5:1.0"
 msgid "1. Khāṇumatakabrāhmaṇagahapatikā "
 msgstr "1. The Brahmins and Householders of Khāṇumata "
 
@@ -177,7 +177,7 @@ msgid "‘āgamentu kira bhonto, kūṭadantopi brāhmaṇo samaṇaṃ gotama�
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn5:4.14"
+msgctxt "dn5:5.0"
 msgid "2. Kūṭadantaguṇakathā "
 msgstr "2. The Qualities of Kūṭadanta "
 
@@ -327,7 +327,7 @@ msgid "Samaṇo tveva gotamo arahati bhavantaṃ kūṭadantaṃ dassanāya upas
 msgstr "it’s appropriate that he comes to see you.” "
 
 #. HTML: </p><h2>
-msgctxt "dn5:6.22"
+msgctxt "dn5:7.0"
 msgid "3. Buddhaguṇakathā "
 msgstr "3. The Qualities of the Buddha "
 
@@ -583,21 +583,21 @@ msgid "“Tena hi, bho, sabbeva mayaṃ samaṇaṃ gotamaṃ dassanāya upasa�
 msgstr "“Well then, gentlemen, let’s all go to see the ascetic Gotama.” "
 
 #. HTML: </p><h2>
-msgctxt "dn5:8.4"
+msgctxt "dn5:8.4.0"
 msgid "4. Mahāvijitarājayaññakathā "
 msgstr "4. The Story of King Mahāvijita’s Sacrifice "
 
 #. HTML: </h2><p>
 #. REF: pts-vp-pli1.134, sc53
-msgctxt "dn5:8.5"
+msgctxt "dn5:8.4"
 msgid "Atha kho kūṭadanto brāhmaṇo mahatā brāhmaṇagaṇena saddhiṃ yena ambalaṭṭhikā yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavatā saddhiṃ sammodi. "
 msgstr "Then Kūṭadanta together with a large group of brahmins went to see the Buddha and exchanged greetings with him. "
 
-msgctxt "dn5:8.6"
+msgctxt "dn5:8.5"
 msgid "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. "
 msgstr "When the greetings and polite conversation were over, he sat down to one side. "
 
-msgctxt "dn5:8.7"
+msgctxt "dn5:8.6"
 msgid "Khāṇumatakāpi kho brāhmaṇagahapatikā appekacce bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu; appekacce bhagavatā saddhiṃ sammodiṃsu, sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu; appekacce yena bhagavā tenañjaliṃ paṇāmetvā ekamantaṃ nisīdiṃsu; appekacce nāmagottaṃ sāvetvā ekamantaṃ nisīdiṃsu; appekacce tuṇhībhūtā ekamantaṃ nisīdiṃsu. "
 msgstr "Before sitting down to one side, some of the brahmins and householders of Khāṇumataka bowed, some exchanged greetings and polite conversation, some held up their joined palms toward the Buddha, some announced their name and clan, while some kept silent. "
 
@@ -777,51 +777,51 @@ msgid "Anusāsatu maṃ bhavaṃ yaṃ mama assa dīgharattaṃ hitāya sukhāy�
 msgstr "Please instruct me. It will be for my lasting welfare and happiness.’ "
 
 #. HTML: </p><h3>
-msgctxt "dn5:12.6"
+msgctxt "dn5:12.6.0"
 msgid "4.1. Catuparikkhāra "
 msgstr "4.1. The Four Accessories "
 
 #. HTML: </h3><p>
 #. REF: pts-vp-pli1.137, sc58
-msgctxt "dn5:12.7"
+msgctxt "dn5:12.6"
 msgid "Tena hi bhavaṃ rājā ye bhoto rañño janapade khattiyā ānuyantā negamā ceva jānapadā ca te bhavaṃ rājā āmantayataṃ: ‘icchāmahaṃ, bho, mahāyaññaṃ yajituṃ, anujānantu me bhavanto yaṃ mama assa dīgharattaṃ hitāya sukhāyā’ti. Ye bhoto rañño janapade amaccā pārisajjā negamā ceva jānapadā ca … pe … brāhmaṇamahāsālā negamā ceva jānapadā ca … pe … gahapatinecayikā negamā ceva jānapadā ca, te bhavaṃ rājā āmantayataṃ: "
 msgstr "‘In that case, let the king announce this throughout the realm to the aristocrat vassals, ministers and counselors, well-to-do brahmins, and well-off householders, both of town and country: "
 
-msgctxt "dn5:12.8"
+msgctxt "dn5:12.7"
 msgid "‘icchāmahaṃ, bho, mahāyaññaṃ yajituṃ, anujānantu me bhavanto yaṃ mama assa dīgharattaṃ hitāya sukhāyā’ti. "
 msgstr "“I wish to perform a great sacrifice. Please grant your approval, gentlemen; it will be for my lasting welfare and happiness.” "
 
 #. HTML: </p><p>
-msgctxt "dn5:12.9"
+msgctxt "dn5:12.8"
 msgid "‘Evaṃ, bho’ti kho, brāhmaṇa, rājā mahāvijito purohitassa brāhmaṇassa paṭissutvā ye rañño janapade khattiyā ānuyantā negamā ceva jānapadā ca, te rājā mahāvijito āmantesi: "
 msgstr "The king agreed with the high priest’s advice and followed his recommendation. "
 
-msgctxt "dn5:12.10"
+msgctxt "dn5:12.9"
 msgid "‘icchāmahaṃ, bho, mahāyaññaṃ yajituṃ, anujānantu me bhavanto yaṃ mama assa dīgharattaṃ hitāya sukhāyā’ti. "
 msgstr "And all of the people who were thus informed responded by saying: "
 
-msgctxt "dn5:12.11"
+msgctxt "dn5:12.10"
 msgid "‘Yajataṃ bhavaṃ rājā yaññaṃ, yaññakālo, mahārājā’ti. "
 msgstr "‘May the king perform a sacrifice! It is time for a sacrifice, great king.’ "
 
-msgctxt "dn5:12.12"
+msgctxt "dn5:12.11"
 msgid "Ye rañño janapade amaccā pārisajjā negamā ceva jānapadā ca … pe … brāhmaṇamahāsālā negamā ceva jānapadā ca … pe … gahapatinecayikā negamā ceva jānapadā ca, te rājā mahāvijito āmantesi: "
 msgstr " "
 
-msgctxt "dn5:12.13"
+msgctxt "dn5:12.12"
 msgid "‘icchāmahaṃ, bho, mahāyaññaṃ yajituṃ. Anujānantu me bhavanto yaṃ mama assa dīgharattaṃ hitāya sukhāyā’ti. "
 msgstr " "
 
-msgctxt "dn5:12.14"
+msgctxt "dn5:12.13"
 msgid "‘Yajataṃ bhavaṃ rājā yaññaṃ, yaññakālo, mahārājā’ti. "
 msgstr " "
 
-msgctxt "dn5:12.15"
+msgctxt "dn5:12.14"
 msgid "Itime cattāro anumatipakkhā tasseva yaññassa parikkhārā bhavanti. "
 msgstr "And so these four consenting factions became accessories to the sacrifice. "
 
 #. HTML: </p><h3>
-msgctxt "dn5:12.16"
+msgctxt "dn5:13.0"
 msgid "4.2. Aṭṭhaparikkhāra "
 msgstr "4.2. The Eight Accessories "
 
@@ -883,7 +883,7 @@ msgid "Iti imānipi aṭṭhaṅgāni tasseva yaññassa parikkhārā bhavanti. 
 msgstr "And so these eight factors also became accessories to the sacrifice. "
 
 #. HTML: </p><h3>
-msgctxt "dn5:13.12"
+msgctxt "dn5:14.0"
 msgid "4.3. Catuparikkhāra "
 msgstr "4.3. Four More Accessories "
 
@@ -925,7 +925,7 @@ msgid "Iti imānipi cattāri aṅgāni tasseva yaññassa parikkhārā bhavanti.
 msgstr "And so these four factors also became accessories to the sacrifice. "
 
 #. HTML: </p><h3>
-msgctxt "dn5:14.8"
+msgctxt "dn5:15.0"
 msgid "4.4. Tissovidhā "
 msgstr "4.4. The Three Modes "
 
@@ -966,7 +966,7 @@ msgid "Imā kho, brāhmaṇa, purohito brāhmaṇo rañño mahāvijitassa pubbev
 msgstr "These are the three modes that the brahmin high priest taught to the king before the sacrifice. "
 
 #. HTML: </p><h3>
-msgctxt "dn5:15.9"
+msgctxt "dn5:16.0"
 msgid "4.5. Dasaākāra "
 msgstr "4.5. The Ten Respects "
 
@@ -1041,7 +1041,7 @@ msgid "Imehi kho, brāhmaṇa, purohito brāhmaṇo rañño mahāvijitassa pubbe
 msgstr "These are the ten respects in which the high priest dispelled the king’s regret regarding the recipients before the sacrifice. "
 
 #. HTML: </p><h3>
-msgctxt "dn5:16.17"
+msgctxt "dn5:17.0"
 msgid "4.6. Soḷasākāra "
 msgstr "4.6. The Sixteen Respects "
 
@@ -1421,7 +1421,7 @@ msgid "“Abhijānāmahaṃ, brāhmaṇa, evarūpaṃ yaññaṃ yajitvā vā y�
 msgstr "“I do recall that, brahmin. For at that time I was the brahmin high priest who facilitated the sacrifice.” "
 
 #. HTML: </p><h2>
-msgctxt "dn5:21.17"
+msgctxt "dn5:22.0"
 msgid "5. Niccadānaanukulayañña "
 msgstr "5. A Regular Gift as an Ongoing Family Sacrifice. "
 
@@ -1658,7 +1658,7 @@ msgid "Imāya ca, brāhmaṇa, yaññasampadāya aññā yaññasampadā uttarit
 msgstr "And, brahmin, there is no other accomplishment of sacrifice which is better and finer than this.” "
 
 #. HTML: </p><h2>
-msgctxt "dn5:27.17"
+msgctxt "dn5:28.0"
 msgid "6. Kūṭadantaupāsakattapaṭivedanā "
 msgstr "6. Kūṭadanta Declares Himself a Lay Follower "
 
@@ -1690,7 +1690,7 @@ msgid "Esāhaṃ, bho gotama, satta ca usabhasatāni satta ca vacchatarasatāni 
 msgstr "And these bulls, bullocks, heifers, goats, and rams—seven hundred of each—I release them, I grant them life! Let them eat green grass and drink cool water, and may a cool breeze blow upon them!” "
 
 #. HTML: </p><h2>
-msgctxt "dn5:28.7"
+msgctxt "dn5:29.0"
 msgid "7. Sotāpattiphalasacchikiriyā "
 msgstr "7. The Realization of the Fruit of Stream-Entry "
 

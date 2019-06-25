@@ -23,7 +23,7 @@ msgid "Duṭṭha­dosa­sikkhā­pada"
 msgstr "8. The training rule on anger"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-ss8:1.1.0a"
+msgctxt "pli-tv-bu-vb-ss8:1.1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -855,23 +855,23 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ss8:1.9.32a"
+msgctxt "pli-tv-bu-vb-ss8:1.9.32.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc18, ms1V_1573
-msgctxt "pli-tv-bu-vb-ss8:1.9.33"
+msgctxt "pli-tv-bu-vb-ss8:1.9.32"
 msgid "“Yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto amūlakena pārājikena dhammena anuddhaṃseyya—"
 msgstr "‘If a monk who is angry and displeased groundlessly accuses another monk of an offense entailing expulsion,"
 
 #. VAR: appeva nāma → appevanāma (bj, s1-3)
-msgctxt "pli-tv-bu-vb-ss8:1.9.34"
+msgctxt "pli-tv-bu-vb-ss8:1.9.33"
 msgid "‘appeva nāma naṃ imamhā brahmacariyā cāveyyan’ti, tato aparena samayena sama­nug­gāhīya­māno vā asama­nug­gāhīya­māno vā amūlakañceva taṃ adhikaraṇaṃ hoti bhikkhu ca dosaṃ patiṭṭhāti, saṃghādiseso”ti."
 msgstr "aiming to make him leave the monastic life, and then after some time, whether he is questioned or not, it is clear that the legal issue is groundless, and he admits to his ill-will, he commits an offense entailing suspension.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ss8:2.0a"
+msgctxt "pli-tv-bu-vb-ss8:2.0"
 msgid ""
 msgstr "Definitions"
 
@@ -1052,17 +1052,17 @@ msgid "… pe … tenapi vuccati saṃghādisesoti."
 msgstr "… Therefore, too, it is called “an offense entailing suspension.”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ss8:3.1.0a"
+msgctxt "pli-tv-bu-vb-ss8:3.1.0.1"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-ss8:3.1.0b"
+msgctxt "pli-tv-bu-vb-ss8:3.1.0.2"
 msgid ""
 msgstr "Permutations part 1"
 
 #. HTML: </h3><h5>
-msgctxt "pli-tv-bu-vb-ss8:3.1.0c"
+msgctxt "pli-tv-bu-vb-ss8:3.1.0.3"
 msgid ""
 msgstr "Doing the accusing oneself"
 
@@ -1419,7 +1419,7 @@ msgid "āpatti vācāya, vācāya saṃ­ghā­di­sesassa."
 msgstr "For each statement, he commits an offense entailing suspension."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss8:3.5.0a"
+msgctxt "pli-tv-bu-vb-ss8:3.5.0"
 msgid ""
 msgstr "Getting someone else to do the accusing"
 
@@ -1704,12 +1704,12 @@ msgid "āpatti vācāya, vācāya saṃ­ghā­di­sesassa."
 msgstr "For each statement, he commits an offense entailing suspension."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-ss8:4.1.0a"
+msgctxt "pli-tv-bu-vb-ss8:4.1.0.1"
 msgid ""
 msgstr "Permutations part 2"
 
 #. HTML: </h3><h4>
-msgctxt "pli-tv-bu-vb-ss8:4.1.0b"
+msgctxt "pli-tv-bu-vb-ss8:4.1.0.2"
 msgid ""
 msgstr "Summary"
 
@@ -1732,12 +1732,12 @@ msgid "suddhe suddhadiṭṭhi."
 msgstr "someone is pure and one thinks he is pure."
 
 #. HTML: </p></div><h4>
-msgctxt "pli-tv-bu-vb-ss8:4.2.0a"
+msgctxt "pli-tv-bu-vb-ss8:4.2.0.1"
 msgid ""
 msgstr "Exposition"
 
 #. HTML: </h4><h5>
-msgctxt "pli-tv-bu-vb-ss8:4.2.0b"
+msgctxt "pli-tv-bu-vb-ss8:4.2.0.2"
 msgid ""
 msgstr "Impure but regarded as pure"
 
@@ -1783,7 +1783,7 @@ msgid "Tañce suddhadiṭṭhi samāno okāsaṃ kārāpetvā akkosādhippāyo v
 msgstr "If one thinks he is pure, but then, having obtained his consent, speaks with the aim of abusing him, one commits an offense for abusive speech."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss8:4.3.0a"
+msgctxt "pli-tv-bu-vb-ss8:4.3.0"
 msgid ""
 msgstr "Pure but regarded as impure"
 
@@ -1828,53 +1828,53 @@ msgid "Tañce asuddhadiṭṭhi samāno okāsaṃ kārāpetvā akkosādhippāyo 
 msgstr "If one thinks he is impure, then, having obtained his consent, speaks with the aim of abusing him, one commits an offense for abusive speech."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss8:4.3.8a"
+msgctxt "pli-tv-bu-vb-ss8:4.3.8.0"
 msgid ""
 msgstr "Impure and regarded as impure"
 
 #. HTML: </h5><p>
 #. REF: sc61
-msgctxt "pli-tv-bu-vb-ss8:4.3.9"
+msgctxt "pli-tv-bu-vb-ss8:4.3.8"
 msgid "Asuddho hoti puggalo aññataraṃ pārājikaṃ dhammaṃ ajjhāpanno."
 msgstr "An impure person has committed an offense entailing expulsion."
 
-msgctxt "pli-tv-bu-vb-ss8:4.3.10"
+msgctxt "pli-tv-bu-vb-ss8:4.3.9"
 msgid "Tañce asuddhadiṭṭhi samāno anokāsaṃ kārāpetvā cāvanādhippāyo vadeti, āpatti dukkaṭassa."
 msgstr "If one thinks he is impure, and then, without having obtained his consent, speaks with the aim of making him leave the monastic life, one commits an offense of wrong conduct."
 
 #. HTML: </p><p>
 #. REF: sc62, ms1V_1617 
-msgctxt "pli-tv-bu-vb-ss8:4.3.11"
+msgctxt "pli-tv-bu-vb-ss8:4.3.10"
 msgid "Asuddho hoti puggalo aññataraṃ pārājikaṃ dhammaṃ ajjhāpanno."
 msgstr "An impure person has committed an offense entailing expulsion."
 
-msgctxt "pli-tv-bu-vb-ss8:4.3.12"
+msgctxt "pli-tv-bu-vb-ss8:4.3.11"
 msgid "Tañce asuddhadiṭṭhi samāno okāsaṃ kārāpetvā cāvanādhippāyo vadeti, anāpatti."
 msgstr "If one thinks he is impure, and then, having obtained his consent, speaks with the aim of making him leave the monastic life, there is no offense."
 
 #. HTML: </p><p>
 #. REF: sc63, ms1V_1618 
-msgctxt "pli-tv-bu-vb-ss8:4.3.13"
+msgctxt "pli-tv-bu-vb-ss8:4.3.12"
 msgid "Asuddho hoti puggalo aññataraṃ pārājikaṃ dhammaṃ ajjhāpanno."
 msgstr "An impure person has committed an offense entailing expulsion."
 
 # NOTE: See [](MS.2.24) for the rule on abusive speech.
-msgctxt "pli-tv-bu-vb-ss8:4.3.14"
+msgctxt "pli-tv-bu-vb-ss8:4.3.13"
 msgid "Tañce asuddhadiṭṭhi samāno anokāsaṃ kārāpetvā akkosādhippāyo vadeti, āpatti omasavādena dukkaṭassa."
 msgstr "If one thinks he is impure, and then, without having obtained his consent, speaks with the aim of abusing him, one commits one offense for abusive speech and one offense of wrong conduct."
 
 #. HTML: </p><p>
 #. REF: sc64, ms1V_1619 
-msgctxt "pli-tv-bu-vb-ss8:4.3.15"
+msgctxt "pli-tv-bu-vb-ss8:4.3.14"
 msgid "Asuddho hoti puggalo aññataraṃ pārājikaṃ dhammaṃ ajjhāpanno."
 msgstr "An impure person has committed an offense entailing expulsion."
 
-msgctxt "pli-tv-bu-vb-ss8:4.3.16"
+msgctxt "pli-tv-bu-vb-ss8:4.3.15"
 msgid "Tañce asuddhadiṭṭhi samāno okāsaṃ kārāpetvā akkosādhippāyo vadeti, āpatti omasavādassa."
 msgstr "If one thinks he is impure, and then, having obtained his consent, speaks with the aim of abusing him, one commits an offense for abusive speech."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss8:4.5.0a"
+msgctxt "pli-tv-bu-vb-ss8:4.5.0"
 msgid ""
 msgstr "Pure and regarded as pure"
 
@@ -1915,34 +1915,34 @@ msgid "Suddho hoti puggalo aññataraṃ pārājikaṃ dhammaṃ anajjhāpanno t
 msgstr "A pure person has not committed an offense entailing expulsion. If one thinks he is pure, but then, having obtained his consent, speaks with the aim of abusing him, one commits an offense for abusive speech."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ss8:4.5.7a"
+msgctxt "pli-tv-bu-vb-ss8:4.5.7.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc69
-msgctxt "pli-tv-bu-vb-ss8:4.5.8"
+msgctxt "pli-tv-bu-vb-ss8:4.5.7"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
-msgctxt "pli-tv-bu-vb-ss8:4.5.9"
+msgctxt "pli-tv-bu-vb-ss8:4.5.8"
 msgid "suddhe asud­dha­diṭṭhissa,"
 msgstr "if he thinks a pure person is impure;"
 
-msgctxt "pli-tv-bu-vb-ss8:4.5.10"
+msgctxt "pli-tv-bu-vb-ss8:4.5.9"
 msgid "asuddhe asud­dha­diṭṭhissa,"
 msgstr "if he thinks an impure person is impure;"
 
-msgctxt "pli-tv-bu-vb-ss8:4.5.11"
+msgctxt "pli-tv-bu-vb-ss8:4.5.10"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-ss8:4.5.12"
+msgctxt "pli-tv-bu-vb-ss8:4.5.11"
 msgid "ādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><hr><p class="endsutta">
 #. REF: sc70, ms1V_1625 
-msgctxt "pli-tv-bu-vb-ss8:4.5.13"
+msgctxt "pli-tv-bu-vb-ss8:4.5.12"
 msgid "Amūla­ka­sikkhā­padaṃ niṭṭhitaṃ aṭṭhamaṃ."
 msgstr "The eighth rule, the training rule on groundless, is finished."

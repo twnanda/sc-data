@@ -29,7 +29,7 @@ msgid "44. Rahopaṭicchannasikkhāpada"
 msgstr "The training rule on private and concealed"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc44:1.0a"
+msgctxt "pli-tv-bu-vb-pc44:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -96,18 +96,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc44:1.14a"
+msgctxt "pli-tv-bu-vb-pc44:1.14.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule">
 #. REF: sc3, ms2V_908
-msgctxt "pli-tv-bu-vb-pc44:1.15"
+msgctxt "pli-tv-bu-vb-pc44:1.14"
 msgid "“Yo pana bhikkhu mātugāmena saddhiṃ raho paṭicchanne āsane nisajjaṃ kappeyya, pācittiyan”ti."
 msgstr "‘If a monk sits down in private on a concealed seat with a woman, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc44:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc44:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -223,7 +223,7 @@ msgid "Ubho vā nisinnā honti ubho vā nipannā, āpatti pācittiyassa."
 msgstr "If both are seated or both are lying down, he commits an offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc44:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc44:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -261,7 +261,7 @@ msgid "Amātugāme amātugāmasaññī, anāpatti."
 msgstr "If it is not a woman, and he does not perceive it as a woman, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc44:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc44:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

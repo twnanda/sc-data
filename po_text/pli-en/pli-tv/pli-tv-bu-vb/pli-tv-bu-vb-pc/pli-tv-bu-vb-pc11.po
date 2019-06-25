@@ -28,7 +28,7 @@ msgid "11. Bhūtagāmasikkhāpada"
 msgstr "The training rule on plants"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc11:1.0a"
+msgctxt "pli-tv-bu-vb-pc11:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -162,18 +162,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc11:1.30a"
+msgctxt "pli-tv-bu-vb-pc11:1.30.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc3, ms2V_340
-msgctxt "pli-tv-bu-vb-pc11:1.31"
+msgctxt "pli-tv-bu-vb-pc11:1.30"
 msgid "“Bhūtagāmapātabyatāya pācittiyan”ti."
 msgstr "‘If a monk destroys plants, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc11:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc11:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -251,7 +251,7 @@ msgid "pubbaṇṇaṃ, aparaṇṇaṃ, yāni vā panaññānipi atthi bīje j�
 msgstr "grains, vegetables, or whatever other plants there are that are produced from seeds, that grow from seeds—this is called “propagation from seeds.”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc11:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc11:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -283,7 +283,7 @@ msgid "Abīje abījasaññī, anāpatti."
 msgstr "If it is not capable of propagation, and he perceives that it is not, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc11:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc11:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

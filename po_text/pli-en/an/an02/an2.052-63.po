@@ -36,7 +36,7 @@ msgid "Ime kho, bhikkhave, dve puggalā loke uppajjamānā uppajjanti bahujanahi
 msgstr "These two people arise in the world for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.53" id="53"><article><div class="hgroup"><h1>
-msgctxt "an2.52-63:52.1.5"
+msgctxt "an2.52-63:0.1"
 msgid "53 "
 msgstr "53 "
 
@@ -59,7 +59,7 @@ msgid "Ime kho, bhikkhave, dve puggalā loke uppajjamānā uppajjanti acchariyam
 msgstr "These are the two people who arise in the world who are incredible human beings.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.54" id="54"><article><div class="hgroup"><h1>
-msgctxt "an2.52-63:53.1.5"
+msgctxt "an2.52-63:0.1"
 msgid "54 "
 msgstr "54 "
 
@@ -82,7 +82,7 @@ msgid "Imesaṃ kho, bhikkhave, dvinnaṃ puggalānaṃ kālakiriyā bahuno jana
 msgstr "These are the two people, mendicants, whose death is regretted by many people.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.55" id="55"><article><div class="hgroup"><h1>
-msgctxt "an2.52-63:54.1.5"
+msgctxt "an2.52-63:0.1"
 msgid "55 "
 msgstr "55 "
 
@@ -105,7 +105,7 @@ msgid "Ime kho, bhikkhave, dve thūpārahā”ti. "
 msgstr "These are the two who are worthy of a monument.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.56" id="56"><article><div class="hgroup"><h1>
-msgctxt "an2.52-63:55.1.5"
+msgctxt "an2.52-63:0.1"
 msgid "56 "
 msgstr "56 "
 
@@ -128,7 +128,7 @@ msgid "Ime kho, bhikkhave, dve buddhā”ti. "
 msgstr "These are the two kinds of Buddhas.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.57" id="57"><article><div class="hgroup"><h1>
-msgctxt "an2.52-63:56.1.5"
+msgctxt "an2.52-63:0.1"
 msgid "57 "
 msgstr "57 "
 
@@ -151,7 +151,7 @@ msgid "Ime kho, bhikkhave, dve asaniyā phalantiyā na santasantī”ti. "
 msgstr "These are the two who are not startled by a crack of thunder.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.58" id="58"><article><div class="hgroup"><h1>
-msgctxt "an2.52-63:57.1.5"
+msgctxt "an2.52-63:0.1"
 msgid "58 "
 msgstr "58 "
 
@@ -174,7 +174,7 @@ msgid "Ime kho, bhikkhave, dve asaniyā phalantiyā na santasantī”ti. "
 msgstr "These are the two who are not startled by a crack of thunder.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.59" id="59"><article><div class="hgroup"><h1>
-msgctxt "an2.52-63:58.1.5"
+msgctxt "an2.52-63:0.1"
 msgid "59 "
 msgstr "59 "
 
@@ -197,7 +197,7 @@ msgid "Ime kho, bhikkhave, dve asaniyā phalantiyā na santasantī”ti. "
 msgstr "These are the two who are not startled by a crack of thunder.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.60" id="60"><article><div class="hgroup"><h1>
-msgctxt "an2.52-63:59.1.5"
+msgctxt "an2.52-63:0.1"
 msgid "60 "
 msgstr "60 "
 
@@ -220,7 +220,7 @@ msgid "Ime kho, bhikkhave, dve atthavase sampassamānā kiṃpurisā mānusiṃ 
 msgstr "Fauns see two reasons not to use human speech.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.61" id="61"><article><div class="hgroup"><h1>
-msgctxt "an2.52-63:60.1.5"
+msgctxt "an2.52-63:0.1"
 msgid "61 "
 msgstr "61 "
 
@@ -243,7 +243,7 @@ msgid "Imesaṃ kho, bhikkhave, dvinnaṃ dhammānaṃ atitto appaṭivāno māt
 msgstr "Females die without getting enough of these two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.62" id="62"><article><div class="hgroup"><h1>
-msgctxt "an2.52-63:61.1.5"
+msgctxt "an2.52-63:0.1"
 msgid "62 "
 msgstr "62 "
 
@@ -374,7 +374,7 @@ msgid "Evaṃ kho, bhikkhave, santasannivāso hoti, evañca santo sannivasantī�
 msgstr "That’s what it’s like living with good people; that’s how good people live together.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.63" id="63"><article><div class="hgroup"><h1>
-msgctxt "an2.52-63:62.3.13"
+msgctxt "an2.52-63:0.1"
 msgid "63 "
 msgstr "63 "
 

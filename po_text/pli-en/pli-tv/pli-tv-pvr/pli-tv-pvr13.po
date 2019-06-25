@@ -3,17 +3,17 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-pvr13"><article><div class="hgroup"><p class="division">
-msgctxt "pli-tv-pvr13:1.1"
+msgctxt "pli-tv-pvr13:0.1"
 msgid "Parivāra"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-pvr13:2.1"
+msgctxt "pli-tv-pvr13:0.2"
 msgid "Codanākaṇḍa"
 msgstr ""
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-pvr13:3.1"
+msgctxt "pli-tv-pvr13:4.0"
 msgid "1. Anuvijjakaanuyoga"
 msgstr ""
 
@@ -337,7 +337,7 @@ msgid "imehi dvīhākārehi codeti."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr13:10.1"
+msgctxt "pli-tv-pvr13:11.0"
 msgid "2. Codakādipaṭipatti"
 msgstr ""
 
@@ -530,7 +530,7 @@ msgid "yathādhammo tathā kare."
 msgstr ""
 
 #. HTML: </p></blockquote><h2>
-msgctxt "pli-tv-pvr13:16.1"
+msgctxt "pli-tv-pvr13:17.0"
 msgid "3. Codakassaattajhāpana"
 msgstr ""
 

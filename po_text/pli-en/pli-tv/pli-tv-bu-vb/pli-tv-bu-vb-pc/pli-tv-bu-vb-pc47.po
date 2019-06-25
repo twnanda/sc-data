@@ -28,7 +28,7 @@ msgid "47. Mahānāmasikkhāpada"
 msgstr "The training rule on Mahānāma"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc47:1.1.0a"
+msgctxt "pli-tv-bu-vb-pc47:1.1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -329,7 +329,7 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc47:1.4.33a"
+msgctxt "pli-tv-bu-vb-pc47:1.4.33.0"
 msgid ""
 msgstr "Final ruling"
 
@@ -337,12 +337,12 @@ msgstr "Final ruling"
 #. VAR: catumāsappaccayapavāraṇā → cātumā­sapaccaya ... (s1-3, pts1)
 #. VAR: uttari → uttariṃ (bj, s1-3)
 #. REF: sc7, pts-vp-pli4.103, ms2V_970, pts-vp-en.2.371
-msgctxt "pli-tv-bu-vb-pc47:1.4.34"
+msgctxt "pli-tv-bu-vb-pc47:1.4.33"
 msgid "“Agilānena bhikkhunā catumāsappaccayapavāraṇā sāditabbā, aññatra punapavāraṇāya, aññatra niccapavāraṇāya; tato ce uttari sādiyeyya, pācittiyan”ti."
 msgstr "‘A monk who is not sick may accept an invitation to ask for requisites for four months. If he accepts one beyond that limit, unless it is a further invitation or a permanent invitation, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc47:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc47:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -487,39 +487,39 @@ msgid "Aññena bhesajjena karaṇīyena aññaṃ bhesajjaṃ viññāpeti, āp
 msgstr "If he asks for a medicine other than the medicine he needs, he commits an offense entailing confession."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc47:2.2.2a"
+msgctxt "pli-tv-bu-vb-pc47:2.2.2.0"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><p>
-msgctxt "pli-tv-bu-vb-pc47:2.2.3"
+msgctxt "pli-tv-bu-vb-pc47:2.2.2"
 msgid "Tatuttari tatuttarisaññī bhesajjaṃ viññāpeti, āpatti pācittiyassa."
 msgstr "If it is beyond the limit, and he perceives it as beyond the limit, and he asks for medicine, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc47:2.2.4"
+msgctxt "pli-tv-bu-vb-pc47:2.2.3"
 msgid "Tatuttari vematiko bhesajjaṃ viññāpeti, āpatti pācittiyassa."
 msgstr "If it is beyond the limit, but he is unsure if it is, and he asks for medicine, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc47:2.2.5"
+msgctxt "pli-tv-bu-vb-pc47:2.2.4"
 msgid "Tatuttari natatuttarisaññī bhesajjaṃ viññāpeti, āpatti pācittiyassa."
 msgstr "If it is beyond the limit, but he does not perceive it as beyond the limit, and he asks for medicine, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc15, ms2V_978 
-msgctxt "pli-tv-bu-vb-pc47:2.2.6"
+msgctxt "pli-tv-bu-vb-pc47:2.2.5"
 msgid "Natatuttari tatuttarisaññī, āpatti dukkaṭassa."
 msgstr "If it is not beyond the limit, but he perceives it as beyond the limit, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-pc47:2.2.7"
+msgctxt "pli-tv-bu-vb-pc47:2.2.6"
 msgid "Natatuttari vematiko, āpatti dukkaṭassa."
 msgstr "If it is not beyond the limit, but he is unsure of it, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-pc47:2.2.8"
+msgctxt "pli-tv-bu-vb-pc47:2.2.7"
 msgid "Natatuttari natatuttarisaññī, anāpatti."
 msgstr "If it is not beyond the limit, and he does not perceive it as beyond the limit, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc47:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc47:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

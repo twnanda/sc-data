@@ -28,7 +28,7 @@ msgid "18. Rūpiyasikkhāpada"
 msgstr "18. The training rule on money"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np18:1.0a"
+msgctxt "pli-tv-bu-vb-np18:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -201,333 +201,333 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np18:1.37a"
+msgctxt "pli-tv-bu-vb-np18:1.37.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc5, ms1V_2207
-msgctxt "pli-tv-bu-vb-np18:1.38"
+msgctxt "pli-tv-bu-vb-np18:1.37"
 msgid "“Yo pana bhikkhu jātarūparajataṃ uggaṇheyya vā uggaṇhāpeyya vā upanikkhittaṃ vā sādiyeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk takes, gets someone else to take, or consents to gold and silver being deposited for him, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np18:1.38a"
+msgctxt "pli-tv-bu-vb-np18:1.38.0"
 msgid ""
 msgstr "Definitions"
 
 #. HTML: </h2><p><span class="term"> 
 #. REF: sc6, ms1V_2208, pts-vp-pli3.238
-msgctxt "pli-tv-bu-vb-np18:1.39"
+msgctxt "pli-tv-bu-vb-np18:1.38"
 msgid "Yo panāti"
 msgstr "A:"
 
 #. HTML: </span><span class="gloss">
-msgctxt "pli-tv-bu-vb-np18:1.40"
+msgctxt "pli-tv-bu-vb-np18:1.39"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. HTML: </span><span class="term">
-msgctxt "pli-tv-bu-vb-np18:1.41"
+msgctxt "pli-tv-bu-vb-np18:1.40"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
 #. HTML: </span><span class="gloss">
-msgctxt "pli-tv-bu-vb-np18:1.42"
+msgctxt "pli-tv-bu-vb-np18:1.41"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
-msgctxt "pli-tv-bu-vb-np18:1.43"
+msgctxt "pli-tv-bu-vb-np18:1.42"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc7, ms1V_2209
-msgctxt "pli-tv-bu-vb-np18:1.44"
+msgctxt "pli-tv-bu-vb-np18:1.43"
 msgid "Jātarūpaṃ nāma"
 msgstr "Gold:"
 
 #. HTML: </span><span class="gloss">
-msgctxt "pli-tv-bu-vb-np18:1.45"
+msgctxt "pli-tv-bu-vb-np18:1.44"
 msgid "satthuvaṇṇo vuccati."
 msgstr "the color of the Teacher is what is meant."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc8, ms1V_2210
-msgctxt "pli-tv-bu-vb-np18:1.46"
+msgctxt "pli-tv-bu-vb-np18:1.45"
 msgid "Rajataṃ nāma"
 msgstr "Silver:"
 
 #. HTML: </span><span class="gloss">
-msgctxt "pli-tv-bu-vb-np18:1.47"
+msgctxt "pli-tv-bu-vb-np18:1.46"
 msgid "kahāpaṇo lohamāsako dārumāsako jatumāsako ye vohāraṃ gacchanti."
 msgstr "a _kahāpaṇa_ coin, a copper _māsaka_ coin, a wooden _māsaka_ coin, a resin _māsaka_ coin; whatever is used in commerce."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc9, pts-vp-en2.103, ms1V_2211
-msgctxt "pli-tv-bu-vb-np18:1.48"
+msgctxt "pli-tv-bu-vb-np18:1.47"
 msgid "Uggaṇheyyāti"
 msgstr "Takes:"
 
 #. HTML: </span><span class="gloss"> 
 #. VAR: nissaggiyaṃ pācittiyaṃ → nissaggiyaṃ hoti (s1-3)
-msgctxt "pli-tv-bu-vb-np18:1.49"
+msgctxt "pli-tv-bu-vb-np18:1.48"
 msgid "sayaṃ gaṇhāti nissaggiyaṃ pācittiyaṃ."
 msgstr "if he takes it himself, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc10, ms1V_2212
-msgctxt "pli-tv-bu-vb-np18:1.50"
+msgctxt "pli-tv-bu-vb-np18:1.49"
 msgid "Uggaṇhāpeyyāti"
 msgstr "Gets someone else to take:"
 
 #. HTML: </span><span class="gloss"> 
 #. VAR: nissaggiyaṃ pācittiyaṃ → nissaggiyaṃ hoti (s1-3)
-msgctxt "pli-tv-bu-vb-np18:1.51"
+msgctxt "pli-tv-bu-vb-np18:1.50"
 msgid "aññaṃ gāhāpeti nissaggiyaṃ pācittiyaṃ."
 msgstr "if he gets another to take it, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc11, ms1V_2213
-msgctxt "pli-tv-bu-vb-np18:1.52"
+msgctxt "pli-tv-bu-vb-np18:1.51"
 msgid "Upanikkhittaṃ vā sādiyeyyāti"
 msgstr "Consents to […] being deposited for him:"
 
 #. HTML: </span><span class="gloss">
-msgctxt "pli-tv-bu-vb-np18:1.53"
+msgctxt "pli-tv-bu-vb-np18:1.52"
 msgid "idaṃ ayyassa hotūti upanikkhittaṃ sādiyati, nissaggiyaṃ hoti."
 msgstr "if someone says, “Let this be for you,” and he consents to it being deposited for him, it becomes subject to relinquishment."
 
 #. HTML: </span></p><hr><p>
-msgctxt "pli-tv-bu-vb-np18:1.54"
+msgctxt "pli-tv-bu-vb-np18:1.53"
 msgid "Saṃghamajjhe nissajjitabbaṃ."
 msgstr "It should be relinquished in the midst of the Order."
 
 #. HTML: <span class="kamma">
-msgctxt "pli-tv-bu-vb-np18:1.55"
+msgctxt "pli-tv-bu-vb-np18:1.54"
 msgid "Evañca pana, bhikkhave, nissajjitabbaṃ—"
 msgstr "“And, monks, it should be relinquished in this way."
 
-msgctxt "pli-tv-bu-vb-np18:1.56"
+msgctxt "pli-tv-bu-vb-np18:1.55"
 msgid "tena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
 msgstr "After approaching the Order, that monk should put his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, put the palms of his hands together, and say,"
 
-msgctxt "pli-tv-bu-vb-np18:1.57"
+msgctxt "pli-tv-bu-vb-np18:1.56"
 msgid "“ahaṃ, bhante, rūpiyaṃ paṭiggahesiṃ."
 msgstr "‘Venerables, I have received money."
 
-msgctxt "pli-tv-bu-vb-np18:1.58"
+msgctxt "pli-tv-bu-vb-np18:1.57"
 msgid "Idaṃ me nissaggiyaṃ."
 msgstr "It is to be relinquished."
 
-msgctxt "pli-tv-bu-vb-np18:1.59"
+msgctxt "pli-tv-bu-vb-np18:1.58"
 msgid "Imāhaṃ saṃghassa nissajjāmī”ti."
 msgstr "I relinquish it to the Order.’"
 
 #. HTML: </span>
-msgctxt "pli-tv-bu-vb-np18:1.60"
+msgctxt "pli-tv-bu-vb-np18:1.59"
 msgid "Nissajjitvā āpatti desetabbā."
 msgstr "”After relinquishing it, he is to confess the offense."
 
-msgctxt "pli-tv-bu-vb-np18:1.61"
+msgctxt "pli-tv-bu-vb-np18:1.60"
 msgid "Byattena bhikkhunā paṭibalena āpatti paṭiggahetabbā."
 msgstr "The confession should be received by a competent and capable monk."
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-np18:1.62"
+msgctxt "pli-tv-bu-vb-np18:1.61"
 msgid "Sace tattha āgacchati ārāmiko vā upāsako vā so vattabbo—"
 msgstr "If a monastery worker or a lay follower is available, you should tell him,"
 
-msgctxt "pli-tv-bu-vb-np18:1.63"
+msgctxt "pli-tv-bu-vb-np18:1.62"
 msgid "“āvuso, imaṃ jānāhī”ti."
 msgstr "“Look into this.”"
 
-msgctxt "pli-tv-bu-vb-np18:1.64"
+msgctxt "pli-tv-bu-vb-np18:1.63"
 msgid "Sace so bhaṇati—"
 msgstr "If he says,"
 
-msgctxt "pli-tv-bu-vb-np18:1.65"
+msgctxt "pli-tv-bu-vb-np18:1.64"
 msgid "“iminā kiṃ āhariyyatū”ti,"
 msgstr "“What can I get you with this?”,"
 
-msgctxt "pli-tv-bu-vb-np18:1.66"
+msgctxt "pli-tv-bu-vb-np18:1.65"
 msgid "na vattabbo—"
 msgstr "you should not say,"
 
-msgctxt "pli-tv-bu-vb-np18:1.67"
+msgctxt "pli-tv-bu-vb-np18:1.66"
 msgid "“imaṃ vā imaṃ vā āharā”ti."
 msgstr "“Get this or that;”"
 
-msgctxt "pli-tv-bu-vb-np18:1.68"
+msgctxt "pli-tv-bu-vb-np18:1.67"
 msgid "Kappiyaṃ ācikkhitabbaṃ—"
 msgstr "you should point out what is allowable:"
 
-msgctxt "pli-tv-bu-vb-np18:1.69"
+msgctxt "pli-tv-bu-vb-np18:1.68"
 msgid "sappi vā telaṃ vā madhu vā phāṇitaṃ vā."
 msgstr "ghee, oil, honey, or sugar."
 
-msgctxt "pli-tv-bu-vb-np18:1.70"
+msgctxt "pli-tv-bu-vb-np18:1.69"
 msgid "Sace so tena parivattetvā kappiyaṃ āharati rūpiyappaṭiggāhakaṃ ṭhapetvā sabbeheva paribhuñjitabbaṃ."
 msgstr "If he makes a purchase and brings back what is allowable, everyone may enjoy it except the one who received the money."
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-np18:1.71"
+msgctxt "pli-tv-bu-vb-np18:1.70"
 msgid "Evañcetaṃ labhetha, iccetaṃ kusalaṃ;"
 msgstr "If this is what happens, that is good."
 
 #. REF: pts-vp-en2.104
-msgctxt "pli-tv-bu-vb-np18:1.72"
+msgctxt "pli-tv-bu-vb-np18:1.71"
 msgid "no ce labhetha, so vattabbo—"
 msgstr "If not, you should tell him,"
 
-msgctxt "pli-tv-bu-vb-np18:1.73"
+msgctxt "pli-tv-bu-vb-np18:1.72"
 msgid "“āvuso, imaṃ chaḍḍehī”ti."
 msgstr "“Discard this.”"
 
-msgctxt "pli-tv-bu-vb-np18:1.74"
+msgctxt "pli-tv-bu-vb-np18:1.73"
 msgid "Sace so chaḍḍeti, iccetaṃ kusalaṃ;"
 msgstr "If he discards it, that is good."
 
-msgctxt "pli-tv-bu-vb-np18:1.75"
+msgctxt "pli-tv-bu-vb-np18:1.74"
 msgid "no ce chaḍḍeti, pañcahaṅgehi samannāgato bhikkhu rūpiyachaḍḍako sammannitabbo—"
 msgstr "If he does not, a monk who has five qualities should be appointed as the money-discarder:"
 
-msgctxt "pli-tv-bu-vb-np18:1.76"
+msgctxt "pli-tv-bu-vb-np18:1.75"
 msgid "yo na chandāgatiṃ gaccheyya, na dosāgatiṃ gaccheyya, na mohāgatiṃ gaccheyya, na bhayāgatiṃ gaccheyya, chaḍḍitāchaḍḍitañca jāneyya."
 msgstr "one who is not swayed by desire, ill will, confusion, or fear, and who understands the meaning of discarded and not discarded."
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-np18:1.77"
+msgctxt "pli-tv-bu-vb-np18:1.76"
 msgid "“Evañca pana, bhikkhave, sammannitabbo."
 msgstr "“And, monks, this is how he should be appointed."
 
-msgctxt "pli-tv-bu-vb-np18:1.78"
+msgctxt "pli-tv-bu-vb-np18:1.77"
 msgid "Paṭhamaṃ bhikkhu yācitabbo."
 msgstr "First the monk should be asked"
 
-msgctxt "pli-tv-bu-vb-np18:1.79"
+msgctxt "pli-tv-bu-vb-np18:1.78"
 msgid "Yācitvā byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
 msgstr "and then a competent and capable monk should inform the Order:"
 
 #. HTML: </p><div class="kamma"><p>
 #. REF: sc12, ms1V_2214
-msgctxt "pli-tv-bu-vb-np18:1.80"
+msgctxt "pli-tv-bu-vb-np18:1.79"
 msgid "‘Suṇātu me, bhante, saṃgho."
 msgstr "‘Venerables, let the Order listen to me."
 
-msgctxt "pli-tv-bu-vb-np18:1.81"
+msgctxt "pli-tv-bu-vb-np18:1.80"
 msgid "Yadi saṃghassa pattakallaṃ, saṃgho itthannāmaṃ bhikkhuṃ rūpiyachaḍḍakaṃ sammanneyya."
 msgstr "If it seems appropriate to the Order, it should appoint monk so-and-so as the money-discarder."
 
-msgctxt "pli-tv-bu-vb-np18:1.82"
+msgctxt "pli-tv-bu-vb-np18:1.81"
 msgid "Esā ñatti."
 msgstr "This is the motion."
 
 #. HTML: </p><p>
 #. REF: sc13, ms1V_2215
-msgctxt "pli-tv-bu-vb-np18:1.83"
+msgctxt "pli-tv-bu-vb-np18:1.82"
 msgid "Suṇātu me, bhante, saṃgho."
 msgstr "Venerables, let the Order listen to me."
 
-msgctxt "pli-tv-bu-vb-np18:1.84"
+msgctxt "pli-tv-bu-vb-np18:1.83"
 msgid "Saṃgho itthannāmaṃ bhikkhuṃ rūpiyachaḍḍakaṃ sammannati."
 msgstr "The Order appoints monk so-and-so as the money-discarder."
 
-msgctxt "pli-tv-bu-vb-np18:1.85"
+msgctxt "pli-tv-bu-vb-np18:1.84"
 msgid "Yassāyasmato khamati itthannāmassa bhikkhuno rūpiyachaḍḍakassa sammuti, so tuṇhassa;"
 msgstr "Any monk who agrees to appointing monk so-and-so as the money-discarder should remain silent."
 
-msgctxt "pli-tv-bu-vb-np18:1.86"
+msgctxt "pli-tv-bu-vb-np18:1.85"
 msgid "yassa nakkhamati, so bhāseyya."
 msgstr "Any monk who does not agree should speak up."
 
 #. HTML: </p><p>
 #. REF: sc14, ms1V_2216
-msgctxt "pli-tv-bu-vb-np18:1.87"
+msgctxt "pli-tv-bu-vb-np18:1.86"
 msgid "Sammato saṃghena itthannāmo bhikkhu rūpiyachaḍḍako."
 msgstr "The Order has appointed monk so-and-so as the money-discarder."
 
-msgctxt "pli-tv-bu-vb-np18:1.88"
+msgctxt "pli-tv-bu-vb-np18:1.87"
 msgid "Khamati saṃghassa, tasmā tuṇhī,"
 msgstr "The Order approves and is therefore silent."
 
-msgctxt "pli-tv-bu-vb-np18:1.89"
+msgctxt "pli-tv-bu-vb-np18:1.88"
 msgid "evametaṃ dhārayāmī’”ti."
 msgstr "I will remember it thus.’”"
 
 #. HTML: </p></div><p><span class="rule"> 
 #. REF: sc15, ms1V_2217
-msgctxt "pli-tv-bu-vb-np18:1.90"
+msgctxt "pli-tv-bu-vb-np18:1.89"
 msgid "Tena sammatena bhikkhunā animittaṃ katvā pātetabbaṃ."
 msgstr "The appointed monk should drop it without taking note of the location."
 
-msgctxt "pli-tv-bu-vb-np18:1.91"
+msgctxt "pli-tv-bu-vb-np18:1.90"
 msgid "Sace nimittaṃ katvā pāteti, āpatti dukkaṭassa."
 msgstr "If he takes note of where he drops it, he commits an offense of wrong conduct."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np18:1.91a"
+msgctxt "pli-tv-bu-vb-np18:1.91.0"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><p>
 #. REF: sc16, pts-vp-pli3.239, pts-vp-en2.105, ms1V_2218
-msgctxt "pli-tv-bu-vb-np18:1.92"
+msgctxt "pli-tv-bu-vb-np18:1.91"
 msgid "Rūpiye rūpiyasaññī rūpiyaṃ paṭiggaṇhāti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is money, and he perceives it as money, and he receives it, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np18:1.93"
+msgctxt "pli-tv-bu-vb-np18:1.92"
 msgid "Rūpiye vematiko rūpiyaṃ paṭiggaṇhāti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is money, but he is unsure if it is, and he receives it, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np18:1.94"
+msgctxt "pli-tv-bu-vb-np18:1.93"
 msgid "Rūpiye arūpiyasaññī rūpiyaṃ paṭiggaṇhāti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is money, but he does not perceive it as money, and he receives it, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </p><p>
 #. REF: sc17, ms1V_2219
-msgctxt "pli-tv-bu-vb-np18:1.95"
+msgctxt "pli-tv-bu-vb-np18:1.94"
 msgid "Arūpiye rūpiyasaññī, āpatti dukkaṭassa."
 msgstr "If it is not money, but he perceives it as money, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np18:1.96"
+msgctxt "pli-tv-bu-vb-np18:1.95"
 msgid "Arūpiye vematiko, āpatti dukkaṭassa."
 msgstr "If it is not money, but he is unsure of it, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np18:1.97"
+msgctxt "pli-tv-bu-vb-np18:1.96"
 msgid "Arūpiye arūpiyasaññī, anāpatti."
 msgstr "If it is not money, and he does not perceive it as money, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np18:1.97a"
+msgctxt "pli-tv-bu-vb-np18:1.97.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc18, ms1V_2220
-msgctxt "pli-tv-bu-vb-np18:1.98"
+msgctxt "pli-tv-bu-vb-np18:1.97"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
-msgctxt "pli-tv-bu-vb-np18:1.99"
+msgctxt "pli-tv-bu-vb-np18:1.98"
 msgid "ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipati—"
 msgstr "if, within a monastery or a house, he takes it or gets someone to take it, and then puts it aside with the thought,"
 
-msgctxt "pli-tv-bu-vb-np18:1.100"
+msgctxt "pli-tv-bu-vb-np18:1.99"
 msgid "yassa bhavissati so harissatīti,"
 msgstr "“Whoever this belongs to will fetch it;”"
 
-msgctxt "pli-tv-bu-vb-np18:1.101"
+msgctxt "pli-tv-bu-vb-np18:1.100"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-np18:1.102"
+msgctxt "pli-tv-bu-vb-np18:1.101"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><hr><p class="endsutta">
 #. VAR: Rūpiyasikkhāpadaṃ → jāta­rūpa­sikkhā­pada (kaṅkhāvitaraṇī)
 #. REF: sc19, ms1V_2221,
-msgctxt "pli-tv-bu-vb-np18:1.103"
+msgctxt "pli-tv-bu-vb-np18:1.102"
 msgid "Rūpiyasikkhāpadaṃ niṭṭhitaṃ aṭṭhamaṃ."
 msgstr "The eighth rule, the training rule on money, is finished."

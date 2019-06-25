@@ -29,12 +29,12 @@ msgid "23. Bhikkhunupassayasikkhāpada"
 msgstr "The training rule on nuns’ dwelling places"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc23:0.6"
+msgctxt "pli-tv-bu-vb-pc23:1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pc23:1.0a"
+msgctxt "pli-tv-bu-vb-pc23:1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -118,24 +118,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc23:1.17a"
+msgctxt "pli-tv-bu-vb-pc23:1.17.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc3, ms2V_533
-msgctxt "pli-tv-bu-vb-pc23:1.18"
+msgctxt "pli-tv-bu-vb-pc23:1.17"
 msgid "“Yo pana bhikkhu bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya, pācittiyan”ti."
 msgstr "‘If a monk goes to a nun’s dwelling place, and then instructs her, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc4, ms2V_534
-msgctxt "pli-tv-bu-vb-pc23:1.19"
+msgctxt "pli-tv-bu-vb-pc23:1.18"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc23:2.0a"
+msgctxt "pli-tv-bu-vb-pc23:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -226,23 +226,23 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc23:2.19a"
+msgctxt "pli-tv-bu-vb-pc23:2.19.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. VAR: bhikkhunupassayaṃ → bhik­khu­nū­passa­yaṃ (bj, s1-3, pts1)
 #. REF: sc6, pts-vp-pli4.57, ms2V_536
-msgctxt "pli-tv-bu-vb-pc23:2.20"
+msgctxt "pli-tv-bu-vb-pc23:2.19"
 msgid "“Yo pana bhikkhu bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk goes to the nuns’ dwelling place and then instructs them, unless there is an appropriate reason, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc23:2.21"
+msgctxt "pli-tv-bu-vb-pc23:2.20"
 msgid "Tatthāyaṃ samayo. Gilānā hoti bhikkhunī—ayaṃ tattha samayo”ti."
 msgstr "The appropriate reason is that a nun is sick.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc23:3.1.0a"
+msgctxt "pli-tv-bu-vb-pc23:3.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -339,7 +339,7 @@ msgid "bhikkhunī na sakkoti ovādāya vā saṃvāsāya vā gantuṃ."
 msgstr "she is not able to go to the instruction or to a formal meeting of the community."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc23:3.2.0a"
+msgctxt "pli-tv-bu-vb-pc23:3.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -380,7 +380,7 @@ msgid "Anupasampannāya anupasampannasaññī, anāpatti."
 msgstr "If she is not fully ordained, and he perceives her as not fully ordained, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc23:3.3.0a"
+msgctxt "pli-tv-bu-vb-pc23:3.3.0"
 msgid ""
 msgstr "Non-offenses"
 

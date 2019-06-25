@@ -28,7 +28,7 @@ msgid "2. Omasavādasikkhāpada"
 msgstr "The training rule on abusive speech"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc2:1.1.0a"
+msgctxt "pli-tv-bu-vb-pc2:1.1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -103,7 +103,7 @@ msgid "dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "he gave a teaching and addressed the monks:"
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc2:1.2.0a"
+msgctxt "pli-tv-bu-vb-pc2:1.2.0"
 msgid ""
 msgstr "Jataka"
 
@@ -254,18 +254,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc2:1.2.32a"
+msgctxt "pli-tv-bu-vb-pc2:1.2.32.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc6, ms2V_34
-msgctxt "pli-tv-bu-vb-pc2:1.2.33"
+msgctxt "pli-tv-bu-vb-pc2:1.2.32"
 msgid "“Omasavāde pācittiyan”ti."
 msgstr "‘If a monk speaks abusively, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc2:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc2:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -285,371 +285,371 @@ msgid "jātiyāpi, nāmenapi, gottenapi, kammenapi, sippenapi, ābādhenapi, li�
 msgstr "about caste, about name, about family, about work, about craft, about illnesses, about physical traits, about defilements, about offenses, and by insulting."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc2:2.1.3a"
+msgctxt "pli-tv-bu-vb-pc2:2.1.2.0.1"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><h4>
-msgctxt "pli-tv-bu-vb-pc2:2.1.3b"
+msgctxt "pli-tv-bu-vb-pc2:2.1.2.0.2"
 msgid ""
 msgstr "Definitions"
 
 #. HTML: </h4><p><span class="term"> 
 #. REF: sc8, ms2V_36
-msgctxt "pli-tv-bu-vb-pc2:2.1.4"
+msgctxt "pli-tv-bu-vb-pc2:2.1.2"
 msgid "Jāti nāma"
 msgstr "Caste:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.5"
+msgctxt "pli-tv-bu-vb-pc2:2.1.3"
 msgid "dve jātiyo—"
 msgstr "there are two kinds of castes:"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.6"
+msgctxt "pli-tv-bu-vb-pc2:2.1.4"
 msgid "hīnā ca jāti ukkaṭṭhā ca jāti."
 msgstr "low castes and high castes."
 
 #. HTML: <span class="term"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.7"
+msgctxt "pli-tv-bu-vb-pc2:2.1.5"
 msgid "Hīnā nāma"
 msgstr "Low castes:"
 
 #. HTML: </span><span class="gloss">
 #. REF: pts-vp-en.2.174
-msgctxt "pli-tv-bu-vb-pc2:2.1.8"
+msgctxt "pli-tv-bu-vb-pc2:2.1.6"
 msgid "jāti—caṇḍālajāti, venajāti, nesādajāti, rathakārajāti, pukkusajāti."
 msgstr "outcasts, bamboo workers, hunters, chariot-makers, waste-removers—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.9"
+msgctxt "pli-tv-bu-vb-pc2:2.1.7"
 msgid "Esā hīnā nāma jāti."
 msgstr "these are called “low castes.”"
 
 #. HTML: </span><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.10"
+msgctxt "pli-tv-bu-vb-pc2:2.1.8"
 msgid "Ukkaṭṭhā nāma"
 msgstr "High castes:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.11"
+msgctxt "pli-tv-bu-vb-pc2:2.1.9"
 msgid "jāti—khattiyajāti, brāhmaṇajāti."
 msgstr "aristocrats and brahmins—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.12"
+msgctxt "pli-tv-bu-vb-pc2:2.1.10"
 msgid "Esā ukkaṭṭhā nāma jāti."
 msgstr "these are called “high castes.”"
 
 #. HTML: </span></span></p><p><span class="term"> 
 #. REF: sc9, ms2V_37
-msgctxt "pli-tv-bu-vb-pc2:2.1.13"
+msgctxt "pli-tv-bu-vb-pc2:2.1.11"
 msgid "Nāmaṃ nāma"
 msgstr "Name:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.14"
+msgctxt "pli-tv-bu-vb-pc2:2.1.12"
 msgid "dve nāmāni—"
 msgstr "there are two kinds of names:"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.15"
+msgctxt "pli-tv-bu-vb-pc2:2.1.13"
 msgid "hīnañca nāmaṃ ukkaṭṭhañca nāmaṃ."
 msgstr "low names and high names."
 
 #. HTML: <span class="term"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.16"
+msgctxt "pli-tv-bu-vb-pc2:2.1.14"
 msgid "Hīnaṃ nāma"
 msgstr "Low names:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.17"
+msgctxt "pli-tv-bu-vb-pc2:2.1.15"
 msgid "nāmaṃ—avakaṇṇakaṃ, javakaṇṇakaṃ, dhaniṭṭhakaṃ, saviṭṭhakaṃ, kulavaḍḍhakaṃ, tesu tesu vā pana janapadesu oññātaṃ avaññātaṃ hīḷitaṃ paribhūtaṃ acittīkataṃ,"
 msgstr "Avakaṇṇaka, Javakaṇṇaka, Dhaniṭṭhaka, Saviṭṭhaka, Kulavaḍḍhaka, or names, in whatever countries, that are despised, looked down upon, scorned, treated with contempt, disregarded—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.18"
+msgctxt "pli-tv-bu-vb-pc2:2.1.16"
 msgid "etaṃ hīnaṃ nāma nāmaṃ."
 msgstr "these are called “low names.”"
 
 #. HTML: </span><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.19"
+msgctxt "pli-tv-bu-vb-pc2:2.1.17"
 msgid "Ukkaṭṭhaṃ nāma"
 msgstr "High names:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.20"
+msgctxt "pli-tv-bu-vb-pc2:2.1.18"
 msgid "nāmaṃ—buddhappaṭisaṃyuttaṃ, dhammappaṭisaṃyuttaṃ, saṃghappaṭisaṃyuttaṃ, tesu tesu vā pana janapadesu anoññātaṃ anavaññātaṃ ahīḷitaṃ aparibhūtaṃ cittīkataṃ,"
 msgstr "those connected with the Buddha, connected with the Teaching, or connected with the Order, or names, in whatever countries, that are highly regarded, highly thought of, respected, valued, esteemed—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.21"
+msgctxt "pli-tv-bu-vb-pc2:2.1.19"
 msgid "etaṃ ukkaṭṭhaṃ nāma nāmaṃ."
 msgstr "these are called “high names.”"
 
 #. HTML: </span></span></p><p><span class="term"> 
 #. REF: sc10, ms2V_38
-msgctxt "pli-tv-bu-vb-pc2:2.1.22"
+msgctxt "pli-tv-bu-vb-pc2:2.1.20"
 msgid "Gottaṃ nāma"
 msgstr "Family:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.23"
+msgctxt "pli-tv-bu-vb-pc2:2.1.21"
 msgid "dve gottāni—"
 msgstr "there are two kinds of families:"
 
 #. REF: pts-vp-en.2.175
-msgctxt "pli-tv-bu-vb-pc2:2.1.24"
+msgctxt "pli-tv-bu-vb-pc2:2.1.22"
 msgid "hīnañca gottaṃ ukkaṭṭhañca gottaṃ."
 msgstr "low families and high families."
 
 #. HTML: <span class="term"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.25"
+msgctxt "pli-tv-bu-vb-pc2:2.1.23"
 msgid "Hīnaṃ nāma"
 msgstr "Low families:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.26"
+msgctxt "pli-tv-bu-vb-pc2:2.1.24"
 msgid "gottaṃ—kosiyagottaṃ, bhāradvājagottaṃ, tesu tesu vā pana janapadesu oññātaṃ avaññātaṃ hīḷitaṃ paribhūtaṃ acittīkataṃ,"
 msgstr "the Kosiya family, the Bhāradvāja family, or families, in whatever countries, that are despised, looked down upon, scorned, treated with contempt, disregarded—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.27"
+msgctxt "pli-tv-bu-vb-pc2:2.1.25"
 msgid "etaṃ hīnaṃ nāma gottaṃ."
 msgstr "these are called “low families.”"
 
 #. HTML: </span><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.28"
+msgctxt "pli-tv-bu-vb-pc2:2.1.26"
 msgid "Ukkaṭṭhaṃ nāma"
 msgstr "High families:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.29"
+msgctxt "pli-tv-bu-vb-pc2:2.1.27"
 msgid "gottaṃ—gotamagottaṃ, moggallānagottaṃ, kaccānagottaṃ, vāsiṭṭhagottaṃ, tesu tesu vā pana janapadesu anoññātaṃ anavaññātaṃ ahīḷitaṃ aparibhūtaṃ cittīkataṃ,"
 msgstr "the Gotama family, the Moggallāna family, the Kaccāna family, the Vāsiṭṭha family, or families, in whatever countries, that are highly regarded, highly thought of, respected, valued, esteemed—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.30"
+msgctxt "pli-tv-bu-vb-pc2:2.1.28"
 msgid "etaṃ ukkaṭṭhaṃ nāma gottaṃ."
 msgstr "these are called “high families.”"
 
 #. HTML: </span></span></p><p><span class="term"> 
 #. REF: sc11, ms2V_39
-msgctxt "pli-tv-bu-vb-pc2:2.1.31"
+msgctxt "pli-tv-bu-vb-pc2:2.1.29"
 msgid "Kammaṃ nāma"
 msgstr "Work:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.32"
+msgctxt "pli-tv-bu-vb-pc2:2.1.30"
 msgid "dve kammāni—"
 msgstr "there are two kinds of work:"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.33"
+msgctxt "pli-tv-bu-vb-pc2:2.1.31"
 msgid "hīnañca kammaṃ ukkaṭṭhañca kammaṃ."
 msgstr "low work and high work."
 
 #. HTML: <span class="term"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.34"
+msgctxt "pli-tv-bu-vb-pc2:2.1.32"
 msgid "Hīnaṃ nāma"
 msgstr "Low work:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.35"
+msgctxt "pli-tv-bu-vb-pc2:2.1.33"
 msgid "kammaṃ—koṭṭhakakammaṃ, pupphachaḍḍakakammaṃ, tesu tesu vā pana janapadesu oññātaṃ avaññātaṃ hīḷitaṃ paribhūtaṃ acittīkataṃ,"
 msgstr "carpentry, waste-removing, or work, in whatever countries, that is despised, looked down upon, scorned, treated with contempt, disregarded—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.36"
+msgctxt "pli-tv-bu-vb-pc2:2.1.34"
 msgid "etaṃ hīnaṃ nāma kammaṃ."
 msgstr "this is called “low work.”"
 
 #. HTML: </span><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.37"
+msgctxt "pli-tv-bu-vb-pc2:2.1.35"
 msgid "Ukkaṭṭhaṃ nāma"
 msgstr "High work:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.38"
+msgctxt "pli-tv-bu-vb-pc2:2.1.36"
 msgid "kammaṃ—kasi, vaṇijjā, gorakkhā, tesu tesu vā pana janapadesu anoññātaṃ anavaññātaṃ ahīḷitaṃ aparibhūtaṃ cittīkataṃ."
 msgstr "farming, trade, cattle-keeping, or work, in whatever countries, that is highly regarded, highly thought of, respected, valued, esteemed—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.39"
+msgctxt "pli-tv-bu-vb-pc2:2.1.37"
 msgid "Etaṃ ukkaṭṭhaṃ nāma kammaṃ."
 msgstr "this is called “high work.”"
 
 #. HTML: </span></span></p><p><span class="term"> 
 #. REF: sc12, pts-vp-pli4.7, pts-vp-en.2.176, ms2V_40
-msgctxt "pli-tv-bu-vb-pc2:2.1.40"
+msgctxt "pli-tv-bu-vb-pc2:2.1.38"
 msgid "Sippaṃ nāma"
 msgstr "Craft:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.41"
+msgctxt "pli-tv-bu-vb-pc2:2.1.39"
 msgid "dve sippāni—"
 msgstr "there are two kinds of crafts:"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.42"
+msgctxt "pli-tv-bu-vb-pc2:2.1.40"
 msgid "hīnañca sippaṃ ukkaṭṭhañca sippaṃ."
 msgstr "low crafts and high crafts."
 
 #. HTML: <span class="term"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.43"
+msgctxt "pli-tv-bu-vb-pc2:2.1.41"
 msgid "Hīnaṃ nāma"
 msgstr "Low crafts:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.44"
+msgctxt "pli-tv-bu-vb-pc2:2.1.42"
 msgid "sippaṃ—naḷakārasippaṃ, kumbhakārasippaṃ, pesakārasippaṃ, cammakārasippaṃ, nahāpitasippaṃ, tesu tesu vā pana janapadesu oññātaṃ avaññātaṃ hīḷitaṃ paribhūtaṃ acittīkataṃ."
 msgstr "reed-work, pottery, weaving, leather-work, hairdressing, or crafts, in whatever countries, that are despised, looked down upon, scorned, treated with contempt, disregarded—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.45"
+msgctxt "pli-tv-bu-vb-pc2:2.1.43"
 msgid "Etaṃ hīnaṃ nāma sippaṃ."
 msgstr "these are called “low crafts.”"
 
 #. HTML: </span><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.46"
+msgctxt "pli-tv-bu-vb-pc2:2.1.44"
 msgid "Ukkaṭṭhaṃ nāma"
 msgstr "High crafts:"
 
 #. HTML: </span><span class="gloss">
 #. REF: pts-vp-en.2.177
-msgctxt "pli-tv-bu-vb-pc2:2.1.47"
+msgctxt "pli-tv-bu-vb-pc2:2.1.45"
 msgid "sippaṃ—muddā, gaṇanā, lekhā, tesu tesu vā pana janapadesu anoññātaṃ anavaññātaṃ ahīḷitaṃ aparibhūtaṃ cittīkataṃ,"
 msgstr "calculating, accounting, writing, or crafts, in whatever countries, that are highly regarded, highly thought of, respected, valued, esteemed—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.48"
+msgctxt "pli-tv-bu-vb-pc2:2.1.46"
 msgid "etaṃ ukkaṭṭhaṃ nāma sippaṃ."
 msgstr "these are called “high crafts.”"
 
 #. HTML: </span></span></p><p><span class="term">
 #. REF: sc13, ms2V_41
-msgctxt "pli-tv-bu-vb-pc2:2.1.49"
+msgctxt "pli-tv-bu-vb-pc2:2.1.47"
 msgid "Sabbepi ābādhā"
 msgstr "Illnesses: "
 
 #. HTML: </span><span class="gloss">
 #. REF: sc13, ms2V_41
-msgctxt "pli-tv-bu-vb-pc2:2.1.50"
+msgctxt "pli-tv-bu-vb-pc2:2.1.48"
 msgid "hīnā, api ca madhumeho ābādho ukkaṭṭho."
 msgstr "all are low, but there is the disease of diabetes which is high."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc14, ms2V_42
-msgctxt "pli-tv-bu-vb-pc2:2.1.51"
+msgctxt "pli-tv-bu-vb-pc2:2.1.49"
 msgid "Liṅgaṃ nāma"
 msgstr "Physical traits:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.52"
+msgctxt "pli-tv-bu-vb-pc2:2.1.50"
 msgid "dve liṅgāni—"
 msgstr "there are two kinds of physical traits:"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.53"
+msgctxt "pli-tv-bu-vb-pc2:2.1.51"
 msgid "hīnañca liṅgaṃ ukkaṭṭhañca liṅgaṃ."
 msgstr "low physical traits and high physical traits."
 
 #. HTML: <span class="term"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.54"
+msgctxt "pli-tv-bu-vb-pc2:2.1.52"
 msgid "Hīnaṃ nāma"
 msgstr "Low physical traits:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.55"
+msgctxt "pli-tv-bu-vb-pc2:2.1.53"
 msgid "liṅgaṃ—atidīghaṃ, atirassaṃ, atikaṇhaṃ, accodātaṃ,"
 msgstr "too tall, too short, too dark, too fair—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.56"
+msgctxt "pli-tv-bu-vb-pc2:2.1.54"
 msgid "etaṃ hīnaṃ nāma liṅgaṃ."
 msgstr "these are called “low physical traits.”"
 
 #. HTML: </span><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.57"
+msgctxt "pli-tv-bu-vb-pc2:2.1.55"
 msgid "Ukkaṭṭhaṃ nāma"
 msgstr "High physical traits:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.58"
+msgctxt "pli-tv-bu-vb-pc2:2.1.56"
 msgid "liṅgaṃ—nātidīghaṃ, nātirassaṃ, nātikaṇhaṃ, nāccodātaṃ."
 msgstr "not too tall, not too short, not too dark, not too fair—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.59"
+msgctxt "pli-tv-bu-vb-pc2:2.1.57"
 msgid "Etaṃ ukkaṭṭhaṃ nāma liṅgaṃ."
 msgstr "these are called “high physical traits.”"
 
 #. HTML: </span></span></p><p><span class="term">
 #. REF: sc15, ms2V_43
-msgctxt "pli-tv-bu-vb-pc2:2.1.60"
+msgctxt "pli-tv-bu-vb-pc2:2.1.58"
 msgid "Sabbepi kilesā "
 msgstr "Defilements: "
 
 #. HTML: </span><span class="gloss">
 #. REF: sc15, ms2V_43
-msgctxt "pli-tv-bu-vb-pc2:2.1.61"
+msgctxt "pli-tv-bu-vb-pc2:2.1.59"
 msgid "hīnā."
 msgstr "all are low."
 
 #. HTML: </span></p><p><span class="term">
 #. REF: sc16, ms2V_44
-msgctxt "pli-tv-bu-vb-pc2:2.1.62"
+msgctxt "pli-tv-bu-vb-pc2:2.1.60"
 msgid "Sabbāpi āpattiyo "
 msgstr "Offenses: "
 
 # NOTE: The English translation cannot properly capture the Pali, in which the word for “offense” and “attainment” is the same, _āpatti_.
 #. HTML: </span><span class="gloss">
-msgctxt "pli-tv-bu-vb-pc2:2.1.63"
+msgctxt "pli-tv-bu-vb-pc2:2.1.61"
 msgid "hīnā. Api ca sotāpattisamāpatti ukkaṭṭhā."
 msgstr "all are low, but there is the attainment of stream-entry which is high."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc17, ms2V_45
-msgctxt "pli-tv-bu-vb-pc2:2.1.64"
+msgctxt "pli-tv-bu-vb-pc2:2.1.62"
 msgid "Akkoso nāma"
 msgstr "Insults:"
 
 #. HTML: </span><span class="gloss">
 #. REF: pts-vp-en.2.178
-msgctxt "pli-tv-bu-vb-pc2:2.1.65"
+msgctxt "pli-tv-bu-vb-pc2:2.1.63"
 msgid "dve akkosā—"
 msgstr "there are two kinds of insults:"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.66"
+msgctxt "pli-tv-bu-vb-pc2:2.1.64"
 msgid "hīno ca akkoso ukkaṭṭho ca akkoso."
 msgstr "low insults and high insults."
 
 #. HTML: <span class="term"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.67"
+msgctxt "pli-tv-bu-vb-pc2:2.1.65"
 msgid "Hīno nāma"
 msgstr "Low insults:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.68"
+msgctxt "pli-tv-bu-vb-pc2:2.1.66"
 msgid "akkoso—oṭṭhosi, meṇḍosi, goṇosi, gadrabhosi, tiracchānagatosi, nerayikosi;"
 msgstr "“you’re a camel/you’re a ram/you’re an ox/you’re a donkey/you’re an animal/you’re bound for hell;"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.69"
+msgctxt "pli-tv-bu-vb-pc2:2.1.67"
 msgid "natthi tuyhaṃ sugati, duggatiyeva tuyhaṃ pāṭikaṅkhāti, yakārena vā bhakārena vā, kāṭakoṭacikāya vā,"
 msgstr "you’re not going to a good destination/you can only expect a bad destination,” or adding the disparaging endings _ya_ or _bha_ to someone’s name, or calling someone words for the male and female genitals—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.70"
+msgctxt "pli-tv-bu-vb-pc2:2.1.68"
 msgid "eso hīno nāma akkoso."
 msgstr "these are called “low insults.”"
 
 #. HTML: </span><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.71"
+msgctxt "pli-tv-bu-vb-pc2:2.1.69"
 msgid "Ukkaṭṭho nāma"
 msgstr "High insults:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc2:2.1.72"
+msgctxt "pli-tv-bu-vb-pc2:2.1.70"
 msgid "akkoso—paṇḍitosi, byattosi, medhāvīsi, bahussutosi, dhammakathikosi,"
 msgstr "“you’re wise/you’re competent/you’re intelligent/you’re learned/you’re an expounder of the Teaching;"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.73"
+msgctxt "pli-tv-bu-vb-pc2:2.1.71"
 msgid "natthi tuyhaṃ duggati, sugatiyeva tuyhaṃ pāṭikaṅkhāti,"
 msgstr "you’re not going to a bad destination/you can only expect a good destination”—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.1.74"
+msgctxt "pli-tv-bu-vb-pc2:2.1.72"
 msgid "eso ukkaṭṭho nāma akkoso."
 msgstr "these are called “high insults.”"
 
 #. HTML: </span></span></p><h4>
-msgctxt "pli-tv-bu-vb-pc2:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc2:2.2.0.1"
 msgid ""
 msgstr "Exposition"
 
 #. HTML: </h4><h5>
-msgctxt "pli-tv-bu-vb-pc2:2.2.0b"
+msgctxt "pli-tv-bu-vb-pc2:2.2.0.2"
 msgid ""
 msgstr "Abuse about caste"
 
@@ -696,414 +696,414 @@ msgid "“khattiyosi, brāhmaṇosī”ti bhaṇati, āpatti vācāya, vācāya 
 msgstr "saying, “You’re an aristocrat/you’re a brahmin,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc2:2.2.8a"
+msgctxt "pli-tv-bu-vb-pc2:2.2.8.0"
 msgid ""
 msgstr "Abuse about name"
 
 #. HTML: </h5><p>
 #. REF: sc22, ms2V_50
-msgctxt "pli-tv-bu-vb-pc2:2.2.9"
+msgctxt "pli-tv-bu-vb-pc2:2.2.8"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena hīnaṃ vadeti, avakaṇṇakaṃ javakaṇṇakaṃ dhaniṭṭhakaṃ saviṭṭhakaṃ kulavaḍḍhakaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is low—an Avakaṇṇaka/a Javakaṇṇaka/a Dhaniṭṭhaka/a Saviṭṭhaka/a Kulavaḍḍhaka—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.10"
+msgctxt "pli-tv-bu-vb-pc2:2.2.9"
 msgid "“avakaṇṇakosi, javakaṇṇakosi, dhaniṭṭhakosi, saviṭṭhakosi, kulavaḍḍhakosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re an Avakaṇṇaka/you’re a Javakaṇṇaka/you’re a Dhaniṭṭhaka/you’re a Saviṭṭhaka/you’re a Kulavaḍḍhaka,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc23, ms2V_51
-msgctxt "pli-tv-bu-vb-pc2:2.2.11"
+msgctxt "pli-tv-bu-vb-pc2:2.2.10"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena ukkaṭṭhaṃ vadeti, buddharakkhitaṃ dhammarakkhitaṃ saṃgharakkhitaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is high—a Buddharakkhita/a Dhammarakkhita/a Sangharakkhita—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.12"
+msgctxt "pli-tv-bu-vb-pc2:2.2.11"
 msgid "“avakaṇṇakosi, javakaṇṇakosi, dhaniṭṭhakosi, saviṭṭhakosi, kulavaḍḍhakosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re an Avakaṇṇaka/you’re a Javakaṇṇaka/you’re a Dhaniṭṭhaka/you’re a Saviṭṭhaka/you’re a Kulavaḍḍhaka,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc24, ms2V_52
-msgctxt "pli-tv-bu-vb-pc2:2.2.13"
+msgctxt "pli-tv-bu-vb-pc2:2.2.12"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena hīnaṃ vadeti, avakaṇṇakaṃ javakaṇṇakaṃ dhaniṭṭhakaṃ saviṭṭhakaṃ kulavaḍḍhakaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is high to one who is low—an Avakaṇṇaka/a Javakaṇṇaka/a Dhaniṭṭhaka/a Saviṭṭhaka/a Kulavaḍḍhaka—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.14"
+msgctxt "pli-tv-bu-vb-pc2:2.2.13"
 msgid "“buddharakkhitosi, dhammarakkhitosi, saṃgharakkhitosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a Buddharakkhita/you’re a Dhammarakkhita/you’re a Sangharakkhita,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc25, ms2V_53
-msgctxt "pli-tv-bu-vb-pc2:2.2.15"
+msgctxt "pli-tv-bu-vb-pc2:2.2.14"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena ukkaṭṭhaṃ vadeti, buddharakkhitaṃ dhammarakkhitaṃ saṃgharakkhitaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is high to one who is high—a Buddharakkhita/a Dhammarakkhita/a Sangharakkhita—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.16"
+msgctxt "pli-tv-bu-vb-pc2:2.2.15"
 msgid "“buddharakkhitosi, dhammarakkhitosi, saṃgharakkhitosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a Buddharakkhita/you’re a Dhammarakkhita/you’re a Sangharakkhita,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc2:2.2.16a"
+msgctxt "pli-tv-bu-vb-pc2:2.2.16.0"
 msgid ""
 msgstr "Abuse about family"
 
 #. HTML: </h5><p>
 #. REF: sc26, ms2V_54
-msgctxt "pli-tv-bu-vb-pc2:2.2.17"
+msgctxt "pli-tv-bu-vb-pc2:2.2.16"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena hīnaṃ vadeti, kosiyaṃ bhāradvājaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is low—one from the Kosiya family/one from the Bhāradvāja family—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.18"
+msgctxt "pli-tv-bu-vb-pc2:2.2.17"
 msgid "“kosiyosi, bhāradvājosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a Kosiya/you’re a Bhāradvāja,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc27, ms2V_55
-msgctxt "pli-tv-bu-vb-pc2:2.2.19"
+msgctxt "pli-tv-bu-vb-pc2:2.2.18"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena ukkaṭṭhaṃ vadeti, gotamaṃ moggallānaṃ kaccānaṃ vāsiṭṭhaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is high—one from the Gotama family/one from the Moggallāna family/one from the Kaccāna family/one from the Vāsiṭṭha family—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.20"
+msgctxt "pli-tv-bu-vb-pc2:2.2.19"
 msgid "“kosiyosi, bhāradvājosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a Kosiya/you’re a Bhāradvāja,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc28, ms2V_56
-msgctxt "pli-tv-bu-vb-pc2:2.2.21"
+msgctxt "pli-tv-bu-vb-pc2:2.2.20"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena hīnaṃ vadeti, kosiyaṃ bhāradvājaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is high to one who is low—one from the Kosiya family/one from the Bhāradvāja family—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.22"
+msgctxt "pli-tv-bu-vb-pc2:2.2.21"
 msgid "“gotamosi, moggallānosi, kaccānosi, vāsiṭṭhosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a Gotama/you’re a Moggallāna/you’re a Kaccāna/you’re a Vāsiṭṭha,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc29, ms2V_57
-msgctxt "pli-tv-bu-vb-pc2:2.2.23"
+msgctxt "pli-tv-bu-vb-pc2:2.2.22"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena ukkaṭṭhaṃ vadeti, gotamaṃ moggallānaṃ kaccānaṃ vāsiṭṭhaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is high to one who is high—one from the Gotama family/one from the Moggallāna family/one from the Kaccāna family/one from the Vāsiṭṭha family—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.24"
+msgctxt "pli-tv-bu-vb-pc2:2.2.23"
 msgid "“gotamosi, moggallānosi, kaccānosi, vāsiṭṭhosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a Gotama/you’re a Moggallāna/you’re a Kaccāna/you’re a Vāsiṭṭha,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc2:2.2.24a"
+msgctxt "pli-tv-bu-vb-pc2:2.2.24.0"
 msgid ""
 msgstr "Abuse about work"
 
 #. HTML: </h5><p>
 #. REF: sc30, ms2V_58
-msgctxt "pli-tv-bu-vb-pc2:2.2.25"
+msgctxt "pli-tv-bu-vb-pc2:2.2.24"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena hīnaṃ vadeti, koṭṭhakaṃ pupphachaḍḍakaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is low—a carpenter/a waste-remover—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.26"
+msgctxt "pli-tv-bu-vb-pc2:2.2.25"
 msgid "“koṭṭhakosi, pupphachaḍḍakosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a carpenter/you’re a waste-remover,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc31, ms2V_59
-msgctxt "pli-tv-bu-vb-pc2:2.2.27"
+msgctxt "pli-tv-bu-vb-pc2:2.2.26"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena ukkaṭṭhaṃ vadeti, kassakaṃ vāṇijaṃ gorakkhaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is high—a farmer/a trader/a cattle-keeper—"
 
 #. REF: pts-vp-en.2.180
-msgctxt "pli-tv-bu-vb-pc2:2.2.28"
+msgctxt "pli-tv-bu-vb-pc2:2.2.27"
 msgid "“koṭṭhakosi, pupphachaḍḍakosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a carpenter/you’re a waste-remover,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc32, ms2V_60
-msgctxt "pli-tv-bu-vb-pc2:2.2.29"
+msgctxt "pli-tv-bu-vb-pc2:2.2.28"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena hīnaṃ vadeti, koṭṭhakaṃ pupphachaḍḍakaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is high to one who is low—a carpenter/a waste-remover—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.30"
+msgctxt "pli-tv-bu-vb-pc2:2.2.29"
 msgid "“kassakosi, vāṇijosi, gorakkhosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a farmer/you’re a trader/you’re a cattle-keeper,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc33, ms2V_61
-msgctxt "pli-tv-bu-vb-pc2:2.2.31"
+msgctxt "pli-tv-bu-vb-pc2:2.2.30"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena ukkaṭṭhaṃ vadeti, kassakaṃ vāṇijaṃ gorakkhaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is high to one who is high—a farmer/a trader/a cattle-keeper—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.32"
+msgctxt "pli-tv-bu-vb-pc2:2.2.31"
 msgid "“kassakosi, vāṇijosi, gorakkhosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a farmer/you’re a trader/you’re a cattle-keeper,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc2:2.2.32a"
+msgctxt "pli-tv-bu-vb-pc2:2.2.32.0"
 msgid ""
 msgstr "Abuse about craft"
 
 #. HTML: </h5><p>
 #. REF: sc34, ms2V_62
-msgctxt "pli-tv-bu-vb-pc2:2.2.33"
+msgctxt "pli-tv-bu-vb-pc2:2.2.32"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena hīnaṃ vadeti, naḷakāraṃ kumbhakāraṃ pesakāraṃ cammakāraṃ nahāpitaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is low—a reed-worker/a potter/a weaver/a leather-worker/a hairdresser—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.34"
+msgctxt "pli-tv-bu-vb-pc2:2.2.33"
 msgid "“naḷakārosi, kumbhakārosi, pesakārosi, cammakārosi, nahāpitosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a reed-worker/you’re a potter/you’re a weaver/you’re a leather-worker/you’re a hairdresser,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc35, ms2V_63
-msgctxt "pli-tv-bu-vb-pc2:2.2.35"
+msgctxt "pli-tv-bu-vb-pc2:2.2.34"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena ukkaṭṭhaṃ vadeti, muddikaṃ gaṇakaṃ lekhakaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is high—a calculator/an accountant/a scribe—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.36"
+msgctxt "pli-tv-bu-vb-pc2:2.2.35"
 msgid "“naḷakārosi, kumbhakārosi, pesakārosi, cammakārosi, nahāpitosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a reed-worker/you’re a potter/you’re a weaver/you’re a leather-worker/you’re a hairdresser,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc36, ms2V_64
-msgctxt "pli-tv-bu-vb-pc2:2.2.37"
+msgctxt "pli-tv-bu-vb-pc2:2.2.36"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena hīnaṃ vadeti, naḷakāraṃ kumbhakāraṃ pesakāraṃ cammakāraṃ nahāpitaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is high to one who is low—a reed-worker/a potter/a weaver/a leather-worker/a hairdresser—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.38"
+msgctxt "pli-tv-bu-vb-pc2:2.2.37"
 msgid "“muddikosi, gaṇakosi, lekhakosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a calculator/you’re an accountant/you’re a scribe,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc37, ms2V_65
-msgctxt "pli-tv-bu-vb-pc2:2.2.39"
+msgctxt "pli-tv-bu-vb-pc2:2.2.38"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena ukkaṭṭhaṃ vadeti, muddikaṃ gaṇakaṃ lekhakaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is high to one who is high—a calculator/an accountant/a scribe—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.40"
+msgctxt "pli-tv-bu-vb-pc2:2.2.39"
 msgid "“muddikosi, gaṇakosi, lekhakosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a calculator/you’re an accountant/you’re a scribe,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc2:2.2.40a"
+msgctxt "pli-tv-bu-vb-pc2:2.2.40.0"
 msgid ""
 msgstr "Abuse about illnesses"
 
 #. HTML: </h5><p>
 #. REF: sc38
-msgctxt "pli-tv-bu-vb-pc2:2.2.41"
+msgctxt "pli-tv-bu-vb-pc2:2.2.40"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena hīnaṃ vadeti, kuṭṭhikaṃ gaṇḍikaṃ kilāsikaṃ sosikaṃ apamārikaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is low—a leper/one with boils/one with tuberculosis/an epileptic—"
 
 # NOTE: I have not translated _kilāsa_, since it simply seems to be a variety of leprosy, _kuṭṭha_, see [](Sp.5.996.12). I am not aware that modern English terminology distinguishes between _kuṭṭha_ and _kilāsa_.
-msgctxt "pli-tv-bu-vb-pc2:2.2.42"
+msgctxt "pli-tv-bu-vb-pc2:2.2.41"
 msgid "“kuṭṭhikosi, gaṇḍikosi, kilāsikosi, sosikosi, apamārikosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a leper/you have boils/you have tuberculosis/you’re an epileptic,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc39, ms2V_67
-msgctxt "pli-tv-bu-vb-pc2:2.2.43"
+msgctxt "pli-tv-bu-vb-pc2:2.2.42"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena ukkaṭṭhaṃ vadeti, madhumehikaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is high—a diabetic—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.44"
+msgctxt "pli-tv-bu-vb-pc2:2.2.43"
 msgid "“kuṭṭhikosi, gaṇḍikosi, kilāsikosi, sosikosi, apamārikosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a leper/you have boils/you have tuberculosis/you’re an epileptic,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc40, ms2V_68
-msgctxt "pli-tv-bu-vb-pc2:2.2.45"
+msgctxt "pli-tv-bu-vb-pc2:2.2.44"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena hīnaṃ vadeti, kuṭṭhikaṃ gaṇḍikaṃ kilāsikaṃ sosikaṃ apamārikaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is high to one who is low—a leper/one with boils/one with tuberculosis/an epileptic—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.46"
+msgctxt "pli-tv-bu-vb-pc2:2.2.45"
 msgid "“madhumehikosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a diabetic,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc41, ms2V_69
-msgctxt "pli-tv-bu-vb-pc2:2.2.47"
+msgctxt "pli-tv-bu-vb-pc2:2.2.46"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena ukkaṭṭhaṃ vadeti, madhumehikaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is high to one who is high—a diabetic—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.48"
+msgctxt "pli-tv-bu-vb-pc2:2.2.47"
 msgid "“madhumehikosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a diabetic,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc2:2.2.48a"
+msgctxt "pli-tv-bu-vb-pc2:2.2.48.0"
 msgid ""
 msgstr "Abuse about physical traits"
 
 #. HTML: </h5><p>
 #. REF: sc42, ms2V_70
-msgctxt "pli-tv-bu-vb-pc2:2.2.49"
+msgctxt "pli-tv-bu-vb-pc2:2.2.48"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena hīnaṃ vadeti, atidīghaṃ atirassaṃ atikaṇhaṃ accodātaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is low—one who is too tall/one who is too short/one who is too dark/one who is too fair—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.50"
+msgctxt "pli-tv-bu-vb-pc2:2.2.49"
 msgid "“atidīghosi, atirassosi, atikaṇhosi, accodātosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re too tall/you’re too short/you’re too dark/you’re too fair,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc43, ms2V_71
-msgctxt "pli-tv-bu-vb-pc2:2.2.51"
+msgctxt "pli-tv-bu-vb-pc2:2.2.50"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena ukkaṭṭhaṃ vadeti, nātidīghaṃ nātirassaṃ nātikaṇhaṃ nāccodātaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is high—one who is not too tall/one who is not too short/one who is not too dark/one who is not too fair—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.52"
+msgctxt "pli-tv-bu-vb-pc2:2.2.51"
 msgid "“atidīghosi, atirassosi, atikaṇhosi, accodātosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re too tall/you’re too short/you’re too dark/you’re too fair,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc44, ms2V_72
-msgctxt "pli-tv-bu-vb-pc2:2.2.53"
+msgctxt "pli-tv-bu-vb-pc2:2.2.52"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena hīnaṃ vadeti, atidīghaṃ atirassaṃ atikaṇhaṃ accodātaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is high to one who is low—one who is too tall/one who is too short/one who is too dark/one who is too fair—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.54"
+msgctxt "pli-tv-bu-vb-pc2:2.2.53"
 msgid "“nātidīghosi, nātirassosi, nātikaṇhosi, nāccodātosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re not too tall/you’re not too short/you’re not too dark/you’re not too fair,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc45, pts-vp-pli4.9, ms2V_73
-msgctxt "pli-tv-bu-vb-pc2:2.2.55"
+msgctxt "pli-tv-bu-vb-pc2:2.2.54"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena ukkaṭṭhaṃ vadeti, nātidīghaṃ nātirassaṃ nātikaṇhaṃ nāccodātaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is high to one who is high—one who is not too tall/one who is not too short/one who is not too dark/one who is not too fair—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.56"
+msgctxt "pli-tv-bu-vb-pc2:2.2.55"
 msgid "“nātidīghosi, nātirassosi, nātikaṇhosi, nāccodātosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re not too tall/you’re not too short/you’re not too dark/you’re not too fair,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc2:2.2.56a"
+msgctxt "pli-tv-bu-vb-pc2:2.2.56.0"
 msgid ""
 msgstr "Abuse about defilements"
 
 #. HTML: </h5><p>
 #. REF: sc46, ms2V_74, pts-vp-en.2.181
-msgctxt "pli-tv-bu-vb-pc2:2.2.57"
+msgctxt "pli-tv-bu-vb-pc2:2.2.56"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena hīnaṃ vadeti, rāgapariyuṭṭhitaṃ dosapariyuṭṭhitaṃ mohapariyuṭṭhitaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is low—one full of sensual desire/one full of ill-will/one full of confusion—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.58"
+msgctxt "pli-tv-bu-vb-pc2:2.2.57"
 msgid "“rāgapariyuṭṭhitosi, dosapariyuṭṭhitosi, mohapariyuṭṭhitosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re full of sensual desire/you’re full of ill-will/you’re full of confusion,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc47, ms2V_75
-msgctxt "pli-tv-bu-vb-pc2:2.2.59"
+msgctxt "pli-tv-bu-vb-pc2:2.2.58"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena ukkaṭṭhaṃ vadeti, vītarāgaṃ vītadosaṃ vītamohaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is high—one without sensual desire/one without ill-will/one without confusion—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.60"
+msgctxt "pli-tv-bu-vb-pc2:2.2.59"
 msgid "“rāgapariyuṭṭhitosi, dosapariyuṭṭhitosi, mohapariyuṭṭhitosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re full of sensual desire/you’re full of ill-will/you’re full of confusion,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc48, ms2V_76
-msgctxt "pli-tv-bu-vb-pc2:2.2.61"
+msgctxt "pli-tv-bu-vb-pc2:2.2.60"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena hīnaṃ vadeti, rāgapariyuṭṭhitaṃ dosapariyuṭṭhitaṃ mohapariyuṭṭhitaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is high to one who is low—one full of sensual desire/one full of ill-will/one full of confusion—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.62"
+msgctxt "pli-tv-bu-vb-pc2:2.2.61"
 msgid "“vītarāgosi, vītadososi, vītamohosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re without sensual desire/you’re without ill-will/you’re without confusion,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc49, ms2V_77
-msgctxt "pli-tv-bu-vb-pc2:2.2.63"
+msgctxt "pli-tv-bu-vb-pc2:2.2.62"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena ukkaṭṭhaṃ vadeti, vītarāgaṃ vītadosaṃ vītamohaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is high to one who is high—one without sensual desire/one without ill-will/one without confusion—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.64"
+msgctxt "pli-tv-bu-vb-pc2:2.2.63"
 msgid "“vītarāgosi, vītadososi, vītamohosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re without sensual desire/you’re without ill-will/you’re without confusion,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc2:2.2.64a"
+msgctxt "pli-tv-bu-vb-pc2:2.2.64.0"
 msgid ""
 msgstr "Abuse about offenses"
 
 #. HTML: </h5><p>
 #. REF: sc50, ms2V_78
-msgctxt "pli-tv-bu-vb-pc2:2.2.65"
+msgctxt "pli-tv-bu-vb-pc2:2.2.64"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena hīnaṃ vadeti, pārājikaṃ ajjhāpannaṃ saṃghādisesaṃ ajjhāpannaṃ thullaccayaṃ ajjhāpannaṃ pācittiyaṃ ajjhāpannaṃ pāṭidesanīyaṃ ajjhāpannaṃ dukkaṭaṃ ajjhāpannaṃ dubbhāsitaṃ ajjhāpannaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is low—one who has committed an offense entailing expulsion/one who has committed an offense entailing suspension/one who has committed a serious offense/one who has committed an offense entailing confession/one who has committed an offense entailing acknowledgment/one who has committed an offense of wrong conduct/one who has committed an offense of bad speech—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.66"
+msgctxt "pli-tv-bu-vb-pc2:2.2.65"
 msgid "“pārājikaṃ ajjhāpannosi, saṃghādisesaṃ ajjhāpannosi, thullaccayaṃ ajjhāpannosi, pācittiyaṃ ajjhāpannosi, pāṭidesanīyaṃ ajjhāpannosi, dukkaṭaṃ ajjhāpannosi, dubbhāsitaṃ ajjhāpannosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’ve committed an offense entailing expulsion/you’ve committed an offense entailing suspension/you’ve committed a serious offense/you’ve committed an offense entailing confession/you’ve committed an offense entailing acknowledgment/you’ve committed an offense of wrong conduct/you’ve committed an offense of bad speech,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc51, ms2V_79
-msgctxt "pli-tv-bu-vb-pc2:2.2.67"
+msgctxt "pli-tv-bu-vb-pc2:2.2.66"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena ukkaṭṭhaṃ vadeti, sotāpannaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is high—a stream-enterer—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.68"
+msgctxt "pli-tv-bu-vb-pc2:2.2.67"
 msgid "“pārājikaṃ ajjhāpannosi … pe … dubbhāsitaṃ ajjhāpannosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’ve committed an offense entailing expulsion/you’ve committed an offense entailing suspension/you’ve committed a serious offense/you’ve committed an offense entailing confession/you’ve committed an offense entailing acknowledgment/you’ve committed an offense of wrong conduct/you’ve committed an offense of bad speech,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc52, ms2V_80
-msgctxt "pli-tv-bu-vb-pc2:2.2.69"
+msgctxt "pli-tv-bu-vb-pc2:2.2.68"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena hīnaṃ vadeti, pārājikaṃ ajjhāpannaṃ … pe … dubbhāsitaṃ ajjhāpannaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is high to one who is low—one who has committed an offense entailing expulsion/one who has committed an offense entailing suspension/one who has committed a serious offense/one who has committed an offense entailing confession/one who has committed an offense entailing acknowledgment/one who has committed an offense of wrong conduct/one who has committed an offense of bad speech—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.70"
+msgctxt "pli-tv-bu-vb-pc2:2.2.69"
 msgid "“sotāpannosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a stream-enterer,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc53, ms2V_81
-msgctxt "pli-tv-bu-vb-pc2:2.2.71"
+msgctxt "pli-tv-bu-vb-pc2:2.2.70"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena ukkaṭṭhaṃ vadeti, sotāpannaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is high to one who is high—a stream-enterer—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.72"
+msgctxt "pli-tv-bu-vb-pc2:2.2.71"
 msgid "“sotāpannosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a stream-enterer,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc2:2.2.72a"
+msgctxt "pli-tv-bu-vb-pc2:2.2.72.0"
 msgid ""
 msgstr "Insulting abuse"
 
 #. HTML: </h5><p>
 #. REF: sc54, ms2V_82
-msgctxt "pli-tv-bu-vb-pc2:2.2.73"
+msgctxt "pli-tv-bu-vb-pc2:2.2.72"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena hīnaṃ vadeti, oṭṭhaṃ meṇḍaṃ goṇaṃ gadrabhaṃ tiracchānagataṃ nerayikaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is low—a camel/a ram/an ox/a donkey/an animal/one bound for hell—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.74"
+msgctxt "pli-tv-bu-vb-pc2:2.2.73"
 msgid "“oṭṭhosi, meṇḍosi, goṇosi, gadrabhosi, tiracchānagatosi, nerayikosi, natthi tuyhaṃ sugati, duggati yeva tuyhaṃ pāṭikaṅkhā”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a camel/you’re a ram/you’re an ox/you’re a donkey/you’re an animal/you’re not going to a good destination/you can only expect a bad destination,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc55, ms2V_83
-msgctxt "pli-tv-bu-vb-pc2:2.2.75"
+msgctxt "pli-tv-bu-vb-pc2:2.2.74"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena ukkaṭṭhaṃ vadeti, paṇḍitaṃ byattaṃ medhāviṃ bahussutaṃ dhammakathikaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is high—one who is wise/one who is competent/one who is intelligent/one who is learned/one who is an expounder of the Teaching—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.76"
+msgctxt "pli-tv-bu-vb-pc2:2.2.75"
 msgid "“oṭṭhosi, meṇḍosi, goṇosi, gadrabhosi, tiracchānagatosi, nerayikosi, natthi tuyhaṃ sugati, duggatiyeva tuyhaṃ pāṭikaṅkhā”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a camel/you’re a ram/you’re an ox/you’re a donkey/you’re an animal/you’re not going to a good destination/you can only expect a bad destination,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc56, ms2V_84
-msgctxt "pli-tv-bu-vb-pc2:2.2.77"
+msgctxt "pli-tv-bu-vb-pc2:2.2.76"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena hīnaṃ vadeti, oṭṭhaṃ meṇḍaṃ goṇaṃ gadrabhaṃ tiracchānagataṃ nerayikaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is high to one who is low—a camel/a ram/an ox/a donkey/an animal/one bound for hell—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.78"
+msgctxt "pli-tv-bu-vb-pc2:2.2.77"
 msgid "“paṇḍitosi, byattosi, medhāvīsi, bahussutosi, dhammakathikosi, natthi tuyhaṃ duggati, sugatiyeva tuyhaṃ pāṭikaṅkhā”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re wise/you’re competent/you’re intelligent/you’re learned/you’re an expounder of the Teaching/you’re not going to a bad destination/you can only expect a good destination,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc57, ms2V_85, pts-vp-en.2.182
-msgctxt "pli-tv-bu-vb-pc2:2.2.79"
+msgctxt "pli-tv-bu-vb-pc2:2.2.78"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena ukkaṭṭhaṃ vadeti, paṇḍitaṃ byattaṃ medhāviṃ bahussutaṃ dhammakathikaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is high to one who is high—one who is wise/one who is competent/one who is intelligent/one who is learned/one who is an expounder of the Teaching—"
 
-msgctxt "pli-tv-bu-vb-pc2:2.2.80"
+msgctxt "pli-tv-bu-vb-pc2:2.2.79"
 msgid "“paṇḍitosi, byattosi, medhāvīsi, bahussutosi, dhammakathikosi, natthi tuyhaṃ duggati, sugati yeva tuyhaṃ pāṭikaṅkhā”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re wise/you’re competent/you’re intelligent/you’re learned/you’re an expounder of the Teaching/you’re not going to a bad destination/you can only expect a good destination,” then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc2:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc2:2.3.0"
 msgid ""
 msgstr "Indirect abuse"
 
@@ -1227,7 +1227,7 @@ msgid "Āpatti vācāya, vācāya dukkaṭassa."
 msgstr "then for every statement, he commits an offense of wrong conduct."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc2:2.6.0a"
+msgctxt "pli-tv-bu-vb-pc2:2.6.0"
 msgid ""
 msgstr "Abuse of one who is not fully ordained"
 
@@ -1288,7 +1288,7 @@ msgid "Āpatti vācāya, vācāya dukkaṭassa."
 msgstr "then for every statement, he commits an offense of wrong conduct."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc2:2.7.0a"
+msgctxt "pli-tv-bu-vb-pc2:2.7.0"
 msgid ""
 msgstr "Not intending to abuse, direct speech"
 
@@ -1355,46 +1355,46 @@ msgid "“paṇḍitosi, byattosi, medhāvīsi, bahussutosi, dhammakathikosi, na
 msgstr "saying, “You’re wise/you’re competent/you’re intelligent/you’re learned/you’re an expounder of the Teaching/you’re not going to a bad destination/you can only expect a good destination,” then for every statement, he commits an offense of bad speech."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc2:2.7.13a"
+msgctxt "pli-tv-bu-vb-pc2:2.7.13.0"
 msgid ""
 msgstr "Not intending to abuse, indirect speech"
 
 #. HTML: </h5><p>
 #. REF: sc74, ms2V_102
-msgctxt "pli-tv-bu-vb-pc2:2.7.14"
+msgctxt "pli-tv-bu-vb-pc2:2.7.13"
 msgid "Upasampanno upasampannaṃ na khuṃsetukāmo na vambhetukāmo na maṅkukattukāmo, davakamyatā evaṃ vadeti, “santi idhekacce caṇḍālā venā nesādā rathakārā pukkusā”ti bhaṇati … pe …."
 msgstr "If one who is fully ordained, not wishing to revile, not wishing to insult, not wishing to humiliate another who is fully ordained, but wanting to have fun, says this, “There are outcasts/bamboo workers/hunters/chariot-makers/waste-removers, right here” …"
 
-msgctxt "pli-tv-bu-vb-pc2:2.7.15"
+msgctxt "pli-tv-bu-vb-pc2:2.7.14"
 msgid "“Santi idhekacce paṇḍitā byattā medhāvī bahussutā dhammakathikā, natthi tesaṃ duggati, sugatiyeva tesaṃ pāṭikaṅkhā”ti bhaṇati, āpatti vācāya, vācāya dubbhāsitassa."
 msgstr "“There are wise ones/competent ones/intelligent ones/learned ones/expounders of the Teaching/those not going to a bad destination/those who can only expect a good destination, right here,” then for every statement, he commits an offense of bad speech."
 
 #. HTML: </p><p>
 #. REF: sc75, ms2V_103
-msgctxt "pli-tv-bu-vb-pc2:2.7.16"
+msgctxt "pli-tv-bu-vb-pc2:2.7.15"
 msgid "Upasampanno upasampannaṃ na khuṃsetukāmo na vambhetukāmo na maṅkukattukāmo, davakamyatā evaṃ vadeti, “ye nūna caṇḍālā venā nesādā rathakārā pukkusā”ti bhaṇati … pe …."
 msgstr "If one who is fully ordained, not wishing to revile, not wishing to insult, not wishing to humiliate another who is fully ordained, but wanting to have fun, says this, “Perhaps these are outcasts/bamboo workers/hunters/chariot-makers/waste-removers” …"
 
-msgctxt "pli-tv-bu-vb-pc2:2.7.17"
+msgctxt "pli-tv-bu-vb-pc2:2.7.16"
 msgid "“Ye nūna paṇḍitā byattā medhāvī bahussutā dhammakathikā”ti bhaṇati, āpatti vācāya, vācāya dubbhāsitassa."
 msgstr "“Perhaps these are wise ones/competent ones/intelligent ones/learned ones/expounders of the Teaching,” then for every statement, he commits an offense of bad speech."
 
 #. HTML: </p><p>
 #. REF: sc76, ms2V_104
-msgctxt "pli-tv-bu-vb-pc2:2.7.18"
+msgctxt "pli-tv-bu-vb-pc2:2.7.17"
 msgid "Upasampanno upasampannaṃ na khuṃsetukāmo na vambhetukāmo na maṅkukattukāmo, davakamyatā evaṃ vadeti, “na mayaṃ caṇḍālā venā nesādā rathakārā pukkusā”ti bhaṇati … pe …."
 msgstr "If one who is fully ordained, not wishing to revile, not wishing to insult, not wishing to humiliate another who is fully ordained, but wanting to have fun, says this, “We’re not outcasts/bamboo workers/hunters/chariot-makers/waste-removers” …"
 
-msgctxt "pli-tv-bu-vb-pc2:2.7.19"
+msgctxt "pli-tv-bu-vb-pc2:2.7.18"
 msgid "“Na mayaṃ paṇḍitā byattā medhāvī bahussutā dhammakathikā, natthamhākaṃ duggati, sugatiyeva amhākaṃ pāṭikaṅkhā”ti bhaṇati."
 msgstr "“We’re not wise ones/we’re not competent ones/we’re not intelligent ones/we’re not learned ones/we’re not expounders of the Teaching/we’re not going to a bad destination/we can only expect a good destination,”"
 
-msgctxt "pli-tv-bu-vb-pc2:2.7.20"
+msgctxt "pli-tv-bu-vb-pc2:2.7.19"
 msgid "Āpatti vācāya, vācāya dubbhāsitassa."
 msgstr "then for every statement, he commits an offense of bad speech."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc2:2.8.0a"
+msgctxt "pli-tv-bu-vb-pc2:2.8.0"
 msgid ""
 msgstr "Not intending to abuse one who is not fully ordained"
 
@@ -1451,7 +1451,7 @@ msgid "“Na mayaṃ paṇḍitā byattā medhāvī bahussutā dhammakathikā, n
 msgstr "“We’re not wise ones/we’re not competent ones/we’re not intelligent ones/we’re not learned ones/we’re not expounders of the Teaching/we’re not going to a bad destination/we can only expect a good destination,” then for every statement, he commits an offense of bad speech."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc2:2.9.0a"
+msgctxt "pli-tv-bu-vb-pc2:2.9.0"
 msgid ""
 msgstr "Non-offenses"
 

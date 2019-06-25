@@ -13,7 +13,7 @@ msgid "Janavasabhasutta "
 msgstr "With Janavasabha "
 
 #. HTML: </h1></div><h2>
-msgctxt "dn18:0.3"
+msgctxt "dn18:1.0"
 msgid "1. Nātikiyādibyākaraṇa "
 msgstr "1. Declaring the Rebirths of People From Nādika and Elsewhere "
 
@@ -118,7 +118,7 @@ msgid "Tena ca nātikiyā paricārakā attamanā ahesuṃ pamuditā pītisomanas
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn18:3.8"
+msgctxt "dn18:4.0"
 msgid "2. Ānandaparikathā "
 msgstr "2. Ānanda’s Suggestion "
 
@@ -368,42 +368,42 @@ msgid "Addasaṃ kho ahaṃ, ānanda, māgadhake paricārake ‘yaṅgatikā te 
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn18:9.4"
+msgctxt "dn18:9.4.0"
 msgid "3. Janavasabhayakkha "
 msgstr "3. Janavasabha the Spirit "
 
 #. HTML: </h2><p>
 #. REF: sc9
-msgctxt "dn18:9.5"
+msgctxt "dn18:9.4"
 msgid "Atha kho, ānanda, antarahito yakkho saddamanussāvesi: "
 msgstr "“Then, Ānanda an invisible spirit called out: "
 
 # NOTE: Janavasabha = “Minotaur”.
-msgctxt "dn18:9.6"
+msgctxt "dn18:9.5"
 msgid "‘janavasabho ahaṃ, bhagavā; "
 msgstr "‘I am Janavasabha, Blessed One! "
 
-msgctxt "dn18:9.7"
+msgctxt "dn18:9.6"
 msgid "janavasabho ahaṃ, sugatā’ti. "
 msgstr "I am Janavasabha, Holy One!’ "
 
 # NOTE: namadheyya means “name (borne by someone or something” ), not “one who bears the name” as per both RD and MW; see MN 50
 #. VAR: sutaṃ → sutvā (pts1)
-msgctxt "dn18:9.8"
+msgctxt "dn18:9.7"
 msgid "Abhijānāsi no tvaṃ, ānanda, ito pubbe evarūpaṃ nāmadheyyaṃ sutaṃ yadidaṃ janavasabho”ti? "
 msgstr "Ānanda, do you recall having previously heard such a name as Janavasabha?” "
 
 #. HTML: </p><p>
 #. REF: pts-vp-pli2.206, sc10
-msgctxt "dn18:9.9"
+msgctxt "dn18:9.8"
 msgid "“Na kho ahaṃ, bhante, abhijānāmi ito pubbe evarūpaṃ nāmadheyyaṃ sutaṃ yadidaṃ janavasabhoti, api ca me, bhante, lomāni haṭṭhāni ‘janavasabho’ti nāmadheyyaṃ sutvā. "
 msgstr "“No, sir. But when I heard the word, I got goosebumps! "
 
-msgctxt "dn18:9.10"
+msgctxt "dn18:9.9"
 msgid "Tassa mayhaṃ, bhante, etadahosi: "
 msgstr "I thought, "
 
-msgctxt "dn18:9.11"
+msgctxt "dn18:9.10"
 msgid "‘na hi nūna so orako yakkho bhavissati yadidaṃ evarūpaṃ nāmadheyyaṃ supaññattaṃ yadidaṃ janavasabho’”ti. "
 msgstr "‘This must be no ordinary spirit to bear such an exalted name as Janavasabha.’” "
 
@@ -514,7 +514,7 @@ msgid "Ime kho me, bhante, dvepaccayā bhagavantaṃ dassanāya upasaṅkamitu�
 msgstr "These are the two reasons I’ve come to see the Buddha. "
 
 #. HTML: </p><h2>
-msgctxt "dn18:11.10"
+msgctxt "dn18:12.0"
 msgid "4. Devasabhā "
 msgstr "4. The Council of the Gods "
 
@@ -741,7 +741,7 @@ msgid "obhāso vipulo mahāti. "
 msgstr "a light vast and great. "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn18:15.8"
+msgctxt "dn18:16.0"
 msgid "5. Sanaṅkumārakathā "
 msgstr "5. On Sanaṅkumāra "
 
@@ -1029,7 +1029,7 @@ msgid "Atha kho, bhante, brahmā sanaṅkumāro ekattena attānaṃ upasaṃhara
 msgstr "The Brahmā Sanaṅkumāra merged into one corporeal form. Then he sat on the couch of Sakka, lord of gods, and addressed the gods of the Thirty-Three: "
 
 #. HTML: </p><h2>
-msgctxt "dn18:22.2"
+msgctxt "dn18:22.2.0"
 msgid "6. Bhāvitaiddhipāda "
 msgstr "6. Developing the Bases of Psychic Power "
 
@@ -1037,59 +1037,59 @@ msgstr "6. Developing the Bases of Psychic Power "
 #. HTML: </h2><p>
 #. REF: sc36
 #. VAR: iddhipahutāya → iddhi­bahu­līka­tāya (s1-3, km)
-msgctxt "dn18:22.3"
+msgctxt "dn18:22.2"
 msgid "“Taṃ kiṃ maññanti, bhonto devā tāvatiṃsā, yāva supaññattā cime tena bhagavatā jānatā passatā arahatā sammāsambuddhena cattāro iddhipādā paññattā iddhipahutāya iddhivisavitāya iddhivikubbanatāya. "
 msgstr "“What do the good gods of the Thirty-Three think about how much the four bases of psychic power have been clearly described by the Blessed One—the one who knows and sees, the perfected one, the fully awakened Buddha—for the multiplication, generation, and transformation of corporeal forms through psychic power? "
 
-msgctxt "dn18:22.4"
+msgctxt "dn18:22.3"
 msgid "Katame cattāro? "
 msgstr "What four? "
 
-msgctxt "dn18:22.5"
+msgctxt "dn18:22.4"
 msgid "Idha bho bhikkhu chandasamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. "
 msgstr "It’s when a mendicant develops the basis of psychic power that has immersion due to enthusiasm, and active effort. "
 
-msgctxt "dn18:22.6"
+msgctxt "dn18:22.5"
 msgid "Vīriyasamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. "
 msgstr "They develop the basis of psychic power that has immersion due to energy, and active effort. "
 
-msgctxt "dn18:22.7"
+msgctxt "dn18:22.6"
 msgid "Cittasamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. "
 msgstr "They develop the basis of psychic power that has immersion due to mental development, and active effort. "
 
-msgctxt "dn18:22.8"
+msgctxt "dn18:22.7"
 msgid "Vīmaṃsāsamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. "
 msgstr "They develop the basis of psychic power that has immersion due to inquiry, and active effort. "
 
-msgctxt "dn18:22.9"
+msgctxt "dn18:22.8"
 msgid "Ime kho, bho, tena bhagavatā jānatā passatā arahatā sammāsambuddhena cattāro iddhipādā paññattā iddhipahutāya iddhivisavitāya iddhivikubbanatāya. "
 msgstr "These are the four bases of psychic power that have been clearly described by the Buddha, for the multiplication, generation, and transformation of corporeal forms through psychic power. "
 
 #. HTML: </p><p>
 #. REF: pts-vp-pli2.214, sc37
-msgctxt "dn18:22.10"
+msgctxt "dn18:22.9"
 msgid "Ye hi keci bho atītamaddhānaṃ samaṇā vā brāhmaṇā vā anekavihitaṃ iddhividhaṃ paccanubhosuṃ, sabbe te imesaṃyeva catunnaṃ iddhipādānaṃ bhāvitattā bahulīkatattā. "
 msgstr "All the ascetics and brahmins in the past, "
 
-msgctxt "dn18:22.11"
+msgctxt "dn18:22.10"
 msgid "Yepi hi keci bho anāgatamaddhānaṃ samaṇā vā brāhmaṇā vā anekavihitaṃ iddhividhaṃ paccanubhossanti, sabbe te imesaṃyeva catunnaṃ iddhipādānaṃ bhāvitattā bahulīkatattā. "
 msgstr "future, "
 
-msgctxt "dn18:22.12"
+msgctxt "dn18:22.11"
 msgid "Yepi hi keci bho etarahi samaṇā vā brāhmaṇā vā anekavihitaṃ iddhividhaṃ paccanubhonti, sabbe te imesaṃyeva catunnaṃ iddhipādānaṃ bhāvitattā bahulīkatattā. "
 msgstr "or present who wield the many kinds of psychic power do so by developing and cultivating these four bases of psychic power. "
 
-msgctxt "dn18:22.13"
+msgctxt "dn18:22.12"
 msgid "Passanti no, bhonto devā tāvatiṃsā, mamapimaṃ evarūpaṃ iddhānubhāvan”ti? "
 msgstr "gentlemen, do you see such psychic might and power in me?” "
 
 #. HTML: </p><p>
-msgctxt "dn18:22.14"
+msgctxt "dn18:22.13"
 msgid "“Evaṃ, mahābrahme”ti. "
 msgstr "“Yes, Great Brahmā.” "
 
 #. HTML: </p><p>
-msgctxt "dn18:22.15"
+msgctxt "dn18:22.14"
 msgid "“Ahampi kho bho imesaṃyeva catunnañca iddhipādānaṃ bhāvitattā bahulīkatattā evaṃ mahiddhiko evaṃmahānubhāvo”ti. "
 msgstr "“I too became so mighty and powerful by developing and cultivating these four bases of psychic power.” "
 
@@ -1104,47 +1104,47 @@ msgid "Imamatthaṃ, bhante, brahmā sanaṅkumāro bhāsitvā deve tāvatiṃse
 msgstr "And having spoken about that, he addressed the gods of the Thirty-Three: "
 
 #. HTML: </p><h2>
-msgctxt "dn18:23.3"
+msgctxt "dn18:23.3.0"
 msgid "7. Tividhaokāsādhigama "
 msgstr "7. The Three Openings "
 
 #. HTML: </h2><p>
 #. REF: sc38
-msgctxt "dn18:23.4"
+msgctxt "dn18:23.3"
 msgid "“Taṃ kiṃ maññanti, bhonto devā tāvatiṃsā, yāvañcidaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena tayo okāsādhigamā anubuddhā sukhassādhigamāya. "
 msgstr "“What do the good gods of the Thirty-Three think about how much the Buddha has understood the three opportunities for achieving happiness? "
 
-msgctxt "dn18:23.5"
+msgctxt "dn18:23.4"
 msgid "Katame tayo? "
 msgstr "What three? "
 
 #. HTML: </p><p>
-msgctxt "dn18:23.6"
+msgctxt "dn18:23.5"
 msgid "Idha bho ekacco saṃsaṭṭho viharati kāmehi saṃsaṭṭho akusalehi dhammehi. "
 msgstr "First, take someone who lives mixed up with sensual pleasures and unskillful qualities. "
 
-msgctxt "dn18:23.7"
+msgctxt "dn18:23.6"
 msgid "So aparena samayena ariyadhammaṃ suṇāti, yoniso manasi karoti, dhammānudhammaṃ paṭipajjati. "
 msgstr "After some time they hear the noble teaching, properly attend to how it applies to them, and practice accordingly. "
 
-msgctxt "dn18:23.8"
+msgctxt "dn18:23.7"
 msgid "So ariyadhammassavanaṃ āgamma yonisomanasikāraṃ dhammānudhammappaṭipattiṃ asaṃsaṭṭho viharati kāmehi asaṃsaṭṭho akusalehi dhammehi. "
 msgstr "They live aloof from sensual pleasures and unskillful qualities. "
 
-msgctxt "dn18:23.9"
+msgctxt "dn18:23.8"
 msgid "Tassa asaṃsaṭṭhassa kāmehi asaṃsaṭṭhassa akusalehi dhammehi uppajjati sukhaṃ, sukhā bhiyyo somanassaṃ. "
 msgstr "That gives rise to pleasure, and more than pleasure, happiness, "
 
 #. VAR: pāmojjaṃ → pāmujjaṃ (pts1, mr)
-msgctxt "dn18:23.10"
+msgctxt "dn18:23.9"
 msgid "Seyyathāpi, bho, pamudā pāmojjaṃ jāyetha; "
 msgstr "like the joy that’s born from gladness. "
 
-msgctxt "dn18:23.11"
+msgctxt "dn18:23.10"
 msgid "evameva kho, bho, asaṃsaṭṭhassa kāmehi asaṃsaṭṭhassa akusalehi dhammehi uppajjati sukhaṃ, sukhā bhiyyo somanassaṃ. "
 msgstr " "
 
-msgctxt "dn18:23.12"
+msgctxt "dn18:23.11"
 msgid "Ayaṃ kho, bho, tena bhagavatā jānatā passatā arahatā sammāsambuddhena paṭhamo okāsādhigamo anubuddho sukhassādhigamāya. "
 msgstr "This is the first opportunity for achieving happiness. "
 
@@ -1236,66 +1236,66 @@ msgid "imamatthaṃ, bhante, brahmā sanaṅkumāro bhāsitvā deve tāvatiṃse
 msgstr "And having spoken about that, he addressed the gods of the Thirty-Three: "
 
 #. HTML: </p><h2>
-msgctxt "dn18:26.3"
+msgctxt "dn18:26.3.0"
 msgid "8. Catusatipaṭṭhāna "
 msgstr "8. Mindfulness Meditation "
 
 #. HTML: </h2><p>
 #. REF: sc41
-msgctxt "dn18:26.4"
+msgctxt "dn18:26.3"
 msgid "“Taṃ kiṃ maññanti, bhonto devā tāvatiṃsā, yāva supaññattā cime tena bhagavatā jānatā passatā arahatā sammāsambuddhena cattāro satipaṭṭhānā paññattā kusalassādhigamāya. "
 msgstr "“What do the good gods of the Thirty-Three think about how much the Buddha has clearly described the four kinds of mindfulness meditation for achieving what is skillful? "
 
-msgctxt "dn18:26.5"
+msgctxt "dn18:26.4"
 msgid "Katame cattāro? "
 msgstr "What four? "
 
 #. HTML: </p><p>
-msgctxt "dn18:26.6"
+msgctxt "dn18:26.5"
 msgid "Idha, bho, bhikkhu ajjhattaṃ kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ. "
 msgstr "It’s when a mendicant meditates by observing an aspect of the body internally—keen, aware, and mindful, rid of desire and aversion for the world. "
 
-msgctxt "dn18:26.7"
+msgctxt "dn18:26.6"
 msgid "Ajjhattaṃ kāye kāyānupassī viharanto tattha sammā samādhiyati, sammā vippasīdati. "
 msgstr "As they meditate in this way, they become rightly immersed in that, and rightly serene. "
 
-msgctxt "dn18:26.8"
+msgctxt "dn18:26.7"
 msgid "So tattha sammā samāhito sammā vippasanno bahiddhā parakāye ñāṇadassanaṃ abhinibbatteti. "
 msgstr "Then they give rise to knowledge and vision of other people’s bodies externally. "
 
 #. HTML: </p><p>
-msgctxt "dn18:26.9"
+msgctxt "dn18:26.8"
 msgid "Ajjhattaṃ vedanāsu vedanānupassī viharati … pe … "
 msgstr "They meditate observing an aspect of feelings internally … "
 
-msgctxt "dn18:26.10"
+msgctxt "dn18:26.9"
 msgid "bahiddhā paravedanāsu ñāṇadassanaṃ abhinibbatteti. "
 msgstr "Then they give rise to knowledge and vision of other people’s feelings externally. "
 
 #. HTML: </p><p>
-msgctxt "dn18:26.11"
+msgctxt "dn18:26.10"
 msgid "Ajjhattaṃ citte cittānupassī viharati … pe … "
 msgstr "They meditate observing an aspect of the mind internally … "
 
-msgctxt "dn18:26.12"
+msgctxt "dn18:26.11"
 msgid "bahiddhā paracitte ñāṇadassanaṃ abhinibbatteti. "
 msgstr "Then they give rise to knowledge and vision of other people’s minds externally. "
 
 #. HTML: </p><p>
-msgctxt "dn18:26.13"
+msgctxt "dn18:26.12"
 msgid "Ajjhattaṃ dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ. "
 msgstr "They meditate observing an aspect of principles internally—keen, aware, and mindful, rid of desire and aversion for the world. "
 
-msgctxt "dn18:26.14"
+msgctxt "dn18:26.13"
 msgid "Ajjhattaṃ dhammesu dhammānupassī viharanto tattha sammā samādhiyati, sammā vippasīdati. "
 msgstr "As they meditate in this way, they become rightly immersed in that, and rightly serene. "
 
-msgctxt "dn18:26.15"
+msgctxt "dn18:26.14"
 msgid "So tattha sammā samāhito sammā vippasanno bahiddhā paradhammesu ñāṇadassanaṃ abhinibbatteti. "
 msgstr "Then they give rise to knowledge and vision of other people’s principles externally. "
 
 #. HTML: </p><p>
-msgctxt "dn18:26.16"
+msgctxt "dn18:26.15"
 msgid "Ime kho, bho, tena bhagavatā jānatā passatā arahatā sammāsambuddhena cattāro satipaṭṭhānā paññattā kusalassādhigamāyā”ti. "
 msgstr "These are the four kinds of mindfulness meditation that the Buddha has clearly described for achieving what is skillful.” "
 
@@ -1310,77 +1310,77 @@ msgid "Imamatthaṃ, bhante, brahmā sanaṅkumāro bhāsitvā deve tāvatiṃse
 msgstr "And having spoken about that, he addressed the gods of the Thirty-Three: "
 
 #. HTML: </p><h2>
-msgctxt "dn18:27.3"
+msgctxt "dn18:27.3.0"
 msgid "9. Sattasamādhiparikkhāra "
 msgstr "9. Seven Prerequisites of Immersion "
 
 #. HTML: </h2><p>
 #. REF: pts-vp-pli2.217, sc42
-msgctxt "dn18:27.4"
+msgctxt "dn18:27.3"
 msgid "“Taṃ kiṃ maññanti, bhonto devā tāvatiṃsā, yāva supaññattā cime tena bhagavatā jānatā passatā arahatā sammāsambuddhena satta samādhiparikkhārā sammāsamādhissa paribhāvanāya sammāsamādhissa pāripūriyā. "
 msgstr "“What do the good gods of the Thirty-Three think about how much the Buddha has clearly described the seven prerequisites of immersion for the development and fulfillment of right immersion? "
 
-msgctxt "dn18:27.5"
+msgctxt "dn18:27.4"
 msgid "Katame satta? "
 msgstr "What seven? "
 
-msgctxt "dn18:27.6"
+msgctxt "dn18:27.5"
 msgid "Sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati. "
 msgstr "Right view, right thought, right speech, right action, right livelihood, right effort, and right mindfulness. "
 
 # NOTE: Note that these are quadruple-nested quotes!
-msgctxt "dn18:27.7"
+msgctxt "dn18:27.6"
 msgid "Yā kho, bho, imehi sattahaṅgehi cittassa ekaggatā parikkhatā, ayaṃ vuccati, bho, ariyo sammāsamādhi saupaniso itipi saparikkhāro itipi. "
 msgstr "Unification of mind with these seven factors as prerequisites is called noble right immersion ‘with its vital conditions’ and ‘with its prerequisites’. "
 
 #. HTML: </p><p>
-msgctxt "dn18:27.8"
+msgctxt "dn18:27.7"
 msgid "Sammādiṭṭhissa, bho, sammāsaṅkappo pahoti, sammāsaṅkappassa sammāvācā pahoti, sammāvācassa sammākammanto pahoti. Sammākammantassa sammāājīvo pahoti, sammāājīvassa sammāvāyāmo pahoti, sammāvāyāmassa sammāsati pahoti, sammāsatissa sammāsamādhi pahoti, sammāsamādhissa sammāñāṇaṃ pahoti, sammāñāṇassa sammāvimutti pahoti. "
 msgstr "Right view gives rise to right thought. Right thought gives rise to right speech. Right speech gives rise to right action. Right action gives rise to right livelihood. Right livelihood gives rise to right effort. Right effort gives rise to right mindfulness. Right mindfulness gives rise to right immersion. Right immersion gives rise to right knowledge. Right knowledge gives rise to right freedom. "
 
 #. HTML: </p><p>
-msgctxt "dn18:27.9"
+msgctxt "dn18:27.8"
 msgid "Yañhi taṃ, bho, sammā vadamāno vadeyya: "
 msgstr "If anything should be rightly described as "
 
 # NOTE: The whole passage here, like much in Brahma’s speech, is a bit off. I don’t think the translation should gloss over the clumsiness.
 #. VAR: dvārā → dvārāti (s1-3, km, mr)
-msgctxt "dn18:27.10"
+msgctxt "dn18:27.9"
 msgid "‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhi apārutā amatassa dvārā’ti idameva taṃ sammā vadamāno vadeyya. "
 msgstr "‘a teaching that’s well explained by the Buddha, visible in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves; and the doors to the deathless are flung open,’ it’s this. "
 
-msgctxt "dn18:27.11"
+msgctxt "dn18:27.10"
 msgid "Svākkhāto hi, bho, bhagavatā dhammo sandiṭṭhiko, akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhi apārutā amatassa dvārā. "
 msgstr "For the teaching is well explained by the Buddha—visible in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves—and the doors of the deathless are flung open. "
 
 #. HTML: </p><p>
 #. REF: pts-vp-pli2.218, sc43
-msgctxt "dn18:27.12"
+msgctxt "dn18:27.11"
 msgid "Ye hi keci, bho, buddhe aveccappasādena samannāgatā, dhamme aveccappasādena samannāgatā, saṅghe aveccappasādena samannāgatā, ariyakantehi sīlehi samannāgatā, ye cime opapātikā dhammavinītā sātirekāni catuvīsatisatasahassāni māgadhakā paricārakā abbhatītā kālaṅkatā tiṇṇaṃ saṃyojanānaṃ parikkhayā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇā. "
 msgstr "Whoever has experiential confidence in the Buddha, the teaching, and the Saṅgha, and has the ethical conduct loved by the noble ones; and whoever is spontaneously reborn, and is trained in the teaching; in excess of 2,400,000 such Magadhan devotees have passed away having ended three fetters. They’re stream-enterers, not liable to be reborn in the underworld, bound for awakening. "
 
-msgctxt "dn18:27.13"
+msgctxt "dn18:27.12"
 msgid "Atthi cevettha sakadāgāmino. "
 msgstr "And there are once-returners here, too. "
 
 #. HTML: </p><blockquote class="gatha"><p>
 #. REF: sc44
-msgctxt "dn18:27.14"
+msgctxt "dn18:27.13"
 msgid "Atthāyaṃ itarā pajā, "
 msgstr "And as for other people "
 
 #. HTML: <br>
-msgctxt "dn18:27.15"
+msgctxt "dn18:27.14"
 msgid "puññābhāgāti me mano; "
 msgstr "who I think have shared in merit—"
 
 #. HTML: <br>
-msgctxt "dn18:27.16"
+msgctxt "dn18:27.15"
 msgid "Saṅkhātuṃ nopi sakkomi, "
 msgstr "I couldn’t even number them, "
 
 #. HTML: <br>
-msgctxt "dn18:27.17"
+msgctxt "dn18:27.16"
 msgid "musāvādassa ottappan”ti. "
 msgstr "for fear of speaking falsely.” "
 

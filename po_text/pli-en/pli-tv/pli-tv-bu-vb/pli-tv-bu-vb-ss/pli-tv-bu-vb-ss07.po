@@ -23,7 +23,7 @@ msgid "Vihāra­kāra­sikkhā­pada"
 msgstr "7. The training rule on building dwellings"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-ss7:1.0a"
+msgctxt "pli-tv-bu-vb-ss7:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -115,27 +115,27 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ss7:1.19a"
+msgctxt "pli-tv-bu-vb-ss7:1.19.0"
 msgid ""
 msgstr "Final ruling"
 
 # NOTE: I have rendered _sassāmikaṃ_ as “with a sponsoring owner.” The word _sāmika_ generally means “owner,” and there seems to be no reason why that should not also be the meaning here. However, although the monk does not own the dwelling, he is still the builder and the intended user once the building is finished. To indicate this, I have added the word “sponsoring.”
 #. HTML: </h2><p><span class="rule">
 #. REF: sc4
-msgctxt "pli-tv-bu-vb-ss7:1.20"
+msgctxt "pli-tv-bu-vb-ss7:1.19"
 msgid "“Mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena sassāmikaṃ attuddesaṃ bhikkhū abhinetabbā vatthudesanāya."
 msgstr "‘When a monk builds a large dwelling with a sponsoring owner and intended for himself,"
 
-msgctxt "pli-tv-bu-vb-ss7:1.21"
+msgctxt "pli-tv-bu-vb-ss7:1.20"
 msgid "Tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ."
 msgstr "he must get monks to approve a site where no harm will be done and which has a space on all sides."
 
-msgctxt "pli-tv-bu-vb-ss7:1.22"
+msgctxt "pli-tv-bu-vb-ss7:1.21"
 msgid "Sārambhe ce bhikkhu vatthusmiṃ aparikkamane mahallakaṃ vihāraṃ kāreyya bhikkhū vā anabhineyya vatthudesanāya, saṃghādiseso”ti."
 msgstr "If a monk builds a large dwelling on a site where harm will be done and which lacks a space on all sides, or he does not get monks to approve the site, he commits an offense entailing suspension.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ss7:2.0a"
+msgctxt "pli-tv-bu-vb-ss7:2.0"
 msgid ""
 msgstr "Definitions"
 
@@ -599,17 +599,17 @@ msgid "“saṃghādiseso”ti."
 msgstr "“an offense entailing suspension.”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ss7:3.1.0a"
+msgctxt "pli-tv-bu-vb-ss7:3.1.0.1"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-ss7:3.1.0b"
+msgctxt "pli-tv-bu-vb-ss7:3.1.0.2"
 msgid ""
 msgstr "Permutations part 1"
 
 #. HTML: </h3><h5>
-msgctxt "pli-tv-bu-vb-ss7:3.1.0c"
+msgctxt "pli-tv-bu-vb-ss7:3.1.0.3"
 msgid ""
 msgstr "Building oneself"
 
@@ -650,7 +650,7 @@ msgid "Bhikkhu vihāraṃ karoti desita­vatthu­kaṃ anārambhaṃ saparikkama
 msgstr "If a monk builds a dwelling whose site has been approved, where no harm will be done, and which has a space on all sides, there is no offense."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss7:3.2.0a"
+msgctxt "pli-tv-bu-vb-ss7:3.2.0"
 msgid ""
 msgstr "Appointing someone else to build"
 
@@ -707,7 +707,7 @@ msgid "anārambhaṃ saparikkamanaṃ, anāpatti."
 msgstr "where no harm will be done, and which has a space on all sides, there is no offense."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss7:3.3.0a"
+msgctxt "pli-tv-bu-vb-ss7:3.3.0"
 msgid ""
 msgstr "Departing without informing of the proper building procedure"
 
@@ -780,7 +780,7 @@ msgid "anārambhaṃ saparikkamanaṃ, anāpatti."
 msgstr "where no harm will be done, and which has a space on all sides, there is no offense."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss7:3.4.0a"
+msgctxt "pli-tv-bu-vb-ss7:3.4.0"
 msgid ""
 msgstr "Departing and then hearing about wrong building procedure"
 
@@ -887,7 +887,7 @@ msgid "anāpatti."
 msgstr "There is no offense."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss7:3.5.0a"
+msgctxt "pli-tv-bu-vb-ss7:3.5.0"
 msgid ""
 msgstr "Offenses for appointed builders"
 
@@ -960,7 +960,7 @@ msgid "anārambhaṃ saparikkamanaṃ, anāpatti."
 msgstr "where no harm will be done, and which has a space on all sides, there is no offense."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss7:3.6.0a"
+msgctxt "pli-tv-bu-vb-ss7:3.6.0"
 msgid ""
 msgstr "Unfinished when he returns"
 
@@ -1034,7 +1034,7 @@ msgid "anārambhaṃ saparikkamanaṃ, anāpatti."
 msgstr "where no harm will be done, and which has a space on all sides, there is no offense."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-ss7:3.7.0a"
+msgctxt "pli-tv-bu-vb-ss7:3.7.0"
 msgid ""
 msgstr "Permutations part 2"
 
@@ -1063,38 +1063,38 @@ msgid "Parehi vippakataṃ parehi pariyosāpeti, āpatti saṃ­ghā­di­sesass
 msgstr "If he gets others to finish what was begun by others, he commits an offense entailing suspension."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ss7:3.7.4a"
+msgctxt "pli-tv-bu-vb-ss7:3.7.4.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc43, ms1V_1554 
-msgctxt "pli-tv-bu-vb-ss7:3.7.5"
+msgctxt "pli-tv-bu-vb-ss7:3.7.4"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
-msgctxt "pli-tv-bu-vb-ss7:3.7.6"
+msgctxt "pli-tv-bu-vb-ss7:3.7.5"
 msgid "leṇe guhāya tiṇakuṭikāya"
 msgstr "if it is a shelter, if it is a cave, if it is a grass hut;"
 
-msgctxt "pli-tv-bu-vb-ss7:3.7.7"
+msgctxt "pli-tv-bu-vb-ss7:3.7.6"
 msgid "aññassatthāya vāsāgāraṃ ṭhapetvā"
 msgstr "if it is built for someone else;"
 
-msgctxt "pli-tv-bu-vb-ss7:3.7.8"
+msgctxt "pli-tv-bu-vb-ss7:3.7.7"
 msgid "sabbattha."
 msgstr "if it is anything apart from a dwelling;"
 
-msgctxt "pli-tv-bu-vb-ss7:3.7.9"
+msgctxt "pli-tv-bu-vb-ss7:3.7.8"
 msgid "Anāpatti ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-ss7:3.7.10"
+msgctxt "pli-tv-bu-vb-ss7:3.7.9"
 msgid "ādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><hr><p class="endsutta">
 #. REF: sc44, ms1V_1555 
-msgctxt "pli-tv-bu-vb-ss7:3.7.11"
+msgctxt "pli-tv-bu-vb-ss7:3.7.10"
 msgid "Vihāra­kāra­sikkhā­padaṃ niṭṭhitaṃ sattamaṃ."
 msgstr "The seventh rule, the training rule on building dwellings, is finished."

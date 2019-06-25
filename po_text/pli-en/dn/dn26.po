@@ -13,7 +13,7 @@ msgid "Cakkavattisutta "
 msgstr "The Wheel-Turning Monarch "
 
 #. HTML: </h1></div><h2>
-msgctxt "dn26:0.3"
+msgctxt "dn26:1.0"
 msgid "1. Attadīpasaraṇatā "
 msgstr "1. Taking Refuge in Oneself "
 
@@ -92,7 +92,7 @@ msgid "Kusalānaṃ, bhikkhave, dhammānaṃ samādānahetu evamidaṃ puñña�
 msgstr "It is due to undertaking skillful qualities that this merit grows. "
 
 #. HTML: </p><h2>
-msgctxt "dn26:1.17"
+msgctxt "dn26:2.0"
 msgid "2. Daḷhanemicakkavattirājā "
 msgstr "2. King Daḷhanemi "
 
@@ -228,7 +228,7 @@ msgid "Ṭhānaṃ kho panetaṃ vijjati, yaṃ te ariye cakkavattivatte vattam�
 msgstr "If you do so, it’s possible that—on a fifteenth day sabbath, having bathed your head and gone upstairs in the stilt longhouse to observe the sabbath—the heavenly wheel-treasure will appear to you, with a thousand spokes, with rim and hub, complete in every detail.’ "
 
 #. HTML: </p><h3>
-msgctxt "dn26:4.10"
+msgctxt "dn26:5.0"
 msgid "2.1. Cakkavattiariyavatta "
 msgstr "2.1. The Noble Duties of a Wheel-Turning Monarch "
 
@@ -276,34 +276,34 @@ msgid "Idaṃ kho, tāta, taṃ ariyaṃ cakkavattivattan’ti. "
 msgstr "These are the noble duties of a wheel-turning monarch.’ "
 
 #. HTML: </p><h3>
-msgctxt "dn26:5.9"
+msgctxt "dn26:5.9.0"
 msgid "2.2. Cakkaratanapātubhāva "
 msgstr "2.2. The Wheel-Treasure Appears "
 
 #. HTML: </h3><p>
 #. REF: pts-vp-pli3.62, sc9
-msgctxt "dn26:5.10"
+msgctxt "dn26:5.9"
 msgid "‘Evaṃ, devā’ti kho, bhikkhave, rājā khattiyo muddhābhisitto rājisissa paṭissutvā ariye cakkavattivatte vatti. "
 msgstr "‘Yes, Your Majesty,’ replied the new king to the royal sage. And he implemented the noble duties of a wheel-turning monarch. "
 
 #. HTML: </p><p>
-msgctxt "dn26:5.11"
+msgctxt "dn26:5.10"
 msgid "Tassa ariye cakkavattivatte vattamānassa tadahuposathe pannarase sīsaṃnhātassa uposathikassa uparipāsādavaragatassa "
 msgstr "While he was implementing them, on a fifteenth day sabbath, he had bathed his head and gone upstairs in the stilt longhouse to observe the sabbath. "
 
-msgctxt "dn26:5.12"
+msgctxt "dn26:5.11"
 msgid "dibbaṃ cakkaratanaṃ pāturahosi sahassāraṃ sanemikaṃ sanābhikaṃ sabbākāraparipūraṃ. "
 msgstr "And the heavenly wheel-treasure appeared to him, with a thousand spokes, with rim and hub, complete in every detail. "
 
-msgctxt "dn26:5.13"
+msgctxt "dn26:5.12"
 msgid "Disvāna rañño khattiyassa muddhābhisittassa etadahosi: "
 msgstr "Seeing this, the king thought, "
 
-msgctxt "dn26:5.14"
+msgctxt "dn26:5.13"
 msgid "‘sutaṃ kho pana metaṃ—yassa rañño khattiyassa muddhābhisittassa tadahuposathe pannarase sīsaṃnhātassa uposathikassa uparipāsādavaragatassa dibbaṃ cakkaratanaṃ pātubhavati sahassāraṃ sanemikaṃ sanābhikaṃ sabbākāraparipūraṃ, so hoti rājā cakkavattīti. "
 msgstr "‘I have heard that when the heavenly wheel-treasure appears to a king in this way, he becomes a wheel-turning monarch. "
 
-msgctxt "dn26:5.15"
+msgctxt "dn26:5.14"
 msgid "Assaṃ nu kho ahaṃ rājā cakkavattī’ti. "
 msgstr "Am I then a wheel-turning monarch?’ "
 
@@ -420,7 +420,7 @@ msgid "Atha kho taṃ, bhikkhave, cakkaratanaṃ samuddapariyantaṃ pathaviṃ 
 msgstr "And then the wheel-treasure, having triumphed over this land surrounded by ocean, returned to the royal capital. There it stood still by the gate to the royal compound at the High Court as if fixed to an axle, illuminating the royal compound. "
 
 #. HTML: </p><h2>
-msgctxt "dn26:7.17"
+msgctxt "dn26:8.0"
 msgid "3. Dutiyādicakkavattikathā "
 msgstr "3. On Subsequent Wheel-Turning Monarchs "
 
@@ -553,7 +553,7 @@ msgid "Tassa te mayaṃ ariyaṃ cakkavattivattaṃ puṭṭhā byākarissāmā�
 msgstr "We will answer you.’ "
 
 #. HTML: </p><h2>
-msgctxt "dn26:9.12"
+msgctxt "dn26:10.0"
 msgid "4. Āyuvaṇṇādiparihānikathā "
 msgstr "4. On the Period of Decline "
 
@@ -1031,7 +1031,7 @@ msgid "Tesaṃ āyunāpi parihāyamānānaṃ vaṇṇenapi parihāyamānānaṃ
 msgstr "Those people who lived for two hundred and fifty years had children who lived for a hundred years. "
 
 #. HTML: </p><h2>
-msgctxt "dn26:18.15"
+msgctxt "dn26:19.0"
 msgid "5. Dasavassāyukasamaya "
 msgstr "5. When People Live for Ten Years "
 
@@ -1189,41 +1189,41 @@ msgid "‘diṭṭhā, bho, sattā jīvasi, diṭṭhā, bho, sattā jīvasī’
 msgstr "‘How fantastic, dear being, you live! How fantastic, dear being, you live!’ "
 
 #. HTML: </p><h2>
-msgctxt "dn26:21.10"
+msgctxt "dn26:21.10.0"
 msgid "6. Āyuvaṇṇādivaḍḍhanakathā "
 msgstr "6. The Period of Growth "
 
 #. HTML: </h2><p>
 #. REF: pts-vp-pli3.74, sc43
-msgctxt "dn26:21.11"
+msgctxt "dn26:21.10"
 msgid "Atha kho tesaṃ, bhikkhave, sattānaṃ evaṃ bhavissati: "
 msgstr "Then those beings will think, "
 
-msgctxt "dn26:21.12"
+msgctxt "dn26:21.11"
 msgid "‘mayaṃ kho akusalānaṃ dhammānaṃ samādānahetu evarūpaṃ āyataṃ ñātikkhayaṃ pattā. "
 msgstr "‘It’s because we undertook unskillful things that we suffered such an extensive loss of our relatives. "
 
-msgctxt "dn26:21.13"
+msgctxt "dn26:21.12"
 msgid "Yannūna mayaṃ kusalaṃ kareyyāma. "
 msgstr "We’d better do what’s skillful. "
 
-msgctxt "dn26:21.14"
+msgctxt "dn26:21.13"
 msgid "Kiṃ kusalaṃ kareyyāma? "
 msgstr "What skillful thing should we do? "
 
-msgctxt "dn26:21.15"
+msgctxt "dn26:21.14"
 msgid "Yannūna mayaṃ pāṇātipātā virameyyāma, idaṃ kusalaṃ dhammaṃ samādāya vatteyyāmā’ti. "
 msgstr "Why don’t we refrain from killing living creatures? Having undertaken this skillful thing we’ll live by it.’ "
 
-msgctxt "dn26:21.16"
+msgctxt "dn26:21.15"
 msgid "Te pāṇātipātā viramissanti, idaṃ kusalaṃ dhammaṃ samādāya vattissanti. "
 msgstr "So that’s what they do. "
 
-msgctxt "dn26:21.17"
+msgctxt "dn26:21.16"
 msgid "Te kusalānaṃ dhammānaṃ samādānahetu āyunāpi vaḍḍhissanti, vaṇṇenapi vaḍḍhissanti. "
 msgstr "Because of undertaking this skillful thing, their lifespan and beauty will grow. "
 
-msgctxt "dn26:21.18"
+msgctxt "dn26:21.17"
 msgid "Tesaṃ āyunāpi vaḍḍhamānānaṃ vaṇṇenapi vaḍḍhamānānaṃ dasavassāyukānaṃ manussānaṃ vīsativassāyukā puttā bhavissanti. "
 msgstr "Those people who live for ten years will have children who live for twenty years. "
 
@@ -1353,30 +1353,30 @@ msgid "asītivassasahassāyukesu, bhikkhave, manussesu pañcavassasatikā kumār
 msgstr "Among the people who live for 80,000 years, girls will be marriageable at five hundred. "
 
 #. HTML: </p><h2>
-msgctxt "dn26:23.4"
+msgctxt "dn26:23.4.0"
 msgid "7. Saṅkharājauppatti "
 msgstr "7. The Time of King Saṅkha "
 
 #. HTML: </h2><p>
 #. REF: sc46
-msgctxt "dn26:23.5"
+msgctxt "dn26:23.4"
 msgid "Asītivassasahassāyukesu, bhikkhave, manussesu tayo ābādhā bhavissanti, icchā, anasanaṃ, jarā. "
 msgstr "Among the people who live for 80,000 years, there will be just three afflictions: greed, starvation, and old age. "
 
-msgctxt "dn26:23.6"
+msgctxt "dn26:23.5"
 msgid "Asītivassasahassāyukesu, bhikkhave, manussesu ayaṃ jambudīpo iddho ceva bhavissati phīto ca, kukkuṭasampātikā gāmanigamarājadhāniyo. "
 msgstr "India will be successful and prosperous. The villages, towns, and capital cities will be no more than a chicken’s flight apart. "
 
 #. VAR: saravanaṃ → sāravanaṃ (s1-3)
-msgctxt "dn26:23.7"
+msgctxt "dn26:23.6"
 msgid "Asītivassasahassāyukesu, bhikkhave, manussesu ayaṃ jambudīpo avīci maññe phuṭo bhavissati manussehi, seyyathāpi naḷavanaṃ vā saravanaṃ vā. "
 msgstr "And the land will be as crowded as hell, just full of people, like a thicket of rushes or reeds. "
 
-msgctxt "dn26:23.8"
+msgctxt "dn26:23.7"
 msgid "Asītivassasahassāyukesu, bhikkhave, manussesu ayaṃ bārāṇasī ketumatī nāma rājadhānī bhavissati iddhā ceva phītā ca bahujanā ca ākiṇṇamanussā ca subhikkhā ca. "
 msgstr "The royal capital will be our Benares, but renamed Ketumati. And it will be successful, prosperous, populous, full of people, with plenty of food. "
 
-msgctxt "dn26:23.9"
+msgctxt "dn26:23.8"
 msgid "Asītivassasahassāyukesu, bhikkhave, manussesu imasmiṃ jambudīpe caturāsītinagarasahassāni bhavissanti ketumatīrājadhānīpamukhāni. "
 msgstr "There will be 84,000 cities in India, with the royal capital of Ketumati foremost. "
 
@@ -1403,7 +1403,7 @@ msgid "So imaṃ pathaviṃ sāgarapariyantaṃ adaṇḍena asatthena dhammena 
 msgstr "After conquering this land girt by sea, he will reign by principle, without rod or sword. "
 
 #. HTML: </p><h2>
-msgctxt "dn26:24.6"
+msgctxt "dn26:25.0"
 msgid "8. Metteyyabuddhuppāda "
 msgstr "8. The Arising of the Buddha Metteyya "
 
@@ -1481,7 +1481,7 @@ msgid "Evaṃ kho, bhikkhave, bhikkhu attadīpo viharati attasaraṇo anaññasa
 msgstr "That’s how a mendicant is their own island, their own refuge, with no other refuge. That’s how they let the teaching be their island and their refuge, with no other refuge. "
 
 #. HTML: </p><h2>
-msgctxt "dn26:27.8"
+msgctxt "dn26:28.0"
 msgid "9. Bhikkhunoāyuvaṇṇādivaḍḍhanakathā "
 msgstr "9. On Long Life and Beauty for Mendicants "
 

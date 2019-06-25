@@ -28,7 +28,7 @@ msgid "4. Purāṇacīvarasikkhāpada"
 msgstr "4. The training rule on used robes"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np4:1.0a"
+msgctxt "pli-tv-bu-vb-np4:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -189,18 +189,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np4:1.35a"
+msgctxt "pli-tv-bu-vb-np4:1.35.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc4, ms1V_1944
-msgctxt "pli-tv-bu-vb-np4:1.36"
+msgctxt "pli-tv-bu-vb-np4:1.35"
 msgid "“Yo pana bhikkhu aññātikāya bhikkhuniyā purāṇacīvaraṃ dhovāpeyya vā rajāpeyya vā ākoṭāpeyya vā, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk gets an unrelated nun to wash, dye, or beat a used robe, he commits and offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np4:2.1.0a"
+msgctxt "pli-tv-bu-vb-np4:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -325,7 +325,7 @@ msgid "āyasmato dammīti."
 msgstr "‘I give this robe back to you.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np4:2.2.0a"
+msgctxt "pli-tv-bu-vb-np4:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -421,51 +421,51 @@ msgid "Ñātikāya ñātikasaññī, anāpatti."
 msgstr "If she is related and he perceives her as related, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np4:2.2.20a"
+msgctxt "pli-tv-bu-vb-np4:2.2.20.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc14
-msgctxt "pli-tv-bu-vb-np4:2.2.21"
+msgctxt "pli-tv-bu-vb-np4:2.2.20"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
-msgctxt "pli-tv-bu-vb-np4:2.2.22"
+msgctxt "pli-tv-bu-vb-np4:2.2.21"
 msgid "ñātikāya dhovantiyā aññātikā dutiyā hoti,"
 msgstr "if a related nun does the washing and an unrelated nun helps her;"
 
-msgctxt "pli-tv-bu-vb-np4:2.2.23"
+msgctxt "pli-tv-bu-vb-np4:2.2.22"
 msgid "avuttā dhovati,"
 msgstr "if a nun does the washing without being asked;"
 
 #. REF: pts-vp-en2.35
-msgctxt "pli-tv-bu-vb-np4:2.2.24"
+msgctxt "pli-tv-bu-vb-np4:2.2.23"
 msgid "aparibhuttaṃ dhovāpeti,"
 msgstr "if he gets a nun to wash an unused robe;"
 
-msgctxt "pli-tv-bu-vb-np4:2.2.25"
+msgctxt "pli-tv-bu-vb-np4:2.2.24"
 msgid "cīvaraṃ ṭhapetvā aññaṃ parikkhāraṃ dhovāpeti,"
 msgstr "if he gets a nun to wash any requisite apart from a robe;"
 
-msgctxt "pli-tv-bu-vb-np4:2.2.26"
+msgctxt "pli-tv-bu-vb-np4:2.2.25"
 msgid "sikkhamānāya,"
 msgstr "if it is a trainee nun;"
 
-msgctxt "pli-tv-bu-vb-np4:2.2.27"
+msgctxt "pli-tv-bu-vb-np4:2.2.26"
 msgid "sāmaṇeriyā,"
 msgstr "if it is a novice nun;"
 
-msgctxt "pli-tv-bu-vb-np4:2.2.28"
+msgctxt "pli-tv-bu-vb-np4:2.2.27"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-np4:2.2.29"
+msgctxt "pli-tv-bu-vb-np4:2.2.28"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><hr><p class="endsutta">
 #. REF: sc15, ms1V_1955
-msgctxt "pli-tv-bu-vb-np4:2.2.30"
+msgctxt "pli-tv-bu-vb-np4:2.2.29"
 msgid "Purāṇacīvarasikkhāpadaṃ niṭṭhitaṃ catutthaṃ."
 msgstr "The fourth rule, the training rule on used robes, is finished."

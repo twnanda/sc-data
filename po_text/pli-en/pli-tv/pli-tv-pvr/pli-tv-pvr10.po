@@ -3,17 +3,17 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-pvr10"><article><div class="hgroup"><p class="division">
-msgctxt "pli-tv-pvr10:1.1"
+msgctxt "pli-tv-pvr10:0.1"
 msgid "Parivāra"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-pvr10:2.1"
+msgctxt "pli-tv-pvr10:0.2"
 msgid "Gāthāsaṅgaṇika"
 msgstr ""
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-pvr10:3.1"
+msgctxt "pli-tv-pvr10:4.0"
 msgid "1. Sattanagaresupaññattasikkhāpada"
 msgstr ""
 
@@ -594,7 +594,7 @@ msgid "gotamena yasassinā”."
 msgstr ""
 
 #. HTML: </p></blockquote><h2>
-msgctxt "pli-tv-pvr10:30.1"
+msgctxt "pli-tv-pvr10:31.0"
 msgid "2. Catuvipatti"
 msgstr ""
 
@@ -782,7 +782,7 @@ msgid "Ime te yāvatatiyakā”."
 msgstr ""
 
 #. HTML: </p></blockquote><h2>
-msgctxt "pli-tv-pvr10:38.1"
+msgctxt "pli-tv-pvr10:39.0"
 msgid "3. Chedanakādi"
 msgstr ""
 
@@ -870,7 +870,7 @@ msgid "buddhenādiccabandhunā”."
 msgstr ""
 
 #. HTML: </p></blockquote><h2>
-msgctxt "pli-tv-pvr10:43.1"
+msgctxt "pli-tv-pvr10:44.0"
 msgid "4. Asādhāraṇādi"
 msgstr ""
 
@@ -1443,7 +1443,7 @@ msgid "Kiccaṃ ekena sammati”."
 msgstr ""
 
 #. HTML: </p></blockquote><h2>
-msgctxt "pli-tv-pvr10:69.1"
+msgctxt "pli-tv-pvr10:70.0"
 msgid "5. Pārājikādiāpatti"
 msgstr ""
 

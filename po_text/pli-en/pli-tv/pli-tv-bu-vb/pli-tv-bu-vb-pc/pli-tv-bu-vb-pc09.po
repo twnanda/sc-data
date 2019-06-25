@@ -28,7 +28,7 @@ msgid "9. Duṭṭhullārocanasikkhāpada"
 msgstr "The training rule on telling about what is serious"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc9:1.0a"
+msgctxt "pli-tv-bu-vb-pc9:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -121,19 +121,19 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc9:1.20a"
+msgctxt "pli-tv-bu-vb-pc9:1.20.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. VAR: bhikkhusammutiyā → bhik­khu­samma­tiyā (s1-3)
 #. REF: sc3, ms2V_297
-msgctxt "pli-tv-bu-vb-pc9:1.21"
+msgctxt "pli-tv-bu-vb-pc9:1.20"
 msgid "“Yo pana bhikkhu bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa āroceyya, aññatra bhikkhusammutiyā, pācittiyan”ti."
 msgstr "‘If a monk tells a person who is not fully ordained about another monk’s serious offense, except if the monks have agreed, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc9:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc9:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -214,125 +214,125 @@ msgid "ṭhapetvā bhikkhusammutiṃ."
 msgstr "unless he has the permission of the monks."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc9:2.1.14a"
+msgctxt "pli-tv-bu-vb-pc9:2.1.12.0.1"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pc9:2.1.14b"
+msgctxt "pli-tv-bu-vb-pc9:2.1.12.0.2"
 msgid ""
 msgstr "Permutations part 1"
 
 #. HTML: </h3><h4>
-msgctxt "pli-tv-bu-vb-pc9:2.1.14c"
+msgctxt "pli-tv-bu-vb-pc9:2.1.12.0.3"
 msgid ""
 msgstr "Summary"
 
 #. HTML: </h4><p>
 #. REF: sc10, ms2V_304
-msgctxt "pli-tv-bu-vb-pc9:2.1.15"
+msgctxt "pli-tv-bu-vb-pc9:2.1.12"
 msgid "Atthi bhikkhusammuti āpattipariyantā, na kulapariyantā."
 msgstr "There is permission of the monks with a limit on offenses, but not on families."
 
-msgctxt "pli-tv-bu-vb-pc9:2.1.16"
+msgctxt "pli-tv-bu-vb-pc9:2.1.13"
 msgid "Atthi bhikkhusammuti kulapariyantā, na āpattipariyantā, atthi bhikkhusammuti āpattipariyantā ca kulapariyantā ca, atthi bhikkhusammuti neva āpattipariyantā na kulapariyantā."
 msgstr "There is permission of the monks with a limit on families, but not on offenses. There is permission of the monks with a limit both on offenses and on families. There is permission of the monks with a limit neither on offenses nor on families."
 
 #. HTML: </p><h4>
-msgctxt "pli-tv-bu-vb-pc9:2.1.16a"
+msgctxt "pli-tv-bu-vb-pc9:2.1.16.0"
 msgid ""
 msgstr "Definitions"
 
 #. HTML: </h4><p><span class="term"> 
 #. REF: sc11, ms2V_305
-msgctxt "pli-tv-bu-vb-pc9:2.1.17"
+msgctxt "pli-tv-bu-vb-pc9:2.1.16"
 msgid "Āpattipariyantā nāma"
 msgstr "With a limit on offenses:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc9:2.1.18"
+msgctxt "pli-tv-bu-vb-pc9:2.1.17"
 msgid "āpattiyo pariggahitāyo honti—"
 msgstr "offenses are specified:"
 
-msgctxt "pli-tv-bu-vb-pc9:2.1.19"
+msgctxt "pli-tv-bu-vb-pc9:2.1.18"
 msgid "“ettakāhi āpattīhi ārocetabbo”ti."
 msgstr "“These particular offenses can be informed about.”"
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc12, ms2V_306
-msgctxt "pli-tv-bu-vb-pc9:2.1.20"
+msgctxt "pli-tv-bu-vb-pc9:2.1.19"
 msgid "Kulapariyantā nāma"
 msgstr "With limit on families:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc9:2.1.21"
+msgctxt "pli-tv-bu-vb-pc9:2.1.20"
 msgid "kulāni pariggahitāni honti—"
 msgstr "families are specified:"
 
 #. REF: pts-vp-en.2.221
-msgctxt "pli-tv-bu-vb-pc9:2.1.22"
+msgctxt "pli-tv-bu-vb-pc9:2.1.21"
 msgid "“ettakesu kulesu ārocetabbo”ti."
 msgstr "“These particular families can be informed.”"
 
 #. HTML: </span></p><p><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc9:2.1.23"
+msgctxt "pli-tv-bu-vb-pc9:2.1.22"
 msgid "Āpattipariyantā ca kulapariyantā ca nāma"
 msgstr "With a limit both on offenses and on families:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc9:2.1.24"
+msgctxt "pli-tv-bu-vb-pc9:2.1.23"
 msgid "āpattiyo ca pariggahitāyo honti, kulāni ca pariggahitāni honti—"
 msgstr "both offenses and families are specified:"
 
-msgctxt "pli-tv-bu-vb-pc9:2.1.25"
+msgctxt "pli-tv-bu-vb-pc9:2.1.24"
 msgid "“ettakāhi āpattīhi ettakesu kulesu ārocetabbo”ti."
 msgstr "“These particular offenses can be informed about, and these particular families can be informed.”"
 
 #. HTML: </span></p><p><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc9:2.1.26"
+msgctxt "pli-tv-bu-vb-pc9:2.1.25"
 msgid "Neva āpattipariyantā na kulapariyantā nāma"
 msgstr "With a limit neither on offenses nor on families:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc9:2.1.27"
+msgctxt "pli-tv-bu-vb-pc9:2.1.26"
 msgid "āpattiyo ca apariggahitāyo honti, kulāni ca apariggahitāni honti—"
 msgstr "neither offenses nor families are specified in this way."
 
-msgctxt "pli-tv-bu-vb-pc9:2.1.28"
+msgctxt "pli-tv-bu-vb-pc9:2.1.27"
 msgid "“ettakāhi āpattīhi ettakesu kulesu ārocetabbo”ti."
 msgstr ""
 
 #. HTML: </span></p><h4>
-msgctxt "pli-tv-bu-vb-pc9:2.1.28a"
+msgctxt "pli-tv-bu-vb-pc9:2.1.28.0"
 msgid ""
 msgstr "Exposition"
 
 #. HTML: </h4><p>
 #. REF: sc13, ms2V_307
-msgctxt "pli-tv-bu-vb-pc9:2.1.29"
+msgctxt "pli-tv-bu-vb-pc9:2.1.28"
 msgid "Āpattipariyante yā āpattiyo pariggahitāyo honti, tā āpattiyo ṭhapetvā aññāhi āpattīhi āroceti, āpatti pācittiyassa."
 msgstr "When there is a limit on offenses, if he tells about other offenses than those that are specified, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc14, pts-vp-pli4.32, ms2V_308
-msgctxt "pli-tv-bu-vb-pc9:2.1.30"
+msgctxt "pli-tv-bu-vb-pc9:2.1.29"
 msgid "Kulapariyante yāni kulāni pariggahitāni honti, tāni kulāni ṭhapetvā aññesu kulesu āroceti, āpatti pācittiyassa."
 msgstr "When there is a limit on families, if he tells other families than those that are specified, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc15, ms2V_309
-msgctxt "pli-tv-bu-vb-pc9:2.1.31"
+msgctxt "pli-tv-bu-vb-pc9:2.1.30"
 msgid "Āpattipariyante ca kulapariyante ca yā āpattiyo pariggahitāyo honti, tā āpattiyo ṭhapetvā yāni kulāni pariggahitāni honti, tāni kulāni ṭhapetvā aññāhi āpattīhi aññesu kulesu āroceti, āpatti pācittiyassa."
 msgstr "When there is a limit both on offenses and on families, if he tells about other offenses than those that are specified and he tells other families than those that are specified, he commits an offense entailing confession."
 
 #. HTML: </p><p>
 #. REF: sc16, ms2V_310
-msgctxt "pli-tv-bu-vb-pc9:2.1.32"
+msgctxt "pli-tv-bu-vb-pc9:2.1.31"
 msgid "Neva āpattipariyante na kulapariyante, anāpatti."
 msgstr "When there is a limit neither on offenses nor on families, there is no offense."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc9:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc9:2.2.0"
 msgid ""
 msgstr "Permutations part 2"
 
@@ -385,7 +385,7 @@ msgid "Aduṭṭhullāya āpattiyā aduṭṭhullāpattisaññī, āpatti dukka�
 msgstr "If the offense is not serious, and he perceives it as not serious, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc9:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc9:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

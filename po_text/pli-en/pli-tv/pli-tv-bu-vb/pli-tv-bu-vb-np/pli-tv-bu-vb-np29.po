@@ -28,7 +28,7 @@ msgid "29. Sāsaṅkasikkhāpada"
 msgstr "29. The training rule on what is risky"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np29:1.1.0a"
+msgctxt "pli-tv-bu-vb-np29:1.1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -135,26 +135,26 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np29:1.2.16a"
+msgctxt "pli-tv-bu-vb-np29:1.2.16.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc4, ms1V_2403
-msgctxt "pli-tv-bu-vb-np29:1.2.17"
+msgctxt "pli-tv-bu-vb-np29:1.2.16"
 msgid "“Upavassaṃ kho pana kattikapuṇṇamaṃ yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni tathārūpesu bhikkhu senāsanesu viharanto ākaṅkhamāno tiṇṇaṃ cīvarānaṃ aññataraṃ cīvaraṃ antaraghare nikkhipeyya, siyā ca tassa bhikkhuno kocideva paccayo tena cīvarena vippavāsāya."
 msgstr "‘There are wilderness dwellings that are considered risky and dangerous. After observing the Kattika full moon that ends the rainy season, a monk who is staying in such a dwelling may store one of his three robes in an inhabited area, if he so desires, so long as he has a reason for staying apart from that robe."
 
-msgctxt "pli-tv-bu-vb-np29:1.2.18"
+msgctxt "pli-tv-bu-vb-np29:1.2.17"
 msgid "Chārattaparamaṃ tena bhikkhunā tena cīvarena vippavasitabbaṃ."
 msgstr "He should stay apart from that robe for six days at the most."
 
-msgctxt "pli-tv-bu-vb-np29:1.2.19"
+msgctxt "pli-tv-bu-vb-np29:1.2.18"
 msgid "Tato ce uttari vippavaseyya, aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyan”ti."
 msgstr "If he stays apart from it beyond that, except if the monks have agreed, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np29:2.0a"
+msgctxt "pli-tv-bu-vb-np29:2.0"
 msgid ""
 msgstr "Definitions"
 
@@ -344,109 +344,109 @@ msgid "āyasmato dammīti."
 msgstr "‘I give this robe back to you.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np29:2.35a"
+msgctxt "pli-tv-bu-vb-np29:2.35.0"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><p>
 #. REF: sc18, ms1V_2417, pts-vp-en2.159
-msgctxt "pli-tv-bu-vb-np29:2.36"
+msgctxt "pli-tv-bu-vb-np29:2.35"
 msgid "Atirekachāratte atirekasaññī vippavasati, aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is more than six days and he perceives it as more and he is staying apart from it, then, except if the monks have agreed, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np29:2.37"
+msgctxt "pli-tv-bu-vb-np29:2.36"
 msgid "Atirekachāratte vematiko vippavasati, aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is more than six days, but he is unsure if it is, and he is staying apart from it, then, except if the monks have agreed, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np29:2.38"
+msgctxt "pli-tv-bu-vb-np29:2.37"
 msgid "Atirekachāratte ūnakasaññī vippavasati, aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is more than six days, but he does not perceives it as more, and he is staying apart from it, then, except if the monks have agreed, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-np29:2.39"
+msgctxt "pli-tv-bu-vb-np29:2.38"
 msgid "Appaccuddhaṭe paccuddhaṭasaññī … pe …"
 msgstr "If the determination has not been given up, but he perceives it as given up …"
 
-msgctxt "pli-tv-bu-vb-np29:2.40"
+msgctxt "pli-tv-bu-vb-np29:2.39"
 msgid "avissajjite vissajjitasaññī …"
 msgstr "If the robe has not been given away, but he perceives it as given away …"
 
-msgctxt "pli-tv-bu-vb-np29:2.41"
+msgctxt "pli-tv-bu-vb-np29:2.40"
 msgid "anaṭṭhe naṭṭhasaññī …"
 msgstr "If the robe has not been lost, but he perceives it as lost …"
 
-msgctxt "pli-tv-bu-vb-np29:2.42"
+msgctxt "pli-tv-bu-vb-np29:2.41"
 msgid "avinaṭṭhe vinaṭṭhasaññī …"
 msgstr "If the robe has not been destroyed, but he perceives it as destroyed …"
 
-msgctxt "pli-tv-bu-vb-np29:2.43"
+msgctxt "pli-tv-bu-vb-np29:2.42"
 msgid "adaḍḍhe daḍḍhasaññī …"
 msgstr "If the robe has not been burnt, but he perceives it as burnt …"
 
-msgctxt "pli-tv-bu-vb-np29:2.44"
+msgctxt "pli-tv-bu-vb-np29:2.43"
 msgid "avilutte viluttasaññī vippavasati, aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ."
 msgstr "If the robe has not been stolen, but he perceives it as stolen, and he is staying apart from it, then, except if the monks have agreed, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </p><p><span class="rule"> 
 #. REF: sc19, ms1V_2418
-msgctxt "pli-tv-bu-vb-np29:2.45"
+msgctxt "pli-tv-bu-vb-np29:2.44"
 msgid "Nissaggiyaṃ cīvaraṃ anissajjitvā paribhuñjati, āpatti dukkaṭassa."
 msgstr "If he uses a robe that should be relinquished without first relinquishing it, he commits an offense of wrong conduct."
 
 #. HTML: </span> 
-msgctxt "pli-tv-bu-vb-np29:2.46"
+msgctxt "pli-tv-bu-vb-np29:2.45"
 msgid "Ūnakachāratte atirekasaññī, āpatti dukkaṭassa."
 msgstr "If it is less than six days, but he perceives it as more, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np29:2.47"
+msgctxt "pli-tv-bu-vb-np29:2.46"
 msgid "Ūnakachāratte vematiko, āpatti dukkaṭassa."
 msgstr "If it is less than six days, but he is unsure if it is, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np29:2.48"
+msgctxt "pli-tv-bu-vb-np29:2.47"
 msgid "Ūnakachāratte ūnakasaññī, anāpatti."
 msgstr "If it is less than six days and he perceives it as less, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np29:2.48a"
+msgctxt "pli-tv-bu-vb-np29:2.48.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc20, ms1V_2419
-msgctxt "pli-tv-bu-vb-np29:2.49"
+msgctxt "pli-tv-bu-vb-np29:2.48"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
-msgctxt "pli-tv-bu-vb-np29:2.50"
+msgctxt "pli-tv-bu-vb-np29:2.49"
 msgid "chārattaṃ vippavasati,"
 msgstr "if he stays apart from the robe for six days;"
 
-msgctxt "pli-tv-bu-vb-np29:2.51"
+msgctxt "pli-tv-bu-vb-np29:2.50"
 msgid "ūnakachārattaṃ vippavasati,"
 msgstr "if he stays apart from the robe for less than six days;"
 
-msgctxt "pli-tv-bu-vb-np29:2.52"
+msgctxt "pli-tv-bu-vb-np29:2.51"
 msgid "chārattaṃ vippavasitvā puna gāmasīmaṃ okkamitvā vasitvā pakkamati,"
 msgstr "if, after staying apart from it for six days, he stays overnight within the village boundary and then departs;"
 
-msgctxt "pli-tv-bu-vb-np29:2.53"
+msgctxt "pli-tv-bu-vb-np29:2.52"
 msgid "antochārattaṃ paccuddharati, vissajjeti, nassati, vinassati, ḍayhati, acchinditvā gaṇhanti, vissāsaṃ gaṇhanti,"
 msgstr "if within the six days he gives up the determination, or the robe is given away, lost, destroyed, burnt, stolen, or taken on trust;"
 
-msgctxt "pli-tv-bu-vb-np29:2.54"
+msgctxt "pli-tv-bu-vb-np29:2.53"
 msgid "bhikkhusammutiyā,"
 msgstr "if he has the permission of the monks;"
 
-msgctxt "pli-tv-bu-vb-np29:2.55"
+msgctxt "pli-tv-bu-vb-np29:2.54"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-np29:2.56"
+msgctxt "pli-tv-bu-vb-np29:2.55"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><hr><p class="endsutta">
 #. REF: sc21, ms1V_2420
-msgctxt "pli-tv-bu-vb-np29:2.57"
+msgctxt "pli-tv-bu-vb-np29:2.56"
 msgid "Sāsaṅkasikkhāpadaṃ niṭṭhitaṃ navamaṃ."
 msgstr "The ninth rule, the training rule on what is risky, is finished."

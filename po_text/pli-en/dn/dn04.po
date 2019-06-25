@@ -13,7 +13,7 @@ msgid "Soṇadaṇḍasutta "
 msgstr "With Soṇadaṇḍa "
 
 #. HTML: </h1></div><h2>
-msgctxt "dn4:0.3"
+msgctxt "dn4:1.0"
 msgid "1. Campeyyakabrāhmaṇagahapatikā "
 msgstr "1. The Brahmins and Householders of Campā "
 
@@ -136,7 +136,7 @@ msgid "‘āgamentu kira bhavanto, soṇadaṇḍopi brāhmaṇo samaṇaṃ got
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn4:3.15"
+msgctxt "dn4:4.0"
 msgid "2. Soṇadaṇḍaguṇakathā "
 msgstr "2. The Qualities of Soṇadaṇḍa "
 
@@ -287,7 +287,7 @@ msgid "samaṇo tveva gotamo arahati bhavantaṃ soṇadaṇḍaṃ dassanāya u
 msgstr "it’s appropriate that he comes to see you. "
 
 #. HTML: </p><h2>
-msgctxt "dn4:5.23"
+msgctxt "dn4:6.0"
 msgid "3. Buddhaguṇakathā "
 msgstr "3. The Qualities of the Buddha "
 
@@ -544,13 +544,13 @@ msgid "“Tena hi, bho, sabbeva mayaṃ samaṇaṃ gotamaṃ dassanāya upasa�
 msgstr "“Well then, gentlemen, let’s all go to see the ascetic Gotama.” "
 
 #. HTML: </p><h2>
-msgctxt "dn4:7.4"
+msgctxt "dn4:7.4.0"
 msgid "4. Soṇadaṇḍaparivitakka "
 msgstr "4. Soṇadaṇḍa’s Second Thoughts "
 
 #. HTML: </h2><p>
 #. REF: pts-vp-pli1.118, sc48
-msgctxt "dn4:7.5"
+msgctxt "dn4:7.4"
 msgid "Atha kho soṇadaṇḍo brāhmaṇo mahatā brāhmaṇagaṇena saddhiṃ yena gaggarā pokkharaṇī tenupasaṅkami. "
 msgstr "Then Soṇadaṇḍa together with a large group of brahmins went to see the Buddha. "
 
@@ -720,7 +720,7 @@ msgid "Aho vata maṃ samaṇo gotamo sake ācariyake tevijjake pañhaṃ pucche
 msgstr "“If only the ascetic Gotama would ask me about my own teacher’s scriptural heritage of the three Vedas! Then I could definitely satisfy his mind with my answer.” "
 
 #. HTML: </p><h2>
-msgctxt "dn4:10.17"
+msgctxt "dn4:11.0"
 msgid "5. Brāhmaṇapaññatti "
 msgstr "5. What Makes a Brahmin "
 
@@ -1068,7 +1068,7 @@ msgid "‘brāhmaṇosmī’ti ca vadamāno sammā vadeyya, na ca pana musāvād
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn4:20.15"
+msgctxt "dn4:21.0"
 msgid "6. Sīlapaññākathā "
 msgstr "6. The Discussion of Ethics and Wisdom "
 
@@ -1245,7 +1245,7 @@ msgid "ayaṃ kho sā, brāhmaṇa, paññā”ti. "
 msgstr "This, brahmin, is that wisdom.” "
 
 #. HTML: </p><h2>
-msgctxt "dn4:23.16"
+msgctxt "dn4:24.0"
 msgid "7. Soṇadaṇḍaupāsakattapaṭivedanā "
 msgstr "7. Soṇadaṇḍa Declares Himself a Lay Follower "
 

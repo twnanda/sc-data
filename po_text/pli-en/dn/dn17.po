@@ -60,43 +60,43 @@ msgid "‘khuddakanagarakaṃ ujjaṅgalanagarakaṃ sākhānagarakan’ti. "
 msgstr "this is a little hamlet, a jungle hamlet, a branch hamlet. "
 
 #. HTML: </p><h2>
-msgctxt "dn17:1.3.3"
+msgctxt "dn17:1.3.3.0"
 msgid "1. Kusāvatīrājadhānī "
 msgstr "1. The Capital City of Kusāvatī "
 
 #. HTML: </h2><p>
 #. REF: pts-vp-pli2.170, sc3
-msgctxt "dn17:1.3.4"
+msgctxt "dn17:1.3.3"
 msgid "Bhūtapubbaṃ, ānanda, rājā mahāsudassano nāma ahosi khattiyo muddhāvasitto cāturanto vijitāvī janapadatthāvariyappatto. "
 msgstr "Once upon a time there was a king named Mahāsudassana whose dominion extended to all four sides, and who achieved stability in the country. "
 
-msgctxt "dn17:1.3.5"
+msgctxt "dn17:1.3.4"
 msgid "Rañño, ānanda, mahāsudassanassa ayaṃ kusinārā kusāvatī nāma rājadhānī ahosi. "
 msgstr "His capital was this Kusinārā, which at the time was named Kusāvatī. "
 
-msgctxt "dn17:1.3.6"
+msgctxt "dn17:1.3.5"
 msgid "Puratthimena ca pacchimena ca dvādasayojanāni āyāmena, uttarena ca dakkhiṇena ca sattayojanāni vitthārena. "
 msgstr "It stretched for twelve leagues from east to west, and seven leagues from north to south. "
 
-msgctxt "dn17:1.3.7"
+msgctxt "dn17:1.3.6"
 msgid "Kusāvatī, ānanda, rājadhānī iddhā ceva ahosi phītā ca bahujanā ca ākiṇṇamanussā ca subhikkhā ca. "
 msgstr "The royal capital of Kusāvatī was successful, prosperous, populous, full of people, with plenty of food. "
 
 #. VAR: iddhā ceva hoti phītā ca → iddhā ceva ahosi phītā ca (s1-3, km) | iddhā ceva phītā ca (pts1)
-msgctxt "dn17:1.3.8"
+msgctxt "dn17:1.3.7"
 msgid "Seyyathāpi, ānanda, devānaṃ āḷakamandā nāma rājadhānī iddhā ceva hoti phītā ca bahujanā ca ākiṇṇayakkhā ca subhikkhā ca; "
 msgstr "It was just like Āḷakamandā, the royal capital of the gods, which is successful, prosperous, populous, full of spirits, with plenty of food. "
 
-msgctxt "dn17:1.3.9"
+msgctxt "dn17:1.3.8"
 msgid "evameva kho, ānanda, kusāvatī rājadhānī iddhā ceva ahosi phītā ca bahujanā ca ākiṇṇamanussā ca subhikkhā ca. "
 msgstr " "
 
 #. HTML: </p><p>
-msgctxt "dn17:1.3.10"
+msgctxt "dn17:1.3.9"
 msgid "Kusāvatī, ānanda, rājadhānī dasahi saddehi avivittā ahosi divā ceva rattiñca, seyyathidaṃ—"
 msgstr "Kusāvatī was never free of ten sounds by day or night, namely: "
 
-msgctxt "dn17:1.3.11"
+msgctxt "dn17:1.3.10"
 msgid "hatthisaddena assasaddena rathasaddena bherisaddena mudiṅgasaddena vīṇāsaddena gītasaddena saṅkhasaddena sammasaddena pāṇitāḷasaddena ‘asnātha pivatha khādathā’ti dasamena saddena. "
 msgstr "the sound of elephants, horses, chariots, drums, clay drums, arched harps, singing, horns, gongs, and handbells; and the cry, ‘Eat, drink, be merry!’ as the tenth. "
 
@@ -187,12 +187,12 @@ msgid "Ye kho panānanda, tena samayena kusāvatiyā rājadhāniyā dhuttā ahes
 msgstr "And any addicts, libertines, or drunkards in Kusāvatī at that time were entertained by that sound. "
 
 #. HTML: </p><h2>
-msgctxt "dn17:1.6.14"
+msgctxt "dn17:1.7.0.1"
 msgid "2. Sattaratanasamannāgata "
 msgstr "2. The Seven Treasures "
 
 #. HTML: </h2><h3>
-msgctxt "dn17:1.6.15"
+msgctxt "dn17:1.7.0.2"
 msgid "2.1. Cakkaratana "
 msgstr "2.1. The Wheel Treasure "
 
@@ -323,7 +323,7 @@ msgid "Rañño, ānanda, mahāsudassanassa evarūpaṃ cakkaratanaṃ pāturahos
 msgstr "Such is the wheel-treasure that appeared to King Mahāsudassana. "
 
 #. HTML: </p><h3>
-msgctxt "dn17:1.11.3"
+msgctxt "dn17:1.12.0"
 msgid "2.2. Hatthiratana "
 msgstr "2.2. The Elephant Treasure "
 
@@ -359,7 +359,7 @@ msgid "Rañño, ānanda, mahāsudassanassa evarūpaṃ hatthiratanaṃ pāturaho
 msgstr "Such is the elephant-treasure that appeared to King Mahāsudassana. "
 
 #. HTML: </p><h3>
-msgctxt "dn17:1.12.8"
+msgctxt "dn17:1.13.0"
 msgid "2.3. Assaratana "
 msgstr "2.3. The Horse-Treasure "
 
@@ -395,7 +395,7 @@ msgid "Rañño, ānanda, mahāsudassanassa evarūpaṃ assaratanaṃ pāturahosi
 msgstr "Such is the horse-treasure that appeared to King Mahāsudassana. "
 
 #. HTML: </p><h3>
-msgctxt "dn17:1.13.8"
+msgctxt "dn17:1.14.0"
 msgid "2.4. Maṇiratana "
 msgstr "2.4. The Jewel Treasure "
 
@@ -427,7 +427,7 @@ msgid "Rañño, ānanda, mahāsudassanassa evarūpaṃ maṇiratanaṃ pāturaho
 msgstr "Such is the jewel-treasure that appeared to King Mahāsudassana. "
 
 #. HTML: </p><h3>
-msgctxt "dn17:1.14.7"
+msgctxt "dn17:1.15.0"
 msgid "2.5. Itthiratana "
 msgstr "2.5. The Woman Treasure "
 
@@ -468,7 +468,7 @@ msgid "Rañño, ānanda, mahāsudassanassa evarūpaṃ itthiratanaṃ pāturahos
 msgstr "Such is the woman-treasure that appeared to King Mahāsudassana. "
 
 #. HTML: </p><h3>
-msgctxt "dn17:1.15.9"
+msgctxt "dn17:1.16.0"
 msgid "2.6. Gahapatiratana "
 msgstr "2.6. The Householder Treasure "
 
@@ -534,7 +534,7 @@ msgid "Rañño, ānanda, mahāsudassanassa evarūpaṃ gahapatiratanaṃ pātura
 msgstr "Such is the householder-treasure that appeared to King Mahāsudassana. "
 
 #. HTML: </p><h3>
-msgctxt "dn17:1.16.14"
+msgctxt "dn17:1.18.0"
 msgid "2.7. Pariṇāyakaratana "
 msgstr "2.7. The Counselor Treasure "
 
@@ -569,26 +569,26 @@ msgid "Rājā, ānanda, mahāsudassano imehi sattahi ratanehi samannāgato ahosi
 msgstr "These are the seven treasures possessed by King Mahāsudassana. "
 
 #. HTML: </p><h2>
-msgctxt "dn17:1.18.7"
+msgctxt "dn17:1.18.7.0"
 msgid "3. Catuiddhisamannāgata "
 msgstr "3. The Four Blessings "
 
 #. HTML: </h2><p>
 #. REF: sc16
-msgctxt "dn17:1.18.8"
+msgctxt "dn17:1.18.7"
 msgid "Rājā, ānanda, mahāsudassano catūhi iddhīhi samannāgato ahosi. "
 msgstr "King Mahāsudassana possessed four blessings. "
 
-msgctxt "dn17:1.18.9"
+msgctxt "dn17:1.18.8"
 msgid "Katamāhi catūhi iddhīhi? "
 msgstr "And what are the four blessings? "
 
 #. HTML: </p><p>
-msgctxt "dn17:1.18.10"
+msgctxt "dn17:1.18.9"
 msgid "Idhānanda, rājā mahāsudassano abhirūpo ahosi dassanīyo pāsādiko paramāya vaṇṇapokkharatāya samannāgato ativiya aññehi manussehi. "
 msgstr "He was attractive, good-looking, lovely, of surpassing beauty, more so than other people. "
 
-msgctxt "dn17:1.18.11"
+msgctxt "dn17:1.18.10"
 msgid "Rājā, ānanda, mahāsudassano imāya paṭhamāya iddhiyā samannāgato ahosi. "
 msgstr "This is the first blessing. "
 
@@ -671,7 +671,7 @@ msgid "Rājā, ānanda, mahāsudassano imāhi catūhi iddhīhi samannāgato ahos
 msgstr "These are the four blessings possessed by King Mahāsudassana. "
 
 #. HTML: </p><h2>
-msgctxt "dn17:1.21.14"
+msgctxt "dn17:1.22.0"
 msgid "4. Dhammapāsādapokkharaṇī "
 msgstr "4. Lotus Ponds in the Palace of Principle "
 
@@ -1161,7 +1161,7 @@ msgid "Paṭhamabhāṇavāro. "
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn17:1.33.3"
+msgctxt "dn17:2.1.0"
 msgid "5. Jhānasampatti "
 msgstr "5. Attaining Absorption "
 
@@ -1244,7 +1244,7 @@ msgid "upekkhāsahagatena cetasā ekaṃ disaṃ pharitvā vihāsi. Tathā dutiy
 msgstr "He meditated spreading a heart full of equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, he spread a heart full of equanimity to the whole world—abundant, expansive, limitless, free of enmity and ill will. "
 
 #. HTML: </p><h2>
-msgctxt "dn17:2.4.6"
+msgctxt "dn17:2.5.0"
 msgid "6. Caturāsītinagarasahassādi "
 msgstr "6. Of All Cities "
 
@@ -1340,7 +1340,7 @@ msgid "Atha kho, ānanda, rañño mahāsudassanassa aparena samayena vassasatass
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn17:2.6.8"
+msgctxt "dn17:2.7.0"
 msgid "7. Subhaddādeviupasaṅkamana "
 msgstr "7. The Visit of Queen Subhaddā "
 
@@ -1833,7 +1833,7 @@ msgid "Ettha, deva, chandaṃ pajaha jīvite apekkhaṃ mākāsī’ti. "
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn17:2.12.32"
+msgctxt "dn17:2.13.0"
 msgid "8. Brahmalokūpagama "
 msgstr "8. Rebirth in the Brahmā Realm "
 

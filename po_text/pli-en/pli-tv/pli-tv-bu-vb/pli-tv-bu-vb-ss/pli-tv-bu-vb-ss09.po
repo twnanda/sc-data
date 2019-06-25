@@ -24,7 +24,7 @@ msgid "Dutiya­duṭṭha­dosa­sikkhā­pada"
 msgstr "9. The second training rule on anger"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-ss9:1.1.0a"
+msgctxt "pli-tv-bu-vb-ss9:1.1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -225,26 +225,26 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ss9:1.2.14a"
+msgctxt "pli-tv-bu-vb-ss9:1.2.14.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc5, pts-vp-pli3.168, ms1V_1630, pts-vp-en1.290
-msgctxt "pli-tv-bu-vb-ss9:1.2.15"
+msgctxt "pli-tv-bu-vb-ss9:1.2.14"
 msgid "“Yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto aññabhāgiyassa adhikaraṇassa kiñci desaṃ lesamattaṃ upādāya pārājikena dhammena anuddhaṃseyya—"
 msgstr "‘If a monk who is angry and displeased, using an unrelated legal issue as a pretext, accuses another monk of an offense entailing expulsion,"
 
-msgctxt "pli-tv-bu-vb-ss9:1.2.16"
+msgctxt "pli-tv-bu-vb-ss9:1.2.15"
 msgid "‘appeva nāma naṃ imamhā brahmacariyā cāveyyan’ti."
 msgstr "aiming to make him leave the monastic life,"
 
-msgctxt "pli-tv-bu-vb-ss9:1.2.17"
+msgctxt "pli-tv-bu-vb-ss9:1.2.16"
 msgid "Tato aparena samayena sama­nug­gāhīya­māno vā asama­nug­gāhīya­māno vā añña­bhāgi­yañ­ceva taṃ adhikaraṇaṃ hoti koci deso lesamatto upādinno, bhikkhu ca dosaṃ patiṭṭhāti, saṃghādiseso”ti."
 msgstr "and then after some time, whether he is questioned or not, it is clear that the legal issue is unrelated and used as a pretext, and he admits to his ill-will, he commits an offense entailing suspension.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ss9:2.1.0a"
+msgctxt "pli-tv-bu-vb-ss9:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -921,12 +921,12 @@ msgid "… pe … tenapi vuccati “saṃghādiseso”ti."
 msgstr "… Therefore, too, it is called “an offense entailing suspension.”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ss9:3.1.0a"
+msgctxt "pli-tv-bu-vb-ss9:3.1.0.1"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><h5>
-msgctxt "pli-tv-bu-vb-ss9:3.1.0b"
+msgctxt "pli-tv-bu-vb-ss9:3.1.0.2"
 msgid ""
 msgstr "Doing the accusing oneself"
 
@@ -1085,7 +1085,7 @@ msgid "Ekekaṃ mūlaṃ kātuna cakkaṃ bandhitabbaṃ."
 msgstr "The permutation series is to be linked by doing the items one by one."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss9:3.2.0a"
+msgctxt "pli-tv-bu-vb-ss9:3.2.0"
 msgid ""
 msgstr "Getting someone else to do the accusing"
 
@@ -1234,7 +1234,7 @@ msgid "evampi āpattañ­ña­bhāgi­yaṃ hoti leso ca upādinno, āpatti vāc
 msgstr "thus using an unrelated offense as a pretext, he commits an offense entailing suspension for each statement."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ss9:3.3.0a"
+msgctxt "pli-tv-bu-vb-ss9:3.3.0"
 msgid ""
 msgstr "Non-offenses"
 

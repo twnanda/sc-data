@@ -28,12 +28,12 @@ msgid "32. Gaṇabhojanasikkhāpada"
 msgstr "The training rule on group meals"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc32:1.0a"
+msgctxt "pli-tv-bu-vb-pc32:1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pc32:1.0b"
+msgctxt "pli-tv-bu-vb-pc32:1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -104,24 +104,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc32:1.15a"
+msgctxt "pli-tv-bu-vb-pc32:1.15.0"
 msgid ""
 msgstr "First preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc3, pts-vp-en.2.307, ms2V_680
-msgctxt "pli-tv-bu-vb-pc32:1.16"
+msgctxt "pli-tv-bu-vb-pc32:1.15"
 msgid "“Gaṇabhojane pācittiyan”ti."
 msgstr "‘If a monk eats in a group, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc4, ms2V_681
-msgctxt "pli-tv-bu-vb-pc32:1.17"
+msgctxt "pli-tv-bu-vb-pc32:1.16"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc32:2.0a"
+msgctxt "pli-tv-bu-vb-pc32:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -154,32 +154,32 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc32:2.6a"
+msgctxt "pli-tv-bu-vb-pc32:2.6.0"
 msgid ""
 msgstr "Second preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc6, ms2V_683
-msgctxt "pli-tv-bu-vb-pc32:2.7"
+msgctxt "pli-tv-bu-vb-pc32:2.6"
 msgid "“Gaṇabhojane, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk eats in a group, unless there is an appropriate reason, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc32:2.8"
+msgctxt "pli-tv-bu-vb-pc32:2.7"
 msgid "Tatthāyaṃ samayo."
 msgstr "The appropriate reason is this:"
 
-msgctxt "pli-tv-bu-vb-pc32:2.9"
+msgctxt "pli-tv-bu-vb-pc32:2.8"
 msgid "Gilānasamayo—ayaṃ tattha samayo”ti."
 msgstr "he is sick.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc7, ms2V_684
-msgctxt "pli-tv-bu-vb-pc32:2.10"
+msgctxt "pli-tv-bu-vb-pc32:2.9"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc32:3.0a"
+msgctxt "pli-tv-bu-vb-pc32:3.0"
 msgid ""
 msgstr "Third sub-story"
 
@@ -218,32 +218,32 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc32:3.7a"
+msgctxt "pli-tv-bu-vb-pc32:3.7.0"
 msgid ""
 msgstr "Third preliminary ruling"
 
 #. HTML: </h3><p><span class="rule">
 #. REF: sc9, ms2V_686
-msgctxt "pli-tv-bu-vb-pc32:3.8"
+msgctxt "pli-tv-bu-vb-pc32:3.7"
 msgid "“Gaṇabhojane, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk eats in a group, unless there is an appropriate reason, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc32:3.9"
+msgctxt "pli-tv-bu-vb-pc32:3.8"
 msgid "Tatthāyaṃ samayo."
 msgstr "The appropriate reasons are these:"
 
-msgctxt "pli-tv-bu-vb-pc32:3.10"
+msgctxt "pli-tv-bu-vb-pc32:3.9"
 msgid "Gilānasamayo, cīvaradānasamayo—ayaṃ tattha samayo”ti."
 msgstr "he is sick, it is the robe-giving season.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc10, ms2V_687
-msgctxt "pli-tv-bu-vb-pc32:3.11"
+msgctxt "pli-tv-bu-vb-pc32:3.10"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc32:4.0a"
+msgctxt "pli-tv-bu-vb-pc32:4.0"
 msgid ""
 msgstr "Fourth sub-story"
 
@@ -272,32 +272,32 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc32:4.5a"
+msgctxt "pli-tv-bu-vb-pc32:4.5.0"
 msgid ""
 msgstr "Fourth preliminary ruling"
 
 #. HTML: </h3><p><span class="rule">
 #. REF: sc12, ms2V_689
-msgctxt "pli-tv-bu-vb-pc32:4.6"
+msgctxt "pli-tv-bu-vb-pc32:4.5"
 msgid "“Gaṇabhojane, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk eats in a group, unless there is an appropriate reason, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc32:4.7"
+msgctxt "pli-tv-bu-vb-pc32:4.6"
 msgid "Tatthāyaṃ samayo."
 msgstr "The appropriate reasons are these:"
 
-msgctxt "pli-tv-bu-vb-pc32:4.8"
+msgctxt "pli-tv-bu-vb-pc32:4.7"
 msgid "Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo—ayaṃ tattha samayo”ti."
 msgstr "he is sick, it is the robe-giving season, he is making a robe.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc13, ms2V_690
-msgctxt "pli-tv-bu-vb-pc32:4.9"
+msgctxt "pli-tv-bu-vb-pc32:4.8"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc32:5.0a"
+msgctxt "pli-tv-bu-vb-pc32:5.0"
 msgid ""
 msgstr "Fifth sub-story"
 
@@ -343,32 +343,32 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc32:5.9a"
+msgctxt "pli-tv-bu-vb-pc32:5.9.0"
 msgid ""
 msgstr "Fifth preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc15, ms2V_692
-msgctxt "pli-tv-bu-vb-pc32:5.10"
+msgctxt "pli-tv-bu-vb-pc32:5.9"
 msgid "“Gaṇabhojane, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk eats in a group, unless there is an appropriate reason, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc32:5.11"
+msgctxt "pli-tv-bu-vb-pc32:5.10"
 msgid "Tatthāyaṃ samayo."
 msgstr "The appropriate reasons are these:"
 
-msgctxt "pli-tv-bu-vb-pc32:5.12"
+msgctxt "pli-tv-bu-vb-pc32:5.11"
 msgid "Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo—ayaṃ tattha samayo”ti."
 msgstr "he is sick, it is the robe-giving season, he is making a robe, he is traveling on a main road.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc16, ms2V_693
-msgctxt "pli-tv-bu-vb-pc32:5.13"
+msgctxt "pli-tv-bu-vb-pc32:5.12"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc32:6.0a"
+msgctxt "pli-tv-bu-vb-pc32:6.0"
 msgid ""
 msgstr "Sixth sub-story"
 
@@ -413,32 +413,32 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc32:6.9a"
+msgctxt "pli-tv-bu-vb-pc32:6.9.0"
 msgid ""
 msgstr "Sixth preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc18, ms2V_695
-msgctxt "pli-tv-bu-vb-pc32:6.10"
+msgctxt "pli-tv-bu-vb-pc32:6.9"
 msgid "“Gaṇabhojane, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk eats in a group, unless there is an appropriate reason, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc32:6.11"
+msgctxt "pli-tv-bu-vb-pc32:6.10"
 msgid "Tatthāyaṃ samayo."
 msgstr "The appropriate reasons are these:"
 
-msgctxt "pli-tv-bu-vb-pc32:6.12"
+msgctxt "pli-tv-bu-vb-pc32:6.11"
 msgid "Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo—ayaṃ tattha samayo”ti."
 msgstr "he is sick, it is the robe-giving season, he is making a robe, he is traveling on a main road, he is traveling by boat.’”"
 
 #. HTML: </span></p><p>
 #. REF: sc19, ms2V_696
-msgctxt "pli-tv-bu-vb-pc32:6.13"
+msgctxt "pli-tv-bu-vb-pc32:6.12"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc32:7.0a"
+msgctxt "pli-tv-bu-vb-pc32:7.0"
 msgid ""
 msgstr "Seventh sub-story"
 
@@ -472,32 +472,32 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc32:7.6a"
+msgctxt "pli-tv-bu-vb-pc32:7.6.0"
 msgid ""
 msgstr "Seventh preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc21, ms2V_698
-msgctxt "pli-tv-bu-vb-pc32:7.7"
+msgctxt "pli-tv-bu-vb-pc32:7.6"
 msgid "“Gaṇabhojane, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk eats in a group, unless there is an appropriate reason, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc32:7.8"
+msgctxt "pli-tv-bu-vb-pc32:7.7"
 msgid "Tatthāyaṃ samayo."
 msgstr "The appropriate reasons are these:"
 
-msgctxt "pli-tv-bu-vb-pc32:7.9"
+msgctxt "pli-tv-bu-vb-pc32:7.8"
 msgid "Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo, mahāsamayo—ayaṃ tattha samayo”ti."
 msgstr "he is sick, it is the robe-giving season, he is making a robe, he is traveling on a main road, he is traveling by boat, it is a big occasion.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc22, ms2V_699
-msgctxt "pli-tv-bu-vb-pc32:7.10"
+msgctxt "pli-tv-bu-vb-pc32:7.9"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc32:8.0a"
+msgctxt "pli-tv-bu-vb-pc32:8.0"
 msgid ""
 msgstr "Eighth sub-story"
 
@@ -591,27 +591,27 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc32:8.20a"
+msgctxt "pli-tv-bu-vb-pc32:8.20.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc24, ms2V_701
-msgctxt "pli-tv-bu-vb-pc32:8.21"
+msgctxt "pli-tv-bu-vb-pc32:8.20"
 msgid "Gaṇabhojane, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk eats in a group, unless there is an appropriate reason, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc32:8.22"
+msgctxt "pli-tv-bu-vb-pc32:8.21"
 msgid "Tatthāyaṃ samayo."
 msgstr "The appropriate reasons are these:"
 
 #. VAR: nāvābhiruhanasamayo → nāvābhirūhana ... (bj, s1-3, pts1)
-msgctxt "pli-tv-bu-vb-pc32:8.23"
+msgctxt "pli-tv-bu-vb-pc32:8.22"
 msgid "Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo, mahāsamayo, samaṇabhattasamayo—ayaṃ tattha samayo”ti."
 msgstr "he is sick, it is the robe-giving season, he is making a robe, he is traveling on a main road, he is traveling by boat, it is a big occasion, it is a meal given by an ascetic.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc32:9.1.0a"
+msgctxt "pli-tv-bu-vb-pc32:9.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -750,7 +750,7 @@ msgid "Ajjhohāre ajjhohāre āpatti pācittiyassa."
 msgstr "For every mouthful, he commits an offense entailing confession."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc32:9.2.0a"
+msgctxt "pli-tv-bu-vb-pc32:9.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -784,7 +784,7 @@ msgid "Nagaṇabhojane nagaṇabhojanasaññī, anāpatti."
 msgstr "If it is not a group meal, and he does not perceive it as a group meal, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc32:9.3.0a"
+msgctxt "pli-tv-bu-vb-pc32:9.3.0"
 msgid ""
 msgstr "Non-offenses"
 

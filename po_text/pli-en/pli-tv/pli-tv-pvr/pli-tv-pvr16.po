@@ -3,17 +3,17 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-pvr16"><article><div class="hgroup"><p class="division">
-msgctxt "pli-tv-pvr16:1.1"
+msgctxt "pli-tv-pvr16:0.1"
 msgid "Parivāra"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-pvr16:2.1"
+msgctxt "pli-tv-pvr16:0.2"
 msgid "Kathinabheda"
 msgstr ""
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-pvr16:3.1"
+msgctxt "pli-tv-pvr16:4.0"
 msgid "1. Kathinaatthatādi"
 msgstr ""
 
@@ -169,7 +169,7 @@ msgid "Saha kathinassa atthārā ime pannarasa dhammā jāyanti."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr16:11.1"
+msgctxt "pli-tv-pvr16:12.0"
 msgid "2. Kathinaanantarapaccayādi"
 msgstr ""
 
@@ -302,7 +302,7 @@ msgid "Pannarasa dhammā sahajātapaccayena paccayo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr16:14.1"
+msgctxt "pli-tv-pvr16:15.0"
 msgid "3. Pubbakaraṇanidānādivibhāga"
 msgstr ""
 
@@ -714,7 +714,7 @@ msgid "ime tayo kathinatthārā ruhanti."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr16:30.1"
+msgctxt "pli-tv-pvr16:31.0"
 msgid "4. Kathinādijānitabbavibhāga"
 msgstr ""
 
@@ -918,7 +918,7 @@ msgid "“atthataṃ, āvuso, saṃghassa kathinaṃ, dhammiko kathinatthāro, a
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr16:43.1"
+msgctxt "pli-tv-pvr16:44.0"
 msgid "5. Puggalassevakathinatthāra"
 msgstr ""
 
@@ -969,7 +969,7 @@ msgid "Saṃghassa anumodanāya gaṇassa anumodanāya puggalassa atthārā sa�
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr16:45.1"
+msgctxt "pli-tv-pvr16:46.0"
 msgid "6. Palibodhapañhābyākaraṇa"
 msgstr ""
 

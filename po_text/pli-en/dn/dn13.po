@@ -101,7 +101,7 @@ msgid "“Evaṃ, bho”ti kho bhāradvājo māṇavo vāseṭṭhassa māṇava
 msgstr "“Yes, sir,” replied Bhāradvāja. "
 
 #. HTML: </p><h2>
-msgctxt "dn13:7.8"
+msgctxt "dn13:8.0"
 msgid "1. Maggāmaggakathā "
 msgstr "1. The Variety of Paths "
 
@@ -183,7 +183,7 @@ msgid "evameva kho, bho gotama, kiñcāpi brāhmaṇā nānāmagge paññāpenti
 msgstr "In the same way, even though brahmins describe different paths—the Addhariya brahmins, the Tittiriya brahmins, the Chandoka brahmins, and the Bavhadija brahmins—all of them lead someone who practices them to the company of Brahmā.” "
 
 #. HTML: </p><h2>
-msgctxt "dn13:10.5"
+msgctxt "dn13:11.0"
 msgid "2. Vāseṭṭhamāṇavānuyoga "
 msgstr "2. Questioning Vāseṭṭha "
 
@@ -460,7 +460,7 @@ msgid "“Sādhu, vāseṭṭha, te vata, vāseṭṭha, tevijjā brāhmaṇā y
 msgstr "“Good, Vāseṭṭha. For it is impossible that they should teach the path to that which they neither know nor see. "
 
 #. HTML: </p><h3>
-msgctxt "dn13:18.15"
+msgctxt "dn13:19.0"
 msgid "2.1. Janapadakalyāṇīupamā "
 msgstr "2.1. The Simile of the Finest Lady in the Land "
 
@@ -578,7 +578,7 @@ msgid "“Sādhu, vāseṭṭha, te vata, vāseṭṭha, tevijjā brāhmaṇā y
 msgstr "“Good, Vāseṭṭha. For it is impossible that they should teach the path to that which they neither know nor see. "
 
 #. HTML: </p><h3>
-msgctxt "dn13:20.10"
+msgctxt "dn13:21.0"
 msgid "2.2. Nisseṇīupamā "
 msgstr "2.2. The Simile of the Ladder "
 
@@ -672,7 +672,7 @@ msgid "“Sādhu, vāseṭṭha, te vata, vāseṭṭha, tevijjā brāhmaṇā y
 msgstr "“Good, Vāseṭṭha. For it is impossible that they should teach the path to that which they neither know nor see. "
 
 #. HTML: </p><h3>
-msgctxt "dn13:23.2"
+msgctxt "dn13:24.0"
 msgid "2.3. Aciravatīnadīupamā "
 msgstr "2.3. The Simile of the River Aciravatī "
 
@@ -859,7 +859,7 @@ msgid "Te vata, vāseṭṭha, tevijjā brāhmaṇā ye dhammā brāhmaṇakāra
 msgstr "So long as they are so obstructed it’s impossible that they will, when the body breaks up, after death, be reborn in the company of Brahmā. "
 
 #. HTML: </p><h2>
-msgctxt "dn13:30.7"
+msgctxt "dn13:31.0"
 msgid "3. Saṃsandanakathā "
 msgstr "3. Converging "
 
@@ -1129,7 +1129,7 @@ msgid "“Evaṃ, bho”ti kho vāseṭṭho māṇavo bhagavato paccassosi. "
 msgstr "“Yes, sir,” replied Vāseṭṭha. "
 
 #. HTML: </p><h2>
-msgctxt "dn13:39.6"
+msgctxt "dn13:40-75.0"
 msgid "4. Brahmalokamaggadesanā "
 msgstr "4. Teaching the Path to Brahmā "
 

@@ -28,12 +28,12 @@ msgid "14. Senāsanasikkhāpada"
 msgstr "The training rule on furniture"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc14:1.1.0a"
+msgctxt "pli-tv-bu-vb-pc14:1.1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pc14:1.1.0b"
+msgctxt "pli-tv-bu-vb-pc14:1.1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -79,24 +79,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc14:1.1.9a"
+msgctxt "pli-tv-bu-vb-pc14:1.1.9.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc3, ms2V_382, pts-vp-en.2.239
-msgctxt "pli-tv-bu-vb-pc14:1.1.10"
+msgctxt "pli-tv-bu-vb-pc14:1.1.9"
 msgid "“Yo pana bhikkhu saṃghikaṃ mañcaṃ vā pīṭhaṃ vā bhisiṃ vā kocchaṃ vā ajjhokāse santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyan”ti."
 msgstr "‘If a monk takes a bed, a bench, a mattress, or a stool belonging to the Order and puts it out in the open or gets it put out, and he then leaves without putting it away, getting it put away, or telling anyone, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc4, ms2V_383
-msgctxt "pli-tv-bu-vb-pc14:1.1.11"
+msgctxt "pli-tv-bu-vb-pc14:1.1.10"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc14:1.2.0a"
+msgctxt "pli-tv-bu-vb-pc14:1.2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -121,7 +121,7 @@ msgid "“anujānāmi, bhikkhave, aṭṭha māse avassikasaṅkete maṇḍape 
 msgstr "“Monks, during the eight months outside of the rainy season, I allow you  to store furniture under a roof-cover or at the foot of a tree or wherever crows or ravens donʼt leave droppings.”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc14:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc14:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -285,7 +285,7 @@ msgid "bhikkhuṃ vā sāmaṇeraṃ vā ārāmikaṃ vā anāpucchā majjhimass
 msgstr "if he does not tell a monk, a novice monk, or a monastery worker, then when he goes beyond the distance of a stone-throw of an average man, he commits an offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc14:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc14:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -328,7 +328,7 @@ msgid "Attano puggalike anāpatti."
 msgstr "If it belongs to himself, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc14:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc14:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

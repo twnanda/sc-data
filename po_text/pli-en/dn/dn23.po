@@ -34,7 +34,7 @@ msgid "Tena kho pana samayena pāyāsi rājañño setabyaṃ ajjhāvasati sattus
 msgstr "Now at that time the chieftain Pāyāsi was living in Setavyā. It was a crown property given by King Pasenadi of Kosala, teeming with living creatures, full of hay, wood, water, and grain, a royal endowment of the highest quality. "
 
 #. HTML: </p><h2>
-msgctxt "dn23:1.5"
+msgctxt "dn23:2.0"
 msgid "1. Pāyāsirājaññavatthu "
 msgstr "1. On Pāyāsi "
 
@@ -179,7 +179,7 @@ msgid "Appekacce tuṇhībhūtā ekamantaṃ nisīdiṃsu. "
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn23:4.8"
+msgctxt "dn23:5.0"
 msgid "2. Natthikavāda "
 msgstr "2. Nihilism "
 
@@ -211,35 +211,35 @@ msgid "‘itipi natthi paro loko, natthi sattā opapātikā, natthi sukatadukka�
 msgstr " "
 
 #. HTML: </p><h3>
-msgctxt "dn23:5.7"
+msgctxt "dn23:5.7.0"
 msgid "2.1. Candimasūriyaupamā "
 msgstr "2.1. The Simile of the Moon and Sun "
 
 #. HTML: </h3><p>
 #. REF: sc7
-msgctxt "dn23:5.8"
+msgctxt "dn23:5.7"
 msgid "Tena hi, rājañña, taññevettha paṭipucchissāmi, yathā te khameyya, tathā naṃ byākareyyāsi. "
 msgstr "Well then, chieftain, I’ll ask you about this in return, and you can answer as you like. "
 
-msgctxt "dn23:5.9"
+msgctxt "dn23:5.8"
 msgid "Taṃ kiṃ maññasi, rājañña, "
 msgstr "What do you think, chieftain? "
 
-msgctxt "dn23:5.10"
+msgctxt "dn23:5.9"
 msgid "ime candimasūriyā imasmiṃ vā loke parasmiṃ vā, devā vā te manussā vā”ti? "
 msgstr "Are the moon and sun in this world or the other world? Are they gods or humans?” "
 
 #. HTML: </p><p>
-msgctxt "dn23:5.11"
+msgctxt "dn23:5.10"
 msgid "“Ime, bho kassapa, candimasūriyā parasmiṃ loke, na imasmiṃ; devā te na manussā”ti. "
 msgstr "“They are in the other world, Master Kassapa, and they are gods, not humans.” "
 
 #. HTML: </p><p>
-msgctxt "dn23:5.12"
+msgctxt "dn23:5.11"
 msgid "“Imināpi kho te, rājañña, pariyāyena evaṃ hotu—"
 msgstr "“By this method it ought to be proven that "
 
-msgctxt "dn23:5.13"
+msgctxt "dn23:5.12"
 msgid "itipi atthi paro loko, atthi sattā opapātikā, atthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko”ti. "
 msgstr "there is an afterlife, there are beings reborn spontaneously, and there is a fruit or result of good and bad deeds.” "
 
@@ -334,7 +334,7 @@ msgid "‘itipi natthi paro loko, natthi sattā opapātikā, natthi sukatadukka�
 msgstr "there’s no afterlife, no beings are reborn spontaneously, and there’s no fruit or result of good and bad deeds.” "
 
 #. HTML: </p><h3>
-msgctxt "dn23:6.22"
+msgctxt "dn23:7.0"
 msgid "2.2. Coraupamā "
 msgstr "2.2. The Simile of the Bandit "
 
@@ -518,7 +518,7 @@ msgid "‘itipi natthi paro loko, natthi sattā opapātikā, natthi sukatadukka�
 msgstr "there’s no afterlife.” "
 
 #. HTML: </p><h3>
-msgctxt "dn23:8.22"
+msgctxt "dn23:9.0"
 msgid "2.3. Gūthakūpapurisaupamā "
 msgstr "2.3. The Simile of the Sewer "
 
@@ -755,7 +755,7 @@ msgid "‘itipi natthi paro loko, natthi sattā opapātikā, natthi sukatadukka�
 msgstr "there’s no afterlife.” "
 
 #. HTML: </p><h3>
-msgctxt "dn23:10.20"
+msgctxt "dn23:11.0"
 msgid "2.4. Tāvatiṃsadevaupamā "
 msgstr "2.4. The Simile of the Gods of the Thirty-Three "
 
@@ -822,142 +822,142 @@ msgid "‘atthi devā tāvatiṃsā’ti vā ‘evaṃdīghāyukā devā tāvati
 msgstr " "
 
 #. HTML: </p><h3>
-msgctxt "dn23:11.15"
+msgctxt "dn23:11.15.0"
 msgid "2.5. Jaccandhaupamā "
 msgstr "2.5. Blind From Birth "
 
 #. HTML: </h3><p>
 #. REF: pts-vp-pli2.329, sc15
 #. VAR: mañjiṭṭhakāni → mañjeṭṭhikāni (bj) | mañjeṭṭhakāni (s1-3, km) | mañjiṭṭhikāni (pts1)
-msgctxt "dn23:11.16"
+msgctxt "dn23:11.15"
 msgid "“Seyyathāpi, rājañña, jaccandho puriso na passeyya kaṇha—sukkāni rūpāni, na passeyya nīlakāni rūpāni, na passeyya pītakāni rūpāni, na passeyya lohitakāni rūpāni, na passeyya mañjiṭṭhakāni rūpāni, na passeyya samavisamaṃ, na passeyya tārakāni rūpāni, na passeyya candimasūriye. "
 msgstr "“Chieftain, suppose there was a person blind from birth. They couldn’t see sights that are dark or bright, or blue, yellow, red, or magenta. They couldn’t see even and uneven ground, or the stars, or the moon and sun. "
 
-msgctxt "dn23:11.17"
+msgctxt "dn23:11.16"
 msgid "So evaṃ vadeyya: "
 msgstr "They’d say, "
 
-msgctxt "dn23:11.18"
+msgctxt "dn23:11.17"
 msgid "‘natthi kaṇhasukkāni rūpāni, natthi kaṇhasukkānaṃ rūpānaṃ dassāvī. "
 msgstr "‘There’s no such thing as dark and bright sights, and no-one who sees them. "
 
-msgctxt "dn23:11.19"
+msgctxt "dn23:11.18"
 msgid "Natthi nīlakāni rūpāni, natthi nīlakānaṃ rūpānaṃ dassāvī. "
 msgstr "There’s no such thing as blue, "
 
-msgctxt "dn23:11.20"
+msgctxt "dn23:11.19"
 msgid "Natthi pītakāni rūpāni, natthi pītakānaṃ rūpānaṃ dassāvī. "
 msgstr "yellow, "
 
-msgctxt "dn23:11.21"
+msgctxt "dn23:11.20"
 msgid "Natthi lohitakāni rūpāni, natthi lohitakānaṃ rūpānaṃ dassāvī. "
 msgstr "red, "
 
-msgctxt "dn23:11.22"
+msgctxt "dn23:11.21"
 msgid "Natthi mañjiṭṭhakāni rūpāni, natthi mañjiṭṭhakānaṃ rūpānaṃ dassāvī. "
 msgstr "magenta, "
 
-msgctxt "dn23:11.23"
+msgctxt "dn23:11.22"
 msgid "Natthi samavisamaṃ, natthi samavisamassa dassāvī. "
 msgstr "even and uneven ground, "
 
-msgctxt "dn23:11.24"
+msgctxt "dn23:11.23"
 msgid "Natthi tārakāni rūpāni, natthi tārakānaṃ rūpānaṃ dassāvī. "
 msgstr "stars, "
 
-msgctxt "dn23:11.25"
+msgctxt "dn23:11.24"
 msgid "Natthi candimasūriyā, natthi candimasūriyānaṃ dassāvī. "
 msgstr "moon and sun, and no-one who sees these things. "
 
-msgctxt "dn23:11.26"
+msgctxt "dn23:11.25"
 msgid "Ahametaṃ na jānāmi, ahametaṃ na passāmi, tasmā taṃ natthī’ti. "
 msgstr "I don’t know it or see it, therefore it doesn’t exist.’ "
 
-msgctxt "dn23:11.27"
+msgctxt "dn23:11.26"
 msgid "Sammā nu kho so, rājañña, vadamāno vadeyyā”ti? "
 msgstr "Would they be speaking rightly?” "
 
 #. HTML: </p><p>
-msgctxt "dn23:11.28"
+msgctxt "dn23:11.27"
 msgid "“No hidaṃ, bho kassapa. "
 msgstr "“No, Master Kassapa. "
 
-msgctxt "dn23:11.29"
+msgctxt "dn23:11.28"
 msgid "Atthi kaṇhasukkāni rūpāni, atthi kaṇhasukkānaṃ rūpānaṃ dassāvī. "
 msgstr "There are such things as dark and bright sights, and one who sees them. "
 
-msgctxt "dn23:11.30"
+msgctxt "dn23:11.29"
 msgid "Atthi nīlakāni rūpāni, atthi nīlakānaṃ rūpānaṃ dassāvī … pe … "
 msgstr "And those other things are real, too, as is the one who sees them. "
 
-msgctxt "dn23:11.31"
+msgctxt "dn23:11.30"
 msgid "atthi samavisamaṃ, atthi samavisamassa dassāvī. "
 msgstr " "
 
-msgctxt "dn23:11.32"
+msgctxt "dn23:11.31"
 msgid "Atthi tārakāni rūpāni, atthi tārakānaṃ rūpānaṃ dassāvī. "
 msgstr " "
 
-msgctxt "dn23:11.33"
+msgctxt "dn23:11.32"
 msgid "Atthi candimasūriyā, atthi candimasūriyānaṃ dassāvī. "
 msgstr "So it’s not right to say this: "
 
-msgctxt "dn23:11.34"
+msgctxt "dn23:11.33"
 msgid "‘Ahametaṃ na jānāmi, ahametaṃ na passāmi, tasmā taṃ natthī’ti. "
 msgstr "‘I don’t know it or see it, therefore it doesn’t exist.’” "
 
-msgctxt "dn23:11.35"
+msgctxt "dn23:11.34"
 msgid "Na hi so, bho kassapa, sammā vadamāno vadeyyā”ti. "
 msgstr " "
 
 #. HTML: </p><p>
 #. REF: sc16
-msgctxt "dn23:11.36"
+msgctxt "dn23:11.35"
 msgid "“Evameva kho tvaṃ, rājañña, jaccandhūpamo maññe paṭibhāsi yaṃ maṃ tvaṃ evaṃ vadesi. "
 msgstr "“In the same way, chieftain, when you tell me you don’t believe me you seem like the blind man in the simile. "
 
-msgctxt "dn23:11.37"
+msgctxt "dn23:11.36"
 msgid "Ko panetaṃ bhoto kassapassa āroceti: "
 msgstr " "
 
-msgctxt "dn23:11.38"
+msgctxt "dn23:11.37"
 msgid "‘atthi devā tāvatiṃsā’ti vā, ‘evaṃdīghāyukā devā tāvatiṃsā’ti vā? "
 msgstr " "
 
-msgctxt "dn23:11.39"
+msgctxt "dn23:11.38"
 msgid "Na mayaṃ bhoto kassapassa saddahāma: "
 msgstr " "
 
-msgctxt "dn23:11.40"
+msgctxt "dn23:11.39"
 msgid "‘atthi devā tāvatiṃsā’ti vā ‘evaṃdīghāyukā devā tāvatiṃsā’ti vā”ti. "
 msgstr " "
 
 # NOTE: MS quotes are incorrect.
-msgctxt "dn23:11.41"
+msgctxt "dn23:11.40"
 msgid "“Na kho, rājañña, evaṃ paro loko daṭṭhabbo, yathā tvaṃ maññasi iminā maṃsacakkhunā. "
 msgstr "You can’t see the other world the way you think, with the eye of the flesh. "
 
-msgctxt "dn23:11.42"
+msgctxt "dn23:11.41"
 msgid "Ye kho te, rājañña, samaṇabrāhmaṇā araññavanapatthāni pantāni senāsanāni paṭisevanti, te tattha appamattā ātāpino pahitattā viharantā dibbacakkhuṃ visodhenti. "
 msgstr "There are ascetics and brahmins who live in the wilderness, frequenting remote lodgings in the wilderness and the forest. Meditating diligent, keen, and resolute, they purify the divine eye, the power of clairvoyance. "
 
-msgctxt "dn23:11.43"
+msgctxt "dn23:11.42"
 msgid "Te dibbena cakkhunā visuddhena atikkantamānusakena imañceva lokaṃ passanti parañca satte ca opapātike. "
 msgstr "With clairvoyance that is purified and superhuman, they see this world and the other world, and sentient beings who are spontaneously reborn. "
 
-msgctxt "dn23:11.44"
+msgctxt "dn23:11.43"
 msgid "Evañca kho, rājañña, paro loko daṭṭhabbo; "
 msgstr "That’s how to see the other world, "
 
-msgctxt "dn23:11.45"
+msgctxt "dn23:11.44"
 msgid "na tveva yathā tvaṃ maññasi iminā maṃsacakkhunā. "
 msgstr "not how you think, with the eye of the flesh. "
 
-msgctxt "dn23:11.46"
+msgctxt "dn23:11.45"
 msgid "Imināpi kho te, rājañña, pariyāyena evaṃ hotu: "
 msgstr "By this method, too, it ought to be proven that "
 
-msgctxt "dn23:11.47"
+msgctxt "dn23:11.46"
 msgid "‘itipi atthi paro loko, atthi sattā opapātikā, atthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko’”ti. "
 msgstr "there is an afterlife.” "
 
@@ -1025,7 +1025,7 @@ msgid "‘itipi natthi paro loko, natthi sattā opapātikā, natthi sukatadukka�
 msgstr "there’s no afterlife.” "
 
 #. HTML: </p><h3>
-msgctxt "dn23:12.15"
+msgctxt "dn23:13.0"
 msgid "2.6. Gabbhinīupamā "
 msgstr "2.6. The Simile of the Pregnant Woman "
 
@@ -1264,7 +1264,7 @@ msgid "‘itipi natthi paro loko, natthi sattā opapātikā, natthi sukatadukka�
 msgstr "there’s no afterlife.” "
 
 #. HTML: </p><h3>
-msgctxt "dn23:14.17"
+msgctxt "dn23:15.0"
 msgid "2.7. Supinakaupamā "
 msgstr "2.7. The Simile of the Dream "
 
@@ -1388,7 +1388,7 @@ msgid "‘itipi natthi paro loko, natthi sattā opapātikā, natthi sukatadukka�
 msgstr "there’s no afterlife.” "
 
 #. HTML: </p><h3>
-msgctxt "dn23:16.16"
+msgctxt "dn23:17.0"
 msgid "2.8. Santattaayoguḷaupamā "
 msgstr "2.8. The Simile of the Hot Iron Ball "
 
@@ -1589,7 +1589,7 @@ msgid "‘itipi natthi paro loko, natthi sattā opapātikā, natthi sukatadukka�
 msgstr "there’s no afterlife.” "
 
 #. HTML: </p><h3>
-msgctxt "dn23:18.36"
+msgctxt "dn23:19.0"
 msgid "2.9. Saṅkhadhamaupamā "
 msgstr "2.9. The Simile of the Horn Blower "
 
@@ -1773,7 +1773,7 @@ msgid "‘itipi natthi paro loko, natthi sattā opapātikā, natthi sukatadukka�
 msgstr "there’s no afterlife.” "
 
 #. HTML: </p><h3>
-msgctxt "dn23:20.17"
+msgctxt "dn23:21.0"
 msgid "2.10. Aggikajaṭilaupamā "
 msgstr "2.10. The Simile of the Fire-Worshiping Matted-Hair Ascetic "
 
@@ -2044,7 +2044,7 @@ msgid "Kopenapi naṃ harissāmi, makkhenapi naṃ harissāmi, palāsenapi naṃ
 msgstr "I shall carry on with this view out of anger, contempt, and spite!” "
 
 #. HTML: </p><h3>
-msgctxt "dn23:22.8"
+msgctxt "dn23:23.0"
 msgid "2.11. Dvesatthavāhaupamā "
 msgstr "2.11. The Simile of the Two Caravan Leaders "
 
@@ -2393,7 +2393,7 @@ msgid "Kopenapi naṃ harissāmi, makkhenapi naṃ harissāmi, palāsenapi naṃ
 msgstr "I shall carry on with this view out of anger, contempt, and spite!” "
 
 #. HTML: </p><h3>
-msgctxt "dn23:24.7"
+msgctxt "dn23:25.0"
 msgid "2.12. Gūthabhārikaupamā "
 msgstr "2.12. The Simile of the Dung-Carrier "
 
@@ -2500,7 +2500,7 @@ msgid "Kopenapi naṃ harissāmi, makkhenapi naṃ harissāmi, palāsenapi naṃ
 msgstr "I shall carry on with this view out of anger, contempt, and spite!” "
 
 #. HTML: </p><h3>
-msgctxt "dn23:26.8"
+msgctxt "dn23:27.0"
 msgid "2.13. Akkhadhuttakaupamā "
 msgstr "2.13. The Simile of the Gamblers "
 
@@ -2634,7 +2634,7 @@ msgid "Kopenapi naṃ harissāmi, makkhenapi naṃ harissāmi, palāsenapi naṃ
 msgstr "I shall carry on with this view out of anger, contempt, and spite!” "
 
 #. HTML: </p><h3>
-msgctxt "dn23:28.8"
+msgctxt "dn23:29.0"
 msgid "2.14. Sāṇabhārikaupamā "
 msgstr "2.14. The Simile of the Man Who Carried Hemp "
 
@@ -2834,7 +2834,7 @@ msgid "Mā te ahosi dīgharattaṃ ahitāya dukkhāyā”ti. "
 msgstr "Don’t create lasting harm and suffering for yourself!” "
 
 #. HTML: </p><h2>
-msgctxt "dn23:29.44"
+msgctxt "dn23:30.0"
 msgid "3. Saraṇagamana "
 msgstr "3. Going for Refuge "
 
@@ -2871,7 +2871,7 @@ msgid "Icchāmi cāhaṃ, bho kassapa, mahāyaññaṃ yajituṃ, anusāsatu ma�
 msgstr "Master Kassapa, I wish to perform a great sacrifice. Please instruct me so it will be for my lasting welfare and happiness. "
 
 #. HTML: </p><h2>
-msgctxt "dn23:30.8"
+msgctxt "dn23:31.0"
 msgid "4. Yaññakathā "
 msgstr "4. On Sacrifice "
 
@@ -2945,7 +2945,7 @@ msgid "“Evameva kho, rājañña, yathārūpe yaññe neva gāvo haññanti, na
 msgstr "“In the same way, chieftain, take the kind of sacrifice where cattle, goats and sheep, chickens and pigs, and various kinds of creatures are not slaughtered. And the recipients have right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. That kind of sacrifice is very fruitful and beneficial and splendid and bountiful.” "
 
 #. HTML: </p><h2>
-msgctxt "dn23:31.15"
+msgctxt "dn23:32.0"
 msgid "5. Uttaramāṇavavatthu "
 msgstr "5. On the Brahmin Student Uttara "
 
@@ -3061,7 +3061,7 @@ msgid "Yo pana tassa dāne vāvaṭo ahosi uttaro nāma māṇavo. So sakkacca�
 msgstr "But the brahmin student Uttara who organized the offering gave gifts carefully, thoughtfully, with his own hands, not giving the dregs. When his body broke up, after death, he was reborn in company with the gods of the Thirty-Three. "
 
 #. HTML: </p><h2>
-msgctxt "dn23:32.24"
+msgctxt "dn23:33.0"
 msgid "6. Pāyāsidevaputta "
 msgstr "6. The God Pāyāsi "
 

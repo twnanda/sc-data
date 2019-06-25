@@ -3,17 +3,17 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-pvr11"><article><div class="hgroup"><p class="division">
-msgctxt "pli-tv-pvr11:1.1"
+msgctxt "pli-tv-pvr11:0.1"
 msgid "Parivāra"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-pvr11:2.1"
+msgctxt "pli-tv-pvr11:0.2"
 msgid "Adhikaraṇabheda"
 msgstr ""
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-pvr11:3.1"
+msgctxt "pli-tv-pvr11:4.0"
 msgid "1. Ukkoṭanabhedādi"
 msgstr ""
 
@@ -178,7 +178,7 @@ msgid "ime cattāro puggalā adhikaraṇaṃ ukkoṭentā āpattiṃ āpajjanti.
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr11:14.1"
+msgctxt "pli-tv-pvr11:15.0"
 msgid "2. Adhikaraṇanidānādi"
 msgstr ""
 
@@ -291,7 +291,7 @@ msgid "kiccādhikaraṇaṃ paccayanidānaṃ, paccayasamudayaṃ, paccayajātik
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr11:21.1"
+msgctxt "pli-tv-pvr11:22.0"
 msgid "3. Adhikaraṇamūlādi"
 msgstr ""
 
@@ -335,7 +335,7 @@ msgid "catunnaṃ adhikaraṇānaṃ ime tettiṃsa samuṭṭhānā."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr11:25.1"
+msgctxt "pli-tv-pvr11:26.0"
 msgid "4. Adhikaraṇapaccayāpatti"
 msgstr ""
 
@@ -877,7 +877,7 @@ msgid "siyā sammukhāvinayena ca paṭiññātakaraṇena ca, siyā sammukhāvi
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr11:38.1"
+msgctxt "pli-tv-pvr11:39.0"
 msgid "5. Adhikaraṇādhippāya"
 msgstr ""
 
@@ -1082,7 +1082,7 @@ msgid "(4)"
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr11:43.1"
+msgctxt "pli-tv-pvr11:44.0"
 msgid "6. Pucchāvāra"
 msgstr ""
 
@@ -1137,7 +1137,7 @@ msgid "Yattha sammukhāvinayo tattha tiṇavatthārako?"
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr11:45.1"
+msgctxt "pli-tv-pvr11:46.0"
 msgid "7. Vissajjanāvāra"
 msgstr ""
 
@@ -1176,7 +1176,7 @@ msgid "yattha tiṇavatthārako tattha sammukhāvinayo, yattha sammukhāvinayo t
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr11:47.1"
+msgctxt "pli-tv-pvr11:48.0"
 msgid "8. Saṃsaṭṭhavāra"
 msgstr ""
 
@@ -1265,7 +1265,7 @@ msgid "na ca labbhā imesaṃ dhammānaṃ vinibbhujitvā vinibbhujitvā nānāk
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr11:50.1"
+msgctxt "pli-tv-pvr11:51.0"
 msgid "9. Sattasamathanidāna"
 msgstr ""
 
@@ -1540,7 +1540,7 @@ msgid "sattannaṃ samathānaṃ ime chattiṃsa samuṭṭhānā."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr11:58.1"
+msgctxt "pli-tv-pvr11:59.0"
 msgid "10. Sattasamathanānatthādi"
 msgstr ""
 

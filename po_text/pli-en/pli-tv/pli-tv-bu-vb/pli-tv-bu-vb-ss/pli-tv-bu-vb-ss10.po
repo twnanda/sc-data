@@ -23,7 +23,7 @@ msgid "Saṃ­gha­bhe­da­sikkhā­pada"
 msgstr "10. The training rule on schism in the Order"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-ss10:1.1.0a"
+msgctxt "pli-tv-bu-vb-ss10:1.1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -357,45 +357,45 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ss10:1.3.16a"
+msgctxt "pli-tv-bu-vb-ss10:1.3.16.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc7, pts-vp-pli3.173, ms1V_1679
-msgctxt "pli-tv-bu-vb-ss10:1.3.17"
+msgctxt "pli-tv-bu-vb-ss10:1.3.16"
 msgid "“Yo pana bhikkhu samaggassa saṃghassa bhedāya parakkameyya, bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇaṃ samādāya paggayha tiṭṭheyya, so bhikkhu bhikkhūhi evamassa vacanīyo—"
 msgstr "‘If a monk pursues schism in a united Order or persists in taking up a legal issue conducive to schism, the monks should say to him,"
 
 #. VAR: māyasmā → mā āyasmā (bj, s1-3)
-msgctxt "pli-tv-bu-vb-ss10:1.3.18"
+msgctxt "pli-tv-bu-vb-ss10:1.3.17"
 msgid "‘māyasmā samaggassa saṃghassa bhedāya parakkami, bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi."
 msgstr "“Venerable, don’t pursue schism in the united Order or persist in taking up a legal issue conducive to schism."
 
 #. REF: pts-vp-en1.300
-msgctxt "pli-tv-bu-vb-ss10:1.3.19"
+msgctxt "pli-tv-bu-vb-ss10:1.3.18"
 msgid "Sametāyasmā saṃghena."
 msgstr "Stay with the Order,"
 
-msgctxt "pli-tv-bu-vb-ss10:1.3.20"
+msgctxt "pli-tv-bu-vb-ss10:1.3.19"
 msgid "Samaggo hi saṃgho sammodamāno avivadamāno ekuddeso phāsu viharatī’ti."
 msgstr "for a united Order—in concord, in harmony, having a joint recitation—lives in comfort.”"
 
-msgctxt "pli-tv-bu-vb-ss10:1.3.21"
+msgctxt "pli-tv-bu-vb-ss10:1.3.20"
 msgid "Evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ sama­nubhā­si­tabbo tassa paṭinissaggāya."
 msgstr "If that monk still continues as before, the monks should admonish him up to three times to make him stop."
 
 #. VAR: paṭi­nissaj­jeyya → paṭinissajeyya (bj)
-msgctxt "pli-tv-bu-vb-ss10:1.3.22"
+msgctxt "pli-tv-bu-vb-ss10:1.3.21"
 msgid "Yāvatatiyañce sama­nubhā­si­yamāno taṃ paṭi­nissaj­jeyya, iccetaṃ kusalaṃ;"
 msgstr "If he then stops, that is good."
 
-msgctxt "pli-tv-bu-vb-ss10:1.3.23"
+msgctxt "pli-tv-bu-vb-ss10:1.3.22"
 msgid "no ce paṭi­nissaj­jeyya, saṃghādiseso”ti."
 msgstr "If not, he commits an offense entailing suspension.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ss10:2.0a"
+msgctxt "pli-tv-bu-vb-ss10:2.0"
 msgid ""
 msgstr "Definitions"
 
@@ -736,7 +736,7 @@ msgid "… pe … tenapi vuccati saṃghādisesoti."
 msgstr "… Therefore, too, it is called “an offense entailing suspension.”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ss10:3.1.0a"
+msgctxt "pli-tv-bu-vb-ss10:3.1.0"
 msgid ""
 msgstr "Permutations"
 
@@ -777,7 +777,7 @@ msgid "Adhammakamme adhamma­kamma­saññī, āpatti dukkaṭassa."
 msgstr "If it is an illegitimate procedure, and he perceives it as illegitimate, he commits an offense of wrong conduct."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ss10:3.2.0a"
+msgctxt "pli-tv-bu-vb-ss10:3.2.0"
 msgid ""
 msgstr "Non-offenses"
 

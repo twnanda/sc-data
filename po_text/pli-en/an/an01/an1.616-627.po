@@ -28,7 +28,7 @@ msgid "Amataṃ te, bhikkhave, paribhuñjanti ye kāyagatāsatiṃ paribhuñjant
 msgstr "Those who enjoy mindfulness of the body enjoy the deathless.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.617" id="617"><article><div class="hgroup"><h1>
-msgctxt "an1.616-627:616.1.3"
+msgctxt "an1.616-627:0.1"
 msgid "617 "
 msgstr "617 "
 
@@ -43,7 +43,7 @@ msgid "Amataṃ tesaṃ, bhikkhave, paribhuttaṃ yesaṃ kāyagatāsati paribhu
 msgstr "Those who have enjoyed mindfulness of the body have enjoyed the deathless.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.618" id="618"><article><div class="hgroup"><h1>
-msgctxt "an1.616-627:617.1.3"
+msgctxt "an1.616-627:0.1"
 msgid "618 "
 msgstr "618 "
 
@@ -58,7 +58,7 @@ msgid "Amataṃ tesaṃ, bhikkhave, aparihīnaṃ yesaṃ kāyagatāsati aparih�
 msgstr "Those who haven’t lost mindfulness of the body haven’t lost the deathless.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.619" id="619"><article><div class="hgroup"><h1>
-msgctxt "an1.616-627:618.1.3"
+msgctxt "an1.616-627:0.1"
 msgid "619 "
 msgstr "619 "
 
@@ -74,7 +74,7 @@ msgid "Amataṃ tesaṃ, bhikkhave, āraddhaṃ yesaṃ kāyagatāsati āraddhā
 msgstr "Those who have undertaken mindfulness of the body have not missed out on the deathless.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.620" id="620"><article><div class="hgroup"><h1>
-msgctxt "an1.616-627:619.1.3"
+msgctxt "an1.616-627:0.1"
 msgid "620 "
 msgstr "620 "
 
@@ -89,7 +89,7 @@ msgid "Amataṃ te, bhikkhave, na pamādiṃsu ye kāyagatāsatiṃ na pamādi�
 msgstr "Those who have not neglected mindfulness of the body have not neglected the deathless.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.621" id="621"><article><div class="hgroup"><h1>
-msgctxt "an1.616-627:620.1.3"
+msgctxt "an1.616-627:0.1"
 msgid "621 "
 msgstr "621 "
 
@@ -104,7 +104,7 @@ msgid "Amataṃ tesaṃ, bhikkhave, appamuṭṭhaṃ yesaṃ kāyagatāsati app
 msgstr "Those who haven’t forgotten mindfulness of the body haven’t forgotten the deathless.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.622" id="622"><article><div class="hgroup"><h1>
-msgctxt "an1.616-627:621.1.3"
+msgctxt "an1.616-627:0.1"
 msgid "622 "
 msgstr "622 "
 
@@ -119,7 +119,7 @@ msgid "Amataṃ tesaṃ, bhikkhave, āsevitaṃ yesaṃ kāyagatāsati āsevitā
 msgstr "Those who have cultivated mindfulness of the body have cultivated the deathless.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.623" id="623"><article><div class="hgroup"><h1>
-msgctxt "an1.616-627:622.1.3"
+msgctxt "an1.616-627:0.1"
 msgid "623 "
 msgstr "623 "
 
@@ -134,7 +134,7 @@ msgid "Amataṃ tesaṃ, bhikkhave, bhāvitaṃ yesaṃ kāyagatāsati bhāvitā
 msgstr "Those who have developed mindfulness of the body have developed the deathless.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.624" id="624"><article><div class="hgroup"><h1>
-msgctxt "an1.616-627:623.1.3"
+msgctxt "an1.616-627:0.1"
 msgid "624 "
 msgstr "624 "
 
@@ -149,7 +149,7 @@ msgid "Amataṃ tesaṃ, bhikkhave, bahulīkataṃ yesaṃ kāyagatāsati bahul�
 msgstr "Those who have practiced mindfulness of the body have practiced the deathless.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.625" id="625"><article><div class="hgroup"><h1>
-msgctxt "an1.616-627:624.1.3"
+msgctxt "an1.616-627:0.1"
 msgid "625 "
 msgstr "625 "
 
@@ -164,7 +164,7 @@ msgid "Amataṃ tesaṃ, bhikkhave, abhiññātaṃ yesaṃ kāyagatāsati abhi�
 msgstr "Those who have had insight into mindfulness of the body have had insight into the deathless.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.626" id="626"><article><div class="hgroup"><h1>
-msgctxt "an1.616-627:625.1.3"
+msgctxt "an1.616-627:0.1"
 msgid "626 "
 msgstr "626 "
 
@@ -179,7 +179,7 @@ msgid "Amataṃ tesaṃ, bhikkhave, pariññātaṃ yesaṃ kāyagatāsati pari�
 msgstr "Those who have completely understood mindfulness of the body have completely understood the deathless.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.627" id="627"><article><div class="hgroup"><h1>
-msgctxt "an1.616-627:626.1.3"
+msgctxt "an1.616-627:0.1"
 msgid "627 "
 msgstr "627 "
 

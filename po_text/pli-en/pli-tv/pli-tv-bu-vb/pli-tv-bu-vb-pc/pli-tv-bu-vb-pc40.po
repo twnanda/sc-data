@@ -28,12 +28,12 @@ msgid "40. Dantaponasikkhāpada"
 msgstr "The training rule on tooth-cleaners"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc40:1.0a"
+msgctxt "pli-tv-bu-vb-pc40:1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pc40:1.0b"
+msgctxt "pli-tv-bu-vb-pc40:1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -110,24 +110,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc40:1.16a"
+msgctxt "pli-tv-bu-vb-pc40:1.16.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc3, pts-vp-pli4.90, ms2V_850
-msgctxt "pli-tv-bu-vb-pc40:1.17"
+msgctxt "pli-tv-bu-vb-pc40:1.16"
 msgid "“Yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya, pācittiyan”ti."
 msgstr "‘If a monk eats food that has not been given, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc4, ms2V_851
-msgctxt "pli-tv-bu-vb-pc40:1.18"
+msgctxt "pli-tv-bu-vb-pc40:1.17"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc40:2.0a"
+msgctxt "pli-tv-bu-vb-pc40:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -153,19 +153,19 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc40:2.4a"
+msgctxt "pli-tv-bu-vb-pc40:2.4.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule">
 #. VAR: udakadantaponā → ... poṇā (s1-3, pts1)
 #. REF: sc6, ms2V_853
-msgctxt "pli-tv-bu-vb-pc40:2.5"
+msgctxt "pli-tv-bu-vb-pc40:2.4"
 msgid "“Yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya, aññatra udakadantaponā, pācittiyan”ti."
 msgstr "‘If a monk eats food that has not been given, except for water and tooth-cleaners, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc40:3.1.0a"
+msgctxt "pli-tv-bu-vb-pc40:3.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -249,7 +249,7 @@ msgid "Ajjhohāre ajjhohāre āpatti pācittiyassa."
 msgstr "For every mouthful, he commits an offense entailing confession."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc40:3.2.0a"
+msgctxt "pli-tv-bu-vb-pc40:3.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -282,7 +282,7 @@ msgid "Paṭiggahitake paṭiggahitakasaññī, anāpatti."
 msgstr "If it has been received, and he perceives it as received, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc40:3.3.0a"
+msgctxt "pli-tv-bu-vb-pc40:3.3.0"
 msgid ""
 msgstr "Non-offenses"
 

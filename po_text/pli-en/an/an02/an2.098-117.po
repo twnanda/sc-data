@@ -36,7 +36,7 @@ msgid "Ime kho, bhikkhave, dve bālā”ti. "
 msgstr "These are the two fools.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.99" id="99"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:98.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "99 "
 msgstr "99 "
 
@@ -59,7 +59,7 @@ msgid "Ime kho, bhikkhave, dve paṇḍitā”ti. "
 msgstr "These are the two who are astute.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.100" id="100"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:99.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "100 "
 msgstr "100 "
 
@@ -82,7 +82,7 @@ msgid "Ime kho, bhikkhave, dve bālā”ti. "
 msgstr "These are the two fools.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.101" id="101"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:100.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "101 "
 msgstr "101 "
 
@@ -105,7 +105,7 @@ msgid "Ime kho, bhikkhave, dve paṇḍitā”ti. "
 msgstr "These are the two who are astute.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.102" id="102"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:101.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "102 "
 msgstr "102 "
 
@@ -128,7 +128,7 @@ msgid "Ime kho, bhikkhave, dve bālā”ti. "
 msgstr "These are the two fools.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.103" id="103"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:102.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "103 "
 msgstr "103 "
 
@@ -151,7 +151,7 @@ msgid "Ime kho, bhikkhave, dve paṇḍitā”ti. "
 msgstr "These are the two who are astute.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.104" id="104"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:103.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "104 "
 msgstr "104 "
 
@@ -174,7 +174,7 @@ msgid "Ime kho, bhikkhave, dve bālā”ti. "
 msgstr "These are the two fools.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.105" id="105"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:104.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "105 "
 msgstr "105 "
 
@@ -197,7 +197,7 @@ msgid "Ime kho, bhikkhave, dve paṇḍitā”ti. "
 msgstr "These are the two who are astute.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.106" id="106"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:105.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "106 "
 msgstr "106 "
 
@@ -220,7 +220,7 @@ msgid "Ime kho, bhikkhave, dve bālā”ti. "
 msgstr "These are the two fools.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.107" id="107"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:106.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "107 "
 msgstr "107 "
 
@@ -243,7 +243,7 @@ msgid "Ime kho, bhikkhave, dve paṇḍitā”ti. "
 msgstr "These are the two who are astute.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.108" id="108"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:107.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "108 "
 msgstr "108 "
 
@@ -266,7 +266,7 @@ msgid "Imesaṃ kho, bhikkhave, dvinnaṃ āsavā vaḍḍhantī”ti. "
 msgstr "These are the two whose defilements grow.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.109" id="109"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:108.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "109 "
 msgstr "109 "
 
@@ -289,7 +289,7 @@ msgid "Imesaṃ kho, bhikkhave, dvinnaṃ āsavā na vaḍḍhantī”ti. "
 msgstr "These are the two whose defilements don’t grow.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.110" id="110"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:109.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "110 "
 msgstr "110 "
 
@@ -312,7 +312,7 @@ msgid "Imesaṃ kho, bhikkhave, dvinnaṃ āsavā vaḍḍhantī”ti. "
 msgstr "These are the two whose defilements grow.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.111" id="111"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:110.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "111 "
 msgstr "111 "
 
@@ -335,7 +335,7 @@ msgid "Imesaṃ kho, bhikkhave, dvinnaṃ āsavā na vaḍḍhantī”ti. "
 msgstr "These are the two whose defilements don’t grow.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.112" id="112"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:111.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "112 "
 msgstr "112 "
 
@@ -358,7 +358,7 @@ msgid "Imesaṃ kho, bhikkhave, dvinnaṃ āsavā vaḍḍhantī”ti. "
 msgstr "These are the two whose defilements grow.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.113" id="113"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:112.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "113 "
 msgstr "113 "
 
@@ -381,7 +381,7 @@ msgid "Imesaṃ kho, bhikkhave, dvinnaṃ āsavā na vaḍḍhantī”ti. "
 msgstr "These are the two whose defilements don’t grow.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.114" id="114"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:113.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "114 "
 msgstr "114 "
 
@@ -404,7 +404,7 @@ msgid "Imesaṃ kho, bhikkhave, dvinnaṃ āsavā vaḍḍhantī”ti. "
 msgstr "These are the two whose defilements grow.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.115" id="115"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:114.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "115 "
 msgstr "115 "
 
@@ -427,7 +427,7 @@ msgid "Imesaṃ kho, bhikkhave, dvinnaṃ āsavā na vaḍḍhantī”ti. "
 msgstr "These are the two whose defilements don’t grow.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.116" id="116"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:115.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "116 "
 msgstr "116 "
 
@@ -450,7 +450,7 @@ msgid "Imesaṃ kho, bhikkhave, dvinnaṃ āsavā vaḍḍhantī”ti. "
 msgstr "These are the two whose defilements grow.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.117" id="117"><article><div class="hgroup"><h1>
-msgctxt "an2.98-117:116.1.5"
+msgctxt "an2.98-117:0.1"
 msgid "117 "
 msgstr "117 "
 

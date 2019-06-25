@@ -42,7 +42,7 @@ msgid "“Rāgassa, bhikkhave, pariññāya … parikkhayāya … pahānāya …
 msgstr "“For the complete understanding … finishing … giving up … ending … vanishing … fading away … cessation … giving away … letting go of greed, two things should be developed.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.322" id="322"><article><div class="hgroup"><h1>
-msgctxt "an2.310-479:310.2.2"
+msgctxt "an2.310-479:0.1"
 msgid "322–479 "
 msgstr "322–479 "
 

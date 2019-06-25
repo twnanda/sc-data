@@ -13,7 +13,7 @@ msgid "Brahmajālasutta "
 msgstr "The Prime Net "
 
 #. HTML: </h1></div><h2>
-msgctxt "dn1:0.3"
+msgctxt "dn1:1.1.0"
 msgid "1. Paribbājakakathā "
 msgstr "1. Talk on Wanderers "
 
@@ -182,12 +182,12 @@ msgid "‘itipetaṃ bhūtaṃ, itipetaṃ tacchaṃ, atthi cetaṃ amhesu, sa�
 msgstr "‘This is why that’s true, this is why that’s correct. There is such a thing in us, it is found among us.’ "
 
 #. HTML: </p><h2>
-msgctxt "dn1:1.6.7"
+msgctxt "dn1:1.7.0.1"
 msgid "2. Sīla "
 msgstr "2. Ethics "
 
 #. HTML: </h2><h3>
-msgctxt "dn1:1.6.8"
+msgctxt "dn1:1.7.0.2"
 msgid "2.1. Cūḷasīla "
 msgstr "2.1. The Shorter Section on Ethics "
 
@@ -391,7 +391,7 @@ msgid "Cūḷasīlaṃ niṭṭhitaṃ. "
 msgstr "The shorter section on ethics is finished. "
 
 #. HTML: </p><h3>
-msgctxt "dn1:1.10.23"
+msgctxt "dn1:1.11.0"
 msgid "2.2. Majjhimasīla "
 msgstr "2.2. The Middle Section on Ethics "
 
@@ -597,7 +597,7 @@ msgid "Majjhimasīlaṃ niṭṭhitaṃ. "
 msgstr "The middle section on ethics is finished. "
 
 #. HTML: </p><h3>
-msgctxt "dn1:1.20.5"
+msgctxt "dn1:1.21.0"
 msgid "2.3. Mahāsīla "
 msgstr "2.3. The Large Section on Ethics "
 
@@ -744,12 +744,12 @@ msgid "Mahāsīlaṃ niṭṭhitaṃ. "
 msgstr "The longer section on ethics is finished. "
 
 #. HTML: </p><h2>
-msgctxt "dn1:1.27.7"
+msgctxt "dn1:1.28.0.1"
 msgid "3. Diṭṭhi "
 msgstr "3. Views "
 
 #. HTML: </h2><h3>
-msgctxt "dn1:1.27.8"
+msgctxt "dn1:1.28.0.2"
 msgid "3.1. Pubbantakappika "
 msgstr "3.1. Theories About the Past "
 
@@ -774,7 +774,7 @@ msgid "Te ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha pubbantakappikā
 msgstr "And what are the eighteen grounds on which they rely? "
 
 #. HTML: </p><h4>
-msgctxt "dn1:1.29.3"
+msgctxt "dn1:1.30.0"
 msgid "3.1.1. Sassatavāda "
 msgstr "3.1.1. Eternalism "
 
@@ -1019,7 +1019,7 @@ msgid "Paṭhamabhāṇavāro. "
 msgstr " "
 
 #. HTML: </p><h4>
-msgctxt "dn1:1.37.3"
+msgctxt "dn1:2.1.0"
 msgid "3.1.2. Ekaccasassatavāda "
 msgstr "3.1.2. Partial Eternalism "
 
@@ -1343,7 +1343,7 @@ msgid "Ime kho te, bhikkhave, dhammā gambhīrā duddasā duranubodhā santā pa
 msgstr "These are the principles—deep, hard to see, hard to understand, peaceful, sublime, beyond the scope of reason, subtle, comprehensible to the astute—which the Realized One makes known after realizing them with his own insight. And those who genuinely praise the Realized One would rightly speak of these things. "
 
 #. HTML: </p><h4>
-msgctxt "dn1:2.15.6"
+msgctxt "dn1:2.16.0"
 msgid "3.1.3. Antānantavāda "
 msgstr "3.1.3. The Cosmos is Finite or Infinite "
 
@@ -1589,7 +1589,7 @@ msgid "Ime kho te, bhikkhave, dhammā gambhīrā duddasā duranubodhā santā pa
 msgstr "These are the principles—deep, hard to see, hard to understand, peaceful, sublime, beyond the scope of reason, subtle, comprehensible to the astute—which the Realized One makes known after realizing them with his own insight. And those who genuinely praise the Realized One would rightly speak of these things. "
 
 #. HTML: </p><h4>
-msgctxt "dn1:2.22.6"
+msgctxt "dn1:2.23.0"
 msgid "3.1.4. Amarāvikkhepavāda "
 msgstr "3.1.4. Equivocators "
 
@@ -1853,7 +1853,7 @@ msgid "yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyu
 msgstr "And those who genuinely praise the Realized One would rightly speak of these things. "
 
 #. HTML: </p><h4>
-msgctxt "dn1:2.28.5"
+msgctxt "dn1:2.30.0"
 msgid "3.1.5. Adhiccasamuppannavāda "
 msgstr "3.1.5. Doctrines of Origination by Chance "
 
@@ -1989,7 +1989,7 @@ msgid "Dutiyabhāṇavāro. "
 msgstr " "
 
 #. HTML: </p><h3>
-msgctxt "dn1:2.36.7"
+msgctxt "dn1:2.37.0"
 msgid "3.2. Aparantakappika "
 msgstr "3.2. Theories About the Future "
 
@@ -2004,7 +2004,7 @@ msgid "Te ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha aparantakappikā
 msgstr "And what are the forty-four grounds on which they rely? "
 
 #. HTML: </p><h4>
-msgctxt "dn1:2.37.3"
+msgctxt "dn1:2.38.0"
 msgid "3.2.1. Saññīvāda "
 msgstr "3.2.1. Percipient Life After Death "
 
@@ -2133,7 +2133,7 @@ msgid "yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyu
 msgstr "And those who genuinely praise the Realized One would rightly speak of these things. "
 
 #. HTML: </p><h4>
-msgctxt "dn1:2.39.5"
+msgctxt "dn1:3.1.0"
 msgid "3.2.2. Asaññīvāda "
 msgstr "3.2.2. Non-Percipient Life After Death "
 
@@ -2214,7 +2214,7 @@ msgid "yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyu
 msgstr "And those who genuinely praise the Realized One would rightly speak of these things. "
 
 #. HTML: </p><h4>
-msgctxt "dn1:3.3.5"
+msgctxt "dn1:3.5.0"
 msgid "3.2.3. Nevasaññīnāsaññīvāda "
 msgstr "3.2.3. Neither Percipient Nor Non-Percipient Life After Death "
 
@@ -2295,7 +2295,7 @@ msgid "yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyu
 msgstr "And those who genuinely praise the Realized One would rightly speak of these things. "
 
 #. HTML: </p><h4>
-msgctxt "dn1:3.7.5"
+msgctxt "dn1:3.9.0"
 msgid "3.2.4. Ucchedavāda "
 msgstr "3.2.4. Annihilationism "
 
@@ -2548,7 +2548,7 @@ msgid "yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyu
 msgstr "And those who genuinely praise the Realized One would rightly speak of these things. "
 
 #. HTML: </p><h4>
-msgctxt "dn1:3.17.5"
+msgctxt "dn1:3.19.0"
 msgid "3.2.5. Diṭṭhadhammanibbānavāda "
 msgstr "3.2.5. Extinguishment in the Present Life "
 
@@ -2769,12 +2769,12 @@ msgid "Ime kho te, bhikkhave, dhammā gambhīrā duddasā duranubodhā santā pa
 msgstr "These are the principles—deep, hard to see, hard to understand, peaceful, sublime, beyond the scope of reason, subtle, comprehensible to the astute—which the Realized One makes known after realizing them with his own insight. And those who genuinely praise the Realized One would rightly speak of these things. "
 
 #. HTML: </p><h2>
-msgctxt "dn1:3.31.2"
+msgctxt "dn1:3.32.0.1"
 msgid "4. Attālokapaññattivatthu "
 msgstr "4. The Grounds For Assertions About the Self and the Cosmos "
 
 #. HTML: </h2><h3>
-msgctxt "dn1:3.31.3"
+msgctxt "dn1:3.32.0.2"
 msgid "4.1. Paritassitavipphanditavāra "
 msgstr "4.1. Anxiety and Evasiveness "
 
@@ -2857,7 +2857,7 @@ msgid "Tatra, bhikkhave, ye te samaṇabrāhmaṇā pubbantakappikā ca aparanta
 msgstr "When those ascetics and brahmins theorize about the past and the future on these sixty-two grounds, these things are only the feeling of those who do not know or see, the agitation and evasiveness of those under the sway of craving. "
 
 #. HTML: </p><h3>
-msgctxt "dn1:3.44.2"
+msgctxt "dn1:3.45.0"
 msgid "4.2. Phassapaccayāvāra "
 msgstr "4.2. Conditioned by Contact "
 
@@ -2940,7 +2940,7 @@ msgid "Tatra, bhikkhave, ye te samaṇabrāhmaṇā pubbantakappikā ca aparanta
 msgstr "When those ascetics and brahmins theorize about the past and the future on these sixty-two grounds, that too is conditioned by contact. "
 
 #. HTML: </p><h3>
-msgctxt "dn1:3.57.2"
+msgctxt "dn1:3.58.0"
 msgid "4.3. Netaṃṭhānaṃvijjativāra "
 msgstr "4.3. Not Possible "
 
@@ -3023,7 +3023,7 @@ msgid "Tatra, bhikkhave, ye te samaṇabrāhmaṇā pubbantakappikā ca aparanta
 msgstr "Now, when those ascetics and brahmins theorize about the past and the future on these sixty-two grounds, it is not possible that they should experience these things without contact. "
 
 #. HTML: </p><h3>
-msgctxt "dn1:3.70.2"
+msgctxt "dn1:3.71.0"
 msgid "4.4. Diṭṭhigatikādhiṭṭhānavaṭṭakathā "
 msgstr "4.4. Dependent Origination "
 
@@ -3078,13 +3078,13 @@ msgid "yepi te samaṇabrāhmaṇā pubbantakappikā ca aparantakappikā ca pubb
 msgstr "Now, when those ascetics and brahmins theorize about the past and the future on these sixty-two grounds, all of them experience this by repeated contact through the six fields of contact. Their feeling is a condition for craving. Craving is a condition for grasping. Grasping is a condition for continued existence. Continued existence is a condition for rebirth. Rebirth is a condition for old age and death, sorrow, lamentation, pain, sadness, and distress to come to be. "
 
 #. HTML: </p><h2>
-msgctxt "dn1:3.71.13"
+msgctxt "dn1:3.71.13.0"
 msgid "5. Vivaṭṭakathādi "
 msgstr "5. The End of the Round "
 
 #. HTML: </h2><p>
 #. REF: sc212
-msgctxt "dn1:3.71.14"
+msgctxt "dn1:3.71.13"
 msgid "Yato kho, bhikkhave, bhikkhu channaṃ phassāyatanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānāti, ayaṃ imehi sabbeheva uttaritaraṃ pajānāti. "
 msgstr "When a mendicant truly understands the six fields of contacts’ origin, ending, gratification, drawback, and escape, they understand what lies beyond all these things. "
 

@@ -28,12 +28,12 @@ msgid "14. Chabbassasikkhāpada"
 msgstr "14. The training rule on six years"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np14:0.6"
+msgctxt "pli-tv-bu-vb-np14:1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-np14:1.0a"
+msgctxt "pli-tv-bu-vb-np14:1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -146,28 +146,28 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-np14:1.25a"
+msgctxt "pli-tv-bu-vb-np14:1.25.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc4, ms1V_2138, pts-vp-en2.80
-msgctxt "pli-tv-bu-vb-np14:1.26"
+msgctxt "pli-tv-bu-vb-np14:1.25"
 msgid "“Navaṃ pana bhikkhunā santhataṃ kārāpetvā chabbassāni dhāretabbaṃ."
 msgstr "‘If a monk gets a new blanket made, he should keep it for six years."
 
-msgctxt "pli-tv-bu-vb-np14:1.27"
+msgctxt "pli-tv-bu-vb-np14:1.26"
 msgid "Orena ce channaṃ vassānaṃ taṃ santhataṃ vissajjetvā vā avissajjetvā vā aññaṃ navaṃ santhataṃ kārāpeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "Whether that blanket has been given away or not, if he gets another new blanket made in less than six years, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc5, pts-vp-en2.4, ms1V_2139
-msgctxt "pli-tv-bu-vb-np14:1.28"
+msgctxt "pli-tv-bu-vb-np14:1.27"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-np14:2.0a"
+msgctxt "pli-tv-bu-vb-np14:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -336,22 +336,22 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np14:2.37a"
+msgctxt "pli-tv-bu-vb-np14:2.37.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc12, ms1V_2146
-msgctxt "pli-tv-bu-vb-np14:2.38"
+msgctxt "pli-tv-bu-vb-np14:2.37"
 msgid "“Navaṃ pana bhikkhunā santhataṃ kārāpetvā chabbassāni dhāretabbaṃ."
 msgstr "‘If a monk gets a new blanket made, he should keep it for six years."
 
-msgctxt "pli-tv-bu-vb-np14:2.39"
+msgctxt "pli-tv-bu-vb-np14:2.38"
 msgid "Orena ce channaṃ vassānaṃ taṃ santhataṃ vissajjetvā vā avissajjetvā vā aññaṃ navaṃ santhataṃ kārāpeyya, aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyan”ti."
 msgstr "Whether that blanket has been given away or not, if he gets another new blanket made in less than six years, except if the monks have agreed, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np14:3.0a"
+msgctxt "pli-tv-bu-vb-np14:3.0"
 msgid ""
 msgstr "Definitions"
 
@@ -485,73 +485,73 @@ msgid "āyasmato dammīti."
 msgstr "‘I give this blanket back to you.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np14:3.25a"
+msgctxt "pli-tv-bu-vb-np14:3.25.0"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><p>
 #. REF: sc21, ms1V_2155
-msgctxt "pli-tv-bu-vb-np14:3.26"
+msgctxt "pli-tv-bu-vb-np14:3.25"
 msgid "Attanā vippakataṃ attanā pariyosāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he finishes what he began himself, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np14:3.27"
+msgctxt "pli-tv-bu-vb-np14:3.26"
 msgid "Attanā vippakataṃ parehi pariyosāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he gets others to finish what he began himself, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np14:3.28"
+msgctxt "pli-tv-bu-vb-np14:3.27"
 msgid "Parehi vippakataṃ attanā pariyosāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he finishes himself what was begun by others, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np14:3.29"
+msgctxt "pli-tv-bu-vb-np14:3.28"
 msgid "Parehi vippakataṃ parehi pariyosāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he gets others to finish what was begun by others, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np14:3.29a"
+msgctxt "pli-tv-bu-vb-np14:3.29.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc22, ms1V_2156
-msgctxt "pli-tv-bu-vb-np14:3.30"
+msgctxt "pli-tv-bu-vb-np14:3.29"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
-msgctxt "pli-tv-bu-vb-np14:3.31"
+msgctxt "pli-tv-bu-vb-np14:3.30"
 msgid "chabbassāni karoti,"
 msgstr "if he makes one after six years;"
 
-msgctxt "pli-tv-bu-vb-np14:3.32"
+msgctxt "pli-tv-bu-vb-np14:3.31"
 msgid "atirekachabbassāni karoti,"
 msgstr "if he makes one after more than six years;"
 
-msgctxt "pli-tv-bu-vb-np14:3.33"
+msgctxt "pli-tv-bu-vb-np14:3.32"
 msgid "aññassatthāya karoti vā kārāpeti vā,"
 msgstr "if he makes one, or gets one made, for the sake of another;"
 
-msgctxt "pli-tv-bu-vb-np14:3.34"
+msgctxt "pli-tv-bu-vb-np14:3.33"
 msgid "aññena kataṃ paṭilabhitvā paribhuñjati,"
 msgstr "if he obtains what was made by another and then uses it;"
 
-msgctxt "pli-tv-bu-vb-np14:3.35"
+msgctxt "pli-tv-bu-vb-np14:3.34"
 msgid "vitānaṃ vā bhūmattharaṇaṃ vā sāṇipākāraṃ vā bhisiṃ vā bibbohanaṃ vā karoti,"
 msgstr "if he makes a canopy, a floor cover, a screen-wall, a mattress, or a pillow;"
 
-msgctxt "pli-tv-bu-vb-np14:3.36"
+msgctxt "pli-tv-bu-vb-np14:3.35"
 msgid "bhikkhusammutiyā,"
 msgstr "if he has the permission of the monks;"
 
-msgctxt "pli-tv-bu-vb-np14:3.37"
+msgctxt "pli-tv-bu-vb-np14:3.36"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-np14:3.38"
+msgctxt "pli-tv-bu-vb-np14:3.37"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><hr><p class="endsutta">
 #. REF: sc23, ms1V_2157
-msgctxt "pli-tv-bu-vb-np14:3.39"
+msgctxt "pli-tv-bu-vb-np14:3.38"
 msgid "Chabbassasikkhāpadaṃ niṭṭhitaṃ catutthaṃ."
 msgstr "The fourth rule, the training rule on six years, is finished."

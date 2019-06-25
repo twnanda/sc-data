@@ -3,17 +3,17 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-pvr21"><article><div class="hgroup"><p class="division">
-msgctxt "pli-tv-pvr21:1.1"
+msgctxt "pli-tv-pvr21:0.1"
 msgid "Parivāra"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-pvr21:2.1"
+msgctxt "pli-tv-pvr21:0.2"
 msgid "Pañcavagga"
 msgstr ""
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-pvr21:3.1"
+msgctxt "pli-tv-pvr21:4.0"
 msgid "1. Kammavagga"
 msgstr ""
 
@@ -550,7 +550,7 @@ msgid "Kammavaggo niṭṭhito paṭhamo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr21:21.1"
+msgctxt "pli-tv-pvr21:22.0"
 msgid "2. Atthavasavagga"
 msgstr ""
 
@@ -701,7 +701,7 @@ msgid "Atthavasavaggo niṭṭhito dutiyo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr21:33.1"
+msgctxt "pli-tv-pvr21:34.0"
 msgid "3. Paññattavagga"
 msgstr ""
 
@@ -802,7 +802,7 @@ msgid "Paññattavaggo niṭṭhito tatiyo."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr21:36.1"
+msgctxt "pli-tv-pvr21:37.0"
 msgid "4. Apaññattepaññattavagga"
 msgstr ""
 
@@ -985,7 +985,7 @@ msgid "Apaññatte paññattavaggo niṭṭhito catuttho."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr21:48.1"
+msgctxt "pli-tv-pvr21:49.0"
 msgid "5. Navasaṅgahavagga"
 msgstr ""
 

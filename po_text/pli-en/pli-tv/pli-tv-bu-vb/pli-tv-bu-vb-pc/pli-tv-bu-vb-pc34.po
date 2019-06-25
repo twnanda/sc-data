@@ -28,7 +28,7 @@ msgid "34. Kāṇamātusikkhāpada"
 msgstr "The training rule on Kāṇamātu"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc34:1.1.0a"
+msgctxt "pli-tv-bu-vb-pc34:1.1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -314,7 +314,7 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc34:1.2.21a"
+msgctxt "pli-tv-bu-vb-pc34:1.2.21.0"
 msgid ""
 msgstr "Final ruling"
 
@@ -322,20 +322,20 @@ msgstr "Final ruling"
 #. VAR: uttari → uttariṃ (bj, s1-3)
 #. VAR: paṭiggaṇheyya → paṭigaṇheyya (pts1)
 #. REF: sc7, ms2V_749, pts-vp-en.2.324
-msgctxt "pli-tv-bu-vb-pc34:1.2.22"
+msgctxt "pli-tv-bu-vb-pc34:1.2.21"
 msgid "“Bhikkhuṃ paneva kulaṃ upagataṃ pūvehi vā manthehi vā abhihaṭṭhuṃ pavāreyya, ākaṅkhamānena bhikkhunā dvattipattapūrā paṭiggahetabbā tato ce uttari paṭiggaṇheyya pācittiyaṃ."
 msgstr "‘If a monk approaches a family and is invited to take biscuits or cereals, he may accept two or three bowlfuls if he wishes. If he accepts more than that, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc34:1.2.23"
+msgctxt "pli-tv-bu-vb-pc34:1.2.22"
 msgid "Dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ."
 msgstr "If he accepts two or three bowlfuls, he should take it away and share it with the monks."
 
-msgctxt "pli-tv-bu-vb-pc34:1.2.24"
+msgctxt "pli-tv-bu-vb-pc34:1.2.23"
 msgid "Ayaṃ tattha sāmīcī”ti."
 msgstr "This is the proper procedure.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc34:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc34:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -479,7 +479,7 @@ msgid "ayaṃ tattha anudhammatā."
 msgstr "this is the right method."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc34:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc34:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -512,7 +512,7 @@ msgid "Ūnakadvattipattapūre ūnakasaññī, anāpatti."
 msgstr "If it is less than two or three bowlfuls, and he perceives it as less, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc34:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc34:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

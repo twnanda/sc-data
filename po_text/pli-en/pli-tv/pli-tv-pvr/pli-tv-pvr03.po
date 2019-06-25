@@ -3,17 +3,17 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-pvr3"><article><div class="hgroup"><p class="division">
-msgctxt "pli-tv-pvr3:1.1"
+msgctxt "pli-tv-pvr3:0.1"
 msgid "Parivāra"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-pvr3:2.1"
+msgctxt "pli-tv-pvr3:0.2"
 msgid "Samuṭṭhānasīsasaṅkhepa"
 msgstr ""
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-pvr3:3.1"
+msgctxt "pli-tv-pvr3:4.0"
 msgid "1. Samuṭṭhānassuddāna"
 msgstr ""
 
@@ -187,7 +187,7 @@ msgid "dhammakāmo supesaloti."
 msgstr ""
 
 #. HTML: </p></blockquote><h2>
-msgctxt "pli-tv-pvr3:12.1"
+msgctxt "pli-tv-pvr3:13.0"
 msgid "2. Terasasamuṭṭhāna"
 msgstr ""
 
@@ -277,7 +277,7 @@ msgid "sadisā idha dissare."
 msgstr ""
 
 #. HTML: </p></blockquote><h3>
-msgctxt "pli-tv-pvr3:17.1"
+msgctxt "pli-tv-pvr3:18.0"
 msgid "2.1. Paṭhamapārājikasamuṭṭhāna"
 msgstr ""
 
@@ -373,7 +373,7 @@ msgid "Paṭhamapārājikasamuṭṭhānaṃ niṭṭhitaṃ."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr3:23.1"
+msgctxt "pli-tv-pvr3:24.0"
 msgid "2.2. Dutiyapārājikasamuṭṭhāna"
 msgstr ""
 
@@ -575,7 +575,7 @@ msgid "Dutiyapārājikasamuṭṭhānaṃ niṭṭhitaṃ."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr3:34.1"
+msgctxt "pli-tv-pvr3:35.0"
 msgid "2.3. Sañcarittasamuṭṭhāna"
 msgstr ""
 
@@ -747,7 +747,7 @@ msgid "Sañcarittasamuṭṭhānaṃ niṭṭhitaṃ."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr3:43.1"
+msgctxt "pli-tv-pvr3:44.0"
 msgid "2.4. Samanubhāsanāsamuṭṭhāna"
 msgstr ""
 
@@ -855,7 +855,7 @@ msgid "Samanubhāsanāsamuṭṭhānaṃ niṭṭhitaṃ."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr3:49.1"
+msgctxt "pli-tv-pvr3:50.0"
 msgid "2.5. Kathinasamuṭṭhāna"
 msgstr ""
 
@@ -961,7 +961,7 @@ msgid "Kathinasamuṭṭhānaṃ niṭṭhitaṃ."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr3:55.1"
+msgctxt "pli-tv-pvr3:56.0"
 msgid "2.6. Eḷakalomasamuṭṭhāna"
 msgstr ""
 
@@ -1100,7 +1100,7 @@ msgid "Eḷakalomasamuṭṭhānaṃ niṭṭhitaṃ."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr3:63.1"
+msgctxt "pli-tv-pvr3:64.0"
 msgid "2.7. Padasodhammasamuṭṭhāna"
 msgstr ""
 
@@ -1165,7 +1165,7 @@ msgid "Padasodhammasamuṭṭhānaṃ niṭṭhitaṃ."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr3:67.1"
+msgctxt "pli-tv-pvr3:68.0"
 msgid "2.8. Addhānasamuṭṭhāna"
 msgstr ""
 
@@ -1250,7 +1250,7 @@ msgid "Addhānasamuṭṭhānaṃ niṭṭhitaṃ."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr3:72.1"
+msgctxt "pli-tv-pvr3:73.0"
 msgid "2.9. Theyyasatthasamuṭṭhāna"
 msgstr ""
 
@@ -1313,7 +1313,7 @@ msgid "Theyyasatthasamuṭṭhānaṃ niṭṭhitaṃ."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr3:76.1"
+msgctxt "pli-tv-pvr3:77.0"
 msgid "2.10. Dhammadesanāsamuṭṭhāna"
 msgstr ""
 
@@ -1389,7 +1389,7 @@ msgid "Dhammadesanāsamuṭṭhānaṃ niṭṭhitaṃ."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr3:81.1"
+msgctxt "pli-tv-pvr3:82.0"
 msgid "2.11. Bhūtārocanasamuṭṭhāna"
 msgstr ""
 
@@ -1443,7 +1443,7 @@ msgid "Bhūtārocanasamuṭṭhānaṃ niṭṭhitaṃ."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr3:85.1"
+msgctxt "pli-tv-pvr3:86.0"
 msgid "2.12. Corivuṭṭhāpanasamuṭṭhāna"
 msgstr ""
 
@@ -1487,7 +1487,7 @@ msgid "Corivuṭṭhāpanasamuṭṭhānaṃ niṭṭhitaṃ."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr3:88.1"
+msgctxt "pli-tv-pvr3:89.0"
 msgid "2.13. Ananuññātasamuṭṭhāna"
 msgstr ""
 

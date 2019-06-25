@@ -28,12 +28,12 @@ msgid "48. Uyyuttasenāsikkhāpada"
 msgstr "The training rule on armies in action"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc48:1.0a"
+msgctxt "pli-tv-bu-vb-pc48:1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pc48:1.0b"
+msgctxt "pli-tv-bu-vb-pc48:1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -137,24 +137,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc48:1.22a"
+msgctxt "pli-tv-bu-vb-pc48:1.22.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule">
 #. REF: sc3, pts-vp-en.2.375, ms2V_983
-msgctxt "pli-tv-bu-vb-pc48:1.23"
+msgctxt "pli-tv-bu-vb-pc48:1.22"
 msgid "“Yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya, pācittiyan”ti."
 msgstr "‘If a monk goes to see an army in action, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc4, ms2V_984 
-msgctxt "pli-tv-bu-vb-pc48:1.24"
+msgctxt "pli-tv-bu-vb-pc48:1.23"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc48:2.0a"
+msgctxt "pli-tv-bu-vb-pc48:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -212,19 +212,19 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc48:2.12a"
+msgctxt "pli-tv-bu-vb-pc48:2.12.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule">
 #. VAR: tathārūpappaccayā → … rūpapaccayā (s1-3, pts1)
 #. REF: sc6, ms2V_986
-msgctxt "pli-tv-bu-vb-pc48:2.13"
+msgctxt "pli-tv-bu-vb-pc48:2.12"
 msgid "“Yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya, aññatra tathārūpappaccayā, pācittiyan”ti."
 msgstr "‘If a monk goes to see an army in action, unless there is a suitable reason, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc48:3.1.0a"
+msgctxt "pli-tv-bu-vb-pc48:3.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -305,7 +305,7 @@ msgid "ṭhapetvā tathārūpappaccayaṃ."
 msgstr "except if there is a suitable reason."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc48:3.2.0a"
+msgctxt "pli-tv-bu-vb-pc48:3.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -351,7 +351,7 @@ msgid "Anuyyutte anuyyuttasaññī, anāpatti."
 msgstr "If it is not in action, and he does not perceive it as in action, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc48:3.3.0a"
+msgctxt "pli-tv-bu-vb-pc48:3.3.0"
 msgid ""
 msgstr "Non-offenses"
 

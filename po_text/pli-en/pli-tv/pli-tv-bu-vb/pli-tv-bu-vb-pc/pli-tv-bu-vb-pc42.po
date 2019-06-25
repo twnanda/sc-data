@@ -28,7 +28,7 @@ msgid "42. Uyyojanasikkhāpada"
 msgstr "The training rule on sending away"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc42:1.0a"
+msgctxt "pli-tv-bu-vb-pc42:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -103,24 +103,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc42:1.16a"
+msgctxt "pli-tv-bu-vb-pc42:1.16.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule">
 #. VAR: bhikkhuṃ—‘ehāvuso → bhikkhuṃ evaṃ vadeyya ehāvuso (syā1-3)
 #. REF: sc3, ms2V_882
-msgctxt "pli-tv-bu-vb-pc42:1.17"
+msgctxt "pli-tv-bu-vb-pc42:1.16"
 msgid "“Yo pana bhikkhu bhikkhuṃ—‘ehāvuso, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā’ti tassa dāpetvā vā adāpetvā vā uyyojeyya—"
 msgstr "‘If a monk says to another monk, “Come, let’s go to the village/town for alms,” and then, whether he has had food given to him or not, sends him away, saying,"
 
 #. REF: pts-vp-en.2.352 
-msgctxt "pli-tv-bu-vb-pc42:1.18"
+msgctxt "pli-tv-bu-vb-pc42:1.17"
 msgid "‘gacchāvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī’ti, etadeva paccayaṃ karitvā anaññaṃ, pācittiyan”ti."
 msgstr "“Go away, I’m not comfortable talking or sitting with you, but only if I talk and sit by myself,” and he does so only for this reason and no other, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc42:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc42:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -228,7 +228,7 @@ msgid "na añño koci paccayo hoti uyyojetuṃ."
 msgstr "there is no other reason for sending him away."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc42:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc42:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -275,7 +275,7 @@ msgid "Anupasampanne anupasampannasaññī, āpatti dukkaṭassa."
 msgstr "If the other monk is not fully ordained, and he perceives him as not fully ordained, he commits an offense of wrong conduct."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc42:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc42:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

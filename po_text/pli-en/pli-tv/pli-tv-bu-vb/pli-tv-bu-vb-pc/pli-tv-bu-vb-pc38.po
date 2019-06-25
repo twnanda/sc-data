@@ -28,7 +28,7 @@ msgid "38. Sannidhikārakasikkhāpada"
 msgstr "The training rule on storing"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc38:1.0a"
+msgctxt "pli-tv-bu-vb-pc38:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -115,18 +115,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc38:1.18a"
+msgctxt "pli-tv-bu-vb-pc38:1.18.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc3, pts-vp-pli4.87, ms2V_814, pts-vp-en.2.339
-msgctxt "pli-tv-bu-vb-pc38:1.19"
+msgctxt "pli-tv-bu-vb-pc38:1.18"
 msgid "“Yo pana bhikkhu sannidhikārakaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyan”ti."
 msgstr "‘If a monk eats staple or non-staple food that he has stored, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc38:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc38:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -203,7 +203,7 @@ msgid "Ajjhohāre ajjhohāre āpatti pācittiyassa."
 msgstr "For every mouthful, he commits an offense entailing confession."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc38:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc38:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -245,7 +245,7 @@ msgid "Asannidhikārake asannidhikārakasaññī, anāpatti."
 msgstr "If it has not been stored, and he perceives that it has not been stored, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc38:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc38:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

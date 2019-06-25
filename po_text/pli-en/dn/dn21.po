@@ -142,13 +142,13 @@ msgid "ekamantaṃ aṭṭhāsi. "
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "dn21:1.4.7"
+msgctxt "dn21:1.4.7.0"
 msgid "1. Pañcasikhagītagāthā "
 msgstr "1. Pañcasikha’s Song "
 
 #. HTML: </h2><p>
 #. REF: sc5
-msgctxt "dn21:1.4.8"
+msgctxt "dn21:1.4.7"
 msgid "Ekamantaṃ ṭhito kho pañcasikho gandhabbadevaputto beluvapaṇḍuvīṇaṃ assāvesi, imā ca gāthā abhāsi buddhūpasañhitā dhammūpasañhitā saṃghūpasañhitā arahantūpasañhitā kāmūpasañhitā: "
 msgstr "Standing to one side, Pañcasikha played his arched harp, and sang these verses on the Buddha, the teaching, the Saṅgha, the perfected ones, and sensual love. "
 
@@ -563,7 +563,7 @@ msgid "Na ca dāni tato pacchā”ti. "
 msgstr "But we have not met since.” "
 
 #. HTML: </p><h2>
-msgctxt "dn21:1.7.15"
+msgctxt "dn21:1.8.0"
 msgid "2. Sakkūpasaṅkama "
 msgstr "2. The Approach of Sakka "
 
@@ -732,77 +732,77 @@ msgid "Taṃ me idaṃ, bhante, sakkhidiṭṭhaṃ yato tathāgato loke uppanno
 msgstr "And I have seen this with my own eyes. "
 
 #. HTML: </p><h3>
-msgctxt "dn21:1.11.4"
+msgctxt "dn21:1.11.4.0"
 msgid "2.1. Gopakavatthu "
 msgstr "2.1. The Story of Gopikā "
 
 #. HTML: </h3><p>
 #. REF: pts-vp-pli2.272, sc28
-msgctxt "dn21:1.11.5"
+msgctxt "dn21:1.11.4"
 msgid "Idheva, bhante, kapilavatthusmiṃ gopikā nāma sakyadhītā ahosi buddhe pasannā dhamme pasannā saṃghe pasannā sīlesu paripūrakārinī. "
 msgstr "Right here in Kapilavatthu there was a Sakyan lady named Gopikā who had confidence in the Buddha, the teaching, and the Saṅgha, and had fulfilled her ethics. "
 
 #. VAR: itthittaṃ → itthicittaṃ (s1, pts1) | itthīcittaṃ (s2, s3, km)
 #. VAR: purisattaṃ → purisacittaṃ (s1-3, km, pts1)
-msgctxt "dn21:1.11.6"
+msgctxt "dn21:1.11.5"
 msgid "Sā itthittaṃ virājetvā purisattaṃ bhāvetvā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapannā. "
 msgstr "Losing her attachment to femininity, she developed masculinity. When her body broke up, after death, she was reborn in a good place, a heavenly realm. "
 
-msgctxt "dn21:1.11.7"
+msgctxt "dn21:1.11.6"
 msgid "Devānaṃ tāvatiṃsānaṃ sahabyataṃ amhākaṃ puttattaṃ ajjhupagatā. "
 msgstr "In the company of the gods of the Thirty-Three she became one of my sons. "
 
-msgctxt "dn21:1.11.8"
+msgctxt "dn21:1.11.7"
 msgid "Tatrapi naṃ evaṃ jānanti: "
 msgstr "There they knew him as "
 
-msgctxt "dn21:1.11.9"
+msgctxt "dn21:1.11.8"
 msgid "‘gopako devaputto, gopako devaputto’ti. "
 msgstr "the god Gopaka. "
 
 #. HTML: </p><p>
-msgctxt "dn21:1.11.10"
+msgctxt "dn21:1.11.9"
 msgid "Aññepi, bhante, tayo bhikkhū bhagavati brahmacariyaṃ caritvā hīnaṃ gandhabbakāyaṃ upapannā. "
 msgstr "Meanwhile three others, mendicants who had led the spiritual life under the Buddha, were reborn in the inferior fairy realm. "
 
-msgctxt "dn21:1.11.11"
+msgctxt "dn21:1.11.10"
 msgid "Te pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricārayamānā amhākaṃ upaṭṭhānaṃ āgacchanti amhākaṃ pāricariyaṃ. "
 msgstr "There they amused themselves, supplied and provided with the five kinds of sensual stimulation, and became my servants and attendants. "
 
 #. HTML: </p><p>
-msgctxt "dn21:1.11.12"
+msgctxt "dn21:1.11.11"
 msgid "Te amhākaṃ upaṭṭhānaṃ āgate amhākaṃ pāricariyaṃ gopako devaputto paṭicodesi: "
 msgstr "At that, Gopaka scolded them, "
 
 # NOTE: kutomukha contrasts with sammukha. Comm: “kutomukhāti bhagavati abhimukhe dhammaṃ desente tumhe kutomukhā kiṃ aññā vihitā ito cito ca olokayamānā udāhu niddāyamānā?” Alternatively, and perhaps more likely, it means “who on earth taught you the dhamma?”
 #. VAR: assuttha → assutthā (bj) | āyūhittha (s1-3, km) | assutvā (pts1)
-msgctxt "dn21:1.11.13"
+msgctxt "dn21:1.11.12"
 msgid "‘kutomukhā nāma tumhe, mārisā, tassa bhagavato dhammaṃ assuttha—"
 msgstr "‘Where on earth were you at, good sirs, when you heard the Buddha’s teaching! "
 
-msgctxt "dn21:1.11.14"
+msgctxt "dn21:1.11.13"
 msgid "ahañhi nāma itthikā samānā buddhe pasannā dhamme pasannā saṃghe pasannā sīlesu paripūrakārinī itthittaṃ virājetvā purisattaṃ bhāvetvā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapannā, devānaṃ tāvatiṃsānaṃ sahabyataṃ sakkassa devānamindassa puttattaṃ ajjhupagatā. "
 msgstr "For while I was still a woman I had confidence in the Buddha, the teaching, and the Saṅgha, and had fulfilled my ethics. I lost my attachment to femininity and developed masculinity. When my body broke up, after death, I was reborn in a good place, a heavenly realm. In the company of the gods of the Thirty-Three I became one of Sakka’s sons. "
 
-msgctxt "dn21:1.11.15"
+msgctxt "dn21:1.11.14"
 msgid "Idhāpi maṃ evaṃ jānanti: "
 msgstr "Here they know me as "
 
-msgctxt "dn21:1.11.16"
+msgctxt "dn21:1.11.15"
 msgid "“gopako devaputto gopako devaputto”ti. "
 msgstr "the god Gopaka. "
 
-msgctxt "dn21:1.11.17"
+msgctxt "dn21:1.11.16"
 msgid "Tumhe pana, mārisā, bhagavati brahmacariyaṃ caritvā hīnaṃ gandhabbakāyaṃ upapannā. "
 msgstr "But you, having led the spiritual life under the Buddha, were reborn in the inferior fairy realm.’ "
 
-msgctxt "dn21:1.11.18"
+msgctxt "dn21:1.11.17"
 msgid "Duddiṭṭharūpaṃ vata bho addasāma, ye mayaṃ addasāma sahadhammike hīnaṃ gandhabbakāyaṃ upapanne’ti. "
 msgstr " "
 
 # NOTE: It seems that the patilabhimsu must serve duty for the two phrases, an unusual construction in prose. Either that or a verb for rebirth has been omitted. Comm: "Tattha diṭṭheva dhammeti tasmiññeva attabhāve jhānasatiṃ paṭilabhiṃsu. Tattheva ṭhatvā cutā pana kāyaṃ brahmapurohitaṃ brahmapurohitasarīraṃ paṭilabhiṃsūti evamattho daṭṭhabbo."
 #. HTML: </p><p>
-msgctxt "dn21:1.11.19"
+msgctxt "dn21:1.11.18"
 msgid "Tesaṃ, bhante, gopakena devaputtena paṭicoditānaṃ dve devā diṭṭheva dhamme satiṃ paṭilabhiṃsu kāyaṃ brahmapurohitaṃ, eko pana devo kāme ajjhāvasi. "
 msgstr "When scolded by Gopaka, two of those gods in that very life gained mindfulness leading to the host of Brahmā’s Ministers. But one god remained attached to sensuality. "
 
@@ -1441,165 +1441,165 @@ msgid "“Kathaṃ paṭipanno pana, mārisa, bhikkhu papañcasaññāsaṅkhān
 msgstr "“But how does a mendicant fittingly practice for the cessation of concepts of identity that emerge from the proliferation of perceptions?” "
 
 #. HTML: </p><h3>
-msgctxt "dn21:2.3.2"
+msgctxt "dn21:2.3.2.0"
 msgid "2.2. Vedanākammaṭṭhāna "
 msgstr "2.2. Meditation on Feelings "
 
 #. HTML: </h3><p>
 #. REF: pts-vp-pli2.278, sc60
-msgctxt "dn21:2.3.3"
+msgctxt "dn21:2.3.2"
 msgid "“Somanassampāhaṃ, devānaminda, duvidhena vadāmi—"
 msgstr "“Lord of gods, there are two kinds of happiness, I say: "
 
-msgctxt "dn21:2.3.4"
+msgctxt "dn21:2.3.3"
 msgid "sevitabbampi, asevitabbampi. "
 msgstr "that which you should cultivate, and that which you should not cultivate. "
 
-msgctxt "dn21:2.3.5"
+msgctxt "dn21:2.3.4"
 msgid "Domanassampāhaṃ, devānaminda, duvidhena vadāmi—"
 msgstr "There are two kinds of sadness, I say: "
 
-msgctxt "dn21:2.3.6"
+msgctxt "dn21:2.3.5"
 msgid "sevitabbampi, asevitabbampi. "
 msgstr "that which you should cultivate, and that which you should not cultivate. "
 
-msgctxt "dn21:2.3.7"
+msgctxt "dn21:2.3.6"
 msgid "Upekkhampāhaṃ, devānaminda, duvidhena vadāmi—"
 msgstr "There are two kinds of equanimity, I say: "
 
-msgctxt "dn21:2.3.8"
+msgctxt "dn21:2.3.7"
 msgid "sevitabbampi, asevitabbampi. "
 msgstr "that which you should cultivate, and that which you should not cultivate. "
 
 #. HTML: </p><p>
 #. REF: sc61
-msgctxt "dn21:2.3.9"
+msgctxt "dn21:2.3.8"
 msgid "Somanassampāhaṃ, devānaminda, duvidhena vadāmi sevitabbampi, asevitabbampīti iti kho panetaṃ vuttaṃ, kiñcetaṃ paṭicca vuttaṃ? "
 msgstr "Why did I say that there are two kinds of happiness? "
 
 # NOTE: RD and MW both read this passage as applying to the Buddha, evidently taking jaññā to be absolutive. But cp. AN 9.6, where the identical idiom is used. There it cannot be the Buddha, so jaññā must be optative 3 singular. BB renders “If one knows of a person”. Note that I designed my rendering so as to enable breaking up the otherwise unwieldy sentence.
-msgctxt "dn21:2.3.10"
+msgctxt "dn21:2.3.9"
 msgid "Tattha yaṃ jaññā somanassaṃ "
 msgstr "Take a happiness of which you know: "
 
-msgctxt "dn21:2.3.11"
+msgctxt "dn21:2.3.10"
 msgid "‘imaṃ kho me somanassaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyantī’ti, evarūpaṃ somanassaṃ na sevitabbaṃ. "
 msgstr "‘When I cultivate this kind of happiness, unskillful qualities grow, and skillful qualities decline.’ You should not cultivate that kind of happiness. "
 
-msgctxt "dn21:2.3.12"
+msgctxt "dn21:2.3.11"
 msgid "Tattha yaṃ jaññā somanassaṃ "
 msgstr "Take a happiness of which you know: "
 
-msgctxt "dn21:2.3.13"
+msgctxt "dn21:2.3.12"
 msgid "‘imaṃ kho me somanassaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhantī’ti, evarūpaṃ somanassaṃ sevitabbaṃ. "
 msgstr "‘When I cultivate this kind of happiness, unskillful qualities decline, and skillful qualities grow.’ You should cultivate that kind of happiness. "
 
 #. VAR: te → se (pts1)
-msgctxt "dn21:2.3.14"
+msgctxt "dn21:2.3.13"
 msgid "Tattha yañce savitakkaṃ savicāraṃ, yañce avitakkaṃ avicāraṃ, ye avitakke avicāre, te paṇītatare. "
 msgstr "And that which is free of placing the mind and keeping it connected is better than that which still involves placing the mind and keeping it connected. "
 
-msgctxt "dn21:2.3.15"
+msgctxt "dn21:2.3.14"
 msgid "Somanassampāhaṃ, devānaminda, duvidhena vadāmi sevitabbampi, asevitabbampīti. "
 msgstr "That’s why I said there are two kinds of happiness. "
 
-msgctxt "dn21:2.3.16"
+msgctxt "dn21:2.3.15"
 msgid "Iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vuttaṃ. "
 msgstr " "
 
 #. HTML: </p><p>
 #. REF: pts-vp-pli2.279, sc62
-msgctxt "dn21:2.3.17"
+msgctxt "dn21:2.3.16"
 msgid "Domanassampāhaṃ, devānaminda, duvidhena vadāmi sevitabbampi, asevitabbampīti iti kho panetaṃ vuttaṃ, kiñcetaṃ paṭicca vuttaṃ? "
 msgstr "Why did I say that there are two kinds of sadness? "
 
-msgctxt "dn21:2.3.18"
+msgctxt "dn21:2.3.17"
 msgid "Tattha yaṃ jaññā domanassaṃ "
 msgstr "Take a sadness of which you know: "
 
-msgctxt "dn21:2.3.19"
+msgctxt "dn21:2.3.18"
 msgid "‘imaṃ kho me domanassaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyantī’ti, evarūpaṃ domanassaṃ na sevitabbaṃ. "
 msgstr "‘When I cultivate this kind of sadness, unskillful qualities grow, and skillful qualities decline.’ You should not cultivate that kind of sadness. "
 
-msgctxt "dn21:2.3.20"
+msgctxt "dn21:2.3.19"
 msgid "Tattha yaṃ jaññā domanassaṃ "
 msgstr "Take a sadness of which you know: "
 
-msgctxt "dn21:2.3.21"
+msgctxt "dn21:2.3.20"
 msgid "‘imaṃ kho me domanassaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhantī’ti, evarūpaṃ domanassaṃ sevitabbaṃ. "
 msgstr "‘When I cultivate this kind of sadness, unskillful qualities decline, and skillful qualities grow.’ You should cultivate that kind of sadness. "
 
-msgctxt "dn21:2.3.22"
+msgctxt "dn21:2.3.21"
 msgid "Tattha yañce savitakkaṃ savicāraṃ, yañce avitakkaṃ avicāraṃ, ye avitakke avicāre, te paṇītatare. "
 msgstr "And that which is free of placing the mind and keeping it connected is better than that which still involves placing the mind and keeping it connected. "
 
-msgctxt "dn21:2.3.23"
+msgctxt "dn21:2.3.22"
 msgid "Domanassampāhaṃ, devānaminda, duvidhena vadāmi sevitabbampi, asevitabbampīti "
 msgstr "That’s why I said there are two kinds of sadness. "
 
-msgctxt "dn21:2.3.24"
+msgctxt "dn21:2.3.23"
 msgid "iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vuttaṃ. "
 msgstr " "
 
 #. HTML: </p><p>
 #. REF: sc63
-msgctxt "dn21:2.3.25"
+msgctxt "dn21:2.3.24"
 msgid "Upekkhampāhaṃ, devānaminda, duvidhena vadāmi sevitabbampi, asevitabbampīti iti kho panetaṃ vuttaṃ, kiñcetaṃ paṭicca vuttaṃ? "
 msgstr "Why did I say that there are two kinds of equanimity? "
 
-msgctxt "dn21:2.3.26"
+msgctxt "dn21:2.3.25"
 msgid "Tattha yaṃ jaññā upekkhaṃ "
 msgstr "Take an equanimity of which you know: "
 
-msgctxt "dn21:2.3.27"
+msgctxt "dn21:2.3.26"
 msgid "‘imaṃ kho me upekkhaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyantī’ti, evarūpā upekkhā na sevitabbā. "
 msgstr "‘When I cultivate this kind of equanimity, unskillful qualities grow, and skillful qualities decline.’ You should not cultivate that kind of equanimity. "
 
-msgctxt "dn21:2.3.28"
+msgctxt "dn21:2.3.27"
 msgid "Tattha yaṃ jaññā upekkhaṃ "
 msgstr "Take an equanimity of which you know: "
 
-msgctxt "dn21:2.3.29"
+msgctxt "dn21:2.3.28"
 msgid "‘imaṃ kho me upekkhaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhantī’ti, evarūpā upekkhā sevitabbā. "
 msgstr "‘When I cultivate this kind of equanimity, unskillful qualities decline, and skillful qualities grow.’ You should cultivate that kind of equanimity. "
 
-msgctxt "dn21:2.3.30"
+msgctxt "dn21:2.3.29"
 msgid "Tattha yañce savitakkaṃ savicāraṃ, yañce avitakkaṃ avicāraṃ, ye avitakke avicāre, te paṇītatare. "
 msgstr "And that which is free of placing the mind and keeping it connected is better than that which still involves placing the mind and keeping it connected. "
 
-msgctxt "dn21:2.3.31"
+msgctxt "dn21:2.3.30"
 msgid "Upekkhampāhaṃ, devānaminda, duvidhena vadāmi sevitabbampi, asevitabbampīti "
 msgstr "That’s why I said there are two kinds of equanimity. "
 
-msgctxt "dn21:2.3.32"
+msgctxt "dn21:2.3.31"
 msgid "iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vuttaṃ. "
 msgstr " "
 
 #. HTML: </p><p>
 #. REF: sc64
-msgctxt "dn21:2.3.33"
+msgctxt "dn21:2.3.32"
 msgid "Evaṃ paṭipanno kho, devānaminda, bhikkhu papañcasaññāsaṅkhānirodhasāruppagāminiṃ paṭipadaṃ paṭipanno hotī”ti. "
 msgstr "That’s how a mendicant fittlingly practices for the cessation of concepts of identity that emerge from the proliferation of perceptions.” "
 
 #. HTML: </p><p>
-msgctxt "dn21:2.3.34"
+msgctxt "dn21:2.3.33"
 msgid "Itthaṃ bhagavā sakkassa devānamindassa pañhaṃ puṭṭho byākāsi. "
 msgstr "Such was the Buddha’s answer to Sakka. "
 
-msgctxt "dn21:2.3.35"
+msgctxt "dn21:2.3.34"
 msgid "Attamano sakko devānamindo bhagavato bhāsitaṃ abhinandi anumodi: "
 msgstr "Delighted, Sakka approved and agreed with what the Buddha said, saying, "
 
-msgctxt "dn21:2.3.36"
+msgctxt "dn21:2.3.35"
 msgid "“evametaṃ, bhagavā, evametaṃ, sugata. "
 msgstr "“That’s so true, Blessed One! That’s so true, Holy One! "
 
-msgctxt "dn21:2.3.37"
+msgctxt "dn21:2.3.36"
 msgid "Tiṇṇā mettha kaṅkhā vigatā kathaṅkathā bhagavato pañhaveyyākaraṇaṃ sutvā”ti. "
 msgstr "Hearing the Buddha’s answer, I’ve gone beyond doubt and got rid of indecision.” "
 
 #. HTML: </p><h3>
-msgctxt "dn21:2.3.38"
+msgctxt "dn21:2.4.0"
 msgid "2.3. Pātimokkhasaṃvara "
 msgstr "2.3. Restraint in the Monastic Code "
 
@@ -1758,7 +1758,7 @@ msgid "Tiṇṇā mettha kaṅkhā vigatā kathaṅkathā bhagavato pañhaveyyā
 msgstr "Hearing the Buddha’s answer, I’ve gone beyond doubt and got rid of indecision.” "
 
 #. HTML: </p><h3>
-msgctxt "dn21:2.4.36"
+msgctxt "dn21:2.5.0"
 msgid "2.4. Indriyasaṃvara "
 msgstr "2.4. Sense Restraint "
 
@@ -2062,52 +2062,52 @@ msgid "Ahaṃ kho pana, bhante, bhagavato sāvako sotāpanno avinipātadhammo ni
 msgstr "But sir, I am the Buddha’s disciple, a stream-enterer, not liable to be reborn in the underworld, bound for awakening.” "
 
 #. HTML: </p><h3>
-msgctxt "dn21:2.7.21"
+msgctxt "dn21:2.7.21.0"
 msgid "2.5. Somanassapaṭilābhakathā "
 msgstr "2.5. On Feeling Happy "
 
 #. HTML: </h3><p>
 #. REF: pts-vp-pli2.285, sc85
-msgctxt "dn21:2.7.22"
+msgctxt "dn21:2.7.21"
 msgid "“Abhijānāsi no tvaṃ, devānaminda, ito pubbe evarūpaṃ vedapaṭilābhaṃ somanassapaṭilābhan”ti? "
 msgstr "“Lord of gods, do you recall ever feeling such joy and happiness before?” "
 
 #. HTML: </p><p>
-msgctxt "dn21:2.7.23"
+msgctxt "dn21:2.7.22"
 msgid "“Abhijānāmahaṃ, bhante, ito pubbe evarūpaṃ vedapaṭilābhaṃ somanassapaṭilābhan”ti. "
 msgstr "“I do, sir.” "
 
 #. HTML: </p><p>
-msgctxt "dn21:2.7.24"
+msgctxt "dn21:2.7.23"
 msgid "“Yathā kathaṃ pana tvaṃ, devānaminda, abhijānāsi ito pubbe evarūpaṃ vedapaṭilābhaṃ somanassapaṭilābhan”ti? "
 msgstr "“But how?” "
 
 #. HTML: </p><p>
 #. REF: sc86
 #. VAR: samupabyūḷho → samūpabyuḷho (s1) | samupabyuḷho (s2, s3, km) | samūpabbūḷho (pts1)
-msgctxt "dn21:2.7.25"
+msgctxt "dn21:2.7.24"
 msgid "“Bhūtapubbaṃ, bhante, devāsurasaṅgāmo samupabyūḷho ahosi. "
 msgstr "“Once upon a time, sir, a battle was fought between the gods and the demons. "
 
 #. VAR: parājayiṃsu → parājiyiṃsu (bj) | parājiṃsu (pts1)
-msgctxt "dn21:2.7.26"
+msgctxt "dn21:2.7.25"
 msgid "Tasmiṃ kho pana, bhante, saṅgāme devā jiniṃsu, asurā parājayiṃsu. "
 msgstr "In that battle the gods won and the demons lost. "
 
-msgctxt "dn21:2.7.27"
+msgctxt "dn21:2.7.26"
 msgid "Tassa mayhaṃ, bhante, taṃ saṅgāmaṃ abhivijinitvā vijitasaṅgāmassa etadahosi: "
 msgstr "It occurred to me as victor, "
 
 #. VAR: ubhayametaṃ → ubhayamettha (bj, s1-3, km)
-msgctxt "dn21:2.7.28"
+msgctxt "dn21:2.7.27"
 msgid "‘yā ceva dāni dibbā ojā yā ca asurā ojā, ubhayametaṃ devā paribhuñjissantī’ti. "
 msgstr "‘Now the gods shall enjoy both the nectar of the gods and the nectar of the demons.’ "
 
-msgctxt "dn21:2.7.29"
+msgctxt "dn21:2.7.28"
 msgid "So kho pana me, bhante, vedapaṭilābho somanassapaṭilābho sadaṇḍāvacaro sasatthāvacaro na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattati. "
 msgstr "But sir, that joy and happiness is in the sphere of the rod and the sword. It doesn’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. "
 
-msgctxt "dn21:2.7.30"
+msgctxt "dn21:2.7.29"
 msgid "Yo kho pana me ayaṃ, bhante, bhagavato dhammaṃ sutvā vedapaṭilābho somanassapaṭilābho, so adaṇḍāvacaro asatthāvacaro ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattatī”ti. "
 msgstr "But the joy and happiness I feel listening to the Buddha’s teaching is not in the sphere of the rod and the sword. It does lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment.” "
 

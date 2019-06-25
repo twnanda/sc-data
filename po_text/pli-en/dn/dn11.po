@@ -118,21 +118,21 @@ msgid "Evāyaṃ nāḷandā bhiyyoso mattāya bhagavati abhippasīdissatī’�
 msgstr "and the Buddha said the following. "
 
 #. HTML: </p><h2>
-msgctxt "dn11:3.7"
+msgctxt "dn11:3.7.0"
 msgid "1. Iddhipāṭihāriya "
 msgstr "1. The Demonstration of Psychic Power "
 
 #. HTML: </h2><p>
 #. REF: sc4
-msgctxt "dn11:3.8"
+msgctxt "dn11:3.7"
 msgid "“Tīṇi kho imāni, kevaṭṭa, pāṭihāriyāni mayā sayaṃ abhiññā sacchikatvā paveditāni. "
 msgstr "“Kevaddha, there are three kinds of demonstration, which I declare having realized them with my own insight. "
 
-msgctxt "dn11:3.9"
+msgctxt "dn11:3.8"
 msgid "Katamāni tīṇi? "
 msgstr "What three? "
 
-msgctxt "dn11:3.10"
+msgctxt "dn11:3.9"
 msgid "Iddhipāṭihāriyaṃ, ādesanāpāṭihāriyaṃ, anusāsanīpāṭihāriyaṃ. "
 msgstr "The demonstration of psychic power, the demonstration of revealing, and the demonstration of instruction. "
 
@@ -201,7 +201,7 @@ msgid "“Imaṃ kho ahaṃ, kevaṭṭa, iddhipāṭihāriye ādīnavaṃ sampa
 msgstr "“Seeing this drawback in psychic power, I’m horrified, repelled, and disgusted by demonstrations of psychic power. "
 
 #. HTML: </p><h2>
-msgctxt "dn11:5.8"
+msgctxt "dn11:6.0"
 msgid "2. Ādesanāpāṭihāriya "
 msgstr "2. The Demonstration of Revealing "
 
@@ -284,7 +284,7 @@ msgid "“Imaṃ kho ahaṃ, kevaṭṭa, ādesanāpāṭihāriye ādīnavaṃ s
 msgstr "“Seeing this drawback in psychic power, I’m horrified, repelled, and disgusted by demonstrations of psychic power. "
 
 #. HTML: </p><h2>
-msgctxt "dn11:7.9"
+msgctxt "dn11:8.0"
 msgid "3. Anusāsanīpāṭihāriya "
 msgstr "3. The Demonstration of Instruction "
 
@@ -366,17 +366,17 @@ msgid "Imāni kho, kevaṭṭa, tīṇi pāṭihāriyāni mayā sayaṃ abhiññ
 msgstr "These, Kevaddha, are the three kinds of demonstration, which I declare having realized them with my own insight. "
 
 #. HTML: </p><h2>
-msgctxt "dn11:67.2"
+msgctxt "dn11:67.2.0"
 msgid "4. Bhūtanirodhesakabhikkhuvatthu "
 msgstr "4. On the Mendicant In Search of the Cessation of Being "
 
 #. HTML: </h2><p>
 #. REF: sc17
-msgctxt "dn11:67.3"
+msgctxt "dn11:67.2"
 msgid "Bhūtapubbaṃ, kevaṭṭa, imasmiññeva bhikkhusaṅghe aññatarassa bhikkhuno evaṃ cetaso parivitakko udapādi: "
 msgstr "Once it so happened, Kevaddha, that a mendicant in this very Saṅgha had the following thought, "
 
-msgctxt "dn11:67.4"
+msgctxt "dn11:67.3"
 msgid "‘kattha nu kho ime cattāro mahābhūtā aparisesā nirujjhanti, seyyathidaṃ—pathavīdhātu āpodhātu tejodhātu vāyodhātū’ti? "
 msgstr "‘Where do these four primary elements cease without anything left over, namely, the elements of earth, water, fire, and air?’ "
 
@@ -757,7 +757,7 @@ msgid "‘kattha nu kho, bhante, ime cattāro mahābhūtā aparisesā nirujjhant
 msgstr "‘Sir, where do these four primary elements cease without anything left over, namely, the elements of earth, water, fire, and air?’ "
 
 #. HTML: </p><h3>
-msgctxt "dn11:84.4"
+msgctxt "dn11:85.0"
 msgid "4.1. Tīradassisakuṇupamā "
 msgstr "4.1. The Simile of the Land-Spotting Bird "
 

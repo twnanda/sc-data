@@ -41,7 +41,7 @@ msgid "Sattamaṃ. "
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "an3.47:1.6"
+msgctxt "an3.47:2.0"
 msgid "Asaṅkhatalakkhaṇasutta "
 msgstr "Characteristics of the Unconditioned "
 

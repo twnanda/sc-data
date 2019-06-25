@@ -28,12 +28,12 @@ msgid "21. Pattasikkhāpada"
 msgstr "21. The training rule on bowls"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np21:0.6"
+msgctxt "pli-tv-bu-vb-np21:1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-np21:1.0a"
+msgctxt "pli-tv-bu-vb-np21:1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -110,24 +110,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-np21:1.16a"
+msgctxt "pli-tv-bu-vb-np21:1.16.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc4, ms1V_2255
-msgctxt "pli-tv-bu-vb-np21:1.17"
+msgctxt "pli-tv-bu-vb-np21:1.16"
 msgid "“Yo pana bhikkhu atirekapattaṃ dhāreyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk keeps an extra bowl, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc5, ms1V_2256
-msgctxt "pli-tv-bu-vb-np21:1.18"
+msgctxt "pli-tv-bu-vb-np21:1.17"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-np21:2.0a"
+msgctxt "pli-tv-bu-vb-np21:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -200,22 +200,22 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np21:2.16a"
+msgctxt "pli-tv-bu-vb-np21:2.16.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc7, ms1V_2258
-msgctxt "pli-tv-bu-vb-np21:2.17"
+msgctxt "pli-tv-bu-vb-np21:2.16"
 msgid "“Dasāhaparamaṃ atirekapatto dhāretabbo."
 msgstr "‘A monk should have an extra bowl for ten days at the most."
 
-msgctxt "pli-tv-bu-vb-np21:2.18"
+msgctxt "pli-tv-bu-vb-np21:2.17"
 msgid "Taṃ atikkāmayato nissaggiyaṃ pācittiyan”ti."
 msgstr "If he keeps it beyond that, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np21:3.0a"
+msgctxt "pli-tv-bu-vb-np21:3.0"
 msgid ""
 msgstr "Definitions"
 
@@ -440,93 +440,93 @@ msgid "“imaṃ pattaṃ āyasmato dammī”ti."
 msgstr "‘I give this bowl back to you.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np21:3.46a"
+msgctxt "pli-tv-bu-vb-np21:3.46.0"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><p>
 #. REF: sc17, ms1V_2268
-msgctxt "pli-tv-bu-vb-np21:3.47"
+msgctxt "pli-tv-bu-vb-np21:3.46"
 msgid "Dasāhātikkante atikkantasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is more than ten days and he perceives it as more than ten days, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np21:3.48"
+msgctxt "pli-tv-bu-vb-np21:3.47"
 msgid "Dasāhātikkante vematiko, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is more than ten days, but he is unsure if it is, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np21:3.49"
+msgctxt "pli-tv-bu-vb-np21:3.48"
 msgid "Dasāhātikkante anatikkantasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is more than ten days, but he perceives it as less than ten days, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-np21:3.50"
+msgctxt "pli-tv-bu-vb-np21:3.49"
 msgid "Anadhiṭṭhite adhiṭṭhitasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it has not been determined, but he perceives it as determined, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np21:3.51"
+msgctxt "pli-tv-bu-vb-np21:3.50"
 msgid "Avikappite vikappitasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it has not been transferred, but he perceives it as transferred, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np21:3.52"
+msgctxt "pli-tv-bu-vb-np21:3.51"
 msgid "Avissajjite vissajjitasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it has not been given away, but he perceives it as given away, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np21:3.53"
+msgctxt "pli-tv-bu-vb-np21:3.52"
 msgid "Anaṭṭhe naṭṭhasaññī nissaggiyaṃ pācittiyaṃ."
 msgstr "If it has not been lost, but he perceives it as lost, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np21:3.54"
+msgctxt "pli-tv-bu-vb-np21:3.53"
 msgid "Avinaṭṭhe vinaṭṭhasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it has not been destroyed, but he perceives it as destroyed, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np21:3.55"
+msgctxt "pli-tv-bu-vb-np21:3.54"
 msgid "Abhinne bhinnasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it has not been broken, but he perceives it as broken, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np21:3.56"
+msgctxt "pli-tv-bu-vb-np21:3.55"
 msgid "Avilutte viluttasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it has not been stolen, but he perceives it as stolen, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </p><p><span class="rule"> 
 #. REF: sc18, ms1V_2269
-msgctxt "pli-tv-bu-vb-np21:3.57"
+msgctxt "pli-tv-bu-vb-np21:3.56"
 msgid "Nissaggiyaṃ pattaṃ anissajjitvā paribhuñjati, āpatti dukkaṭassa."
 msgstr "If he uses a bowl that should be relinquished without first relinquishing it, he commits an offense of wrong conduct."
 
 #. HTML: </span> 
-msgctxt "pli-tv-bu-vb-np21:3.58"
+msgctxt "pli-tv-bu-vb-np21:3.57"
 msgid "Dasāhānatikkante atikkantasaññī, āpatti dukkaṭassa."
 msgstr "If it is less than ten days, but he perceives it as more than ten days, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np21:3.59"
+msgctxt "pli-tv-bu-vb-np21:3.58"
 msgid "Dasāhānatikkante vematiko, āpatti dukkaṭassa."
 msgstr "If it is less than ten days, but he is unsure if it is, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np21:3.60"
+msgctxt "pli-tv-bu-vb-np21:3.59"
 msgid "Dasāhānatikkante anatikkantasaññī, anāpatti."
 msgstr "If it is less than ten days and he perceives it as less than ten days, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np21:3.60a"
+msgctxt "pli-tv-bu-vb-np21:3.60.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc19, ms1V_2270
-msgctxt "pli-tv-bu-vb-np21:3.61"
+msgctxt "pli-tv-bu-vb-np21:3.60"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
 #. VAR: adhiṭṭheti → adhiṭṭhāti (bj)
-msgctxt "pli-tv-bu-vb-np21:3.62"
+msgctxt "pli-tv-bu-vb-np21:3.61"
 msgid "antodasāhaṃ adhiṭṭheti, vikappeti, vissajjeti, nassati, vinassati, bhijjati, acchinditvā gaṇhanti, vissāsaṃ gaṇhanti,"
 msgstr "if within ten days it has been determined, transferred, given away, lost, destroyed, broken, stolen, or taken on trust;"
 
-msgctxt "pli-tv-bu-vb-np21:3.63"
+msgctxt "pli-tv-bu-vb-np21:3.62"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-np21:3.64"
+msgctxt "pli-tv-bu-vb-np21:3.63"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 

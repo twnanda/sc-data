@@ -35,7 +35,7 @@ msgid "Paṭhamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.22" id="22"><article><div class="hgroup"><h1>
-msgctxt "an1.21-30:21.1.4"
+msgctxt "an1.21-30:0.1"
 msgid "22 "
 msgstr "22 "
 
@@ -55,7 +55,7 @@ msgid "Dutiyaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.23" id="23"><article><div class="hgroup"><h1>
-msgctxt "an1.21-30:22.1.4"
+msgctxt "an1.21-30:0.1"
 msgid "23 "
 msgstr "23 "
 
@@ -75,7 +75,7 @@ msgid "Tatiyaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.24" id="24"><article><div class="hgroup"><h1>
-msgctxt "an1.21-30:23.1.4"
+msgctxt "an1.21-30:0.1"
 msgid "24 "
 msgstr "24 "
 
@@ -95,7 +95,7 @@ msgid "Catutthaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.25" id="25"><article><div class="hgroup"><h1>
-msgctxt "an1.21-30:24.1.4"
+msgctxt "an1.21-30:0.1"
 msgid "25 "
 msgstr "25 "
 
@@ -115,7 +115,7 @@ msgid "Pañcamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.26" id="26"><article><div class="hgroup"><h1>
-msgctxt "an1.21-30:25.1.4"
+msgctxt "an1.21-30:0.1"
 msgid "26 "
 msgstr "26 "
 
@@ -135,7 +135,7 @@ msgid "Chaṭṭhaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.27" id="27"><article><div class="hgroup"><h1>
-msgctxt "an1.21-30:26.1.4"
+msgctxt "an1.21-30:0.1"
 msgid "27 "
 msgstr "27 "
 
@@ -155,7 +155,7 @@ msgid "Sattamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.28" id="28"><article><div class="hgroup"><h1>
-msgctxt "an1.21-30:27.1.4"
+msgctxt "an1.21-30:0.1"
 msgid "28 "
 msgstr "28 "
 
@@ -175,7 +175,7 @@ msgid "Aṭṭhamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.29" id="29"><article><div class="hgroup"><h1>
-msgctxt "an1.21-30:28.1.4"
+msgctxt "an1.21-30:0.1"
 msgid "29 "
 msgstr "29 "
 
@@ -195,7 +195,7 @@ msgid "Navamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.30" id="30"><article><div class="hgroup"><h1>
-msgctxt "an1.21-30:29.1.4"
+msgctxt "an1.21-30:0.1"
 msgid "30 "
 msgstr "30 "
 

@@ -14,7 +14,7 @@ msgstr "The Āṭānāṭiya Protection "
 
 # NOTE: i believe this is only place in whole canon that lists the bhanavara at the start.
 #. HTML: </h1></div><h2>
-msgctxt "dn32:0.3"
+msgctxt "dn32:1.0"
 msgid "1. Paṭhamabhāṇavāra "
 msgstr "1. The First Recitation Section "
 
@@ -1498,7 +1498,7 @@ msgid "Paṭhamabhāṇavāro niṭṭhito. "
 msgstr "The first recitation section is finished. "
 
 #. HTML: </p><h2>
-msgctxt "dn32:11.7"
+msgctxt "dn32:12.0"
 msgid "2. Dutiyabhāṇavāra "
 msgstr "2. The Second Recitation Section "
 

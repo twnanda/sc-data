@@ -28,7 +28,7 @@ msgid "evamevaṃ, bhikkhave, yassa kassaci kāyagatā sati bhāvitā bahulīkat
 msgstr "In the same way, anyone who has developed and cultivated mindfulness of the body includes all of the skillful qualities that play a part in realization.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.576" id="576"><article><div class="hgroup"><h1>
-msgctxt "an1.575-615:575.1.3"
+msgctxt "an1.575-615:0.1"
 msgid "576–582 "
 msgstr "576–582 "
 
@@ -52,7 +52,7 @@ msgid "Ayaṃ kho, bhikkhave, ekadhammo bhāvito bahulīkato mahato saṃvegāya
 msgstr "This one thing, when developed and cultivated, leads to great urgency … great benefit … great sanctuary … mindfulness and awareness … gaining knowledge and vision … a happy abiding in the present life … the realization of the fruit of knowledge and freedom.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.583" id="583"><article><div class="hgroup"><h1>
-msgctxt "an1.575-615:576.1.5"
+msgctxt "an1.575-615:0.1"
 msgid "583 "
 msgstr "583 "
 
@@ -75,7 +75,7 @@ msgid "Imasmiṃ kho, bhikkhave, ekadhamme bhāvite bahulīkate kāyopi passambh
 msgstr "When this one thing is developed and cultivated, the body and mind become tranquil, thinking and considering settle down, and all of the qualities that play a part in realization are fully developed.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.584" id="584"><article><div class="hgroup"><h1>
-msgctxt "an1.575-615:583.1.5"
+msgctxt "an1.575-615:0.1"
 msgid "584 "
 msgstr "584 "
 
@@ -98,7 +98,7 @@ msgid "Imasmiṃ kho, bhikkhave, ekadhamme bhāvite bahulīkate anuppannā ceva 
 msgstr "When this one thing is developed and cultivated, unskillful qualities do not arise, and, if they’ve already arisen, they are given up.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.585" id="585"><article><div class="hgroup"><h1>
-msgctxt "an1.575-615:584.1.5"
+msgctxt "an1.575-615:0.1"
 msgid "585 "
 msgstr "585 "
 
@@ -121,7 +121,7 @@ msgid "Imasmiṃ kho, bhikkhave, ekadhamme bhāvite bahulīkate anuppannā ceva 
 msgstr "When this one thing is developed and cultivated, skillful qualities arise, and, once they’ve arisen, they increase and grow.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.586" id="586"><article><div class="hgroup"><h1>
-msgctxt "an1.575-615:585.1.5"
+msgctxt "an1.575-615:0.1"
 msgid "586 "
 msgstr "586 "
 
@@ -144,7 +144,7 @@ msgid "Imasmiṃ kho, bhikkhave, ekadhamme bhāvite bahulīkate avijjā pahīyat
 msgstr "When this one thing is developed and cultivated, ignorance is given up, knowledge arises, the conceit ‘I am’ is given up, the underlying tendencies are uprooted, and the fetters are given up.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.587" id="587"><article><div class="hgroup"><h1>
-msgctxt "an1.575-615:586.1.5"
+msgctxt "an1.575-615:0.1"
 msgid "587–588 "
 msgstr "587–588 "
 
@@ -168,7 +168,7 @@ msgid "Ayaṃ kho, bhikkhave, ekadhammo bhāvito bahulīkato paññāpabhedāya 
 msgstr "This one thing, mendicants, when developed and cultivated leads to demolition by wisdom … to extinguishment by not grasping.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.589" id="589"><article><div class="hgroup"><h1>
-msgctxt "an1.575-615:587.1.5"
+msgctxt "an1.575-615:0.1"
 msgid "589–591 "
 msgstr "589–591 "
 
@@ -191,7 +191,7 @@ msgid "Imasmiṃ kho, bhikkhave, ekadhamme bhāvite bahulīkate anekadhātupaṭ
 msgstr "When this one thing is developed and cultivated there is the penetration of many elements … the penetration of diverse elements … the analysis of many elements.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.592" id="592"><article><div class="hgroup"><h1>
-msgctxt "an1.575-615:589.1.5"
+msgctxt "an1.575-615:0.1"
 msgid "592–595 "
 msgstr "592–595 "
 
@@ -214,7 +214,7 @@ msgid "Ayaṃ kho, bhikkhave, ekadhammo bhāvito bahulīkato sotāpattiphalasacc
 msgstr "This one thing, when developed and cultivated, leads to the realization of the fruit of stream-entry … once-return … non-return … perfection.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.596" id="596"><article><div class="hgroup"><h1>
-msgctxt "an1.575-615:592.1.5"
+msgctxt "an1.575-615:0.1"
 msgid "596–615 "
 msgstr "596–615 "
 

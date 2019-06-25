@@ -28,7 +28,7 @@ msgid "30. Rahonisajjasikkhāpada"
 msgstr "The training rule on sitting in private"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc30:1.0a"
+msgctxt "pli-tv-bu-vb-pc30:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -91,18 +91,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc30:1.13a"
+msgctxt "pli-tv-bu-vb-pc30:1.13.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc3, ms2V_650
-msgctxt "pli-tv-bu-vb-pc30:1.14"
+msgctxt "pli-tv-bu-vb-pc30:1.13"
 msgid "“Yo pana bhikkhu bhikkhuniyā saddhiṃ eko ekāya raho nisajjaṃ kappeyya, pācittiyan”ti."
 msgstr "‘If a monk sits in private alone with a nun, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc30:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc30:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -218,7 +218,7 @@ msgid "Ubho vā nisinnā honti ubho vā nipannā, āpatti pācittiyassa."
 msgstr "If both are seated or both are lying down, he commits an offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc30:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc30:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -251,7 +251,7 @@ msgid "Araho arahosaññī, anāpatti."
 msgstr "If it is not private, and he perceives it as not private, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc30:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc30:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

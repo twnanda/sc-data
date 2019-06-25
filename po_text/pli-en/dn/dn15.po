@@ -13,7 +13,7 @@ msgid "Mahānidānasutta "
 msgstr "The Great Discourse on Causation "
 
 #. HTML: </h1></div><h2>
-msgctxt "dn15:0.3"
+msgctxt "dn15:1.0"
 msgid "1. Paṭiccasamuppāda "
 msgstr "1. Dependent Origination "
 
@@ -622,7 +622,7 @@ msgid "Ettāvatā adhivacanapatho, ettāvatā niruttipatho, ettāvatā paññatt
 msgstr "This is how far the scope of language, terminology, and description extends; how far the sphere of wisdom extends; how far the cycle of rebirths continues so that this state of existence is to be found; namely, name and form together with consciousness. "
 
 #. HTML: </p><h2>
-msgctxt "dn15:22.7"
+msgctxt "dn15:23.0"
 msgid "2. Attapaññatti "
 msgstr "2. Describing the Self "
 
@@ -727,7 +727,7 @@ msgid "Ettāvatā kho, ānanda, attānaṃ paññapento paññapeti. "
 msgstr "That’s how those who describe the self describe it. "
 
 #. HTML: </p><h2>
-msgctxt "dn15:24.14"
+msgctxt "dn15:25.0"
 msgid "3. Naattapaññatti "
 msgstr "3. Not Describing the Self "
 
@@ -827,7 +827,7 @@ msgid "Ettāvatā kho, ānanda, attānaṃ na paññapento na paññapeti. "
 msgstr "That’s how those who don’t describe the self don’t describe it. "
 
 #. HTML: </p><h2>
-msgctxt "dn15:26.14"
+msgctxt "dn15:27.0"
 msgid "4. Attasamanupassanā "
 msgstr "4. Regarding a Self "
 
@@ -1059,7 +1059,7 @@ msgid "Yāvatā, ānanda, adhivacanaṃ yāvatā adhivacanapatho, yāvatā nirut
 msgstr "A mendicant is freed by directly knowing this: how far language and the scope of language extend; how far terminology and the scope of terminology extend; how far description and the scope of description extend; how far wisdom and the sphere of wisdom extend; how far the cycle of rebirths and its continuation extend. It wouldn’t be appropriate to say that a mendicant freed by directly knowing this holds the view: ‘There is no such thing as knowing and seeing.’ "
 
 #. HTML: </p><h2>
-msgctxt "dn15:32.12"
+msgctxt "dn15:33.0"
 msgid "5. Sattaviññāṇaṭṭhiti "
 msgstr "5. Planes of Consciousness "
 
@@ -1188,7 +1188,7 @@ msgid "“Yato kho, ānanda, bhikkhu imāsañca sattannaṃ viññāṇaṭṭhi
 msgstr "“When a mendicant, having truly understood the origin, ending, gratification, drawback, and escape regarding these seven planes of consciousness and these two dimensions, is freed by not grasping, they’re called a mendicant who is freed by wisdom. "
 
 #. HTML: </p><h2>
-msgctxt "dn15:34.11"
+msgctxt "dn15:35.0"
 msgid "6. Aṭṭhavimokkha "
 msgstr "6. The Eight Liberations "
 

@@ -89,7 +89,7 @@ msgid "Atthi, bhikkhave, āsavā dassanā pahātabbā, atthi āsavā saṃvarā 
 msgstr "Some defilements should be given up by seeing, some by restraint, some by using, some by enduring, some by avoiding, some by dispelling, and some by developing. "
 
 #. HTML: </p><h2>
-msgctxt "mn2:4.2"
+msgctxt "mn2:5.0"
 msgid "1. Dassanāpahātabbaāsava "
 msgstr "1. Defilements Given Up by Seeing "
 
@@ -319,7 +319,7 @@ msgid "Ime vuccanti, bhikkhave, āsavā dassanā pahātabbā. "
 msgstr "These are called the defilements that should be given up by seeing. "
 
 #. HTML: </p><h2>
-msgctxt "mn2:11.5"
+msgctxt "mn2:12.0"
 msgid "2. Saṃvarāpahātabbaāsava "
 msgstr "2. Defilements Given Up by Restraint "
 
@@ -372,7 +372,7 @@ msgid "Ime vuccanti, bhikkhave, āsavā saṃvarā pahātabbā. "
 msgstr "These are called the defilements that should be given up by restraint. "
 
 #. HTML: </p><h2>
-msgctxt "mn2:12.12"
+msgctxt "mn2:13.0"
 msgid "3. Paṭisevanāpahātabbaāsava "
 msgstr "3. Defilements Given Up by Using "
 
@@ -432,7 +432,7 @@ msgid "Ime vuccanti, bhikkhave, āsavā paṭisevanā pahātabbā. "
 msgstr "These are called the defilements that should be given up by using. "
 
 #. HTML: </p><h2>
-msgctxt "mn2:17.3"
+msgctxt "mn2:18.0"
 msgid "4. Adhivāsanāpahātabbaāsava "
 msgstr "4. Defilements Given Up by Enduring "
 
@@ -458,7 +458,7 @@ msgid "Ime vuccanti, bhikkhave, āsavā adhivāsanā pahātabbā. "
 msgstr "These are called the defilements that should be given up by enduring. "
 
 #. HTML: </p><h2>
-msgctxt "mn2:18.5"
+msgctxt "mn2:19.0"
 msgid "5. Parivajjanāpahātabbaāsava "
 msgstr "5. Defilements Given Up by Avoiding "
 
@@ -488,7 +488,7 @@ msgid "Ime vuccanti, bhikkhave, āsavā parivajjanā pahātabbā. "
 msgstr "These are called the defilements that should be given up by avoiding. "
 
 #. HTML: </p><h2>
-msgctxt "mn2:19.6"
+msgctxt "mn2:20.0"
 msgid "6. Vinodanāpahātabbaāsava "
 msgstr "6. Defilements Given Up by Dispelling "
 
@@ -513,7 +513,7 @@ msgid "Ime vuccanti, bhikkhave, āsavā vinodanā pahātabbā. "
 msgstr "These are called the defilements that should be given up by dispelling. "
 
 #. HTML: </p><h2>
-msgctxt "mn2:20.5"
+msgctxt "mn2:21.0"
 msgid "7. Bhāvanāpahātabbaāsava "
 msgstr "7. Defilements Given Up by Developing "
 

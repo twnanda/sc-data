@@ -28,7 +28,7 @@ msgid "27. Mahāpesakārasikkhāpada"
 msgstr "27. The long training rule on weavers"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np27:1.0a"
+msgctxt "pli-tv-bu-vb-np27:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -310,39 +310,39 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np27:1.62a"
+msgctxt "pli-tv-bu-vb-np27:1.62.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc6, ms1V_2367
-msgctxt "pli-tv-bu-vb-np27:1.63"
+msgctxt "pli-tv-bu-vb-np27:1.62"
 msgid "“Bhikkhuṃ paneva uddissa aññātako gahapati vā gahapatānī vā tantavāyehi cīvaraṃ vāyāpeyya, tatra ce so bhikkhu pubbe appavārito tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjeyya—"
 msgstr "‘If a layman or laywoman is getting robe-cloth woven by weavers for an unrelated monk and, without first being invited, that monk goes to those weavers and specifies the kind of robe-cloth he wants, saying,"
 
 #. VAR: viyyati → vīyati (s1-3)
-msgctxt "pli-tv-bu-vb-np27:1.64"
+msgctxt "pli-tv-bu-vb-np27:1.63"
 msgid "‘idaṃ kho, āvuso, cīvaraṃ maṃ uddissa viyyati."
 msgstr "‘Sirs, this robe-cloth that you are weaving for me,"
 
-msgctxt "pli-tv-bu-vb-np27:1.65"
+msgctxt "pli-tv-bu-vb-np27:1.64"
 msgid "Āyatañca karotha vitthatañca."
 msgstr "make it long and wide;"
 
-msgctxt "pli-tv-bu-vb-np27:1.66"
+msgctxt "pli-tv-bu-vb-np27:1.65"
 msgid "Appitañca suvītañca suppavāyitañca suvilekhitañca suvitacchitañca karotha."
 msgstr "make it closely woven, well-woven, well-stretched, well-scraped, and well-combed;"
 
-msgctxt "pli-tv-bu-vb-np27:1.67"
+msgctxt "pli-tv-bu-vb-np27:1.66"
 msgid "Appeva nāma mayampi āyasmantānaṃ kiñcimattaṃ anupadajjeyyāmā’ti."
 msgstr "and perhaps I will even give you a small gift;’"
 
-msgctxt "pli-tv-bu-vb-np27:1.68"
+msgctxt "pli-tv-bu-vb-np27:1.67"
 msgid "Evañca so bhikkhu vatvā kiñcimattaṃ anupadajjeyya antamaso piṇḍapātamattampi, nissaggiyaṃ pācittiyan”ti."
 msgstr "then, in saying that and afterwards giving them a small gift, even if it is only a bit of almsfood, he commits an offense entailing relinquishment and confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np27:2.0a"
+msgctxt "pli-tv-bu-vb-np27:2.0"
 msgid ""
 msgstr "Definitions"
 
@@ -547,79 +547,79 @@ msgid "āyasmato dammīti."
 msgstr "‘I give this robe-cloth back to you.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-np27:2.39a"
+msgctxt "pli-tv-bu-vb-np27:2.39.0"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><p>
 #. REF: sc20, pts-vp-en2.150, ms1V_2381
-msgctxt "pli-tv-bu-vb-np27:2.40"
+msgctxt "pli-tv-bu-vb-np27:2.39"
 msgid "Aññātake aññātakasaññī pubbe appavārito gahapatikassa tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjati, nissaggiyaṃ pācittiyaṃ."
 msgstr "If the lay person is unrelated and the monk perceives them as unrelated and, without first being invited, he approaches the lay person’s weavers and specifies the kind of robe-cloth he wants, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np27:2.41"
+msgctxt "pli-tv-bu-vb-np27:2.40"
 msgid "Aññātake vematiko pubbe appavārito gahapatikassa tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjati, nissaggiyaṃ pācittiyaṃ."
 msgstr "If the lay person is unrelated, but the monk is unsure if they are and, without first being invited, he approaches the lay person’s weavers and specifies the kind of robe-cloth he wants, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np27:2.42"
+msgctxt "pli-tv-bu-vb-np27:2.41"
 msgid "Aññātake ñātakasaññī pubbe appavārito gahapatikassa tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjati, nissaggiyaṃ pācittiyaṃ."
 msgstr "If the lay person is unrelated, but the monk perceives them as related and, without first being invited, he approaches the lay person’s weavers and specifies the kind of robe-cloth he wants, he commits an offense entailing relinquishment and confession."
 
 #. HTML: </p><p>
 #. REF: sc21, ms1V_2382
-msgctxt "pli-tv-bu-vb-np27:2.43"
+msgctxt "pli-tv-bu-vb-np27:2.42"
 msgid "Ñātake añātakasaññī, āpatti dukkaṭassa."
 msgstr "If the lay person is related, but the monk perceives them as unrelated, he commit an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np27:2.44"
+msgctxt "pli-tv-bu-vb-np27:2.43"
 msgid "Ñātake vematiko, āpatti dukkaṭassa."
 msgstr "If the lay person is related, but the monk is unsure if they are, he commit an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np27:2.45"
+msgctxt "pli-tv-bu-vb-np27:2.44"
 msgid "Ñātake ñātakasaññī, anāpatti."
 msgstr "If the lay person is related and the monk perceives them as related, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-np27:2.45a"
+msgctxt "pli-tv-bu-vb-np27:2.45.0"
 msgid ""
 msgstr "Non-offenses"
 
 #. HTML: </h2><p>
 #. REF: sc22, ms1V_2383
-msgctxt "pli-tv-bu-vb-np27:2.46"
+msgctxt "pli-tv-bu-vb-np27:2.45"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
-msgctxt "pli-tv-bu-vb-np27:2.47"
+msgctxt "pli-tv-bu-vb-np27:2.46"
 msgid "ñātakānaṃ,"
 msgstr "if it is from relatives;"
 
-msgctxt "pli-tv-bu-vb-np27:2.48"
+msgctxt "pli-tv-bu-vb-np27:2.47"
 msgid "pavāritānaṃ,"
 msgstr "if it is from those who have given an invitation;"
 
-msgctxt "pli-tv-bu-vb-np27:2.49"
+msgctxt "pli-tv-bu-vb-np27:2.48"
 msgid "aññassatthāya,"
 msgstr "if it is for the benefit of someone else;"
 
-msgctxt "pli-tv-bu-vb-np27:2.50"
+msgctxt "pli-tv-bu-vb-np27:2.49"
 msgid "attano dhanena,"
 msgstr "if it is by means of his own property;"
 
-msgctxt "pli-tv-bu-vb-np27:2.51"
+msgctxt "pli-tv-bu-vb-np27:2.50"
 msgid "mahagghaṃ vāyāpetukāmassa appagghaṃ vāyāpeti,"
 msgstr "if someone wants to get expensive robe-cloth woven, but he gets them to weave inexpensive robe-cloth instead;"
 
-msgctxt "pli-tv-bu-vb-np27:2.52"
+msgctxt "pli-tv-bu-vb-np27:2.51"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-np27:2.53"
+msgctxt "pli-tv-bu-vb-np27:2.52"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><hr><p class="endsutta">
 #. REF: sc23, ms1V_2384
-msgctxt "pli-tv-bu-vb-np27:2.54"
+msgctxt "pli-tv-bu-vb-np27:2.53"
 msgid "Mahāpesakārasikkhāpadaṃ niṭṭhitaṃ sattamaṃ."
 msgstr "The seventh rule, the long training rule on weavers, is finished."

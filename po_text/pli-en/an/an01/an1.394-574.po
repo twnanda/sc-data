@@ -33,7 +33,7 @@ msgid "Ko pana vādo ye naṃ bahulīkarontī”ti. "
 msgstr "How much more so those who make much of it!” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="395-401" id="395"><article><div class="hgroup"><h1>
-msgctxt "an1.394-574:394.1.4"
+msgctxt "an1.394-574:0.1"
 msgid "395–401 "
 msgstr "395–401 "
 
@@ -44,7 +44,7 @@ msgid "“Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu dutiyaṃ jhānaṃ
 msgstr "“If, mendicants, a mendicant develops the second … third … or fourth absorption … or the heart’s release by love … or the heart’s release by compassion … or the heart’s release by rejoicing … or the heart’s release by equanimity, even as long as a finger snap … "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.402" id="402"><article><div class="hgroup"><h1>
-msgctxt "an1.394-574:395.1.2"
+msgctxt "an1.394-574:0.1"
 msgid "402–405 "
 msgstr "402–405 "
 
@@ -67,7 +67,7 @@ msgid "dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya lok
 msgstr "principles—keen, aware, and mindful, rid of desire and aversion for the world, even for the time of a finger snap … "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.406" id="406"><article><div class="hgroup"><h1>
-msgctxt "an1.394-574:402.1.5"
+msgctxt "an1.394-574:0.1"
 msgid "406–409 "
 msgstr "406–409 "
 
@@ -91,7 +91,7 @@ msgid "uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhā
 msgstr "If they generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are fulfilled by development, even for the time of a finger snap … "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.410" id="410"><article><div class="hgroup"><h1>
-msgctxt "an1.394-574:406.1.5"
+msgctxt "an1.394-574:0.1"
 msgid "410–413 "
 msgstr "410–413 "
 
@@ -102,7 +102,7 @@ msgid "Chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti �
 msgstr "If they develop the basis of psychic power that has immersion due to enthusiasm, and active effort … the basis of psychic power that has immersion due to energy, and active effort … the basis of psychic power that has immersion due to mental development, and active effort … the basis of psychic power that has immersion due to inquiry, and active effort, even for the time of a finger snap … "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.414" id="414"><article><div class="hgroup"><h1>
-msgctxt "an1.394-574:410.1.2"
+msgctxt "an1.394-574:0.1"
 msgid "414–418 "
 msgstr "414–418 "
 
@@ -113,7 +113,7 @@ msgid "Saddhindriyaṃ bhāveti … vīriyindriyaṃ bhāveti … satindriyaṃ 
 msgstr "If they develop the faculty of faith … the faculty of energy … the faculty of mindfulness … the faculty of immersion … the faculty of wisdom, even for the time of a finger snap … "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.419" id="419"><article><div class="hgroup"><h1>
-msgctxt "an1.394-574:414.1.2"
+msgctxt "an1.394-574:0.1"
 msgid "419–423 "
 msgstr "419–423 "
 
@@ -124,7 +124,7 @@ msgid "Saddhābalaṃ bhāveti … vīriyabalaṃ bhāveti … satibalaṃ bhāv
 msgstr "If they develop the power of faith … the power of energy … the power of mindfulness … the power of immersion … the power of wisdom, even for the time of a finger snap … "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.424" id="424"><article><div class="hgroup"><h1>
-msgctxt "an1.394-574:419.1.2"
+msgctxt "an1.394-574:0.1"
 msgid "424–430 "
 msgstr "424–430 "
 
@@ -135,7 +135,7 @@ msgid "Satisambojjhaṅgaṃ bhāveti … dhammavicayasambojjhaṅgaṃ bhāveti
 msgstr "If they develop the awakening factor of mindfulness … the awakening factor of investigation of principles … the awakening factor of energy … the awakening factor of rapture … the awakening factor of tranquility … the awakening factor of immersion … the awakening factor of equanimity, even for the time of a finger snap … "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.431" id="431"><article><div class="hgroup"><h1>
-msgctxt "an1.394-574:424.1.2"
+msgctxt "an1.394-574:0.1"
 msgid "431–438 "
 msgstr "431–438 "
 
@@ -146,7 +146,7 @@ msgid "Sammādiṭṭhiṃ bhāveti … sammāsaṅkappaṃ bhāveti … sammāv
 msgstr "If they develop right view … right thought … right speech … right action … right livelihood … right effort … right mindfulness … right immersion, even for the time of a finger snap … "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.439" id="439"><article><div class="hgroup"><h1>
-msgctxt "an1.394-574:431.1.2"
+msgctxt "an1.394-574:0.1"
 msgid "439–446 "
 msgstr "439–446 "
 
@@ -281,7 +281,7 @@ msgid "evaṃsaññī hoti. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.447" id="447"><article><div class="hgroup"><h1>
-msgctxt "an1.394-574:439.1.33"
+msgctxt "an1.394-574:0.1"
 msgid "447–454 "
 msgstr "447–454 "
 
@@ -292,7 +292,7 @@ msgid "Rūpī rūpāni passati … ajjhattaṃ arūpasaññī bahiddhā rūpāni
 msgstr "Having physical form, they see visions … not perceiving form internally, they see visions externally … they’re focused only on beauty … going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, they enter and remain in the dimension of infinite space … going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, they enter and remain in the dimension of infinite consciousness … going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, they enter and remain in the dimension of nothingness … going totally beyond the dimension of nothingness, they enter and remain in the dimension of neither perception nor non-perception … going totally beyond the dimension of neither perception nor non-perception, they enter and remain in the cessation of perception and feeling … "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.455" id="455"><article><div class="hgroup"><h1>
-msgctxt "an1.394-574:447.1.2"
+msgctxt "an1.394-574:0.1"
 msgid "455–464 "
 msgstr "455–464 "
 
@@ -304,7 +304,7 @@ msgid "Pathavikasiṇaṃ bhāveti … āpokasiṇaṃ bhāveti … tejokasiṇa
 msgstr "They develop the meditation on universal earth … the meditation on universal water … the meditation on universal fire … the meditation on universal air … the meditation on universal blue … the meditation on universal yellow … the meditation on universal red … the meditation on universal white … the meditation on universal space … the meditation on universal consciousness … "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.465" id="465"><article><div class="hgroup"><h1>
-msgctxt "an1.394-574:455.1.2"
+msgctxt "an1.394-574:0.1"
 msgid "465–474 "
 msgstr "465–474 "
 
@@ -316,7 +316,7 @@ msgid "Asubhasaññaṃ bhāveti … maraṇasaññaṃ bhāveti … āhāre pa�
 msgstr "They develop the perception of ugliness … the perception of death … the perception of the repulsiveness of food … the perception of dissatisfaction with the whole world … the perception of impermanence … the perception of suffering in impermanence … the perception of not-self in suffering … the perception of giving up … the perception of fading away … the perception of cessation … "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.475" id="475"><article><div class="hgroup"><h1>
-msgctxt "an1.394-574:465.1.2"
+msgctxt "an1.394-574:0.1"
 msgid "475–484 "
 msgstr "475–484 "
 
@@ -328,7 +328,7 @@ msgid "Aniccasaññaṃ bhāveti … anattasaññaṃ bhāveti … maraṇasañ�
 msgstr "They develop the perception of impermanence … the perception of not-self … the perception of death … the perception of the repulsiveness of food … the perception of dissatisfaction with the whole world … the perception of a skeleton … the perception of the worm-infested corpse … the perception of the livid corpse … the perception of the split open corpse … the perception of the bloated corpse … "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.485" id="485"><article><div class="hgroup"><h1>
-msgctxt "an1.394-574:475.1.2"
+msgctxt "an1.394-574:0.1"
 msgid "485–494 "
 msgstr "485–494 "
 
@@ -339,7 +339,7 @@ msgid "Buddhānussatiṃ bhāveti … dhammānussatiṃ bhāveti … saṅghānu
 msgstr "They develop the recollection of the Buddha … the recollection of the teaching … the recollection of the Saṅgha … the recollection of ethical conduct … the recollection of generosity … the recollection of the deities … mindfulness of breathing … the recollection of death … mindfulness of the body … the recollection of peace … "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.495" id="495"><article><div class="hgroup"><h1>
-msgctxt "an1.394-574:485.1.2"
+msgctxt "an1.394-574:0.1"
 msgid "495–534 "
 msgstr "495–534 "
 
@@ -350,7 +350,7 @@ msgid "Paṭhamajjhānasahagataṃ saddhindriyaṃ bhāveti … vīriyindriyaṃ
 msgstr "They develop the faculty of faith together with the first absorption … the faculty of energy … the faculty of mindfulness … the faculty of immersion … the faculty of wisdom … the power of faith … the power of energy … the power of mindfulness … the power of immersion … the power of wisdom together with the first absorption … "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.535" id="535"><article><div class="hgroup"><h1>
-msgctxt "an1.394-574:495.1.2"
+msgctxt "an1.394-574:0.1"
 msgid "535–574 "
 msgstr "535–574 "
 

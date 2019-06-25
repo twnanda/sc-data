@@ -34,7 +34,7 @@ msgid "Paṭhamaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.141" id="141"><article><div class="hgroup"><h1>
-msgctxt "an1.140-149:140.1.4"
+msgctxt "an1.140-149:0.1"
 msgid "141 "
 msgstr "141 "
 
@@ -54,7 +54,7 @@ msgid "Dutiyaṃ. "
 msgstr " "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.142" id="142"><article><div class="hgroup"><h1>
-msgctxt "an1.140-149:141.1.4"
+msgctxt "an1.140-149:0.1"
 msgid "142–149 "
 msgstr "142–149 "
 

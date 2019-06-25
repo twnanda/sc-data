@@ -165,7 +165,7 @@ msgid "Devakāyaṃ paripūressantī”ti. "
 msgstr "they swell the hosts of gods.” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn20:3.23"
+msgctxt "dn20:4.0"
 msgid "1. Devatāsannipāta "
 msgstr "1. The Gathering of Deities "
 

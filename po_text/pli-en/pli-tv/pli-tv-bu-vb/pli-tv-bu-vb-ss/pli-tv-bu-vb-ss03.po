@@ -23,7 +23,7 @@ msgid "Duṭṭhul­la­vācā­sikkhā­pada"
 msgstr "3. The training rule on lewd speech"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-ss3:1.1.0a"
+msgctxt "pli-tv-bu-vb-ss3:1.1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -142,7 +142,7 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ss3:1.2.14a"
+msgctxt "pli-tv-bu-vb-ss3:1.2.14.0"
 msgid ""
 msgstr "Final ruling"
 
@@ -150,12 +150,12 @@ msgstr "Final ruling"
 #. VAR: yathā taṃ → yathātaṃ (s1-3)
 #. VAR: methu­nu­pa­saṃhi­tāhi → methu­nū­pa­sañ­hi­tāhi (bj, s1-3)
 #. REF: sc3
-msgctxt "pli-tv-bu-vb-ss3:1.2.15"
+msgctxt "pli-tv-bu-vb-ss3:1.2.14"
 msgid "“Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmaṃ duṭṭhullāhi vācāhi obhāseyya yathā taṃ yuvā yuvatiṃ methu­nu­pa­saṃhi­tāhi, saṃghādiseso”ti."
 msgstr "‘If a lustful monk speaks lewd words connected with sexual intercourse to a woman, as a young man might to a young woman, he commits an offense entailing suspension.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ss3:2.0a"
+msgctxt "pli-tv-bu-vb-ss3:2.0"
 msgid ""
 msgstr "Definitions"
 
@@ -284,12 +284,12 @@ msgid "… pe … tenapi vuccati saṃghādisesoti."
 msgstr "… Therefore, too, it is called “an offense entailing suspension.”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ss3:3.1.0a"
+msgctxt "pli-tv-bu-vb-ss3:3.1.0.1"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><h4>
-msgctxt "pli-tv-bu-vb-ss3:3.1.0b"
+msgctxt "pli-tv-bu-vb-ss3:3.1.0.2"
 msgid ""
 msgstr "Summary"
 
@@ -300,194 +300,194 @@ msgid "Dve magge ādissa vaṇṇampi bhaṇati, avaṇṇampi bhaṇati, yācat
 msgstr "Referring to the two private orifices, he praises, disparages, requests, implores, asks, enquires, describes, instructs, abuses."
 
 #. HTML: </p><h4>
-msgctxt "pli-tv-bu-vb-ss3:3.1.1a"
+msgctxt "pli-tv-bu-vb-ss3:3.1.1.0"
 msgid ""
 msgstr "Sub-definitions"
 
 #. HTML: </h4><p><span class="term"> 
 #. REF: sc14, ms1V_1146
-msgctxt "pli-tv-bu-vb-ss3:3.1.2"
+msgctxt "pli-tv-bu-vb-ss3:3.1.1"
 msgid "Vaṇṇaṃ bhaṇati nāma"
 msgstr "Praises:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss3:3.1.3"
+msgctxt "pli-tv-bu-vb-ss3:3.1.2"
 msgid "dve magge thometi vaṇṇeti pasaṃsati."
 msgstr "extols, praises, commends the two private orifices."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc15, ms1V_1147
-msgctxt "pli-tv-bu-vb-ss3:3.1.4"
+msgctxt "pli-tv-bu-vb-ss3:3.1.3"
 msgid "Avaṇṇaṃ bhaṇati nāma"
 msgstr "Disparages:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss3:3.1.5"
+msgctxt "pli-tv-bu-vb-ss3:3.1.4"
 msgid "dve magge khuṃseti vambheti garahati."
 msgstr "despises, reviles, censures the two private orifices."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc16
-msgctxt "pli-tv-bu-vb-ss3:3.1.6"
+msgctxt "pli-tv-bu-vb-ss3:3.1.5"
 msgid "Yācati nāma"
 msgstr "Requests:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss3:3.1.7"
+msgctxt "pli-tv-bu-vb-ss3:3.1.6"
 msgid "dehi me, arahasi me dātunti."
 msgstr "saying, “Give to me; you should to give to me.”"
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc17, ms1V_1149
-msgctxt "pli-tv-bu-vb-ss3:3.1.8"
+msgctxt "pli-tv-bu-vb-ss3:3.1.7"
 msgid "Āyācati nāma"
 msgstr "Implores:"
 
 #. HTML: </span><span class="gloss"> 
 #. VAR: kadā → kadā te (s1-3)
-msgctxt "pli-tv-bu-vb-ss3:3.1.9"
+msgctxt "pli-tv-bu-vb-ss3:3.1.8"
 msgid "kadā te mātā pasīdissati,"
 msgstr "saying, “When will you please your mother?"
 
-msgctxt "pli-tv-bu-vb-ss3:3.1.10"
+msgctxt "pli-tv-bu-vb-ss3:3.1.9"
 msgid "kadā te pitā pasīdissati,"
 msgstr "When will you please your father?"
 
-msgctxt "pli-tv-bu-vb-ss3:3.1.11"
+msgctxt "pli-tv-bu-vb-ss3:3.1.10"
 msgid "kadā te devatāyo pasīdissanti,"
 msgstr "When will you please the gods?"
 
-msgctxt "pli-tv-bu-vb-ss3:3.1.12"
+msgctxt "pli-tv-bu-vb-ss3:3.1.11"
 msgid "kadā sukhaṇo sulayo sumuhutto bhavissati,"
 msgstr "When will there be a good opportunity, a good time, a good moment?"
 
-msgctxt "pli-tv-bu-vb-ss3:3.1.13"
+msgctxt "pli-tv-bu-vb-ss3:3.1.12"
 msgid "kadā te methunaṃ dhammaṃ labhissāmīti."
 msgstr "When will I have sexual intercourse with you?”"
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc18, ms1V_1150
-msgctxt "pli-tv-bu-vb-ss3:3.1.14"
+msgctxt "pli-tv-bu-vb-ss3:3.1.13"
 msgid "Pucchati nāma"
 msgstr "Asks:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss3:3.1.15"
+msgctxt "pli-tv-bu-vb-ss3:3.1.14"
 msgid "kathaṃ tvaṃ sāmikassa desi,"
 msgstr "saying, “How do you give to your husband?"
 
-msgctxt "pli-tv-bu-vb-ss3:3.1.16"
+msgctxt "pli-tv-bu-vb-ss3:3.1.15"
 msgid "kathaṃ jārassa desīti?"
 msgstr "How do you give to your lover?”"
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc19, ms1V_1151, pts-vp-en1.217
-msgctxt "pli-tv-bu-vb-ss3:3.1.17"
+msgctxt "pli-tv-bu-vb-ss3:3.1.16"
 msgid "Paṭipucchati nāma"
 msgstr "Enquires:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss3:3.1.18"
+msgctxt "pli-tv-bu-vb-ss3:3.1.17"
 msgid "evaṃ kira tvaṃ sāmikassa desi,"
 msgstr "saying, “So you give to your husband like this,"
 
-msgctxt "pli-tv-bu-vb-ss3:3.1.19"
+msgctxt "pli-tv-bu-vb-ss3:3.1.18"
 msgid "evaṃ jārassa desīti."
 msgstr "and to your lover like this?”"
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc20, ms1V_1152
-msgctxt "pli-tv-bu-vb-ss3:3.1.20"
+msgctxt "pli-tv-bu-vb-ss3:3.1.19"
 msgid "Ācikkhati nāma"
 msgstr "Describes:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss3:3.1.21"
+msgctxt "pli-tv-bu-vb-ss3:3.1.20"
 msgid "puṭṭho bhaṇati—"
 msgstr "having been asked, he says,"
 
-msgctxt "pli-tv-bu-vb-ss3:3.1.22"
+msgctxt "pli-tv-bu-vb-ss3:3.1.21"
 msgid "“evaṃ dehi."
 msgstr "“Give like this."
 
 #. VAR: dentā → dentī (bj, s1-3)
-msgctxt "pli-tv-bu-vb-ss3:3.1.23"
+msgctxt "pli-tv-bu-vb-ss3:3.1.22"
 msgid "Evaṃ dentā sāmikassa piyā bhavissati manāpā cā”ti."
 msgstr "When you do, you’ll be dear and pleasing to your husband.”"
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc21, ms1V_1153
-msgctxt "pli-tv-bu-vb-ss3:3.1.24"
+msgctxt "pli-tv-bu-vb-ss3:3.1.23"
 msgid "Anusāsati nāma"
 msgstr "Instructs:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss3:3.1.25"
+msgctxt "pli-tv-bu-vb-ss3:3.1.24"
 msgid "apuṭṭho bhaṇati—"
 msgstr "not having been asked, he says,"
 
-msgctxt "pli-tv-bu-vb-ss3:3.1.26"
+msgctxt "pli-tv-bu-vb-ss3:3.1.25"
 msgid "“evaṃ dehi."
 msgstr "“Give like this."
 
 #. VAR: dentā → dentī (bj, s1-3)
-msgctxt "pli-tv-bu-vb-ss3:3.1.27"
+msgctxt "pli-tv-bu-vb-ss3:3.1.26"
 msgid "Evaṃ dentā sāmikassa piyā bhavissati manāpā cā”ti."
 msgstr "When you do, you’ll be dear and pleasing to your husband.”"
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc22, ms1V_1154
-msgctxt "pli-tv-bu-vb-ss3:3.1.28"
+msgctxt "pli-tv-bu-vb-ss3:3.1.27"
 msgid "Akkosati nāma"
 msgstr "Abuses:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss3:3.1.29"
+msgctxt "pli-tv-bu-vb-ss3:3.1.28"
 msgid "animittāsi,"
 msgstr "saying, “You don’t have genitals;"
 
-msgctxt "pli-tv-bu-vb-ss3:3.1.30"
+msgctxt "pli-tv-bu-vb-ss3:3.1.29"
 msgid "nimittamattāsi,"
 msgstr "you have incomplete genitals;"
 
-msgctxt "pli-tv-bu-vb-ss3:3.1.31"
+msgctxt "pli-tv-bu-vb-ss3:3.1.30"
 msgid "alohitāsi,"
 msgstr "you don’t menstruate;"
 
-msgctxt "pli-tv-bu-vb-ss3:3.1.32"
+msgctxt "pli-tv-bu-vb-ss3:3.1.31"
 msgid "dhuvalohitāsi,"
 msgstr "you menstruate continuously;"
 
-msgctxt "pli-tv-bu-vb-ss3:3.1.33"
+msgctxt "pli-tv-bu-vb-ss3:3.1.32"
 msgid "dhuvacoḷāsi,"
 msgstr "you always use a menstruation pad;"
 
-msgctxt "pli-tv-bu-vb-ss3:3.1.34"
+msgctxt "pli-tv-bu-vb-ss3:3.1.33"
 msgid "paggharantīsi,"
 msgstr "you’re dripping;"
 
-msgctxt "pli-tv-bu-vb-ss3:3.1.35"
+msgctxt "pli-tv-bu-vb-ss3:3.1.34"
 msgid "sikharaṇīsi,"
 msgstr "you have uterine prolapse;"
 
-msgctxt "pli-tv-bu-vb-ss3:3.1.36"
+msgctxt "pli-tv-bu-vb-ss3:3.1.35"
 msgid "itthipaṇḍakāsi,"
 msgstr "you’re a sexual non-conformist;"
 
-msgctxt "pli-tv-bu-vb-ss3:3.1.37"
+msgctxt "pli-tv-bu-vb-ss3:3.1.36"
 msgid "vepurisikāsi,"
 msgstr "you are manlike;"
 
-msgctxt "pli-tv-bu-vb-ss3:3.1.38"
+msgctxt "pli-tv-bu-vb-ss3:3.1.37"
 msgid "sambhinnāsi,"
 msgstr "your anus and vagina are conjoined;"
 
-msgctxt "pli-tv-bu-vb-ss3:3.1.39"
+msgctxt "pli-tv-bu-vb-ss3:3.1.38"
 msgid "ubhatob­yañ­janā­sīti."
 msgstr "you’re a hermaphrodite.”"
 
 #. HTML: </span></p><h4>
-msgctxt "pli-tv-bu-vb-ss3:3.2.0a"
+msgctxt "pli-tv-bu-vb-ss3:3.2.0"
 msgid ""
 msgstr "Exposition"
 
@@ -671,7 +671,7 @@ msgid "akkosatipi, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "abuses, he commits two offenses of wrong conduct. …"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ss3:3.6.0a"
+msgctxt "pli-tv-bu-vb-ss3:3.6.0"
 msgid ""
 msgstr "Non-offenses"
 
@@ -702,28 +702,28 @@ msgid "ādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss3:3.6.7"
+msgctxt "pli-tv-bu-vb-ss3:3.6.7.0"
 msgid "3.1. Vinīta­vatthu­uddāna­gāthā"
 msgstr "Case rulings mnemonic list"
 
 #. HTML: </h5><div class="uddana"><p>
 #. REF: sc36
-msgctxt "pli-tv-bu-vb-ss3:3.6.8"
+msgctxt "pli-tv-bu-vb-ss3:3.6.7"
 msgid "Lohitaṃ kakkasākiṇṇaṃ,"
 msgstr "Red, coarse, thick,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-ss3:3.6.9"
+msgctxt "pli-tv-bu-vb-ss3:3.6.8"
 msgid "kharaṃ dīghañca vāpitaṃ;"
 msgstr "Rough, long, sown;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-ss3:3.6.10"
+msgctxt "pli-tv-bu-vb-ss3:3.6.9"
 msgid "Kacci saṃsīdati maggo,"
 msgstr "I hope the path has an end,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-ss3:3.6.11"
+msgctxt "pli-tv-bu-vb-ss3:3.6.10"
 msgid "saddhā dānena kammunāti."
 msgstr "Faith, with a gift, with work."
 

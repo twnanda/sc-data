@@ -77,38 +77,38 @@ msgid "puratthimaṃ disaṃ dakkhiṇaṃ disaṃ pacchimaṃ disaṃ uttaraṃ
 msgstr "east, south, west, north, below, and above.” "
 
 #. HTML: </p><h2>
-msgctxt "dn31:2.11"
+msgctxt "dn31:2.11.0"
 msgid "1. Cha disā "
 msgstr "1. The Six Quarters "
 
 #. HTML: </h2><p>
 #. REF: sc3
 #. VAR: cha disā → chaddisā (bj, pts1)
-msgctxt "dn31:2.12"
+msgctxt "dn31:2.11"
 msgid "“Na kho, gahapatiputta, ariyassa vinaye evaṃ cha disā namassitabbā”ti. "
 msgstr "“Householder’s son, that’s not how the six quarters should be revered in the training of the noble one.” "
 
 #. HTML: </p><p>
-msgctxt "dn31:2.13"
+msgctxt "dn31:2.12"
 msgid "“Yathā kathaṃ pana, bhante, ariyassa vinaye cha disā namassitabbā? "
 msgstr "“But sir, how should the six quarters be revered in the training of the noble one? "
 
-msgctxt "dn31:2.14"
+msgctxt "dn31:2.13"
 msgid "Sādhu me, bhante, bhagavā tathā dhammaṃ desetu, yathā ariyassa vinaye cha disā namassitabbā”ti. "
 msgstr "Sir, please teach me this.” "
 
 #. HTML: </p><p>
 #. REF: sc4
-msgctxt "dn31:2.15"
+msgctxt "dn31:2.14"
 msgid "“Tena hi, gahapatiputta, suṇohi sādhukaṃ manasikarohi bhāsissāmī”ti. "
 msgstr "“Well then, householder’s son, listen and pay close attention, I will speak.” "
 
 #. HTML: </p><p>
-msgctxt "dn31:2.16"
+msgctxt "dn31:2.15"
 msgid "“Evaṃ, bhante”ti kho siṅgālako gahapatiputto bhagavato paccassosi. "
 msgstr "“Yes, sir,” replied Sigālaka. "
 
-msgctxt "dn31:2.17"
+msgctxt "dn31:2.16"
 msgid "Bhagavā etadavoca: "
 msgstr "The Buddha said this: "
 
@@ -127,57 +127,57 @@ msgid "So kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjat
 msgstr "When their body breaks up, after death, they’re reborn in a good place, a heavenly realm. "
 
 #. HTML: </p><h2>
-msgctxt "dn31:3.4"
+msgctxt "dn31:3.4.0"
 msgid "2. Cattāro kammakilesā "
 msgstr "2. Four Corrupt Deeds "
 
 #. HTML: </h2><p>
 #. REF: sc6
-msgctxt "dn31:3.5"
+msgctxt "dn31:3.4"
 msgid "Katamassa cattāro kammakilesā pahīnā honti? "
 msgstr "What four corrupt deeds have they given up? "
 
-msgctxt "dn31:3.6"
+msgctxt "dn31:3.5"
 msgid "Pāṇātipāto kho, gahapatiputta, kammakileso, adinnādānaṃ kammakileso, kāmesumicchācāro kammakileso, musāvādo kammakileso. "
 msgstr "Killing living creatures, stealing, sexual misconduct, and lying: these are corrupt deeds. "
 
-msgctxt "dn31:3.7"
+msgctxt "dn31:3.6"
 msgid "Imassa cattāro kammakilesā pahīnā hontī”ti. "
 msgstr "These are the four corrupt deeds they’ve given up.” "
 
 #. HTML: </p><p>
-msgctxt "dn31:3.8"
+msgctxt "dn31:3.7"
 msgid "Idamavoca bhagavā. "
 msgstr "That is what the Buddha said. "
 
 #. VAR: Idaṃ vatvāna → idaṃ vatvā (bj, pts1)
-msgctxt "dn31:3.9"
+msgctxt "dn31:3.8"
 msgid "Idaṃ vatvāna sugato athāparaṃ etadavoca satthā: "
 msgstr "Then the Holy One, the Teacher, went on to say: "
 
 #. HTML: </p><blockquote class="gatha"><p>
 #. REF: pts-vp-pli3.182, sc7
-msgctxt "dn31:3.10"
+msgctxt "dn31:3.9"
 msgid "“Pāṇātipāto adinnādānaṃ, "
 msgstr "“Killing, stealing, "
 
 #. HTML: <br>
-msgctxt "dn31:3.11"
+msgctxt "dn31:3.10"
 msgid "Musāvādo ca vuccati; "
 msgstr "telling lies, "
 
 #. HTML: <br>
-msgctxt "dn31:3.12"
+msgctxt "dn31:3.11"
 msgid "Paradāragamanañceva, "
 msgstr "and committing adultery: "
 
 #. HTML: <br>
-msgctxt "dn31:3.13"
+msgctxt "dn31:3.12"
 msgid "Nappasaṃsanti paṇḍitā”ti. "
 msgstr "astute people don’t praise these things.” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn31:3.14"
+msgctxt "dn31:5.0"
 msgid "3. Catuṭhānaṃ "
 msgstr "3. Four Grounds "
 
@@ -254,7 +254,7 @@ msgid "sukkapakkheva candimā”ti. "
 msgstr "like the moon in the waxing fortnight.” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn31:5.15"
+msgctxt "dn31:7.0"
 msgid "4. Cha apāyamukhāni "
 msgstr "4. Six Drains on Wealth "
 
@@ -270,7 +270,7 @@ msgid "Surāmerayamajjappamādaṭṭhānānuyogo kho, gahapatiputta, bhogāna�
 msgstr "Habitually engaging in the following things is a drain on wealth: drinking alcohol; roaming the streets at night; frequenting festivals; gambling; bad friends; laziness. "
 
 #. HTML: </p><h2>
-msgctxt "dn31:7.3"
+msgctxt "dn31:8.0"
 msgid "5. Surāmerayassa cha ādīnavā "
 msgstr "5. Six Drawbacks of Drinking "
 
@@ -290,7 +290,7 @@ msgid "Ime kho, gahapatiputta, cha ādīnavā surāmerayamajjappamādaṭṭhān
 msgstr "These are the six drawbacks of habitually drinking alcohol. "
 
 #. HTML: </p><h2>
-msgctxt "dn31:8.4"
+msgctxt "dn31:9.0"
 msgid "6. Vikālacariyāya cha ādīnavā "
 msgstr "6. Six Drawbacks of Roaming the Streets at Night "
 
@@ -310,7 +310,7 @@ msgid "Ime kho, gahapatiputta, cha ādīnavā vikālavisikhācariyānuyoge. "
 msgstr "These are the six drawbacks of roaming the streets at night. "
 
 #. HTML: </p><h2>
-msgctxt "dn31:9.4"
+msgctxt "dn31:10.0"
 msgid "7. Samajjābhicaraṇassa cha ādīnavā "
 msgstr "7. Six Drawbacks of Festivals "
 
@@ -330,7 +330,7 @@ msgid "Ime kho, gahapatiputta, cha ādīnavā samajjābhicaraṇe. "
 msgstr "These are the six drawbacks of frequenting festivals. "
 
 #. HTML: </p><h2>
-msgctxt "dn31:10.4"
+msgctxt "dn31:11.0"
 msgid "8. Jūtappamādassa cha ādīnavā "
 msgstr "8. Six Drawbacks of Gambling "
 
@@ -354,7 +354,7 @@ msgid "Ime kho, gahapatiputta, cha ādīnavā jūtappamādaṭṭhānānuyoge. "
 msgstr "These are the six drawbacks of habitually gambling. "
 
 #. HTML: </p><h2>
-msgctxt "dn31:11.5"
+msgctxt "dn31:12.0"
 msgid "9. Pāpamittatāya cha ādīnavā "
 msgstr "9. Six Drawbacks of Bad Friends "
 
@@ -373,7 +373,7 @@ msgid "Ime kho, gahapatiputta, cha ādīnavā pāpamittānuyoge. "
 msgstr "These are the six drawbacks of bad friends. "
 
 #. HTML: </p><h2>
-msgctxt "dn31:12.4"
+msgctxt "dn31:13.0"
 msgid "10. Ālasyassa cha ādīnavā "
 msgstr "10. Six Drawbacks of Laziness "
 
@@ -602,7 +602,7 @@ msgid "so sukhaṃ na vihāyatī”ti. "
 msgstr "and happiness never fails.” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn31:13.43"
+msgctxt "dn31:15.0"
 msgid "11. Mittapatirūpaka "
 msgstr "11. Fake Friends "
 
@@ -747,7 +747,7 @@ msgid "maggaṃ paṭibhayaṃ yathā”ti. "
 msgstr "as they’d shun a risky road.” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn31:19.14"
+msgctxt "dn31:21.0"
 msgid "12. Suhadamitta "
 msgstr "12. Good-Hearted Friends "
 
@@ -948,7 +948,7 @@ msgid "āpadāsu bhavissatī”ti. "
 msgstr "for times of trouble.” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn31:25.28"
+msgctxt "dn31:27.0"
 msgid "13. Chaddisāpaṭicchādanakaṇḍa "
 msgstr "13. Covering the Six Quarters "
 

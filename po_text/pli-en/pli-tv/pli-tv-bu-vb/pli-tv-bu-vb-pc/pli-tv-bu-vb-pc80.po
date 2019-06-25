@@ -22,7 +22,7 @@ msgid "Sahadhammikavagga"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-bu-vb-pc80:1.1.0"
+msgctxt "pli-tv-bu-vb-pc80:0.5"
 msgid "80. Chandaṃadatvāgamanasikkhāpada"
 msgstr ""
 

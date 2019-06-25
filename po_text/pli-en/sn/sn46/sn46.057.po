@@ -43,7 +43,7 @@ msgid "Evaṃ bhāvitā kho, bhikkhave, aṭṭhikasaññā evaṃ bahulīkatā 
 msgstr "That’s how the perception of a skeleton, when developed and cultivated, is very fruitful and beneficial.” "
 
 #. HTML: <h2>
-msgctxt "sn46.57:1.6"
+msgctxt "sn46.57:2.0"
 msgid "Aññataraphalasutta "
 msgstr " "
 
@@ -66,7 +66,7 @@ msgid "Evaṃ bhāvitāya kho, bhikkhave, aṭṭhikasaññāya evaṃ bahulīka
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "sn46.57:2.5"
+msgctxt "sn46.57:3.0"
 msgid "Mahatthasutta "
 msgstr " "
 
@@ -89,7 +89,7 @@ msgid "Evaṃ bhāvitā kho, bhikkhave, aṭṭhikasaññā evaṃ bahulīkatā 
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "sn46.57:3.5"
+msgctxt "sn46.57:4.0"
 msgid "Yogakkhemasutta "
 msgstr " "
 
@@ -112,7 +112,7 @@ msgid "Evaṃ bhāvitā kho, bhikkhave, aṭṭhikasaññā evaṃ bahulīkatā 
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "sn46.57:4.5"
+msgctxt "sn46.57:5.0"
 msgid "Saṃvegasutta "
 msgstr " "
 
@@ -135,7 +135,7 @@ msgid "Evaṃ bhāvitā kho, bhikkhave, aṭṭhikasaññā evaṃ bahulīkatā 
 msgstr " "
 
 #. HTML: </p><h2>
-msgctxt "sn46.57:5.5"
+msgctxt "sn46.57:6.0"
 msgid "Phāsuvihārasutta "
 msgstr " "
 

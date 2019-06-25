@@ -277,7 +277,7 @@ msgid "‘imassa kammassa kaṭattā idaṃ lakkhaṇaṃ paṭilabhatī’ti. "
 msgstr "the specific deeds performed in the past to obtain each mark. "
 
 #. HTML: </p><h2>
-msgctxt "dn30:1.3.6"
+msgctxt "dn30:1.4.0"
 msgid "1. Suppatiṭṭhitapādatālakkhaṇaṃ "
 msgstr "1. Well-Planted Feet "
 
@@ -479,7 +479,7 @@ msgid "Naruttamo esa hi tassa dhammatā”ti. "
 msgstr "this is the nature of the supreme person.” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn30:1.6.22"
+msgctxt "dn30:1.7.0"
 msgid "2. Pādatalacakkalakkhaṇaṃ "
 msgstr "2. Wheels on the Feet "
 
@@ -684,7 +684,7 @@ msgid "Mahāyasaṃ samparivārayanti nan”ti. "
 msgstr "the supreme, honored by gods and humans.” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn30:1.9.25"
+msgctxt "dn30:1.10.0"
 msgid "3–5. Āyatapaṇhitāditilakkhaṇaṃ "
 msgstr "3–5. Projecting Heels, Etc. "
 
@@ -838,7 +838,7 @@ msgid "Iti dīghāyukatāya taṃ nimittan”ti. "
 msgstr "Thus this is the sign of long life.’” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn30:1.12.18"
+msgctxt "dn30:1.13.0"
 msgid "6. Sattussadatālakkhaṇaṃ "
 msgstr "6. Seven Bulges "
 
@@ -970,7 +970,7 @@ msgid "Āhu sabbagihibandhanacchidan”ti. "
 msgstr "cutting all bonds of the lay life.’” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn30:1.15.14"
+msgctxt "dn30:1.16.0"
 msgid "7–8. Karacaraṇamudujālatālakkhaṇāni "
 msgstr "7–8. Tender and Clinging Hands "
 
@@ -1131,7 +1131,7 @@ msgid "Sutvāna dhammānudhammamācarantī”ti. "
 msgstr "after listening, they practice in line with the teaching.” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn30:1.18.18"
+msgctxt "dn30:1.19.0"
 msgid "9–10. Ussaṅkhapāda-uddhaggalomatālakkhaṇāni "
 msgstr "9–10. Arched Feet and Upright Hair "
 
@@ -1306,7 +1306,7 @@ msgid "Sabbalokamabhibhuyya viharatī”ti. "
 msgstr "he’ll live having mastered the whole world.” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn30:1.21.22"
+msgctxt "dn30:1.22.0"
 msgid "11. Eṇijaṅghalakkhaṇaṃ "
 msgstr "11. Antelope Calves "
 
@@ -1467,7 +1467,7 @@ msgid "Taṃ vindati khippamanomavikkamo”ti. "
 msgstr "what is fitting and suitable.” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn30:1.24.18"
+msgctxt "dn30:1.25.0"
 msgid "12. Sukhumacchavilakkhaṇaṃ "
 msgstr "12. Delicate Skin "
 
@@ -1623,7 +1623,7 @@ msgid "Pappoti bodhiṃ varabhūrimedhaso”ti. "
 msgstr "the one of superb, vast intelligence attains awakening.” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn30:1.27.18"
+msgctxt "dn30:1.28.0"
 msgid "13. Suvaṇṇavaṇṇalakkhaṇaṃ "
 msgstr "13. Golden Skin "
 
@@ -1790,7 +1790,7 @@ msgid "Na bhavati katassa panāso”ti. "
 msgstr "what’s been done is never lost.” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn30:1.30.18"
+msgctxt "dn30:1.31.0"
 msgid "14. Kosohitavatthaguyhalakkhaṇaṃ "
 msgstr "14. Retracted Privates "
 
@@ -1955,7 +1955,7 @@ msgid "Paṭhamabhāṇavāro niṭṭhito. "
 msgstr "The first recitation section is finished. "
 
 #. HTML: </p><h2>
-msgctxt "dn30:1.33.19"
+msgctxt "dn30:2.1.0"
 msgid "15–16. Parimaṇḍalaanonamajaṇṇuparimasanalakkhaṇāni "
 msgstr "15–16. Equal Proportions and Touching the Knees "
 
@@ -2120,7 +2120,7 @@ msgid "Labhati anuttaraṃ uttamadhanaggan”ti. "
 msgstr "he will gain the supreme, highest peak of wealth.’” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn30:2.3.18"
+msgctxt "dn30:2.4.0"
 msgid "17–19. Sīhapubbaddhakāyāditilakkhaṇaṃ "
 msgstr "17–19. A Lion’s Chest, Etc. "
 
@@ -2279,7 +2279,7 @@ msgid "Pappoti bodhiṃ asahānadhammatan”ti. "
 msgstr "the supreme awakening which may never decline.” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn30:2.6.18"
+msgctxt "dn30:2.7.0"
 msgid "20. Rasaggasaggitālakkhaṇaṃ "
 msgstr "20. Excellent Sense of Taste "
 
@@ -2408,7 +2408,7 @@ msgid "Taṃ lakkhaṇaṃ bhavati tadatthajotakan”ti. "
 msgstr "That’s the meaning shown by this mark.’” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn30:2.9.14"
+msgctxt "dn30:2.10.0"
 msgid "21–22. Abhinīlanettagopakhumalakkhaṇāni "
 msgstr "21–22. Deep Blue Eyes "
 
@@ -2562,7 +2562,7 @@ msgid "Piyo bahūnaṃ sokanāsano”ti. "
 msgstr "as destroyer of sorrow he’ll be loved by many.” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn30:2.12.18"
+msgctxt "dn30:2.13.0"
 msgid "23. Uṇhīsasīsalakkhaṇaṃ "
 msgstr "23. Head Like a Turban "
 
@@ -2713,7 +2713,7 @@ msgid "Anvāyiko bahujano bhavatī”ti. "
 msgstr "the people will become his followers.’” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn30:2.15.18"
+msgctxt "dn30:2.16.0"
 msgid "24–25. Ekekalomatāuṇṇālakkhaṇāni "
 msgstr "24–25. One Hair Per Pore, and a Tuft "
 
@@ -2865,7 +2865,7 @@ msgid "Buddhampi santaṃ upavattati jano”ti. "
 msgstr "as Buddha the people will follow him.’” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn30:2.18.18"
+msgctxt "dn30:2.19.0"
 msgid "26–27. Cattālīsaaviraḷadantalakkhaṇāni "
 msgstr "26–27. Forty Gapless Teeth "
 
@@ -3016,7 +3016,7 @@ msgid "Parisāssa hoti anugatā acalā”ti. "
 msgstr "his assembly will follow him, unshakable.” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn30:2.21.18"
+msgctxt "dn30:2.22.0"
 msgid "28–29. Pahūtajivhābrahmassaralakkhaṇāni "
 msgstr "28–29. A Large Tongue and the Voice of Brahmā "
 
@@ -3170,7 +3170,7 @@ msgid "Bahuno bahuṃ subhaṇitaṃ bhaṇato”ti. "
 msgstr "they’ll be persuaded by his fair words.” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn30:2.24.18"
+msgctxt "dn30:2.25.0"
 msgid "30. Sīhahanulakkhaṇaṃ "
 msgstr "30. A Lion-Like Jaw "
 
@@ -3322,7 +3322,7 @@ msgid "Idha disā ca paṭidisā ca vidisā cā”ti. "
 msgstr "he illuminates the quarters and in-between.” "
 
 #. HTML: </p></blockquote><h2>
-msgctxt "dn30:2.27.18"
+msgctxt "dn30:2.28.0"
 msgid "31–32. Samadantasusukkadāṭhālakkhaṇāni "
 msgstr "31–32. Even and White Teeth "
 

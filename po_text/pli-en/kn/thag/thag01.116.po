@@ -3,23 +3,23 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="thag1.116"><article><div class="hgroup"><p class="division">
-msgctxt "thag1.116:1.1"
+msgctxt "thag1.116:0.1"
 msgid "Theragāthā"
 msgstr "Verses of the Senior Monks"
 
 #. HTML: </p><p>
-msgctxt "thag1.116:2.1"
+msgctxt "thag1.116:0.2"
 msgid "Ekakanipāta"
 msgstr "The Book of the Ones"
 
 #. HTML: </p><p>
-msgctxt "thag1.116:3.1"
+msgctxt "thag1.116:0.3"
 msgid "Dvādasamavagga"
 msgstr "Chapter Twelve"
 
 #. HTML: </p><h1>
 #. VAR: 1.116 Pārāpariyattheragāthā → pārāsariyattheragāthā (bj)
-msgctxt "thag1.116:4.1"
+msgctxt "thag1.116:0.4"
 msgid "1.116 Pārāpariyattheragāthā"
 msgstr "1.116. Pārāpariya (1st)"
 

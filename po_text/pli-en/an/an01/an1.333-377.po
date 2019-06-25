@@ -33,7 +33,7 @@ msgid "evamevaṃ kho, bhikkhave, appakā te sattā ye thalajā, atha kho eteva 
 msgstr "so too the sentient beings born on land are few, while those born in water are many. "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.334" id="334"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:333.1.4"
+msgctxt "an1.333-377:0.1"
 msgid "334 "
 msgstr "334 "
 
@@ -59,7 +59,7 @@ msgid "atha kho eteva sattā bahutarā ye paccantimesu janapadesu paccājāyanti
 msgstr "while those reborn in the borderlands, among strange barbarian tribes, are many. "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.335" id="335"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:334.2.3"
+msgctxt "an1.333-377:0.1"
 msgid "335 "
 msgstr "335 "
 
@@ -74,7 +74,7 @@ msgid "atha kho eteva sattā bahutarā ye duppaññā jaḷā eḷamūgā na pa�
 msgstr "while the sentient beings who are witless, dull, stupid, and unable to distinguish what is well said from what is poorly said are many. "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.336" id="336"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:335.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "336 "
 msgstr "336 "
 
@@ -89,7 +89,7 @@ msgid "atha kho eteva sattā bahutarā ye avijjāgatā sammūḷhā. "
 msgstr "while those who are ignorant and confused are many. "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.337" id="337"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:336.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "337 "
 msgstr "337 "
 
@@ -104,7 +104,7 @@ msgid "atha kho eteva sattā bahutarā ye na labhanti tathāgataṃ dassanāya. 
 msgstr "while those who don’t get to see a Realized One are many. "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.338" id="338"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:337.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "338 "
 msgstr "338 "
 
@@ -119,7 +119,7 @@ msgid "atha kho eteva sattā bahutarā ye na labhanti tathāgatappaveditaṃ dha
 msgstr "while those sentient beings who don’t get to hear the teaching and training proclaimed by a Realized One are many. "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.339" id="339"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:338.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "339 "
 msgstr "339 "
 
@@ -134,7 +134,7 @@ msgid "atha kho eteva sattā bahutarā ye sutvā dhammaṃ na dhārenti. "
 msgstr "while those who don’t remember the teachings are many. "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.340" id="340"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:339.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "340 "
 msgstr "340 "
 
@@ -150,7 +150,7 @@ msgid "atha kho eteva sattā bahutarā ye dhātānaṃ dhammānaṃ atthaṃ na 
 msgstr "while those who don’t examine the meaning of the teachings are many. "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.341" id="341"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:340.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "341 "
 msgstr "341 "
 
@@ -165,7 +165,7 @@ msgid "atha kho eteva sattā bahutarā ye atthamaññāya dhammamaññāya dhamm
 msgstr "while those who understand the meaning and the teaching but don’t practice accordingly are many. "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.342" id="342"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:341.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "342 "
 msgstr "342 "
 
@@ -180,7 +180,7 @@ msgid "atha kho eteva sattā bahutarā ye saṃvejaniyesu ṭhānesu na saṃvij
 msgstr "while those who are uninspired are many. "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.343" id="343"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:342.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "343 "
 msgstr "343 "
 
@@ -195,7 +195,7 @@ msgid "atha kho eteva sattā bahutarā ye saṃviggā yoniso na padahanti. "
 msgstr "while those who, even though inspired, don’t strive effectively are many. "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.344" id="344"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:343.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "344 "
 msgstr "344 "
 
@@ -212,7 +212,7 @@ msgid "atha kho eteva sattā bahutarā ye vavassaggārammaṇaṃ karitvā na la
 msgstr "while those who don’t gain immersion, don’t gain unification of mind relying on letting go are many. "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.345" id="345"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:344.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "345 "
 msgstr "345 "
 
@@ -227,7 +227,7 @@ msgid "atha kho eteva sattā bahutarā ye annaggarasaggānaṃ na lābhino, uñc
 msgstr "while those who don’t get the best food and flavors, but get by with scraps in an alms bowl are many. "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.346" id="346"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:345.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "346 "
 msgstr "346 "
 
@@ -255,7 +255,7 @@ msgid "Evañhi vo, bhikkhave, sikkhitabban”ti. "
 msgstr "That’s how you should train.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.347" id="347"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:346.1.6"
+msgctxt "an1.333-377:0.1"
 msgid "347–349 "
 msgstr "347–349 "
 
@@ -274,7 +274,7 @@ msgid "Evamevaṃ kho, bhikkhave, appakā te sattā ye manussā cutā manussesu 
 msgstr "so too, those who die as humans and are reborn as humans are few, while those who die as humans and are reborn in hell, or the animal realm, or the ghost realm are many.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.350" id="350"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:347.1.4"
+msgctxt "an1.333-377:0.1"
 msgid "350–352 "
 msgstr "350–352 "
 
@@ -289,7 +289,7 @@ msgid "atha kho eteva sattā bahutarā ye manussā cutā niraye paccājāyanti �
 msgstr "while those who die as humans and are reborn in hell, or the animal realm, or the ghost realm are many.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.353" id="353"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:350.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "353–355 "
 msgstr "353–355 "
 
@@ -304,7 +304,7 @@ msgid "atha kho eteva sattā bahutarā ye devā cutā niraye paccājāyanti … 
 msgstr "while those who die as gods and are reborn in hell, or the animal realm, or the ghost realm are many.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.356" id="356"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:353.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "356–358 "
 msgstr "356–358 "
 
@@ -319,7 +319,7 @@ msgid "atha kho eteva sattā bahutarā ye devā cutā niraye paccājāyanti … 
 msgstr "while those who die as gods and are reborn in hell, or the animal realm, or the ghost realm are many.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.359" id="359"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:356.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "359–361 "
 msgstr "359–361 "
 
@@ -334,7 +334,7 @@ msgid "atha kho eteva sattā bahutarā ye nirayā cutā niraye paccājāyanti �
 msgstr "while those who die in hell and are reborn in hell, or the animal realm, or the ghost realm are many.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.362" id="362"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:359.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "362–364 "
 msgstr "362–364 "
 
@@ -349,7 +349,7 @@ msgid "atha kho eteva sattā bahutarā ye nirayā cutā niraye paccājāyanti �
 msgstr "while those who die in hell and are reborn in hell, or the animal realm, or the ghost realm are many.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.365" id="365"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:362.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "365–367 "
 msgstr "365–367 "
 
@@ -364,7 +364,7 @@ msgid "atha kho eteva sattā bahutarā ye tiracchānayoniyā cutā niraye paccā
 msgstr "while those who die as animals and are reborn in hell, or the animal realm, or the ghost realm are many.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.368" id="368"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:365.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "368–370 "
 msgstr "368–370 "
 
@@ -379,7 +379,7 @@ msgid "atha kho eteva sattā bahutarā ye tiracchānayoniyā cutā niraye paccā
 msgstr "while those who die as animals and are reborn in hell, or the animal realm, or the ghost realm are many.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.371" id="371"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:368.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "371–373 "
 msgstr "371–373 "
 
@@ -394,7 +394,7 @@ msgid "atha kho eteva sattā bahutarā ye pettivisayā cutā niraye paccājāyan
 msgstr "while those who die as ghosts and are reborn in hell, or the animal realm, or the ghost realm are many.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.374" id="374"><article><div class="hgroup"><h1>
-msgctxt "an1.333-377:371.1.3"
+msgctxt "an1.333-377:0.1"
 msgid "374–377 "
 msgstr "374–377 "
 

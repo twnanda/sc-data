@@ -3,22 +3,22 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="an11.983-991"><article><div class="hgroup"><p class="division">
-msgctxt "an11.983-991:1.1"
+msgctxt "an11.983-991:0.1"
 msgid "Aṅguttara Nikāya 11 "
 msgstr "Numbered Discourses 11 "
 
 #. HTML: </p><p class="pannasaka">
-msgctxt "an11.983-991:2.1"
+msgctxt "an11.983-991:0.2"
 msgid "Paṭhamapaṇṇāsaka "
 msgstr "The First Fifty "
 
 #. HTML: </p><p class="vagga">
-msgctxt "an11.983-991:3.1"
+msgctxt "an11.983-991:0.3"
 msgid "Rāgapeyyāla "
 msgstr "4. Abbreviated Texts Beginning with Greed "
 
 #. HTML: </p><h1>
-msgctxt "an11.983-991:4.1"
+msgctxt "an11.983-991:0.4"
 msgid "AN 11.983–991 "
 msgstr "983–991 "
 

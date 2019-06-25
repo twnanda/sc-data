@@ -3,22 +3,22 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="thag1.56"><article><div class="hgroup"><p class="division">
-msgctxt "thag1.56:1.1"
+msgctxt "thag1.56:0.1"
 msgid "Theragāthā"
 msgstr "Verses of the Senior Monks"
 
 #. HTML: </p><p>
-msgctxt "thag1.56:2.1"
+msgctxt "thag1.56:0.2"
 msgid "Ekakanipāta"
 msgstr "The Book of the Ones"
 
 #. HTML: </p><p>
-msgctxt "thag1.56:3.1"
+msgctxt "thag1.56:0.3"
 msgid "Chaṭṭhavagga"
 msgstr "Chapter Six"
 
 #. HTML: </p><h1>
-msgctxt "thag1.56:4.1"
+msgctxt "thag1.56:0.4"
 msgid "1.56. Kuṭivihārittheragāthā"
 msgstr "1.56. Kuṭivihārin (1st)"
 

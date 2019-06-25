@@ -29,7 +29,7 @@ msgid "10. Pathavīkhaṇanasikkhāpada"
 msgstr "The training rule on digging the earth"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc10:1.0a"
+msgctxt "pli-tv-bu-vb-pc10:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -105,19 +105,19 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc10:1.16a"
+msgctxt "pli-tv-bu-vb-pc10:1.16.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule">
 #. VAR: pathaviṃ → paṭhaviṃ (bj, s1-3)
 #. REF: sc3, ms2V_323
-msgctxt "pli-tv-bu-vb-pc10:1.17"
+msgctxt "pli-tv-bu-vb-pc10:1.16"
 msgid "“Yo pana bhikkhu pathaviṃ khaṇeyya vā khaṇāpeyya vā, pācittiyan”ti."
 msgstr "‘If a monk digs the earth or get it dug, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc10:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc10:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -223,7 +223,7 @@ msgid "Sakiṃ āṇatto bahukampi khaṇati, āpatti pācittiyassa."
 msgstr "If he only asks once, then even if the other digs many times, he commits one offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc10:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc10:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -260,7 +260,7 @@ msgid "Apathaviyā apathavisaññī, anāpatti."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc10:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc10:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

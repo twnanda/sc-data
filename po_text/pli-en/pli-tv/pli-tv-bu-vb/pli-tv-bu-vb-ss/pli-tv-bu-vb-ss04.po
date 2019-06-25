@@ -23,7 +23,7 @@ msgid "Attakā­ma­pāri­cari­ya­sikkhā­pada"
 msgstr "4. The training rule on fulfilling one’s own desires"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-ss4:1.1.0a"
+msgctxt "pli-tv-bu-vb-ss4:1.1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -247,23 +247,23 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ss4:1.2.19a"
+msgctxt "pli-tv-bu-vb-ss4:1.2.19.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc7, ms1V_1186
-msgctxt "pli-tv-bu-vb-ss4:1.2.20"
+msgctxt "pli-tv-bu-vb-ss4:1.2.19"
 msgid "“Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmassa santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāseyya—"
 msgstr "‘If a lustful monk encourages a woman to satisfy his own needs:"
 
 #. REF: pts-vp-en1.225
-msgctxt "pli-tv-bu-vb-ss4:1.2.21"
+msgctxt "pli-tv-bu-vb-ss4:1.2.20"
 msgid "‘etadaggaṃ, bhagini, pāricariyānaṃ yā mādisaṃ sīlavantaṃ kalyāṇadhammaṃ brahmacāriṃ etena dhammena paricareyyāti methunu­pasaṃ­hi­tena’, saṃghādiseso”ti."
 msgstr "“Sister, she provides the highest service who in this way satisfies one like me, who is virtuous, celibate, and of good character,” and if it is a reference to sexual intercourse, he commits an offense entailing suspension.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ss4:2.0a"
+msgctxt "pli-tv-bu-vb-ss4:2.0"
 msgid ""
 msgstr "Definitions"
 
@@ -469,7 +469,7 @@ msgid "… pe … tenapi vuccati “saṃghādiseso”ti."
 msgstr "… Therefore, too, it is called “an offense entailing suspension.”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ss4:3.1.0a"
+msgctxt "pli-tv-bu-vb-ss4:3.1.0"
 msgid ""
 msgstr "Permutations"
 
@@ -605,7 +605,7 @@ msgid ""
 msgstr "to be expanded as in [Saṅghādisesa 2, paragraphs 54–69](pli-tv-bu-vb-ss2#54). "
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ss4:3.2.0a"
+msgctxt "pli-tv-bu-vb-ss4:3.2.0"
 msgid ""
 msgstr "Non-offenses"
 
@@ -628,28 +628,28 @@ msgid "uādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss4:3.2.5"
+msgctxt "pli-tv-bu-vb-ss4:3.2.5.0"
 msgid "4.1. Vinīta­vatthu­uddāna­gāthā"
 msgstr "Case rulings mnemonic list"
 
 #. HTML: </h5><div class="uddana"><p>
 #. REF: sc32, ms1V_1211 
-msgctxt "pli-tv-bu-vb-ss4:3.2.6"
+msgctxt "pli-tv-bu-vb-ss4:3.2.5"
 msgid "Kathaṃ vañjhā labhe puttaṃ,"
 msgstr "How may a barren woman, can she get a son,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-ss4:3.2.7"
+msgctxt "pli-tv-bu-vb-ss4:3.2.6"
 msgid "Piyā ca subhagā siyaṃ;"
 msgstr "And dear to, may I be fortunate;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-ss4:3.2.8"
+msgctxt "pli-tv-bu-vb-ss4:3.2.7"
 msgid "Kiṃ dajjaṃ kenupaṭṭheyyaṃ,"
 msgstr "What may I give, with what may I be of service,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-ss4:3.2.9"
+msgctxt "pli-tv-bu-vb-ss4:3.2.8"
 msgid "Kathaṃ gaccheyyaṃ suggatinti."
 msgstr "How may I get a good rebirth."
 

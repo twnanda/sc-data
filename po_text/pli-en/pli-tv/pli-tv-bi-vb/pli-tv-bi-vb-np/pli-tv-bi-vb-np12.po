@@ -3,27 +3,27 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-bi-vb-np12"><article><div class="hgroup"><p class="division">
-msgctxt "pli-tv-bi-vb-np12:1.1"
+msgctxt "pli-tv-bi-vb-np12:0.1"
 msgid "Theravāda Vinaya"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bi-vb-np12:2.1"
+msgctxt "pli-tv-bi-vb-np12:0.2"
 msgid "Bhikkhunivibhaṅga"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bi-vb-np12:3.1"
+msgctxt "pli-tv-bi-vb-np12:0.3"
 msgid "Nissaggiyakaṇḍa"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-bi-vb-np12:4.1"
+msgctxt "pli-tv-bi-vb-np12:0.4"
 msgid "12. Cīvaravagga"
 msgstr ""
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bi-vb-np12:5.1"
+msgctxt "pli-tv-bi-vb-np12:6.0"
 msgid "2. Lahupāvuraṇasikkhāpada"
 msgstr ""
 
@@ -243,13 +243,13 @@ msgid "Dvādasamasikkhāpadaṃ niṭṭhitaṃ."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bi-vb-np12:17.1"
+msgctxt "pli-tv-bi-vb-np12:19.0.1"
 msgid "(Dutiya) Pattavagga"
 msgstr ""
 
 #. HTML: </h2><h2>
 #. VAR: 10 Pariṇatasikkhāpada → ^pi-tv-bu-vb-np18#5 [Nissaggiyā Pācittiyā 18: Rūpiyasikkhāpada] (18:37)
-msgctxt "pli-tv-bi-vb-np12:18.1"
+msgctxt "pli-tv-bi-vb-np12:19.0.2"
 msgid "10 Pariṇatasikkhāpada"
 msgstr ""
 

@@ -36,7 +36,7 @@ msgid "Ayaṃ kho, bhikkhave, ekapuggalo loke uppajjamāno uppajjati bahujanahit
 msgstr "This is the one person, mendicants, who arises in the world for the welfare and happiness of the people, out of compassion for the world, for the benefit, welfare, and happiness of gods and humans.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.171" id="171"><article><div class="hgroup"><h1>
-msgctxt "an1.170-187:170.1.5"
+msgctxt "an1.170-187:0.1"
 msgid "171 "
 msgstr "171 "
 
@@ -59,7 +59,7 @@ msgid "Imassa kho, bhikkhave, ekapuggalassa pātubhāvo dullabho lokasmin”ti. 
 msgstr "This is the one person, mendicants, whose appearance is rare in the world.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.172" id="172"><article><div class="hgroup"><h1>
-msgctxt "an1.170-187:171.1.5"
+msgctxt "an1.170-187:0.1"
 msgid "172 "
 msgstr "172 "
 
@@ -82,7 +82,7 @@ msgid "Ayaṃ kho, bhikkhave, ekapuggalo loke uppajjamāno uppajjati acchariyama
 msgstr "This is the one person, mendicants, who arises in the world who is an incredible human being.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.173" id="173"><article><div class="hgroup"><h1>
-msgctxt "an1.170-187:172.1.5"
+msgctxt "an1.170-187:0.1"
 msgid "173 "
 msgstr "173 "
 
@@ -107,7 +107,7 @@ msgid "Imassa kho, bhikkhave, ekapuggalassa kālakiriyā bahuno janassa anutapp�
 msgstr "This is the one person, mendicants, whose death is regretted by many people.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.174" id="174"><article><div class="hgroup"><h1>
-msgctxt "an1.170-187:173.1.5"
+msgctxt "an1.170-187:0.1"
 msgid "174 "
 msgstr "174 "
 
@@ -130,7 +130,7 @@ msgid "Ayaṃ kho, bhikkhave, ekapuggalo loke uppajjamāno uppajjati adutiyo asa
 msgstr "This is the one person, mendicants, who arises in the world unique, without peer or counterpart, incomparable, matchless, unrivaled, unequaled, without equal, the best of bipeds.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="175-186" id="175"><article><div class="hgroup"><h1>
-msgctxt "an1.170-187:174.1.5"
+msgctxt "an1.170-187:0.1"
 msgid "175–186 "
 msgstr "175–186 "
 
@@ -153,7 +153,7 @@ msgid "Imassa kho, bhikkhave, ekapuggalassa pātubhāvā mahato cakkhussa pātub
 msgstr "This is the one person whose appearance brings the appearance of a great eye, a great light, a great radiance, and the six unsurpassable things; the realization of the four kinds of textual analysis; the penetration of many and diverse elements; the realization of the fruit of knowledge and release; the realization of the fruits of stream-entry, once-return, non-return, and perfection.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an1.187" id="187"><article><div class="hgroup"><h1>
-msgctxt "an1.170-187:175.1.5"
+msgctxt "an1.170-187:0.1"
 msgid "187 "
 msgstr "187 "
 

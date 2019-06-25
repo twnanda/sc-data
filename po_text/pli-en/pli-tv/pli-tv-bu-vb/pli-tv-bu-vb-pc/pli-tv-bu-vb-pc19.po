@@ -28,7 +28,7 @@ msgid "19. Mahallakavihārasikkhāpada"
 msgstr "The training rule on large dwellings"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc19:1.0a"
+msgctxt "pli-tv-bu-vb-pc19:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -113,7 +113,7 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc19:1.18a"
+msgctxt "pli-tv-bu-vb-pc19:1.18.0"
 msgid ""
 msgstr "Final ruling"
 
@@ -121,17 +121,17 @@ msgstr "Final ruling"
 #. VAR: aggaḷaṭṭhapanāya → aggalaṭ­ṭhapa­nāya (bj, s1, s3)
 #. VAR: appaharite → apaharite (s2)
 #. REF: sc4, ms2V_460, pts-vp-en.2.258
-msgctxt "pli-tv-bu-vb-pc19:1.19"
+msgctxt "pli-tv-bu-vb-pc19:1.18"
 msgid "“Mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena yāva dvārakosā aggaḷaṭṭhapanāya ālokasandhiparikammāya dvatticchadanassa pariyāyaṃ appaharite ṭhitena adhiṭṭhātabbaṃ."
 msgstr "‘When a monk is building a large dwelling, then standing where there are no cultivated plants, he may apply two or three courses of covering, taking it as far as the door frame and using it for fixing the door and for treating the window shutters."
 
 #. VAR: uttari → uttariṃ (bj, s1-3)
-msgctxt "pli-tv-bu-vb-pc19:1.20"
+msgctxt "pli-tv-bu-vb-pc19:1.19"
 msgid "Tato ce uttari appaharitepi ṭhito adhiṭṭhaheyya pācittiyan”ti."
 msgstr "If he applies more than that, even if he stands where there are no cultivated plants, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc19:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc19:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -268,7 +268,7 @@ msgid "Paṇṇena chādentassa paṇṇe paṇṇe āpatti pācittiyassa."
 msgstr "If he is covering with leaves, then for every leaf, he commits an offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc19:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc19:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -301,7 +301,7 @@ msgid "Ūnakadvattipariyāye ūnakasaññī, anāpatti."
 msgstr "If it is less than two or three courses, and he perceives it as less, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc19:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc19:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

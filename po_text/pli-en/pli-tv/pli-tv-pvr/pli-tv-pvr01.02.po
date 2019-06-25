@@ -3,27 +3,27 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-pvr1.2"><article><div class="hgroup"><p class="division">
-msgctxt "pli-tv-pvr1.2:1.1"
+msgctxt "pli-tv-pvr1.2:0.1"
 msgid "Parivāra"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-pvr1.2:2.1"
+msgctxt "pli-tv-pvr1.2:0.2"
 msgid "Bhikkhuvibhaṅga"
 msgstr ""
 
 #. HTML: </p><p>
-msgctxt "pli-tv-pvr1.2:3.1"
+msgctxt "pli-tv-pvr1.2:0.3"
 msgid "Paṭhamabhāga"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-pvr1.2:4.1"
+msgctxt "pli-tv-pvr1.2:0.4"
 msgid "Katāpattivāra"
 msgstr ""
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-pvr1.2:5.1"
+msgctxt "pli-tv-pvr1.2:6.0"
 msgid "1. Pārājikakaṇḍa"
 msgstr ""
 
@@ -139,7 +139,7 @@ msgid "Cattāro pārājikā niṭṭhitā."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr1.2:11.1"
+msgctxt "pli-tv-pvr1.2:12.0"
 msgid "2. Saṃghādisesakaṇḍa"
 msgstr ""
 
@@ -432,12 +432,12 @@ msgid "Terasa saṃghādisesā niṭṭhitā."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr1.2:26.1"
+msgctxt "pli-tv-pvr1.2:28.0.1"
 msgid "4. 4 Nissaggiyakaṇḍa"
 msgstr ""
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-pvr1.2:27.1"
+msgctxt "pli-tv-pvr1.2:28.0.2"
 msgid "4.1. Kathinavagga"
 msgstr ""
 
@@ -616,7 +616,7 @@ msgid "Kathinavaggo paṭhamo."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr1.2:39.1"
+msgctxt "pli-tv-pvr1.2:40.0"
 msgid "4.2. Kosiyavagga"
 msgstr ""
 
@@ -807,7 +807,7 @@ msgid "Kosiyavaggo dutiyo."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr1.2:51.1"
+msgctxt "pli-tv-pvr1.2:52.0"
 msgid "4.3. Pattavagga"
 msgstr ""
 
@@ -987,12 +987,12 @@ msgid "Tiṃsa nissaggiyā pācittiyā niṭṭhitā."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr1.2:63.1"
+msgctxt "pli-tv-pvr1.2:65.0.1"
 msgid "5. 5 Pācittiyakaṇḍa"
 msgstr ""
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-pvr1.2:64.1"
+msgctxt "pli-tv-pvr1.2:65.0.2"
 msgid "5.1. Musāvādavagga"
 msgstr ""
 
@@ -1203,7 +1203,7 @@ msgid "Musāvādavaggo paṭhamo."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr1.2:76.1"
+msgctxt "pli-tv-pvr1.2:77.0"
 msgid "5.2. Bhūtagāmavagga"
 msgstr ""
 
@@ -1395,7 +1395,7 @@ msgid "Bhūtagāmavaggo dutiyo."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr1.2:88.1"
+msgctxt "pli-tv-pvr1.2:89.0"
 msgid "5.3. Ovādavagga"
 msgstr ""
 
@@ -1586,7 +1586,7 @@ msgid "Ovādavaggo tatiyo."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr1.2:100.1"
+msgctxt "pli-tv-pvr1.2:101.0"
 msgid "5.4. Bhojanavagga"
 msgstr ""
 
@@ -1778,7 +1778,7 @@ msgid "Bhojanavaggo catuttho."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr1.2:112.1"
+msgctxt "pli-tv-pvr1.2:113.0"
 msgid "5.5. Acelakavagga"
 msgstr ""
 
@@ -1977,7 +1977,7 @@ msgid "Acelakavaggo pañcamo."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr1.2:124.1"
+msgctxt "pli-tv-pvr1.2:125.0"
 msgid "5.6. Surāmerayavagga"
 msgstr ""
 
@@ -2170,7 +2170,7 @@ msgid "Surāmerayavaggo chaṭṭho."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr1.2:136.1"
+msgctxt "pli-tv-pvr1.2:137.0"
 msgid "5.7. Sappāṇakavagga"
 msgstr ""
 
@@ -2375,7 +2375,7 @@ msgid "Sappāṇakavaggo sattamo."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr1.2:148.1"
+msgctxt "pli-tv-pvr1.2:149.0"
 msgid "5.8. Sahadhammikavagga"
 msgstr ""
 
@@ -2607,7 +2607,7 @@ msgid "Sahadhammikavaggo aṭṭhamo."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr1.2:162.1"
+msgctxt "pli-tv-pvr1.2:163.0"
 msgid "5.9. Rājavagga"
 msgstr ""
 
@@ -2811,7 +2811,7 @@ msgid "Khuddakā niṭṭhitā."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr1.2:174.1"
+msgctxt "pli-tv-pvr1.2:175.0"
 msgid "6. Pāṭidesanīyakaṇḍa"
 msgstr ""
 
@@ -2910,12 +2910,12 @@ msgid "Cattāro pāṭidesanīyā niṭṭhitā."
 msgstr ""
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-pvr1.2:180.1"
+msgctxt "pli-tv-pvr1.2:182.0.1"
 msgid "7. 7 Sekhiyakaṇḍa"
 msgstr ""
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-pvr1.2:181.1"
+msgctxt "pli-tv-pvr1.2:182.0.2"
 msgid "7.1. Parimaṇḍalavagga"
 msgstr ""
 
@@ -3074,7 +3074,7 @@ msgid "Parimaṇḍalavaggo paṭhamo."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr1.2:193.1"
+msgctxt "pli-tv-pvr1.2:194.0"
 msgid "7.2. Ujjagghikavagga"
 msgstr ""
 
@@ -3225,7 +3225,7 @@ msgid "Ujjagghikavaggo dutiyo."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr1.2:205.1"
+msgctxt "pli-tv-pvr1.2:206.0"
 msgid "7.3. Khambhakatavagga"
 msgstr ""
 
@@ -3376,7 +3376,7 @@ msgid "Khambhakatavaggo tatiyo."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr1.2:217.1"
+msgctxt "pli-tv-pvr1.2:218.0"
 msgid "7.4. Piṇḍapātavagga"
 msgstr ""
 
@@ -3527,7 +3527,7 @@ msgid "Piṇḍapātavaggo catuttho."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr1.2:229.1"
+msgctxt "pli-tv-pvr1.2:230.0"
 msgid "7.5. Kabaḷavagga"
 msgstr ""
 
@@ -3678,7 +3678,7 @@ msgid "Kabaḷavaggo pañcamo."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr1.2:241.1"
+msgctxt "pli-tv-pvr1.2:242.0"
 msgid "7.6. Surusuruvagga"
 msgstr ""
 
@@ -3829,7 +3829,7 @@ msgid "Surusuruvaggo chaṭṭho."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr1.2:253.1"
+msgctxt "pli-tv-pvr1.2:254.0"
 msgid "7.7. Pādukavagga"
 msgstr ""
 

@@ -28,7 +28,7 @@ msgid "16. Anupakhajjasikkhāpada"
 msgstr "The training rule on encroaching"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc16:1.0a"
+msgctxt "pli-tv-bu-vb-pc16:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -106,7 +106,7 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc16:1.16a"
+msgctxt "pli-tv-bu-vb-pc16:1.16.0"
 msgid ""
 msgstr "Final ruling"
 
@@ -114,16 +114,16 @@ msgstr "Final ruling"
 #. VAR: pubbupagataṃ → pubbūpagataṃ (bj, s1-3)
 #. VAR: anupakhajja → anūpakhajja (s1-3)
 #. REF: sc3, ms2V_417
-msgctxt "pli-tv-bu-vb-pc16:1.17"
+msgctxt "pli-tv-bu-vb-pc16:1.16"
 msgid "“Yo pana bhikkhu saṃghike vihāre jānaṃ pubbupagataṃ bhikkhuṃ anupakhajja seyyaṃ kappeyya—"
 msgstr "‘If, in a dwelling belonging to the Order, a monk arranges his sleeping place in a way that encroaches on a monk that he knows arrived there before him,"
 
-msgctxt "pli-tv-bu-vb-pc16:1.18"
+msgctxt "pli-tv-bu-vb-pc16:1.17"
 msgid "yassa sambādho bhavissati so pakkamissatī’ti, etadeva paccayaṃ karitvā anaññaṃ, pācittiyan”ti."
 msgstr "with the intention that anyone who feels crowded will leave, and he does so only for this reason and no other, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc16:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc16:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -212,7 +212,7 @@ msgid "na añño koci paccayo hoti anupakhajja seyyaṃ kappetuṃ."
 msgstr "there is no other reason for arranging the sleeping place in a way that encroaches."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc16:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc16:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -266,7 +266,7 @@ msgid "Attano puggalike anāpatti."
 msgstr "If it belongs to himself, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc16:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc16:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

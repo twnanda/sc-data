@@ -3,17 +3,17 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-pvr4"><article><div class="hgroup"><p class="division">
-msgctxt "pli-tv-pvr4:1.1"
+msgctxt "pli-tv-pvr4:0.1"
 msgid "Parivāra"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-pvr4:2.1"
+msgctxt "pli-tv-pvr4:0.2"
 msgid "4. Antarapeyyāla"
 msgstr ""
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-pvr4:3.1"
+msgctxt "pli-tv-pvr4:4.0"
 msgid "Katipucchāvāra"
 msgstr ""
 
@@ -754,7 +754,7 @@ msgid "padā sattarasā imeti."
 msgstr ""
 
 #. HTML: </p></blockquote><h3>
-msgctxt "pli-tv-pvr4:34.1"
+msgctxt "pli-tv-pvr4:35.0"
 msgid "4.1. Chaāpattisamuṭṭhānavāra"
 msgstr ""
 
@@ -1113,7 +1113,7 @@ msgid "Chaāpattisamuṭṭhānavāro niṭṭhito paṭhamo."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr4:42.1"
+msgctxt "pli-tv-pvr4:43.0"
 msgid "4.2. Katāpattivāra"
 msgstr ""
 
@@ -1669,7 +1669,7 @@ msgid "katāpattivāro niṭṭhito dutiyo."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr4:56.1"
+msgctxt "pli-tv-pvr4:57.0"
 msgid "4.3. Āpattisamuṭṭhānagāthā"
 msgstr ""
 
@@ -1932,7 +1932,7 @@ msgid "Āpattisamuṭṭhānagāthā niṭṭhitā tatiyā."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr4:70.1"
+msgctxt "pli-tv-pvr4:71.0"
 msgid "4.4. Vipattipaccayavāra"
 msgstr ""
 
@@ -2272,7 +2272,7 @@ msgid "Vipattipaccayavāro niṭṭhito catuttho."
 msgstr ""
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-pvr4:80.1"
+msgctxt "pli-tv-pvr4:81.0"
 msgid "4.5. Adhikaraṇapaccayavāra"
 msgstr ""
 

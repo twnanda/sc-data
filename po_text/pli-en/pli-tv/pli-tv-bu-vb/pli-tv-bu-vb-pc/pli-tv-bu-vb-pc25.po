@@ -28,12 +28,12 @@ msgid "25. Cīvaradānasikkhāpada"
 msgstr "The training rule on giving robe-cloth"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc25:0.6"
+msgctxt "pli-tv-bu-vb-pc25:1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pc25:1.0a"
+msgctxt "pli-tv-bu-vb-pc25:1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -168,24 +168,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc25:1.29a"
+msgctxt "pli-tv-bu-vb-pc25:1.29.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc4, ms2V_561
-msgctxt "pli-tv-bu-vb-pc25:1.30"
+msgctxt "pli-tv-bu-vb-pc25:1.29"
 msgid "“Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṃ dadeyya, pācittiyan”ti."
 msgstr "‘If a monk gives robe-cloth to an unrelated nun, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc5, ms2V_562
-msgctxt "pli-tv-bu-vb-pc25:1.31"
+msgctxt "pli-tv-bu-vb-pc25:1.30"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc25:2.0a"
+msgctxt "pli-tv-bu-vb-pc25:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -237,18 +237,18 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc25:2.10a"
+msgctxt "pli-tv-bu-vb-pc25:2.10.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p>_Cīvara_ means both a finished robe and any cloth that can be used to make a robe. Thus I vary my translation depending on the context.<span class="rule"> 
 #. REF: sc8, ms2V_565
-msgctxt "pli-tv-bu-vb-pc25:2.11"
+msgctxt "pli-tv-bu-vb-pc25:2.10"
 msgid "“Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṃ dadeyya, aññatra pārivattakā, pācittiyan”ti."
 msgstr "‘If a monk gives robe-cloth to an unrelated nun, unless it is an exchange, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc25:3.1.0a"
+msgctxt "pli-tv-bu-vb-pc25:3.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -325,7 +325,7 @@ msgid "ṭhapetvā pārivattakaṃ deti, āpatti pācittiyassa."
 msgstr "except if it is an exchange."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc25:3.2.0a"
+msgctxt "pli-tv-bu-vb-pc25:3.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -362,7 +362,7 @@ msgid "Ñātikāya ñātikasaññī, anāpatti."
 msgstr "If she is related and he perceives her as related, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc25:3.3.0a"
+msgctxt "pli-tv-bu-vb-pc25:3.3.0"
 msgid ""
 msgstr "Non-offenses"
 

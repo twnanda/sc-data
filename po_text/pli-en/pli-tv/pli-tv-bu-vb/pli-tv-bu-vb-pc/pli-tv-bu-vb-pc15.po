@@ -28,7 +28,7 @@ msgid "15. Dutiyasenāsanasikkhāpada"
 msgstr "The second training rule on furniture"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc15:1.0a"
+msgctxt "pli-tv-bu-vb-pc15:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -100,18 +100,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc15:1.15a"
+msgctxt "pli-tv-bu-vb-pc15:1.15.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc3, ms2V_402
-msgctxt "pli-tv-bu-vb-pc15:1.16"
+msgctxt "pli-tv-bu-vb-pc15:1.15"
 msgid "“Yo pana bhikkhu saṃghike vihāre seyyaṃ santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyan”ti."
 msgstr "‘If a monk puts out bedding in a dwelling belonging to the Order, or gets it put out, and he then leaves without putting it away, getting it put away, or telling anyone, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc15:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc15:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -218,7 +218,7 @@ msgid "Aparikkhittassa ārāmassa upacāraṃ atikkamantassa āpatti pācittiyas
 msgstr "If he goes beyond the vicinity of an unenclosed monastery, he commits an offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc15:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc15:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -266,7 +266,7 @@ msgid "Attano puggalike anāpatti."
 msgstr "If it belongs to himself, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc15:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc15:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

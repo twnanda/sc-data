@@ -28,12 +28,12 @@ msgid "39. Paṇītabhojanasikkhāpada"
 msgstr "The training rule on fine foods"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc39:1.0a"
+msgctxt "pli-tv-bu-vb-pc39:1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pc39:1.0b"
+msgctxt "pli-tv-bu-vb-pc39:1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -104,32 +104,32 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc39:1.15a"
+msgctxt "pli-tv-bu-vb-pc39:1.15.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc3, ms2V_826
-msgctxt "pli-tv-bu-vb-pc39:1.16"
+msgctxt "pli-tv-bu-vb-pc39:1.15"
 msgid "“Yāni kho pana tāni paṇītabhojanāni, seyyathidaṃ—"
 msgstr "‘If a monk asks for any of these kinds of fine foods for himself—that is,"
 
-msgctxt "pli-tv-bu-vb-pc39:1.17"
+msgctxt "pli-tv-bu-vb-pc39:1.16"
 msgid "sappi navanītaṃ telaṃ madhu phāṇitaṃ maccho maṃsaṃ khīraṃ dadhi."
 msgstr "ghee, butter, oil, honey, sugar, fish, meat, milk, and curd—"
 
-msgctxt "pli-tv-bu-vb-pc39:1.18"
+msgctxt "pli-tv-bu-vb-pc39:1.17"
 msgid "Yo pana bhikkhu evarūpāni paṇītabhojanāni attano atthāya viññāpetvā bhuñjeyya, pācittiyan”ti."
 msgstr "and then eats it, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc4, ms2V_827
-msgctxt "pli-tv-bu-vb-pc39:1.19"
+msgctxt "pli-tv-bu-vb-pc39:1.18"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc39:2.0a"
+msgctxt "pli-tv-bu-vb-pc39:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -177,27 +177,27 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc39:2.9a"
+msgctxt "pli-tv-bu-vb-pc39:2.9.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule">
 #. VAR: seyyathidaṃ → seyyathīdaṃ (bj, s1-3, pts1)
 #. REF: sc6, ms2V_829
-msgctxt "pli-tv-bu-vb-pc39:2.10"
+msgctxt "pli-tv-bu-vb-pc39:2.9"
 msgid "“Yāni kho pana tāni paṇītabhojanāni, seyyathidaṃ—"
 msgstr "‘If a monk who is not sick asks for any of these kinds of fine foods for himself—that is,"
 
-msgctxt "pli-tv-bu-vb-pc39:2.11"
+msgctxt "pli-tv-bu-vb-pc39:2.10"
 msgid "sappi navanītaṃ telaṃ madhu phāṇitaṃ maccho maṃsaṃ khīraṃ dadhi."
 msgstr "ghee, butter, oil, honey, sugar, fish, meat, milk, and curd—"
 
-msgctxt "pli-tv-bu-vb-pc39:2.12"
+msgctxt "pli-tv-bu-vb-pc39:2.11"
 msgid "Yo pana bhikkhu evarūpāni paṇītabhojanāni agilāno attano atthāya viññāpetvā bhuñjeyya, pācittiyan”ti."
 msgstr "and then eats it, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc39:3.1.0a"
+msgctxt "pli-tv-bu-vb-pc39:3.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -381,7 +381,7 @@ msgid "Ajjhohāre ajjhohāre āpatti pācittiyassa."
 msgstr "For every mouthful, he commits an offense entailing confession."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc39:3.2.0a"
+msgctxt "pli-tv-bu-vb-pc39:3.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -414,7 +414,7 @@ msgid "Gilāno gilānasaññī anāpatti."
 msgstr "If he is sick, and he perceives himself as sick, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc39:3.3.0a"
+msgctxt "pli-tv-bu-vb-pc39:3.3.0"
 msgid ""
 msgstr "Non-offenses"
 

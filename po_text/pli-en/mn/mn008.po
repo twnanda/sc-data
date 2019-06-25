@@ -235,7 +235,7 @@ msgid "Santā ete vihārā ariyassa vinaye vuccanti. "
 msgstr "they’re called ‘peaceful meditations’. "
 
 #. HTML: </p><h2>
-msgctxt "mn8:11.6"
+msgctxt "mn8:12.0"
 msgid "1. Sallekhapariyāya "
 msgstr "1. The Exposition of Self-Effacement "
 
@@ -515,7 +515,7 @@ msgid "‘Pare sandiṭṭhiparāmāsī ādhānaggāhī duppaṭinissaggī bhavi
 msgstr "‘Others will be attached to their own views, holding them tight, and refusing to let go, but here we will not be attached to our own views, not holding them tight, but will let them go easily.’ "
 
 #. HTML: </p><h2>
-msgctxt "mn8:12.46"
+msgctxt "mn8:13.0"
 msgid "2. Cittupapādapariyāya "
 msgstr "2. Giving Rise to the Thought "
 
@@ -539,7 +539,7 @@ msgid "‘pare sandiṭṭhiparāmāsī ādhānaggāhī duppaṭinissaggī bhavi
 msgstr "‘Others will be attached to their own views, holding them tight, and refusing to let go, but here we will not be attached to our own views, not holding them tight, but will let them go easily.’ "
 
 #. HTML: </p><h2>
-msgctxt "mn8:13.5"
+msgctxt "mn8:14.0"
 msgid "3. Parikkamanapariyāya "
 msgstr "3. A Way Around "
 
@@ -572,7 +572,7 @@ msgid "Thinamiddhapariyuṭṭhitassa purisapuggalassa vigatathinamiddhatā hoti
 msgstr "An individual who is attached to their own views, holding them tight, and refusing to let go, gets around it by not being attached to their own views, not holding them tight, but letting them go easily. "
 
 #. HTML: </p><h2>
-msgctxt "mn8:14.6"
+msgctxt "mn8:15.0"
 msgid "4. Uparibhāgapariyāya "
 msgstr "4. Going Up "
 
@@ -592,7 +592,7 @@ msgid "sandiṭṭhiparāmāsiādhānaggāhiduppaṭinissaggissa purisapuggalass
 msgstr "An individual who is attached to their own views, holding them tight, and refusing to let go, is led upwards by not being attached to their own views, not holding them tight, but letting them go easily. "
 
 #. HTML: </p><h2>
-msgctxt "mn8:15.4"
+msgctxt "mn8:16.0"
 msgid "5. Parinibbānapariyāya "
 msgstr "5. The Exposition by Extinguishment "
 

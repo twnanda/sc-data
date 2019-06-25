@@ -23,7 +23,7 @@ msgid "Kāyasaṃ­sagga­sikkhā­pada"
 msgstr "2. The training rule on physical contact"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-ss2:1.1.0a"
+msgctxt "pli-tv-bu-vb-ss2:1.1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -230,7 +230,7 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ss2:1.2.15a"
+msgctxt "pli-tv-bu-vb-ss2:1.2.15.0"
 msgid ""
 msgstr "Final ruling"
 
@@ -238,16 +238,16 @@ msgstr "Final ruling"
 #. VAR: veṇiggāhaṃ → veṇigāhaṃ (bj, s1-3, pts1)
 #. VAR: hatthaggāhaṃ → hatthagāhaṃ (bj, s1-3, pts1)
 #. REF: sc6, ms1V_998, pts-vp-en1.202
-msgctxt "pli-tv-bu-vb-ss2:1.2.16"
+msgctxt "pli-tv-bu-vb-ss2:1.2.15"
 msgid "“Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṃ kāyasaṃsaggaṃ samāpajjeyya hatthaggāhaṃ vā veṇiggāhaṃ vā aññatarassa vā aññatarassa vā aṅgassa parāmasanaṃ,"
 msgstr "‘If a lustful monk makes physical contact with a woman—holding her hand or hair, or touching any part of her body—"
 
-msgctxt "pli-tv-bu-vb-ss2:1.2.17"
+msgctxt "pli-tv-bu-vb-ss2:1.2.16"
 msgid "saṃghādiseso”ti."
 msgstr "he commits an offense entailing suspension.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ss2:2.1.0a"
+msgctxt "pli-tv-bu-vb-ss2:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -384,7 +384,7 @@ msgid "hatthañca veṇiñca ṭhapetvā avasesaṃ aṅgaṃ nāma."
 msgstr "anything apart from the hand and the hair is called “any part of her body.”"
 
 #. HTML: </span></p><h4>
-msgctxt "pli-tv-bu-vb-ss2:2.2.0a"
+msgctxt "pli-tv-bu-vb-ss2:2.2.0"
 msgid ""
 msgstr "Summary"
 
@@ -395,171 +395,171 @@ msgid "Āmasanā, parāmasanā, omasanā, ummasanā, olaṅghanā, ullaṅghanā
 msgstr "Physical contact, touching, stroking downwards, stroking upwards, pulling down, raising up, pulling, pushing, squeezing, pressing, taking hold of, contacting."
 
 #. HTML: </p><h4>
-msgctxt "pli-tv-bu-vb-ss2:2.2.1a"
+msgctxt "pli-tv-bu-vb-ss2:2.2.1.0"
 msgid ""
 msgstr "Sub-definitions"
 
 #. HTML: </h4><p><span class="term"> 
 #. REF: sc17, ms1V_1009
-msgctxt "pli-tv-bu-vb-ss2:2.2.2"
+msgctxt "pli-tv-bu-vb-ss2:2.2.1"
 msgid "Āmasanā nāma"
 msgstr "Physical contact:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss2:2.2.3"
+msgctxt "pli-tv-bu-vb-ss2:2.2.2"
 msgid "āmaṭṭhamattā."
 msgstr "mere physical contact."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc18, ms1V_1010, pts-vp-en1.204
-msgctxt "pli-tv-bu-vb-ss2:2.2.4"
+msgctxt "pli-tv-bu-vb-ss2:2.2.3"
 msgid "Parāmasanā nāma"
 msgstr "Touching:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss2:2.2.5"
+msgctxt "pli-tv-bu-vb-ss2:2.2.4"
 msgid "itocito ca sañcopanā."
 msgstr "touching here and there."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc19, ms1V_1011
-msgctxt "pli-tv-bu-vb-ss2:2.2.6"
+msgctxt "pli-tv-bu-vb-ss2:2.2.5"
 msgid "Omasanā nāma"
 msgstr "Stroking downwards:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss2:2.2.7"
+msgctxt "pli-tv-bu-vb-ss2:2.2.6"
 msgid "heṭṭhā oropanā."
 msgstr "lowering down."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc20, ms1V_1012
-msgctxt "pli-tv-bu-vb-ss2:2.2.8"
+msgctxt "pli-tv-bu-vb-ss2:2.2.7"
 msgid "Ummasanā nāma"
 msgstr "Stroking upwards:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss2:2.2.9"
+msgctxt "pli-tv-bu-vb-ss2:2.2.8"
 msgid "uddhaṃ uccāraṇā."
 msgstr "raising up."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc21, ms1V_1013
-msgctxt "pli-tv-bu-vb-ss2:2.2.10"
+msgctxt "pli-tv-bu-vb-ss2:2.2.9"
 msgid "Olaṅghanā nāma"
 msgstr "Pulling down:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss2:2.2.11"
+msgctxt "pli-tv-bu-vb-ss2:2.2.10"
 msgid "heṭṭhā onamanā."
 msgstr "lowering."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc22, ms1V_1014
-msgctxt "pli-tv-bu-vb-ss2:2.2.12"
+msgctxt "pli-tv-bu-vb-ss2:2.2.11"
 msgid "Ullaṅghanā nāma"
 msgstr "Raising up:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss2:2.2.13"
+msgctxt "pli-tv-bu-vb-ss2:2.2.12"
 msgid "uddhaṃ uccāraṇā."
 msgstr "lifting."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc23, ms1V_1015
-msgctxt "pli-tv-bu-vb-ss2:2.2.14"
+msgctxt "pli-tv-bu-vb-ss2:2.2.13"
 msgid "Ākaḍḍhanā nāma"
 msgstr "Pulling:"
 
 #. HTML: </span><span class="gloss"> 
 #. VAR: āviñchanā → āviñjanā (s1-3, pts1)
-msgctxt "pli-tv-bu-vb-ss2:2.2.15"
+msgctxt "pli-tv-bu-vb-ss2:2.2.14"
 msgid "āviñchanā."
 msgstr "drawing to."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc24, ms1V_1016
-msgctxt "pli-tv-bu-vb-ss2:2.2.16"
+msgctxt "pli-tv-bu-vb-ss2:2.2.15"
 msgid "Patikaḍḍhanā nāma"
 msgstr "Pushing:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss2:2.2.17"
+msgctxt "pli-tv-bu-vb-ss2:2.2.16"
 msgid "patippaṇāmanā."
 msgstr "sending away."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc25, ms1V_1017
-msgctxt "pli-tv-bu-vb-ss2:2.2.18"
+msgctxt "pli-tv-bu-vb-ss2:2.2.17"
 msgid "Abhiniggaṇhanā nāma"
 msgstr "Squeezing:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss2:2.2.19"
+msgctxt "pli-tv-bu-vb-ss2:2.2.18"
 msgid "aṅgaṃ gahetvā nippīḷanā."
 msgstr "taking hold of a bodily part and then pressing."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc26, ms1V_1018
-msgctxt "pli-tv-bu-vb-ss2:2.2.20"
+msgctxt "pli-tv-bu-vb-ss2:2.2.19"
 msgid "Abhinippīḷanā nāma"
 msgstr "Pressing:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss2:2.2.21"
+msgctxt "pli-tv-bu-vb-ss2:2.2.20"
 msgid "kenaci saha nippīḷanā."
 msgstr "pressing with something."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc27, ms1V_1019
-msgctxt "pli-tv-bu-vb-ss2:2.2.22"
+msgctxt "pli-tv-bu-vb-ss2:2.2.21"
 msgid "Gahaṇaṃ nāma"
 msgstr "Take hold of:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss2:2.2.23"
+msgctxt "pli-tv-bu-vb-ss2:2.2.22"
 msgid "gahitamattaṃ."
 msgstr "mere taking hold of."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc28, ms1V_1020
-msgctxt "pli-tv-bu-vb-ss2:2.2.24"
+msgctxt "pli-tv-bu-vb-ss2:2.2.23"
 msgid "Chupanaṃ nāma"
 msgstr "Contacting:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss2:2.2.25"
+msgctxt "pli-tv-bu-vb-ss2:2.2.24"
 msgid "phuṭṭhamattaṃ."
 msgstr "mere contact."
 
 #. HTML: </span></p><hr><p><span class="term"> 
 #. REF: sc29, ms1V_1021
-msgctxt "pli-tv-bu-vb-ss2:2.2.26"
+msgctxt "pli-tv-bu-vb-ss2:2.2.25"
 msgid "Saṃghādisesoti"
 msgstr "He commits an offense entailing suspension:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-ss2:2.2.27"
+msgctxt "pli-tv-bu-vb-ss2:2.2.26"
 msgid "… pe …"
 msgstr "…"
 
 #. HTML: </span> 
-msgctxt "pli-tv-bu-vb-ss2:2.2.28"
+msgctxt "pli-tv-bu-vb-ss2:2.2.27"
 msgid "tenapi vuccati “saṃghādiseso”ti."
 msgstr "Therefore, too, it is called “an offense entailing suspension.”"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ss2:3.1.0a"
+msgctxt "pli-tv-bu-vb-ss2:3.1.0.1"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-ss2:3.1.0b"
+msgctxt "pli-tv-bu-vb-ss2:3.1.0.2"
 msgid ""
 msgstr "Permutations part 1"
 
 #. HTML: </h3><h5>
-msgctxt "pli-tv-bu-vb-ss2:3.1.0c"
+msgctxt "pli-tv-bu-vb-ss2:3.1.0.3"
 msgid ""
 msgstr "Making direct contact with a single woman, etc.: body to body"
 
@@ -791,7 +791,7 @@ msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss2:3.2.0a"
+msgctxt "pli-tv-bu-vb-ss2:3.2.0"
 msgid ""
 msgstr "Making direct contact with two beings of the same kind: body to body"
 
@@ -958,7 +958,7 @@ msgid "gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ."
 msgstr "takes hold of them, contacts them, he commits two offenses of wrong conduct."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss2:3.3.0a"
+msgctxt "pli-tv-bu-vb-ss2:3.3.0"
 msgid ""
 msgstr "Making direct contact with two beings of different kinds: body to body"
 
@@ -1240,7 +1240,7 @@ msgid "Dumūlakaṃ niṭṭhitaṃ."
 msgstr "The section on two root items is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss2:3.4.0a"
+msgctxt "pli-tv-bu-vb-ss2:3.4.0"
 msgid ""
 msgstr "Making indirect contact: body to what is connected to the body"
 
@@ -1329,156 +1329,156 @@ msgid "gaṇhāti chupati, āpatti thullaccayena dukkaṭassa … pe …."
 msgstr "takes hold of them, contacts them, he commits one serious offense and one offense of wrong conduct. …"
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss2:3.4.18a"
+msgctxt "pli-tv-bu-vb-ss2:3.4.18.0"
 msgid ""
 msgstr "Making indirect contact: what is connected to the body to what is connected to the body"
 
 #. HTML: </h5><p>
 #. REF: sc76, ms1V_1068 
-msgctxt "pli-tv-bu-vb-ss2:3.4.19"
+msgctxt "pli-tv-bu-vb-ss2:3.4.18"
 msgid "Itthī ca hoti itthisaññī sāratto ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.4.20"
+msgctxt "pli-tv-bu-vb-ss2:3.4.19"
 msgid "Bhikkhu ca naṃ itthiyā kāyapaṭi­bad­dhena kāyapaṭi­baddhaṃ āmasati parāmasati … pe …"
 msgstr "If the monk, with something connected to his own body, makes physical contact with something connected to her body, if he touches it …"
 
-msgctxt "pli-tv-bu-vb-ss2:3.4.21"
+msgctxt "pli-tv-bu-vb-ss2:3.4.20"
 msgid "gaṇhāti chupati, āpatti dukkaṭassa …"
 msgstr "takes hold of it, contacts it, he commits an offense of wrong conduct. … pe …."
 
 #. HTML: </p><p>
 #. REF: sc77, pts-vp-en1.208, ms1V_1069 
-msgctxt "pli-tv-bu-vb-ss2:3.4.22"
+msgctxt "pli-tv-bu-vb-ss2:3.4.21"
 msgid "Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca."
 msgstr "It is two women, he perceives them both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.4.23"
+msgctxt "pli-tv-bu-vb-ss2:3.4.22"
 msgid "Bhikkhu ca naṃ dvinnaṃ itthīnaṃ kāyapaṭi­bad­dhena kāyapaṭi­baddhaṃ āmasati parāmasati … pe …"
 msgstr "If the monk, with something connected to his own body, makes physical contact with something connected to both their bodies, if he touches those things …"
 
-msgctxt "pli-tv-bu-vb-ss2:3.4.24"
+msgctxt "pli-tv-bu-vb-ss2:3.4.23"
 msgid "gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "takes hold of them, contacts them, he commits two offenses of wrong conduct. …"
 
 #. HTML: </p><p>
 #. REF: sc78, ms1V_1070 
-msgctxt "pli-tv-bu-vb-ss2:3.4.25"
+msgctxt "pli-tv-bu-vb-ss2:3.4.24"
 msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
 msgstr "It is a woman and a sexual non-conformist, but he perceives both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.4.26"
+msgctxt "pli-tv-bu-vb-ss2:3.4.25"
 msgid "Bhikkhu ca naṃ ubhinnaṃ kāyapaṭi­bad­dhena kāyapaṭi­baddhaṃ āmasati parāmasati … pe …"
 msgstr "If the monk, with something connected to his own body, makes physical contact with something connected to both their bodies, if he touches those things …"
 
-msgctxt "pli-tv-bu-vb-ss2:3.4.27"
+msgctxt "pli-tv-bu-vb-ss2:3.4.26"
 msgid "gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "takes hold of them, contacts them, he commits two offenses of wrong conduct. …"
 
 # NOTE: By throwing, dropping, etc.
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss2:3.4.27a"
+msgctxt "pli-tv-bu-vb-ss2:3.4.27.0"
 msgid ""
 msgstr "Making indirect contact: contact by releasing"
 
 #. HTML: </h5><p>
 #. REF: sc79, ms1V_1071 
-msgctxt "pli-tv-bu-vb-ss2:3.4.28"
+msgctxt "pli-tv-bu-vb-ss2:3.4.27"
 msgid "Itthī ca hoti itthisaññī sāratto ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.4.29"
+msgctxt "pli-tv-bu-vb-ss2:3.4.28"
 msgid "Bhikkhu ca naṃ itthiyā nissaggiyena kāyaṃ āmasati āpatti dukkaṭassa … pe …."
 msgstr "If the monk, with something released by him, makes physical contact with her body, he commits an offense of wrong conduct. …"
 
 #. HTML: </p><p>
 #. REF: sc80, ms1V_1072 
-msgctxt "pli-tv-bu-vb-ss2:3.4.30"
+msgctxt "pli-tv-bu-vb-ss2:3.4.29"
 msgid "Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca."
 msgstr "It is two women, he perceives them both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.4.31"
+msgctxt "pli-tv-bu-vb-ss2:3.4.30"
 msgid "Bhikkhu ca naṃ dvinnaṃ itthīnaṃ nissaggiyena kāyaṃ āmasati, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "If the monk, with something released by him, makes physical contact with both their bodies, he commits two offenses of wrong conduct. …"
 
 #. HTML: </p><p>
 #. REF: sc81, ms1V_1073 
-msgctxt "pli-tv-bu-vb-ss2:3.4.32"
+msgctxt "pli-tv-bu-vb-ss2:3.4.31"
 msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
 msgstr "It is a woman and a sexual non-conformist, but he perceives both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.4.33"
+msgctxt "pli-tv-bu-vb-ss2:3.4.32"
 msgid "Bhikkhu ca naṃ ubhinnaṃ nissaggiyena kāyaṃ āmasati, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "If the monk, with something released by him, makes physical contact with both their bodies, he commits two offenses of wrong conduct. …"
 
 #. HTML: </p><hr><p>
 #. REF: sc82, ms1V_1074 
-msgctxt "pli-tv-bu-vb-ss2:3.4.34"
+msgctxt "pli-tv-bu-vb-ss2:3.4.33"
 msgid "Itthī ca hoti itthisaññī sāratto ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.4.35"
+msgctxt "pli-tv-bu-vb-ss2:3.4.34"
 msgid "Bhikkhu ca naṃ itthiyā nissaggiyena kāyapaṭi­baddhaṃ āmasati, āpatti dukkaṭassa … pe …."
 msgstr "If the monk, with something released by him, makes physical contact with something connected to her body, he commits an offense of wrong conduct. …"
 
 #. HTML: </p><p>
 #. REF: sc83, ms1V_1075 
-msgctxt "pli-tv-bu-vb-ss2:3.4.36"
+msgctxt "pli-tv-bu-vb-ss2:3.4.35"
 msgid "Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca."
 msgstr "It is two women, he perceives them both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.4.37"
+msgctxt "pli-tv-bu-vb-ss2:3.4.36"
 msgid "Bhikkhu ca naṃ dvinnaṃ itthīnaṃ nissaggiyena kāyapaṭi­baddhaṃ āmasati, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "If the monk, with something released by him, makes physical contact with something connected to both their bodies, he commits two offenses of wrong conduct. …"
 
 #. HTML: </p><p>
 #. REF: sc84, ms1V_1076 
-msgctxt "pli-tv-bu-vb-ss2:3.4.38"
+msgctxt "pli-tv-bu-vb-ss2:3.4.37"
 msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
 msgstr "It is a woman and a sexual non-conformist, but he perceives both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.4.39"
+msgctxt "pli-tv-bu-vb-ss2:3.4.38"
 msgid "Bhikkhu ca naṃ ubhinnaṃ nissaggiyena kāyapaṭi­baddhaṃ āmasati, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "If the monk, with something released by him, makes physical contact with something connected to both their bodies, he commits two offenses of wrong conduct. …"
 
 #. HTML: </p><hr><p>
 #. REF: sc85, ms1V_1077 
-msgctxt "pli-tv-bu-vb-ss2:3.4.40"
+msgctxt "pli-tv-bu-vb-ss2:3.4.39"
 msgid "Itthī ca hoti itthisaññī sāratto ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.4.41"
+msgctxt "pli-tv-bu-vb-ss2:3.4.40"
 msgid "Bhikkhu ca naṃ itthiyā nissaggiyena nissaggiyaṃ āmasati, āpatti dukkaṭassa … pe …."
 msgstr "If the monk, with something released by him, makes physical contact with something released by her, he commits an offense of wrong conduct. …"
 
 #. HTML: </p><p>
 #. REF: sc86, ms1V_1078 
-msgctxt "pli-tv-bu-vb-ss2:3.4.42"
+msgctxt "pli-tv-bu-vb-ss2:3.4.41"
 msgid "Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca."
 msgstr "It is two women, he perceives them both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.4.43"
+msgctxt "pli-tv-bu-vb-ss2:3.4.42"
 msgid "Bhikkhu ca naṃ dvinnaṃ itthīnaṃ nissaggiyena nissaggiyaṃ āmasati, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "If the monk, with something released by him, makes physical contact with something released by both of them, he commits two offenses of wrong conduct. …"
 
 #. HTML: </p><p>
 #. REF: sc87, ms1V_1079 
-msgctxt "pli-tv-bu-vb-ss2:3.4.44"
+msgctxt "pli-tv-bu-vb-ss2:3.4.43"
 msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
 msgstr "It is a woman and a sexual non-conformist, but he perceives both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.4.45"
+msgctxt "pli-tv-bu-vb-ss2:3.4.44"
 msgid "Bhikkhu ca naṃ ubhinnaṃ nissaggiyena nissaggiyaṃ āmasati, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "If the monk, with something released by him, makes physical contact with something released by both of them, he commits two offenses of wrong conduct. …"
 
 #. HTML: </p><p class="endsection">
 #. REF: sc88, ms1V_1080 
-msgctxt "pli-tv-bu-vb-ss2:3.4.46"
+msgctxt "pli-tv-bu-vb-ss2:3.4.45"
 msgid "Bhikkhupeyyālo niṭṭhito."
 msgstr "The successive series on a monk is finished."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss2:3.5.0a"
+msgctxt "pli-tv-bu-vb-ss2:3.5.0"
 msgid ""
 msgstr "Others making direct contact with a monk: body to body"
 
@@ -1518,274 +1518,274 @@ msgid "gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭiv
 msgstr "take hold of him, contact him, and he, aiming at association, makes an effort with the body and experiences contact, he commits one offense entailing suspension and one offense of wrong conduct. …"
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss2:3.5.7a"
+msgctxt "pli-tv-bu-vb-ss2:3.5.7.0"
 msgid ""
 msgstr "Others making indirect contact with a monk: body to what is connected to the body"
 
 #. HTML: </h5><p>
 #. REF: sc92, ms1V_1084 
-msgctxt "pli-tv-bu-vb-ss2:3.5.8"
+msgctxt "pli-tv-bu-vb-ss2:3.5.7"
 msgid "Itthī ca hoti itthisaññī sāratto ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.9"
+msgctxt "pli-tv-bu-vb-ss2:3.5.8"
 msgid "Itthī ca naṃ bhikkhussa kāyena kāyapaṭi­baddhaṃ āmasati parāmasati … pe …"
 msgstr "If the woman, with her own body, makes physical contact with something connected to his body, if she touches it …"
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.10"
+msgctxt "pli-tv-bu-vb-ss2:3.5.9"
 msgid "gaṇhāti chupati, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti thullaccayassa … pe …."
 msgstr "takes hold of it, contacts it, and he, aiming at association, makes an effort with the body and experiences contact, he commits a serious offense. …"
 
 #. HTML: </p><p>
 #. REF: sc93, ms1V_1085 
-msgctxt "pli-tv-bu-vb-ss2:3.5.11"
+msgctxt "pli-tv-bu-vb-ss2:3.5.10"
 msgid "Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca."
 msgstr "It is two women, he perceives them both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.12"
+msgctxt "pli-tv-bu-vb-ss2:3.5.11"
 msgid "Itthiyo ca naṃ bhikkhussa kāyena kāyapaṭi­baddhaṃ āmasanti parāmasanti … pe …"
 msgstr "If the women, with their own bodies, make physical contact with something connected to his body, if they touch it …"
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.13"
+msgctxt "pli-tv-bu-vb-ss2:3.5.12"
 msgid "gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ thullaccayānaṃ … pe …."
 msgstr "take hold of it, contact it, and he, aiming at association, makes an effort with the body and experiences contact, he commits two serious offenses. …"
 
 #. HTML: </p><p>
 #. REF: sc94, ms1V_1086 
-msgctxt "pli-tv-bu-vb-ss2:3.5.14"
+msgctxt "pli-tv-bu-vb-ss2:3.5.13"
 msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
 msgstr "It is a woman and a sexual non-conformist, but he perceives both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.15"
+msgctxt "pli-tv-bu-vb-ss2:3.5.14"
 msgid "Ubho ca naṃ bhikkhussa kāyena kāyapaṭi­baddhaṃ āmasanti parāmasanti … pe …"
 msgstr "If they both, with their own bodies, make physical contact with something connected to his body, if they touch it …"
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.16"
+msgctxt "pli-tv-bu-vb-ss2:3.5.15"
 msgid "gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti thullaccayena dukkaṭassa … pe …."
 msgstr "take hold of it, contact it, and he, aiming at association, makes an effort with the body and experiences contact, he commits one serious offense and one offense of wrong conduct. …"
 
 #. HTML: </p><hr><p>
 #. REF: sc95, ms1V_1087 
-msgctxt "pli-tv-bu-vb-ss2:3.5.17"
+msgctxt "pli-tv-bu-vb-ss2:3.5.16"
 msgid "Itthī ca hoti itthisaññī sāratto ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.18"
+msgctxt "pli-tv-bu-vb-ss2:3.5.17"
 msgid "Itthī ca naṃ bhikkhussa kāyapaṭi­bad­dhena kāyaṃ āmasati parāmasati … pe …"
 msgstr "If the woman, with something connected to her own body, makes physical contact with his body, if she touches him …"
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.19"
+msgctxt "pli-tv-bu-vb-ss2:3.5.18"
 msgid "gaṇhāti chupati, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti thullaccayassa … pe …."
 msgstr "takes hold of him, contacts him, and he, aiming at association, makes an effort with the body and experiences contact, he commits a serious offense. …"
 
 #. HTML: </p><p>
 #. REF: sc96, ms1V_1088 
-msgctxt "pli-tv-bu-vb-ss2:3.5.20"
+msgctxt "pli-tv-bu-vb-ss2:3.5.19"
 msgid "Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca."
 msgstr "It is two women, he perceives them both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.21"
+msgctxt "pli-tv-bu-vb-ss2:3.5.20"
 msgid "Itthiyo ca naṃ bhikkhussa kāyapaṭi­bad­dhena kāyaṃ āmasanti parāmasanti … pe …"
 msgstr "If the women, with something connected to their own bodies, make physical contact with his body, if they touch him …"
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.22"
+msgctxt "pli-tv-bu-vb-ss2:3.5.21"
 msgid "gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ thullaccayānaṃ … pe …."
 msgstr "take hold of him, contact him, and he, aiming at association, makes an effort with the body and experiences contact, he commits two serious offenses. …"
 
 #. HTML: </p><p>
 #. REF: sc97, ms1V_1089 
-msgctxt "pli-tv-bu-vb-ss2:3.5.23"
+msgctxt "pli-tv-bu-vb-ss2:3.5.22"
 msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
 msgstr "It is a woman and a sexual non-conformist, but he perceives both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.24"
+msgctxt "pli-tv-bu-vb-ss2:3.5.23"
 msgid "Ubho ca naṃ bhikkhussa kāyapaṭi­bad­dhena kāyaṃ āmasanti parāmasanti … pe …"
 msgstr "If they both, with something connected to their own bodies, make physical contact with his body, if they touch him …"
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.25"
+msgctxt "pli-tv-bu-vb-ss2:3.5.24"
 msgid "gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti thullaccayena dukkaṭassa … pe …."
 msgstr "take hold of him, contact him, and he, aiming at association, makes an effort with the body and experiences contact, he commits one serious offense and one offense of wrong conduct. …"
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss2:3.5.25a"
+msgctxt "pli-tv-bu-vb-ss2:3.5.25.0"
 msgid ""
 msgstr "Others making indirect contact with a monk: what is connected to the body to what is connected to the body"
 
 #. HTML: </h5><p>
 #. REF: sc98, ms1V_1090 
-msgctxt "pli-tv-bu-vb-ss2:3.5.26"
+msgctxt "pli-tv-bu-vb-ss2:3.5.25"
 msgid "Itthī ca hoti itthisaññī sāratto ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.27"
+msgctxt "pli-tv-bu-vb-ss2:3.5.26"
 msgid "Itthī ca naṃ bhikkhussa kāyapaṭi­bad­dhena kāyapaṭi­baddhaṃ āmasati parāmasati … pe …"
 msgstr "If the woman, with something connected to her own body, makes physical contact with something connected to his body, if she touches it …"
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.28"
+msgctxt "pli-tv-bu-vb-ss2:3.5.27"
 msgid "gaṇhāti chupati, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dukkaṭassa … pe …."
 msgstr "takes hold of it, contacts it, and he, aiming at association, makes an effort with the body and experiences contact, he commits an offense of wrong conduct. …"
 
 #. HTML: </p><p>
 #. REF: sc99, ms1V_1091 
-msgctxt "pli-tv-bu-vb-ss2:3.5.29"
+msgctxt "pli-tv-bu-vb-ss2:3.5.28"
 msgid "Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca."
 msgstr "It is two women, he perceives them both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.30"
+msgctxt "pli-tv-bu-vb-ss2:3.5.29"
 msgid "Itthiyo ca naṃ bhikkhussa kāyapaṭi­bad­dhena kāyapaṭi­baddhaṃ āmasanti parāmasanti … pe …"
 msgstr "If the women, with something connected to their own bodies, make physical contact with something connected to his body, if they touch it …"
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.31"
+msgctxt "pli-tv-bu-vb-ss2:3.5.30"
 msgid "gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "take hold of it, contact it, and he, aiming at association, makes an effort with the body and experiences contact, he commits two offenses of wrong conduct. …"
 
 #. HTML: </p><p>
 #. REF: sc100, ms1V_1092 
-msgctxt "pli-tv-bu-vb-ss2:3.5.32"
+msgctxt "pli-tv-bu-vb-ss2:3.5.31"
 msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
 msgstr "It is a woman and a sexual non-conformist, but he perceives both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.33"
+msgctxt "pli-tv-bu-vb-ss2:3.5.32"
 msgid "Ubho ca naṃ bhikkhussa kāyapaṭi­bad­dhena kāyapaṭi­baddhaṃ āmasanti parāmasanti … pe …"
 msgstr "If they both, with something connected to their own bodies, make physical contact with something connected to his body, if they touch it …"
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.34"
+msgctxt "pli-tv-bu-vb-ss2:3.5.33"
 msgid "gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "take hold of it, contact it, and he, aiming at association, makes an effort with the body and experiences contact, he commits two offenses of wrong conduct. …"
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss2:3.5.34a"
+msgctxt "pli-tv-bu-vb-ss2:3.5.34.0"
 msgid ""
 msgstr "Others making indirect contact with a monk: contact by releasing"
 
 #. HTML: </h5><p>
 #. REF: sc101, ms1V_1093 
-msgctxt "pli-tv-bu-vb-ss2:3.5.35"
+msgctxt "pli-tv-bu-vb-ss2:3.5.34"
 msgid "Itthī ca hoti itthisaññī sāratto ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.36"
+msgctxt "pli-tv-bu-vb-ss2:3.5.35"
 msgid "Itthī ca naṃ bhikkhussa nissaggiyena kāyaṃ āmasati."
 msgstr "If the woman, with something released by her, makes physical contact with his body,"
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.37"
+msgctxt "pli-tv-bu-vb-ss2:3.5.36"
 msgid "Sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dukkaṭassa … pe …."
 msgstr "and he, aiming at association, makes an effort with the body and experiences contact, he commits an offense of wrong conduct. …"
 
 #. HTML: </p><p>
 #. REF: sc102, pts-vp-en1.210, ms1V_1094 
-msgctxt "pli-tv-bu-vb-ss2:3.5.38"
+msgctxt "pli-tv-bu-vb-ss2:3.5.37"
 msgid "Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca."
 msgstr "It is two women, he perceives them both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.39"
+msgctxt "pli-tv-bu-vb-ss2:3.5.38"
 msgid "Itthiyo ca naṃ bhikkhussa nissaggiyena kāyaṃ āmasanti."
 msgstr "If the women, with something released by them, make physical contact with his body,"
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.40"
+msgctxt "pli-tv-bu-vb-ss2:3.5.39"
 msgid "Sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "and he, aiming at association, makes an effort with the body and experiences contact, he commits two offenses of wrong conduct. …"
 
 #. HTML: </p><p>
 #. REF: sc103, ms1V_1095 
-msgctxt "pli-tv-bu-vb-ss2:3.5.41"
+msgctxt "pli-tv-bu-vb-ss2:3.5.40"
 msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
 msgstr "It is a woman and a sexual non-conformist, but he perceives both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.42"
+msgctxt "pli-tv-bu-vb-ss2:3.5.41"
 msgid "Ubho ca naṃ bhikkhussa nissaggiyena kāyaṃ āmasanti."
 msgstr "If they both, with something released by them, make physical contact with his body,"
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.43"
+msgctxt "pli-tv-bu-vb-ss2:3.5.42"
 msgid "Sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "and he, aiming at association, makes an effort with the body and experiences contact, he commits two offenses of wrong conduct. …"
 
 #. HTML: </p><hr><p>
 #. REF: sc104, ms1V_1096 
-msgctxt "pli-tv-bu-vb-ss2:3.5.44"
+msgctxt "pli-tv-bu-vb-ss2:3.5.43"
 msgid "Itthī ca hoti itthisaññī sāratto ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.45"
+msgctxt "pli-tv-bu-vb-ss2:3.5.44"
 msgid "Itthī ca naṃ bhikkhussa nissaggiyena kāyapaṭi­baddhaṃ āmasati."
 msgstr "If the woman, with something released by her, makes physical contact with something connected to his body,"
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.46"
+msgctxt "pli-tv-bu-vb-ss2:3.5.45"
 msgid "Sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dukkaṭassa … pe …."
 msgstr "and he, aiming at association, makes an effort with the body and experiences contact, he commits an offense of wrong conduct. …"
 
 #. HTML: </p><p>
 #. REF: sc105, ms1V_1097 
-msgctxt "pli-tv-bu-vb-ss2:3.5.47"
+msgctxt "pli-tv-bu-vb-ss2:3.5.46"
 msgid "Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca."
 msgstr "It is two women, he perceives them both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.48"
+msgctxt "pli-tv-bu-vb-ss2:3.5.47"
 msgid "Itthiyo ca naṃ bhikkhussa nissaggiyena kāyapaṭi­baddhaṃ āmasanti."
 msgstr "If the women, with something released by them, make physical contact with something connected to his body,"
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.49"
+msgctxt "pli-tv-bu-vb-ss2:3.5.48"
 msgid "Sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "and he, aiming at association, makes an effort with the body and experiences contact, he commits two offenses of wrong conduct. …"
 
 #. HTML: </p><p>
 #. REF: sc106, ms1V_1098 
-msgctxt "pli-tv-bu-vb-ss2:3.5.50"
+msgctxt "pli-tv-bu-vb-ss2:3.5.49"
 msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
 msgstr "It is a woman and a sexual non-conformist, but he perceives both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.51"
+msgctxt "pli-tv-bu-vb-ss2:3.5.50"
 msgid "Ubho ca naṃ bhikkhussa nissaggiyena kāyapaṭi­baddhaṃ āmasanti."
 msgstr "If they both, with something released by them, make physical contact with something connected to his body,"
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.52"
+msgctxt "pli-tv-bu-vb-ss2:3.5.51"
 msgid "Sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "and he, aiming at association, makes an effort with the body and experiences contact, he commits two offenses of wrong conduct. …"
 
 #. HTML: </p><hr><p>
 #. REF: sc107, ms1V_1099 
-msgctxt "pli-tv-bu-vb-ss2:3.5.53"
+msgctxt "pli-tv-bu-vb-ss2:3.5.52"
 msgid "Itthī ca hoti itthisaññī sāratto ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.54"
+msgctxt "pli-tv-bu-vb-ss2:3.5.53"
 msgid "Itthī ca naṃ bhikkhussa nissaggiyena nissaggiyaṃ āmasati."
 msgstr "If the woman, with something released by her, makes physical contact with something released by him,"
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.55"
+msgctxt "pli-tv-bu-vb-ss2:3.5.54"
 msgid "Sevanādhippāyo kāyena vāyamati, na ca phassaṃ paṭivijānāti, āpatti dukkaṭassa … pe …."
 msgstr "and he, aiming at association, makes an effort with the body, but does not experience contact, he commits an offense of wrong conduct. …"
 
 #. HTML: </p><p>
 #. REF: sc108, ms1V_1100 
-msgctxt "pli-tv-bu-vb-ss2:3.5.56"
+msgctxt "pli-tv-bu-vb-ss2:3.5.55"
 msgid "Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca."
 msgstr "It is two women, he perceives them both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.57"
+msgctxt "pli-tv-bu-vb-ss2:3.5.56"
 msgid "Itthiyo ca naṃ bhikkhussa nissaggiyena nissaggiyaṃ āmasanti."
 msgstr "If the women, with something released by them, make physical contact with something released by him,"
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.58"
+msgctxt "pli-tv-bu-vb-ss2:3.5.57"
 msgid "Sevanādhippāyo kāyena vāyamati, na ca phassaṃ paṭivijānāti, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "and he, aiming at association, makes an effort with the body, but does not experience contact, he commits two offenses of wrong conduct. …"
 
 #. HTML: </p><p>
 #. REF: sc109, ms1V_1101 
-msgctxt "pli-tv-bu-vb-ss2:3.5.59"
+msgctxt "pli-tv-bu-vb-ss2:3.5.58"
 msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
 msgstr "It is a woman and a sexual non-conformist, but he perceives both as women, and he has lust."
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.60"
+msgctxt "pli-tv-bu-vb-ss2:3.5.59"
 msgid "Ubho ca naṃ bhikkhussa nissaggiyena nissaggiyaṃ āmasanti."
 msgstr "If they both, with something released by them, make physical contact with something released by him,"
 
-msgctxt "pli-tv-bu-vb-ss2:3.5.61"
+msgctxt "pli-tv-bu-vb-ss2:3.5.60"
 msgid "Sevanādhippāyo kāyena vāyamati, na ca phassaṃ paṭivijānāti, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "and he, aiming at association, makes an effort with the body, but does not experience contact, he commits two offenses of wrong conduct. …"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-ss2:3.6.0a"
+msgctxt "pli-tv-bu-vb-ss2:3.6.0"
 msgid ""
 msgstr "Permutations part 2"
 
@@ -1838,7 +1838,7 @@ msgid "Mokkhādhippāyo na ca kāyena vāyamati, na ca phassaṃ paṭivijānāt
 msgstr "If, aiming to free himself, he makes no effort with the body and does not experience contact, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ss2:3.7.0a"
+msgctxt "pli-tv-bu-vb-ss2:3.7.0"
 msgid ""
 msgstr "Non-offenses"
 
@@ -1882,49 +1882,49 @@ msgid "ādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-ss2:3.7.10"
+msgctxt "pli-tv-bu-vb-ss2:3.7.10.0"
 msgid "2.1. Vinīta­vatthu­uddāna­gāthā"
 msgstr "Case rulings mnemonic list"
 
 #. HTML: </h5><div class="uddana"><p>
 #. REF: sc119, ms1V_1111 
-msgctxt "pli-tv-bu-vb-ss2:3.7.11"
+msgctxt "pli-tv-bu-vb-ss2:3.7.10"
 msgid "Mātā dhītā bhaginī ca,"
 msgstr "Mother, daughter, and sister,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-ss2:3.7.12"
+msgctxt "pli-tv-bu-vb-ss2:3.7.11"
 msgid "jāyā yakkhī ca paṇḍako;"
 msgstr "Wife, and female spirit, a sexual non-conformist;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-ss2:3.7.13"
+msgctxt "pli-tv-bu-vb-ss2:3.7.12"
 msgid "Suttā matā tiracchānā,"
 msgstr "Asleep, dead, female animal,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-ss2:3.7.14"
+msgctxt "pli-tv-bu-vb-ss2:3.7.13"
 msgid "dāru­dhīta­likāya ca."
 msgstr "And with a wooden doll."
 
 #. HTML: </p><p>
 #. REF: sc120, ms1V_1112 
-msgctxt "pli-tv-bu-vb-ss2:3.7.15"
+msgctxt "pli-tv-bu-vb-ss2:3.7.14"
 msgid "Sampīḷe saṅkamo maggo,"
 msgstr "About oppression, bridge, road,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-ss2:3.7.16"
+msgctxt "pli-tv-bu-vb-ss2:3.7.15"
 msgid "rukkho nāvā ca rajju ca;"
 msgstr "Tree, and boat, and rope;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-ss2:3.7.17"
+msgctxt "pli-tv-bu-vb-ss2:3.7.16"
 msgid "Daṇḍo pattaṃ paṇāmesi,"
 msgstr "A stick, pushed with a bowl,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-ss2:3.7.18"
+msgctxt "pli-tv-bu-vb-ss2:3.7.17"
 msgid "vande vāyami nacchupeti."
 msgstr "When paying respect, made an effort but did not touch."
 

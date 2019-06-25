@@ -28,7 +28,7 @@ msgid "18. Vehāsakuṭisikkhāpada"
 msgstr "The training rule on upper stories"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc18:1.0a"
+msgctxt "pli-tv-bu-vb-pc18:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -117,19 +117,19 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc18:1.18a"
+msgctxt "pli-tv-bu-vb-pc18:1.18.0"
 msgid ""
 msgstr "Final ruling"
 
 # NOTE: I am here taking _kuṭi_ to refer to the upper story itself, rather than the whole building, which already has the separate name _vihāra_.
 #. HTML: </h2><p><span class="rule">
 #. REF: sc3, ms2V_445
-msgctxt "pli-tv-bu-vb-pc18:1.19"
+msgctxt "pli-tv-bu-vb-pc18:1.18"
 msgid "“Yo pana bhikkhu saṃghike vihāre uparivehāsakuṭiyā āhaccapādakaṃ mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyan”ti."
 msgstr "‘If a monk sits down or lies down on a bed or a bench with detachable legs on an upper story in a dwelling belonging to the Order, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc18:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc18:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -225,7 +225,7 @@ msgid "tasmiṃ abhinipajjati, āpatti pācittiyassa."
 msgstr "if he lies down on it, he commits an offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc18:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc18:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -263,7 +263,7 @@ msgid "Attano puggalike, anāpatti."
 msgstr "If it belongs to himself, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc18:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc18:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

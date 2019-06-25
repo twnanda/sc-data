@@ -28,7 +28,7 @@ msgid "3. Pesuññasikkhāpada"
 msgstr "The training rule on malicious talebearing"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc3:1.0a"
+msgctxt "pli-tv-bu-vb-pc3:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -120,19 +120,19 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc3:1.20a"
+msgctxt "pli-tv-bu-vb-pc3:1.20.0"
 msgid ""
 msgstr "Final ruling"
 
 # NOTE: This is translated somewhat freely in accordance with the explanation below and in the commentary. According to [](MS.2.144) (see below) the offense is only incurred when a monk brings the words of another monk to the attention of yet another monk, and thus the translation “between monks.” [](Sp.4.740.20) supports the plural rendering “monks”: “malicious talebearing of monks,” _bhikkhūnaṃ pesuññe_.
 #. HTML: </h2><p><span class="rule">
 #. REF: sc3, ms2V_113
-msgctxt "pli-tv-bu-vb-pc3:1.21"
+msgctxt "pli-tv-bu-vb-pc3:1.20"
 msgid "“Bhikkhupesuññe pācittiyan”ti."
 msgstr "‘If a monk engages in malicious talebearing between monks, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc3:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc3:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -160,118 +160,118 @@ msgid "jātitopi, nāmatopi, gottatopi, kammatopi, sippatopi, ābādhatopi, li�
 msgstr "about caste, about name, about family, about work, about craft, about illnesses, about physical traits, about defilements, about offenses, and by insulting."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc3:2.1.5a"
+msgctxt "pli-tv-bu-vb-pc3:2.1.3.0.1"
 msgid ""
 msgstr "Permutations"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pc3:2.1.5b"
+msgctxt "pli-tv-bu-vb-pc3:2.1.3.0.2"
 msgid ""
 msgstr "Permutations part 1"
 
 #. HTML: </h3><h4>
-msgctxt "pli-tv-bu-vb-pc3:2.1.5c"
+msgctxt "pli-tv-bu-vb-pc3:2.1.3.0.3"
 msgid ""
 msgstr "Definitions"
 
 #. HTML: </h4><p><span class="term"> 
 #. REF: sc5, ms2V_115
-msgctxt "pli-tv-bu-vb-pc3:2.1.6"
+msgctxt "pli-tv-bu-vb-pc3:2.1.3"
 msgid "Jāti nāma"
 msgstr "Caste:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc3:2.1.7"
+msgctxt "pli-tv-bu-vb-pc3:2.1.4"
 msgid "dve jātiyo—"
 msgstr "there are two kinds of castes:"
 
-msgctxt "pli-tv-bu-vb-pc3:2.1.8"
+msgctxt "pli-tv-bu-vb-pc3:2.1.5"
 msgid "hīnā ca jāti ukkaṭṭhā ca jāti."
 msgstr "low castes and high castes."
 
 #. HTML: </span><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc3:2.1.9"
+msgctxt "pli-tv-bu-vb-pc3:2.1.6"
 msgid "Hīnā nāma"
 msgstr "Low castes:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc3:2.1.10"
+msgctxt "pli-tv-bu-vb-pc3:2.1.7"
 msgid "jāti—caṇḍālajāti venajāti nesādajāti rathakārajāti pukkusajāti."
 msgstr "outcasts, bamboo workers, hunters, chariot-makers, waste-removers—"
 
-msgctxt "pli-tv-bu-vb-pc3:2.1.11"
+msgctxt "pli-tv-bu-vb-pc3:2.1.8"
 msgid "Esā hīnā nāma jāti."
 msgstr "these are called “low castes.”"
 
 #. HTML: </span><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc3:2.1.12"
+msgctxt "pli-tv-bu-vb-pc3:2.1.9"
 msgid "Ukkaṭṭhā nāma"
 msgstr "High castes:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc3:2.1.13"
+msgctxt "pli-tv-bu-vb-pc3:2.1.10"
 msgid "jāti—khattiyajāti brāhmaṇajāti."
 msgstr "aristocrats and brahmins—"
 
-msgctxt "pli-tv-bu-vb-pc3:2.1.14"
+msgctxt "pli-tv-bu-vb-pc3:2.1.11"
 msgid "Esā ukkaṭṭhā nāma jāti … "
 msgstr "these are called “high castes.” … "
 
 #. HTML: </span><span class="pe"> 
-msgctxt "pli-tv-bu-vb-pc3:2.1.15"
+msgctxt "pli-tv-bu-vb-pc3:2.1.12"
 msgid "pe …."
 msgstr "To be expanded as in [Pācittiya 2, paragraphs 9–16](pli-tv-bu-vb-pc2#9)."
 
 #. HTML: </span></p><p><span class="term"> 
 #. REF: sc6, pts-vp-pli4.13, ms2V_116
-msgctxt "pli-tv-bu-vb-pc3:2.1.16"
+msgctxt "pli-tv-bu-vb-pc3:2.1.13"
 msgid "Akkoso nāma"
 msgstr "Insults:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc3:2.1.17"
+msgctxt "pli-tv-bu-vb-pc3:2.1.14"
 msgid "dve akkosā—"
 msgstr "there are two kinds of insults:"
 
-msgctxt "pli-tv-bu-vb-pc3:2.1.18"
+msgctxt "pli-tv-bu-vb-pc3:2.1.15"
 msgid "hīno ca akkoso ukkaṭṭho ca akkoso."
 msgstr "low insults and high insults."
 
 #. HTML: </span><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc3:2.1.19"
+msgctxt "pli-tv-bu-vb-pc3:2.1.16"
 msgid "Hīno nāma"
 msgstr "Low insults:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc3:2.1.20"
+msgctxt "pli-tv-bu-vb-pc3:2.1.17"
 msgid "akkoso—“oṭṭhosi, meṇḍosi, goṇosi, gadrabhosi, tiracchānagatosi, nerayikosi; natthi tuyhaṃ sugati; duggatiyeva tuyhaṃ pāṭikaṅkhā”ti, yakārena vā bhakārena vā kāṭakoṭacikāya vā."
 msgstr "“you’re a camel/you’re a ram/you’re an ox/you’re a donkey/you’re an animal/you’re bound for hell/you’re not going to a good destination/you can only expect a bad destination,” or adding the disparaging endings _ya_ or _bha_ to someone’s name, or calling someone words for the male and female genitals—"
 
-msgctxt "pli-tv-bu-vb-pc3:2.1.21"
+msgctxt "pli-tv-bu-vb-pc3:2.1.18"
 msgid "Eso hīno nāma akkoso."
 msgstr "these are called “low insults.”"
 
 #. HTML: </span><span class="term"> 
-msgctxt "pli-tv-bu-vb-pc3:2.1.22"
+msgctxt "pli-tv-bu-vb-pc3:2.1.19"
 msgid "Ukkaṭṭho nāma"
 msgstr "High insults:"
 
 #. HTML: </span><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc3:2.1.23"
+msgctxt "pli-tv-bu-vb-pc3:2.1.20"
 msgid "akkoso—“paṇḍitosi, byattosi, medhāvīsi, bahussutosi, dhammakathikosi; natthi tuyhaṃ duggati; sugatiyeva tuyhaṃ pāṭikaṅkhā”ti."
 msgstr "“you’re wise/you’re competent/you’re intelligent/you’re learned/you’re an expounder of the Teaching/you’re not going to a bad destination/you can only expect a good destination”—"
 
-msgctxt "pli-tv-bu-vb-pc3:2.1.24"
+msgctxt "pli-tv-bu-vb-pc3:2.1.21"
 msgid "Eso ukkaṭṭho nāma akkoso."
 msgstr "these are called “high insults.”"
 
 #. HTML: </span></p><h4>
-msgctxt "pli-tv-bu-vb-pc3:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc3:2.2.0.1"
 msgid ""
 msgstr "Exposition"
 
 #. HTML: </h4><h5>
-msgctxt "pli-tv-bu-vb-pc3:2.2.0b"
+msgctxt "pli-tv-bu-vb-pc3:2.2.0.2"
 msgid ""
 msgstr "Direct abuse"
 
@@ -557,113 +557,113 @@ msgid "Āpatti vācāya, vācāya pācittiyassa."
 msgstr "then for every statement, he commits an offense entailing confession."
 
 #. HTML: </p><h5>
-msgctxt "pli-tv-bu-vb-pc3:2.2.60a"
+msgctxt "pli-tv-bu-vb-pc3:2.2.60.0"
 msgid ""
 msgstr "Indirect abuse"
 
 #. HTML: </h5><p>
 #. REF: sc27, ms2V_137
-msgctxt "pli-tv-bu-vb-pc3:2.2.61"
+msgctxt "pli-tv-bu-vb-pc3:2.2.60"
 msgid "Upasampanno upasampannassa sutvā upasampannassa pesuññaṃ upasaṃharati—"
 msgstr "If one who is fully ordained, after hearing it from another who is fully ordained, engages in malicious talebearing by saying to yet another who is fully ordained,"
 
-msgctxt "pli-tv-bu-vb-pc3:2.2.62"
+msgctxt "pli-tv-bu-vb-pc3:2.2.61"
 msgid "“itthannāmo ‘santi idhekacce caṇḍālā venā nesādā rathakārā, pukkusā’ti bhaṇati, na so aññaṃ bhaṇati, taññeva bhaṇatī”ti."
 msgstr "“So-and-so says, ‘There are outcasts/bamboo workers/hunters/chariot-makers/waste-removers, right here,’ and he’s not speaking about anyone else, he’s speaking about you,”"
 
-msgctxt "pli-tv-bu-vb-pc3:2.2.63"
+msgctxt "pli-tv-bu-vb-pc3:2.2.62"
 msgid "Āpatti vācāya, vācāya dukkaṭassa."
 msgstr "then for every statement, he commits an offense of wrong conduct."
 
 #. HTML: </p><p>
 #. REF: sc28, ms2V_138
-msgctxt "pli-tv-bu-vb-pc3:2.2.64"
+msgctxt "pli-tv-bu-vb-pc3:2.2.63"
 msgid "Upasampanno upasampannassa sutvā upasampannassa pesuññaṃ upasaṃharati—"
 msgstr "If one who is fully ordained, after hearing it from another who is fully ordained, engages in malicious talebearing by saying to yet another who is fully ordained,"
 
-msgctxt "pli-tv-bu-vb-pc3:2.2.65"
+msgctxt "pli-tv-bu-vb-pc3:2.2.64"
 msgid "“itthannāmo ‘santi idhekacce khattiyā brāhmaṇā’ti bhaṇati, na so aññaṃ bhaṇati, taññeva bhaṇatī”ti."
 msgstr "“So-and-so says, ‘There are aristocrats/brahmins, right here,’ and he’s not speaking about anyone else, he’s speaking about you,”"
 
-msgctxt "pli-tv-bu-vb-pc3:2.2.66"
+msgctxt "pli-tv-bu-vb-pc3:2.2.65"
 msgid "Āpatti vācāya, vācāya dukkaṭassa … pe …."
 msgstr "then for every statement, he commits an offense of wrong conduct. …"
 
 #. HTML: </p><p>
 #. REF: sc29, ms2V_139
-msgctxt "pli-tv-bu-vb-pc3:2.2.67"
+msgctxt "pli-tv-bu-vb-pc3:2.2.66"
 msgid "Upasampanno upasampannassa sutvā upasampannassa pesuññaṃ upasaṃharati—"
 msgstr "If one who is fully ordained, after hearing it from another who is fully ordained, engages in malicious talebearing by saying to yet another who is fully ordained,"
 
-msgctxt "pli-tv-bu-vb-pc3:2.2.68"
+msgctxt "pli-tv-bu-vb-pc3:2.2.67"
 msgid "“itthannāmo ‘santi idhekacce paṇḍitā byattā medhāvī bahussutā dhammakathikā, natthi tesaṃ duggati, sugatiyeva tesaṃ pāṭikaṅkhā’ti bhaṇati, na so aññaṃ bhaṇati, taññeva bhaṇatī”ti."
 msgstr "“So-and-so says, ‘There are wise ones/competent ones/intelligent ones/learned ones/expounders of the Teaching/those not going to a bad destination/those who can only expect a good destination, right here,’ and he’s not speaking about anyone else, he’s speaking about you,”"
 
-msgctxt "pli-tv-bu-vb-pc3:2.2.69"
+msgctxt "pli-tv-bu-vb-pc3:2.2.68"
 msgid "Āpatti vācāya, vācāya dukkaṭassa."
 msgstr "then for every statement, he commits an offense of wrong conduct."
 
 #. HTML: </p><hr><p>
 #. REF: sc30, ms2V_140
-msgctxt "pli-tv-bu-vb-pc3:2.2.70"
+msgctxt "pli-tv-bu-vb-pc3:2.2.69"
 msgid "Upasampanno upasampannassa sutvā upasampannassa pesuññaṃ upasaṃharati—"
 msgstr "If one who is fully ordained, after hearing it from another who is fully ordained, engages in malicious talebearing by saying to yet another who is fully ordained, "
 
-msgctxt "pli-tv-bu-vb-pc3:2.2.71"
+msgctxt "pli-tv-bu-vb-pc3:2.2.70"
 msgid "“itthannāmo ‘ye nūna caṇḍālā venā nesādā rathakārā pukkusā’ti bhaṇati, na so aññaṃ bhaṇati, taññeva bhaṇatī”ti."
 msgstr "“So-and-so says, ‘Perhaps these are outcasts/bamboo workers/hunters/chariot-makers/waste-removers,’ and he’s not speaking about anyone else, he’s speaking about you,”"
 
 # NOTE: I have added the ellipses points, which are presumably missing in the original due to an editing mistake, cf.[](MS.2.138) above. The same is true of [](MS.2.142) below.
-msgctxt "pli-tv-bu-vb-pc3:2.2.72"
+msgctxt "pli-tv-bu-vb-pc3:2.2.71"
 msgid "Āpatti vācāya, vācāya dukkaṭassa."
 msgstr "then for every statement, he commits an offense of wrong conduct. …"
 
 #. HTML: </p><p>
 #. REF: sc31, ms2V_141
-msgctxt "pli-tv-bu-vb-pc3:2.2.73"
+msgctxt "pli-tv-bu-vb-pc3:2.2.72"
 msgid "Upasampanno upasampannassa sutvā upasampannassa pesuññaṃ upasaṃharati—"
 msgstr "If one who is fully ordained, after hearing it from another who is fully ordained, engages in malicious talebearing by saying to yet another who is fully ordained,"
 
-msgctxt "pli-tv-bu-vb-pc3:2.2.74"
+msgctxt "pli-tv-bu-vb-pc3:2.2.73"
 msgid "“itthannāmo ‘ye nūna paṇḍitā byattā medhāvī bahussutā dhammakathikā’ti bhaṇati, na so aññaṃ bhaṇati, taññeva bhaṇatī”ti."
 msgstr "“So-and-so says, ‘Perhaps these are wise ones/competent ones/intelligent ones/learned ones/expounders of the Teaching,’ and he’s not speaking about anyone else, he’s speaking about you,”"
 
-msgctxt "pli-tv-bu-vb-pc3:2.2.75"
+msgctxt "pli-tv-bu-vb-pc3:2.2.74"
 msgid "Āpatti vācāya, vācāya dukkaṭassa."
 msgstr "then for every statement, he commits an offense of wrong conduct."
 
 #. HTML: </p><hr><p>
 #. REF: sc32, ms2V_142
-msgctxt "pli-tv-bu-vb-pc3:2.2.76"
+msgctxt "pli-tv-bu-vb-pc3:2.2.75"
 msgid "Upasampanno upasampannassa sutvā upasampannassa pesuññaṃ upasaṃharati—"
 msgstr "If one who is fully ordained, after hearing it from another who is fully ordained, engages in malicious talebearing by saying to yet another who is fully ordained,"
 
-msgctxt "pli-tv-bu-vb-pc3:2.2.77"
+msgctxt "pli-tv-bu-vb-pc3:2.2.76"
 msgid "“itthannāmo ‘na mayaṃ caṇḍālā venā nesādā rathakārā pukkusā’ti bhaṇati, na so aññaṃ bhaṇati, taññeva bhaṇatī”ti."
 msgstr "“So-and-so says, ‘We’re not outcasts/bamboo workers/hunters/chariot-makers/waste-removers,’ and he’s not speaking about anyone else, he’s speaking about you,”"
 
-msgctxt "pli-tv-bu-vb-pc3:2.2.78"
+msgctxt "pli-tv-bu-vb-pc3:2.2.77"
 msgid "Āpatti vācāya, vācāya dukkaṭassa."
 msgstr "then for every statement, he commits an offense of wrong conduct. …"
 
 #. HTML: </p><p>
 #. REF: sc33, pts-vp-pli4.14, ms2V_143
-msgctxt "pli-tv-bu-vb-pc3:2.2.79"
+msgctxt "pli-tv-bu-vb-pc3:2.2.78"
 msgid "Upasampanno upasampannassa sutvā upasampannassa pesuññaṃ upasaṃharati—"
 msgstr "If one who is fully ordained, after hearing it from another who is fully ordained, engages in malicious talebearing by saying to yet another who is fully ordained,"
 
 # NOTE: See note in previous rule [](MS.2.92).
 #. REF: pts-vp-en.2.189
-msgctxt "pli-tv-bu-vb-pc3:2.2.80"
+msgctxt "pli-tv-bu-vb-pc3:2.2.79"
 msgid "“itthannāmo ‘na mayaṃ paṇḍitā byattā medhāvī bahussutā dhammakathikā, natthamhākaṃ duggati, sugatiyeva amhākaṃ pāṭikaṅkhā’ti bhaṇati, na so aññaṃ bhaṇati, taññeva bhaṇatī”ti."
 msgstr "“So-and-so says, ‘We’re not wise ones/we’re not competent ones/we’re not intelligent ones/we’re not learned ones/we’re not expounders of the Teaching/we’re not going to a bad destination/we can only expect a good destination,’ and he’s not speaking about anyone else, he’s speaking about you,”"
 
-msgctxt "pli-tv-bu-vb-pc3:2.2.81"
+msgctxt "pli-tv-bu-vb-pc3:2.2.80"
 msgid "Āpatti vācāya, vācāya dukkaṭassa."
 msgstr "then for every statement, he commits an offense of wrong conduct."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc3:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc3:2.3.0"
 msgid ""
 msgstr "Permutations part 2"
 
@@ -696,7 +696,7 @@ msgid "Upasampanno anupasampannassa sutvā anupasampannassa pesuññaṃ upasa�
 msgstr "If one who is fully ordained, after hearing it from one who is not fully ordained, engages in malicious talebearing to another who is not fully ordained, then for every statement, he commits an offense of wrong conduct."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc3:2.4.0a"
+msgctxt "pli-tv-bu-vb-pc3:2.4.0"
 msgid ""
 msgstr "Non-offenses"
 

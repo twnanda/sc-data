@@ -28,7 +28,7 @@ msgid "22. Atthaṅgatasikkhāpada"
 msgstr "The training rule on gone down"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc22:1.0a"
+msgctxt "pli-tv-bu-vb-pc22:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -215,7 +215,7 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc22:1.40a"
+msgctxt "pli-tv-bu-vb-pc22:1.40.0"
 msgid ""
 msgstr "Final ruling"
 
@@ -223,12 +223,12 @@ msgstr "Final ruling"
 #. VAR: sūriye → suriye (s1-3, pts1)
 #. VAR: Sammatopi ce → sammato ce pi (pts1)
 #. REF: sc6, ms2V_522,  
-msgctxt "pli-tv-bu-vb-pc22:1.41"
+msgctxt "pli-tv-bu-vb-pc22:1.40"
 msgid "“Sammatopi ce bhikkhu atthaṅgate sūriye bhikkhuniyo ovadeyya, pācittiyan”ti."
 msgstr "‘Even if he has been agreed upon, if a monk instructs the nuns after sunset, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc22:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc22:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -277,7 +277,7 @@ msgid "aṭṭhahi vā garudhammehi aññena vā dhammena ovadati, āpatti pāci
 msgstr "if he instructs in the eight rules to be respected or he gives any other teaching, he commits an offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc22:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc22:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -314,7 +314,7 @@ msgid "Anatthaṅgate anatthaṅgatasaññī, anāpatti."
 msgstr "If the sun has not set, and he perceives that it has not, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc22:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc22:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

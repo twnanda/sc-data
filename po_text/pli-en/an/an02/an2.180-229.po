@@ -38,7 +38,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.181" id="181"><article><div class="hgroup"><h1>
-msgctxt "an2.180-229:180.1.5"
+msgctxt "an2.180-229:0.1"
 msgid "181–185 "
 msgstr "181–185 "
 
@@ -61,7 +61,7 @@ msgid "Ime kho, bhikkhave, dve dhammā”. "
 msgstr "These are the two things.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.186" id="186"><article><div class="hgroup"><h1>
-msgctxt "an2.180-229:181.1.5"
+msgctxt "an2.180-229:0.1"
 msgid "186–190 "
 msgstr "186–190 "
 
@@ -84,7 +84,7 @@ msgid "Imehi kho, bhikkhave, dvīhi dhammehi samannāgato dukkhaṃ viharati”.
 msgstr "Anyone who has these two things lives in suffering.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.191" id="191"><article><div class="hgroup"><h1>
-msgctxt "an2.180-229:186.1.5"
+msgctxt "an2.180-229:0.1"
 msgid "191–195 "
 msgstr "191–195 "
 
@@ -107,7 +107,7 @@ msgid "Imehi kho, bhikkhave, dvīhi dhammehi samannāgato sukhaṃ viharati”. 
 msgstr "Anyone who has these two things lives happily.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.196" id="196"><article><div class="hgroup"><h1>
-msgctxt "an2.180-229:191.1.5"
+msgctxt "an2.180-229:0.1"
 msgid "196–200 "
 msgstr "196–200 "
 
@@ -130,7 +130,7 @@ msgid "Ime kho, bhikkhave, dve dhammā sekhassa bhikkhuno parihānāya saṃvatt
 msgstr "These two things lead to the decline of a mendicant trainee.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.201" id="201"><article><div class="hgroup"><h1>
-msgctxt "an2.180-229:196.1.5"
+msgctxt "an2.180-229:0.1"
 msgid "201–205 "
 msgstr "201–205 "
 
@@ -153,7 +153,7 @@ msgid "Ime kho, bhikkhave, dve dhammā sekhassa bhikkhuno aparihānāya saṃvat
 msgstr "These two things don’t lead to the decline of a mendicant trainee.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.206" id="206"><article><div class="hgroup"><h1>
-msgctxt "an2.180-229:201.1.5"
+msgctxt "an2.180-229:0.1"
 msgid "206–210 "
 msgstr "206–210 "
 
@@ -176,7 +176,7 @@ msgid "Imehi kho, bhikkhave, dvīhi dhammehi samannāgato yathābhataṃ nikkhit
 msgstr "Anyone who has these two things is cast down to hell.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.211" id="211"><article><div class="hgroup"><h1>
-msgctxt "an2.180-229:206.1.5"
+msgctxt "an2.180-229:0.1"
 msgid "211–215 "
 msgstr "211–215 "
 
@@ -199,7 +199,7 @@ msgid "Imehi kho, bhikkhave, dvīhi dhammehi samannāgato yathābhataṃ nikkhit
 msgstr "Anyone who has these two things is raised up to heaven.” "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.216" id="216"><article><div class="hgroup"><h1>
-msgctxt "an2.180-229:211.1.5"
+msgctxt "an2.180-229:0.1"
 msgid "216–220 "
 msgstr "216–220 "
 
@@ -222,7 +222,7 @@ msgid "Imehi kho, bhikkhave, dvīhi dhammehi samannāgato idhekacco kāyassa bhe
 msgstr "When they have two things, some people, when their body breaks up, after death, are reborn in a place of loss, a bad place, the underworld, hell. "
 
 #. HTML: </p></article></section><section class="sutta" data-uid="an2.221" id="221"><article><div class="hgroup"><h1>
-msgctxt "an2.180-229:216.1.5"
+msgctxt "an2.180-229:0.1"
 msgid "221–229 "
 msgstr "221–229 "
 

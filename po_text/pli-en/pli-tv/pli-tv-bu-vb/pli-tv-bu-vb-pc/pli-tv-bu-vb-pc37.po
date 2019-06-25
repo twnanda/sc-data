@@ -28,7 +28,7 @@ msgid "37. Vikālabhojanasikkhāpada"
 msgstr "The training rule on eating at the wrong time"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc37:1.0a"
+msgctxt "pli-tv-bu-vb-pc37:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -131,18 +131,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc37:1.22a"
+msgctxt "pli-tv-bu-vb-pc37:1.22.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc3, ms2V_802
-msgctxt "pli-tv-bu-vb-pc37:1.23"
+msgctxt "pli-tv-bu-vb-pc37:1.22"
 msgid "“Yo pana bhikkhu vikāle khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyan”ti."
 msgstr "‘If a monk eats staple or non-staple food at the wrong time, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc37:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc37:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -219,7 +219,7 @@ msgid "Ajjhohāre ajjhohāre āpatti pācittiyassa."
 msgstr "For every mouthful, he commits an offense entailing confession."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc37:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc37:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -261,7 +261,7 @@ msgid "Kāle kālasaññī, anāpatti."
 msgstr "If it is the right time, and he perceives it as the right time, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc37:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc37:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

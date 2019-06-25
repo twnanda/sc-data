@@ -28,12 +28,12 @@ msgid "5. Sahaseyyasikkhāpada"
 msgstr "The training rule on the same sleeping place"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc5:0.6"
+msgctxt "pli-tv-bu-vb-pc5:1.0.1"
 msgid ""
 msgstr "Origin story"
 
 #. HTML: </h2><h3>
-msgctxt "pli-tv-bu-vb-pc5:1.0a"
+msgctxt "pli-tv-bu-vb-pc5:1.0.2"
 msgid ""
 msgstr "First sub-story"
 
@@ -115,24 +115,24 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc5:1.17a"
+msgctxt "pli-tv-bu-vb-pc5:1.17.0"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. HTML: </h3><p><span class="rule"> 
 #. REF: sc4, ms2V_167
-msgctxt "pli-tv-bu-vb-pc5:1.18"
+msgctxt "pli-tv-bu-vb-pc5:1.17"
 msgid "“Yo pana bhikkhu anupasampannena sahaseyyaṃ kappeyya pācittiyan”ti."
 msgstr "‘If a monk sleeps in the same sleeping place as a person who is not fully ordained, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc5, ms2V_168
-msgctxt "pli-tv-bu-vb-pc5:1.19"
+msgctxt "pli-tv-bu-vb-pc5:1.18"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. HTML: </p><h3>
-msgctxt "pli-tv-bu-vb-pc5:2.0a"
+msgctxt "pli-tv-bu-vb-pc5:2.0"
 msgid ""
 msgstr "Second sub-story"
 
@@ -208,7 +208,7 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc5:2.15a"
+msgctxt "pli-tv-bu-vb-pc5:2.15.0"
 msgid ""
 msgstr "Final ruling"
 
@@ -216,12 +216,12 @@ msgstr "Final ruling"
 #. VAR: sahaseyyaṃ → saha seyyaṃ (s1-3)
 #. VAR: uttaridirattatirattaṃ → uttaridviratta … (s1-3, pts1)
 #. REF: sc8, ms2V_171
-msgctxt "pli-tv-bu-vb-pc5:2.16"
+msgctxt "pli-tv-bu-vb-pc5:2.15"
 msgid "“Yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyan”ti."
 msgstr "‘If a monk sleeps for more than two or three nights in the same sleeping place as a person who is not fully ordained, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc5:2.16a"
+msgctxt "pli-tv-bu-vb-pc5:3.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -314,7 +314,7 @@ msgid "Uṭṭhahitvā punappunaṃ nipajjanti, āpatti pācittiyassa."
 msgstr "every time they get up and then lie down again, he commits an offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc5:3.2.0a"
+msgctxt "pli-tv-bu-vb-pc5:3.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -351,7 +351,7 @@ msgid "Upasampanne upasampannasaññī, anāpatti."
 msgstr "If it is someone who is fully ordained, and the monk perceives him as fully ordained, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc5:3.3.0a"
+msgctxt "pli-tv-bu-vb-pc5:3.3.0"
 msgid ""
 msgstr "Non-offenses"
 

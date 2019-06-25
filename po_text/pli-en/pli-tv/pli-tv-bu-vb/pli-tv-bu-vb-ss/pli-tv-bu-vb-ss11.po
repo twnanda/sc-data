@@ -23,7 +23,7 @@ msgid "Bhedā­nu­vatta­ka­sikkhā­pada"
 msgstr "11. The training rule on supporting a schism"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-ss11:1.0a"
+msgctxt "pli-tv-bu-vb-ss11:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -115,72 +115,72 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ss11:1.19a"
+msgctxt "pli-tv-bu-vb-ss11:1.19.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc3, ms1V_1706
-msgctxt "pli-tv-bu-vb-ss11:1.20"
+msgctxt "pli-tv-bu-vb-ss11:1.19"
 msgid "“Tasseva kho pana bhikkhussa bhikkhū honti anuvattakā vaggavādakā eko vā dve vā tayo vā."
 msgstr "‘That monk may have one, two, or three monks who take his side and support him,"
 
-msgctxt "pli-tv-bu-vb-ss11:1.21"
+msgctxt "pli-tv-bu-vb-ss11:1.20"
 msgid "Te evaṃ vadeyyuṃ—"
 msgstr "and they may say,"
 
-msgctxt "pli-tv-bu-vb-ss11:1.22"
+msgctxt "pli-tv-bu-vb-ss11:1.21"
 msgid "‘māyasmanto etaṃ bhikkhuṃ kiñci avacuttha."
 msgstr "“Venerables, don’t correct this monk."
 
-msgctxt "pli-tv-bu-vb-ss11:1.23"
+msgctxt "pli-tv-bu-vb-ss11:1.22"
 msgid "Dhammavādī ceso bhikkhu, vinayavādī ceso bhikkhu."
 msgstr "He speaks in accordance with the Teaching and the training."
 
-msgctxt "pli-tv-bu-vb-ss11:1.24"
+msgctxt "pli-tv-bu-vb-ss11:1.23"
 msgid "Amhākañceso bhikkhu chandañca ruciñca ādāya voharati jānāti no bhāsati amhākampetaṃ khamatī’ti,"
 msgstr "And he speaks with our consent and approval. He knows about us and speaks for us, and we agree to this.”"
 
-msgctxt "pli-tv-bu-vb-ss11:1.25"
+msgctxt "pli-tv-bu-vb-ss11:1.24"
 msgid "te bhikkhū bhikkhūhi evamassu vacanīyā—"
 msgstr "The monks should say to those monks,"
 
 #. VAR: māyasmanto → mā āyasmanto (bj, s1-3)
-msgctxt "pli-tv-bu-vb-ss11:1.26"
+msgctxt "pli-tv-bu-vb-ss11:1.25"
 msgid "‘māyasmanto evaṃ avacuttha,"
 msgstr "“Venerables, don’t say that."
 
-msgctxt "pli-tv-bu-vb-ss11:1.27"
+msgctxt "pli-tv-bu-vb-ss11:1.26"
 msgid "na ceso bhikkhu dhammavādī, na ceso bhikkhu vinayavādī,"
 msgstr "This monk does not speak in accordance with the Teaching or the training."
 
 #. VAR: mā­yasman­tānampi → mā āyasmantānampi (bj, s1-3) | māyasmantānaṃ pi (pts1)
-msgctxt "pli-tv-bu-vb-ss11:1.28"
+msgctxt "pli-tv-bu-vb-ss11:1.27"
 msgid "­mā­yasman­tānampi saṃghabhedo ruccittha,"
 msgstr "Don’t consent to schism in the Order."
 
-msgctxt "pli-tv-bu-vb-ss11:1.29"
+msgctxt "pli-tv-bu-vb-ss11:1.28"
 msgid "­same­tā­yasman­tānaṃ saṃghena,"
 msgstr "Stay with the Order,"
 
-msgctxt "pli-tv-bu-vb-ss11:1.30"
+msgctxt "pli-tv-bu-vb-ss11:1.29"
 msgid "­samaggo hi saṃgho sammodamāno avivadamāno ekuddeso phāsu viharatī’ti."
 msgstr "for a united Order—in concord, in harmony, having a joint recitation—lives in comfort.”"
 
-msgctxt "pli-tv-bu-vb-ss11:1.31"
+msgctxt "pli-tv-bu-vb-ss11:1.30"
 msgid "Evañca te bhikkhū bhikkhūhi vuccamānā tatheva paggaṇheyyuṃ, te bhikkhū bhikkhūhi yāvatatiyaṃ sama­nubhā­si­tabbā tassa paṭinissaggāya."
 msgstr "If those monks still continue as before, the monks should admonish them up to three times to make them stop."
 
-msgctxt "pli-tv-bu-vb-ss11:1.32"
+msgctxt "pli-tv-bu-vb-ss11:1.31"
 msgid "Yāvatatiyañce sama­nubhā­si­yamānā taṃ paṭi­nissaj­jey­yuṃ, iccetaṃ kusalaṃ,"
 msgstr "If they then stop, that is good."
 
-msgctxt "pli-tv-bu-vb-ss11:1.33"
+msgctxt "pli-tv-bu-vb-ss11:1.32"
 msgid "no ce paṭi­nissaj­jey­yuṃ, saṃghādiseso”ti."
 msgstr "If not, they commit an offense entailing suspension.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ss11:2.0a"
+msgctxt "pli-tv-bu-vb-ss11:2.0"
 msgid ""
 msgstr "Definitions"
 
@@ -514,7 +514,7 @@ msgid "… pe … tenapi vuccati “saṃghādiseso”ti."
 msgstr "… Therefore, too, it is called “an offense entailing suspension.”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-ss11:3.1.0a"
+msgctxt "pli-tv-bu-vb-ss11:3.1.0"
 msgid ""
 msgstr "Permutations"
 
@@ -556,7 +556,7 @@ msgid "Adhammakamme adhamma­kamma­saññī, āpatti dukkaṭassa."
 msgstr "If it is an illegitimate procedure, and they perceive it as illegitimate, they commit an offense of wrong conduct."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-ss11:3.2.0a"
+msgctxt "pli-tv-bu-vb-ss11:3.2.0"
 msgid ""
 msgstr "Non-offenses"
 

@@ -3,12 +3,12 @@ msgstr ""
 ""
 
 #. HTML: <section class="sutta" id="pli-tv-pvr6"><article><div class="hgroup"><p class="division">
-msgctxt "pli-tv-pvr6:1.1"
+msgctxt "pli-tv-pvr6:0.1"
 msgid "Parivāra"
 msgstr ""
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-pvr6:2.1"
+msgctxt "pli-tv-pvr6:0.2"
 msgid "6. Khandhakapucchāvāra"
 msgstr ""
 

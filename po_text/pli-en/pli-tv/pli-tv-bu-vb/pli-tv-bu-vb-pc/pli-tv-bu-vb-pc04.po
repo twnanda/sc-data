@@ -28,7 +28,7 @@ msgid "4. Padasodhammasikkhāpada"
 msgstr "The training rule on memorizing the Teaching"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc4:1.0a"
+msgctxt "pli-tv-bu-vb-pc4:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -105,18 +105,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc4:1.16a"
+msgctxt "pli-tv-bu-vb-pc4:1.16.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc3, ms2V_152
-msgctxt "pli-tv-bu-vb-pc4:1.17"
+msgctxt "pli-tv-bu-vb-pc4:1.16"
 msgid "“Yo pana bhikkhu anupasampannaṃ padaso dhammaṃ vāceyya pācittiyan”ti."
 msgstr "‘If a monk instructs a person who is not fully ordained to memorize the Teaching, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc4:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc4:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -243,7 +243,7 @@ msgid "Akkharāya vāceti, akkharakkharāya āpatti pācittiyassa."
 msgstr "If he instructs by the syllable, then for every syllable he commits an offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc4:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc4:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -276,7 +276,7 @@ msgid "Upasampanne upasampannasaññī, anāpatti."
 msgstr "If it is a person who is fully ordained, and the monk perceives them as fully ordained, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc4:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc4:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 

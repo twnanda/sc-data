@@ -28,7 +28,7 @@ msgid "6. Dutiyasahaseyyasikkhāpada"
 msgstr "The second training rule on the same sleeping place"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc6:1.0a"
+msgctxt "pli-tv-bu-vb-pc6:1.0"
 msgid ""
 msgstr "Origin story"
 
@@ -285,18 +285,18 @@ msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc6:1.57a"
+msgctxt "pli-tv-bu-vb-pc6:1.57.0"
 msgid ""
 msgstr "Final ruling"
 
 #. HTML: </h2><p><span class="rule"> 
 #. REF: sc6, ms2V_187
-msgctxt "pli-tv-bu-vb-pc6:1.58"
+msgctxt "pli-tv-bu-vb-pc6:1.57"
 msgid "“Yo pana bhikkhu mātugāmena sahaseyyaṃ kappeyya pācittiyan”ti."
 msgstr "‘If a monk sleeps in the same sleeping place as a woman, he commits an offense entailing confession.’”"
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc6:2.1.0a"
+msgctxt "pli-tv-bu-vb-pc6:2.1.0"
 msgid ""
 msgstr "Definitions"
 
@@ -384,7 +384,7 @@ msgid "Uṭṭhahitvā punappunaṃ nipajjanti, āpatti pācittiyassa."
 msgstr "every time they get up and then lie down again, he commits an offense entailing confession."
 
 #. HTML: </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc6:2.2.0a"
+msgctxt "pli-tv-bu-vb-pc6:2.2.0"
 msgid ""
 msgstr "Permutations"
 
@@ -425,7 +425,7 @@ msgid "Amātugāme amātugāmasaññī, anāpatti."
 msgstr "If it is not a woman, and he does not perceive it as a woman, there is no offense."
 
 #. HTML: </p><h2>
-msgctxt "pli-tv-bu-vb-pc6:2.3.0a"
+msgctxt "pli-tv-bu-vb-pc6:2.3.0"
 msgid ""
 msgstr "Non-offenses"
 
