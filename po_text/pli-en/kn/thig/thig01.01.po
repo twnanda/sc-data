@@ -21,8 +21,7 @@ msgctxt "thig1.1:4.1"
 msgid "Namo tassa Bhagavato Arahato Sammāsambuddhassa."
 msgstr "Homage to that Blessed One, the perfected one, the fully awakened Buddha!"
 
-#. HTML: </p><blockquote class="gatha"><p><a class="sc" id="2"></a><a class="vns"
-#. id="vns1"></a><a class="vnp" id="vnp1"></a><a class="pts" id="pts123"></a>
+#. HTML: </p><blockquote class="gatha"><p><a class="sc" id="2"></a><a class="vns" id="vns1"></a><a class="vnp" id="vnp1"></a><a class="pts" id="pts123"></a>
 msgctxt "thig1.1:5.1"
 msgid "“Sukhaṃ supāhi therike,"
 msgstr "Sleep softly, little nun,"

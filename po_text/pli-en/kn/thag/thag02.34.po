@@ -21,8 +21,7 @@ msgctxt "thag2.34:4.1"
 msgid "2.34. Isidinnattheragāthā"
 msgstr "2.34. Isidinna"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns187"></a><a class="vnp" id="vnp187"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns187"></a><a class="vnp" id="vnp187"></a>
 msgctxt "thag2.34:5.1"
 msgid "“Diṭṭhā mayā dhammadharā upāsakā,"
 msgstr "I’ve seen lay disciples who have memorized discourses,"
@@ -42,8 +41,7 @@ msgctxt "thag2.34:5.4"
 msgid "Puttesu dāresu ca te apekkhā."
 msgstr "concerned for their partners and children."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns188"></a><a
-#. class="vnp" id="vnp188"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns188"></a><a class="vnp" id="vnp188"></a>
 msgctxt "thag2.34:6.1"
 msgid "Addhā na jānanti yatodha dhammaṃ,"
 msgstr "To be honest, they don’t know Dhamma,"

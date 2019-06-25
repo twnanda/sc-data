@@ -21,8 +21,7 @@ msgctxt "thag3.15:4.1"
 msgid "3.15. Hāritattheragāthā"
 msgstr "3.15. Hārita (2nd)"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns261"></a><a class="vnp" id="vnp261"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns261"></a><a class="vnp" id="vnp261"></a>
 msgctxt "thag3.15:5.1"
 msgid "“Yo pubbe karaṇīyāni,"
 msgstr "Whoever wishes to do afterwards"
@@ -42,8 +41,7 @@ msgctxt "thag3.15:5.4"
 msgid "pacchā ca manutappati."
 msgstr "and afterwards they’re tormented by regrets."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns262"></a><a
-#. class="vnp" id="vnp262"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns262"></a><a class="vnp" id="vnp262"></a>
 msgctxt "thag3.15:6.1"
 msgid "Yañhi kayirā tañhi vade,"
 msgstr "You should only say what you would do;"
@@ -63,8 +61,7 @@ msgctxt "thag3.15:6.4"
 msgid "parijānanti paṇḍitā."
 msgstr "one who talks without doing."
 
-#. HTML: </p><p><a class="sc" id="3"></a> <a class="vns" id="vns263"></a><a
-#. class="vnp" id="vnp263"></a>
+#. HTML: </p><p><a class="sc" id="3"></a> <a class="vns" id="vns263"></a><a class="vnp" id="vnp263"></a>
 msgctxt "thag3.15:7.1"
 msgid "Susukhaṃ vata nibbānaṃ,"
 msgstr "Oh! Extinguishment is so very blissful,"

@@ -21,8 +21,7 @@ msgctxt "thag6.11:4.1"
 msgid "6.11. Nhātakamunittheragāthā"
 msgstr "6.11. Nhātakamuni"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns435"></a><a class="vnp" id="vnp435"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns435"></a><a class="vnp" id="vnp435"></a>
 msgctxt "thag6.11:5.1"
 msgid "“Vātarogābhinīto tvaṃ,"
 msgstr "“Struck by a wind ailment"
@@ -42,8 +41,7 @@ msgctxt "thag6.11:5.4"
 msgid "kathaṃ bhikkhu karissasi”."
 msgstr "how will you get by, monk?”"
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns436"></a><a
-#. class="vnp" id="vnp436"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns436"></a><a class="vnp" id="vnp436"></a>
 msgctxt "thag6.11:6.1"
 msgid "“Pītisukhena vipulena,"
 msgstr "“Pervading this bag of bones"
@@ -63,8 +61,7 @@ msgctxt "thag6.11:6.4"
 msgid "viharissāmi kānane."
 msgstr "I’ll dwell in the forest."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns437"></a><a
-#. class="vnp" id="vnp437"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns437"></a><a class="vnp" id="vnp437"></a>
 msgctxt "thag6.11:7.1"
 msgid "Bhāvento satta bojjhaṅge,"
 msgstr "Developing the seven awakening factors,"
@@ -85,8 +82,7 @@ msgctxt "thag6.11:7.4"
 msgid "viharissaṃ anāsavo."
 msgstr "I’ll dwell without defilements."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns438"></a><a
-#. class="vnp" id="vnp438"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns438"></a><a class="vnp" id="vnp438"></a>
 msgctxt "thag6.11:8.1"
 msgid "Vippamuttaṃ kilesehi,"
 msgstr "Freed from corruptions,"
@@ -106,8 +102,7 @@ msgctxt "thag6.11:8.4"
 msgid "viharissaṃ anāsavo."
 msgstr "I’ll meditate without defilements."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns439"></a><a
-#. class="vnp" id="vnp439"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns439"></a><a class="vnp" id="vnp439"></a>
 msgctxt "thag6.11:9.1"
 msgid "Ajjhattañca bahiddhā ca,"
 msgstr "Those defilements that were found in me,"
@@ -127,8 +122,7 @@ msgctxt "thag6.11:9.4"
 msgid "na ca uppajjare puna."
 msgstr "and will not arise again."
 
-#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns440"></a><a
-#. class="vnp" id="vnp440"></a>
+#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns440"></a><a class="vnp" id="vnp440"></a>
 msgctxt "thag6.11:10.1"
 msgid "Pañcakkhandhā pariññātā,"
 msgstr "The five aggregates are fully understood,"

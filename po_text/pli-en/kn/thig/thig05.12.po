@@ -16,8 +16,7 @@ msgctxt "thig5.12:3.1"
 msgid "12. Candātherīgāthā"
 msgstr "5.12. Candā"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns122"></a><a class="vnp" id="vnp122"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns122"></a><a class="vnp" id="vnp122"></a>
 msgctxt "thig5.12:4.1"
 msgid "“Duggatāhaṃ pure āsiṃ,"
 msgstr "I used to be in a sorry state."
@@ -37,8 +36,7 @@ msgctxt "thig5.12:4.4"
 msgid "bhattacoḷassa nādhigaṃ."
 msgstr "I got neither food nor clothes."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns123"></a><a
-#. class="vnp" id="vnp123"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns123"></a><a class="vnp" id="vnp123"></a>
 msgctxt "thig5.12:5.1"
 msgid "Pattaṃ daṇḍañca gaṇhitvā,"
 msgstr "I took a bowl and a staff"
@@ -58,8 +56,7 @@ msgctxt "thig5.12:5.4"
 msgid "satta vassāni cārihaṃ."
 msgstr "burned by heat and cold."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns124"></a><a
-#. class="vnp" id="vnp124"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns124"></a><a class="vnp" id="vnp124"></a>
 msgctxt "thig5.12:6.1"
 msgid "Bhikkhuniṃ puna disvāna,"
 msgstr "Then I saw a nun"
@@ -80,8 +77,7 @@ msgctxt "thig5.12:6.4"
 msgid "‘pabbajjaṃ anagāriyaṃ’."
 msgstr "“Send me forth to homelessness.”"
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns125"></a><a
-#. class="vnp" id="vnp125"></a><a class="pts" id="pts136"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns125"></a><a class="vnp" id="vnp125"></a><a class="pts" id="pts136"></a>
 msgctxt "thig5.12:7.1"
 msgid "Sā ca maṃ anukampāya,"
 msgstr "Out of compassion for me,"
@@ -101,8 +97,7 @@ msgctxt "thig5.12:7.4"
 msgid "paramatthe niyojayi."
 msgstr "she urged me on to the ultimate goal."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns126"></a><a
-#. class="vnp" id="vnp126"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns126"></a><a class="vnp" id="vnp126"></a>
 msgctxt "thig5.12:8.1"
 msgid "Tassāhaṃ vacanaṃ sutvā,"
 msgstr "After hearing her words,"

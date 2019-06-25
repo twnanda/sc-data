@@ -16,8 +16,7 @@ msgctxt "thig4.1:3.1"
 msgid "1. Bhaddākāpilānītherīgāthā"
 msgstr "4.1. Bhaddā Kāpilānī"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns63"></a><a class="vnp" id="vnp63"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns63"></a><a class="vnp" id="vnp63"></a>
 msgctxt "thig4.1:4.1"
 msgid "“Putto buddhassa dāyādo,"
 msgstr "Kassapa is the son and heir of the Buddha,"
@@ -37,8 +36,7 @@ msgctxt "thig4.1:4.4"
 msgid "saggāpāyañca passati."
 msgstr "he sees heaven and places of loss,"
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns64"></a><a class="vnp"
-#. id="vnp64"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns64"></a><a class="vnp" id="vnp64"></a>
 msgctxt "thig4.1:5.1"
 msgid "Atho jātikkhayaṃ patto,"
 msgstr "and has attained the end of rebirth:"
@@ -58,8 +56,7 @@ msgctxt "thig4.1:5.4"
 msgid "tevijjo hoti brāhmaṇo."
 msgstr "that the brahmin is a master of the three knowledges."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns65"></a><a class="vnp"
-#. id="vnp65"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns65"></a><a class="vnp" id="vnp65"></a>
 msgctxt "thig4.1:6.1"
 msgid "Tatheva bhaddā kāpilānī,"
 msgstr "In exactly the same way, Bhaddā Kāpilānī"
@@ -79,8 +76,7 @@ msgctxt "thig4.1:6.4"
 msgid "jetvā māraṃ savāhiniṃ."
 msgstr "having vanquished Māra and his mount."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns66"></a><a class="vnp"
-#. id="vnp66"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns66"></a><a class="vnp" id="vnp66"></a>
 msgctxt "thig4.1:7.1"
 msgid "Disvā ādīnavaṃ loke,"
 msgstr "Seeing the danger of the world,"

@@ -21,8 +21,7 @@ msgctxt "thag3.2:4.1"
 msgid "3.2. Paccayattheragāthā"
 msgstr "3.2. Paccaya"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns222"></a><a class="vnp" id="vnp222"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns222"></a><a class="vnp" id="vnp222"></a>
 msgctxt "thag3.2:5.1"
 msgid "“Pañcāhāhaṃ pabbajito,"
 msgstr "I went forth five days ago,"
@@ -42,8 +41,7 @@ msgctxt "thag3.2:5.4"
 msgid "cetaso paṇidhī ahu."
 msgstr "and resolved in my heart:"
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns223"></a><a
-#. class="vnp" id="vnp223"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns223"></a><a class="vnp" id="vnp223"></a>
 msgctxt "thag3.2:6.1"
 msgid "Nāsissaṃ na pivissāmi,"
 msgstr "I won’t eat; I won’t drink;"
@@ -64,8 +62,7 @@ msgctxt "thag3.2:6.4"
 msgid "taṇhāsalle anūhate."
 msgstr "not until the dart of craving is pulled out."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns224"></a><a
-#. class="vnp" id="vnp224"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns224"></a><a class="vnp" id="vnp224"></a>
 msgctxt "thag3.2:7.1"
 msgid "Tassa mevaṃ viharato,"
 msgstr "See my energy and vigor"

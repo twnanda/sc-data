@@ -16,8 +16,7 @@ msgctxt "thig13.5:3.1"
 msgid "5. Subhākammāradhītutherīgāthā"
 msgstr "13.5. Subhā, the Smith’s Daughter"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns339"></a><a class="vnp" id="vnp338"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns339"></a><a class="vnp" id="vnp338"></a>
 msgctxt "thig13.5:4.1"
 msgid "“Daharāhaṃ suddhavasanā,"
 msgstr "“I was so young, my clothes so fresh,"
@@ -37,8 +36,7 @@ msgctxt "thig13.5:4.4"
 msgid "saccābhisamayo ahu."
 msgstr "I comprehended the truth;"
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns340"></a><a
-#. class="vnp" id="vnp339"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns340"></a><a class="vnp" id="vnp339"></a>
 msgctxt "thig13.5:5.1"
 msgid "Tatohaṃ sabbakāmesu,"
 msgstr "and then I became profoundly dispassionate"
@@ -60,8 +58,7 @@ msgctxt "thig13.5:5.4"
 msgid "nekkhammameva pīhaye."
 msgstr "I longed for renunciation."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns341"></a><a
-#. class="vnp" id="vnp340"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns341"></a><a class="vnp" id="vnp340"></a>
 msgctxt "thig13.5:6.1"
 msgid "Hitvānahaṃ ñātigaṇaṃ,"
 msgstr "Giving up my family circle,"
@@ -125,8 +122,7 @@ msgctxt "thig13.5:8.4"
 msgid "Chaḍḍetvā punarāgame."
 msgstr "having already got rid of them."
 
-#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns344"></a><a
-#. class="vnp" id="vnp342"></a>
+#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns344"></a><a class="vnp" id="vnp342"></a>
 msgctxt "thig13.5:9.1"
 msgid "Rajataṃ jātarūpaṃ vā,"
 msgstr "Money or gold"
@@ -146,8 +142,7 @@ msgctxt "thig13.5:9.4"
 msgid "na etaṃ ariyaddhanaṃ."
 msgstr "it’s not the wealth of the noble ones;"
 
-#. HTML: </p><p><a class="sc" id="7"></a><a class="vns" id="vns345"></a><a
-#. class="vnp" id="vnp343"></a>
+#. HTML: </p><p><a class="sc" id="7"></a><a class="vns" id="vns345"></a><a class="vnp" id="vnp343"></a>
 msgctxt "thig13.5:10.1"
 msgid "Lobhanaṃ madanañcetaṃ,"
 msgstr "it’s just greed and intoxication,"
@@ -167,8 +162,7 @@ msgctxt "thig13.5:10.4"
 msgid "natthi cettha dhuvaṃ ṭhiti."
 msgstr "there is nothing lasting there."
 
-#. HTML: </p><p><a class="sc" id="8"></a><a class="vns" id="vns346"></a><a
-#. class="vnp" id="vnp344"></a>
+#. HTML: </p><p><a class="sc" id="8"></a><a class="vns" id="vns346"></a><a class="vnp" id="vnp344"></a>
 msgctxt "thig13.5:11.1"
 msgid "Ettha rattā pamattā ca,"
 msgstr "Depraved and heedless,"
@@ -188,8 +182,7 @@ msgctxt "thig13.5:11.4"
 msgid "puthu kubbanti medhagaṃ."
 msgstr "creating disputes."
 
-#. HTML: </p><p><a class="sc" id="9"></a><a class="vns" id="vns347"></a><a
-#. class="vnp" id="vnp345"></a>
+#. HTML: </p><p><a class="sc" id="9"></a><a class="vns" id="vns347"></a><a class="vnp" id="vnp345"></a>
 msgctxt "thig13.5:12.1"
 msgid "Vadho bandho parikleso,"
 msgstr "Killing, caging, misery,"
@@ -209,8 +202,7 @@ msgctxt "thig13.5:12.4"
 msgid "dissate byasanaṃ bahuṃ."
 msgstr "see many disastrous things."
 
-#. HTML: </p><p><a class="sc" id="10"></a><a class="vns" id="vns348"></a><a
-#. class="vnp" id="vnp346"></a>
+#. HTML: </p><p><a class="sc" id="10"></a><a class="vns" id="vns348"></a><a class="vnp" id="vnp346"></a>
 msgctxt "thig13.5:13.1"
 msgid "Taṃ maṃ ñātī amittāva,"
 msgstr "My family, why do you urge me on"
@@ -230,8 +222,7 @@ msgctxt "thig13.5:13.4"
 msgid "kāmesu bhayadassiniṃ."
 msgstr "seeing fear in sensual pleasures."
 
-#. HTML: </p><p><a class="sc" id="11"></a><a class="vns" id="vns349"></a><a
-#. class="vnp" id="vnp347"></a><a class="pts" id="pts157"></a>
+#. HTML: </p><p><a class="sc" id="11"></a><a class="vns" id="vns349"></a><a class="vnp" id="vnp347"></a><a class="pts" id="pts157"></a>
 msgctxt "thig13.5:14.1"
 msgid "Na hiraññasuvaṇṇena,"
 msgstr "It’s not due to gold, coined or uncoined,"
@@ -251,8 +242,7 @@ msgctxt "thig13.5:14.4"
 msgid "sapattā sallabandhanā."
 msgstr "hostile forces that bind you to thorns."
 
-#. HTML: </p><p><a class="sc" id="12"></a><a class="vns" id="vns350"></a><a
-#. class="vnp" id="vnp348"></a>
+#. HTML: </p><p><a class="sc" id="12"></a><a class="vns" id="vns350"></a><a class="vnp" id="vnp348"></a>
 msgctxt "thig13.5:15.1"
 msgid "Taṃ maṃ ñātī amittāva,"
 msgstr "My family, why do you urge me on"
@@ -272,8 +262,7 @@ msgctxt "thig13.5:15.4"
 msgid "muṇḍaṃ saṅghāṭipārutaṃ."
 msgstr "shaven, wrapped in my outer robe."
 
-#. HTML: </p><p><a class="sc" id="13"></a><a class="vns" id="vns351"></a><a
-#. class="vnp" id="vnp349"></a>
+#. HTML: </p><p><a class="sc" id="13"></a><a class="vns" id="vns351"></a><a class="vnp" id="vnp349"></a>
 msgctxt "thig13.5:16.1"
 msgid "Uttiṭṭhapiṇḍo uñcho ca,"
 msgstr "Leftovers as gleanings,"
@@ -293,8 +282,7 @@ msgctxt "thig13.5:16.4"
 msgid "anagārūpanissayo."
 msgstr "the essentials of the homeless life."
 
-#. HTML: </p><p><a class="sc" id="14"></a><a class="vns" id="vns352"></a><a
-#. class="vnp" id="vnp350"></a>
+#. HTML: </p><p><a class="sc" id="14"></a><a class="vns" id="vns352"></a><a class="vnp" id="vnp350"></a>
 msgctxt "thig13.5:17.1"
 msgid "Vantā mahesīhi kāmā,"
 msgstr "Great hermits expel sensual pleasures,"
@@ -314,8 +302,7 @@ msgctxt "thig13.5:17.4"
 msgid "pattā te acalaṃ sukhaṃ."
 msgstr "having found unshakable happiness."
 
-#. HTML: </p><p><a class="sc" id="15"></a><a class="vns" id="vns353"></a><a
-#. class="vnp" id="vnp351"></a>
+#. HTML: </p><p><a class="sc" id="15"></a><a class="vns" id="vns353"></a><a class="vnp" id="vnp351"></a>
 msgctxt "thig13.5:18.1"
 msgid "Māhaṃ kāmehi saṅgacchiṃ,"
 msgstr "May I not encounter sensual pleasures,"
@@ -335,8 +322,7 @@ msgctxt "thig13.5:18.4"
 msgid "aggikkhandhūpamā dukhā."
 msgstr "as painful as a bonfire."
 
-#. HTML: </p><p><a class="sc" id="16"></a><a class="vns" id="vns354"></a><a
-#. class="vnp" id="vnp352"></a>
+#. HTML: </p><p><a class="sc" id="16"></a><a class="vns" id="vns354"></a><a class="vnp" id="vnp352"></a>
 msgctxt "thig13.5:19.1"
 msgid "Paripantho esa bhayo,"
 msgstr "Greed is an obstacle, a threat,"
@@ -357,8 +343,7 @@ msgctxt "thig13.5:19.4"
 msgid "mahanto mohanāmukho."
 msgstr "a great gateway to confusion."
 
-#. HTML: </p><p><a class="sc" id="17"></a><a class="vns" id="vns355"></a><a
-#. class="vnp" id="vnp353"></a>
+#. HTML: </p><p><a class="sc" id="17"></a><a class="vns" id="vns355"></a><a class="vnp" id="vnp353"></a>
 msgctxt "thig13.5:20.1"
 msgid "Upasaggo bhīmarūpo,"
 msgstr "Hazardous and terrifying,"
@@ -378,8 +363,7 @@ msgctxt "thig13.5:20.4"
 msgid "andhabhūtā puthujjanā."
 msgstr "ordinary folk trapped in darkness."
 
-#. HTML: </p><p><a class="sc" id="18"></a><a class="vns" id="vns356"></a><a
-#. class="vnp" id="vnp354"></a>
+#. HTML: </p><p><a class="sc" id="18"></a><a class="vns" id="vns356"></a><a class="vnp" id="vnp354"></a>
 msgctxt "thig13.5:21.1"
 msgid "Kāmapaṅkena sattā hi,"
 msgstr "Stuck in the mud of sensual pleasures,"
@@ -399,8 +383,7 @@ msgctxt "thig13.5:21.4"
 msgid "jātiyā maraṇassa ca."
 msgstr "of rebirth and death."
 
-#. HTML: </p><p><a class="sc" id="19"></a><a class="vns" id="vns357"></a><a
-#. class="vnp" id="vnp355"></a>
+#. HTML: </p><p><a class="sc" id="19"></a><a class="vns" id="vns357"></a><a class="vnp" id="vnp355"></a>
 msgctxt "thig13.5:22.1"
 msgid "Duggatigamanaṃ maggaṃ,"
 msgstr "Because of sensual pleasures,"
@@ -420,8 +403,7 @@ msgctxt "thig13.5:22.4"
 msgid "attano rogamāvahaṃ."
 msgstr "that brings disease onto themselves."
 
-#. HTML: </p><p><a class="sc" id="20"></a><a class="vns" id="vns358"></a><a
-#. class="vnp" id="vnp356"></a>
+#. HTML: </p><p><a class="sc" id="20"></a><a class="vns" id="vns358"></a><a class="vnp" id="vnp356"></a>
 msgctxt "thig13.5:23.1"
 msgid "Evaṃ amittajananā,"
 msgstr "That’s how sensual pleasures create enemies;"
@@ -441,8 +423,7 @@ msgctxt "thig13.5:23.4"
 msgid "kāmā maraṇabandhanā."
 msgstr "they are nothing less than the bonds of death."
 
-#. HTML: </p><p><a class="sc" id="21"></a><a class="vns" id="vns359"></a><a
-#. class="vnp" id="vnp357"></a>
+#. HTML: </p><p><a class="sc" id="21"></a><a class="vns" id="vns359"></a><a class="vnp" id="vnp357"></a>
 msgctxt "thig13.5:24.1"
 msgid "Ummādanā ullapanā,"
 msgstr "Maddening, enticing,"
@@ -463,8 +444,7 @@ msgctxt "thig13.5:24.4"
 msgid "khippaṃ mārena oḍḍitaṃ."
 msgstr "for the corruption of beings."
 
-#. HTML: </p><p><a class="sc" id="22"></a><a class="vns" id="vns360"></a><a
-#. class="vnp" id="vnp358"></a><a class="pts" id="pts158"></a>
+#. HTML: </p><p><a class="sc" id="22"></a><a class="vns" id="vns360"></a><a class="vnp" id="vnp358"></a><a class="pts" id="pts158"></a>
 msgctxt "thig13.5:25.1"
 msgid "Anantādīnavā kāmā,"
 msgstr "Sensual pleasures are infinitely dangerous,"
@@ -484,8 +464,7 @@ msgctxt "thig13.5:25.4"
 msgid "sukkapakkhavisosanā."
 msgstr "withering bright qualities away."
 
-#. HTML: </p><p><a class="sc" id="23"></a><a class="vns" id="vns361"></a><a
-#. class="vnp" id="vnp359"></a>
+#. HTML: </p><p><a class="sc" id="23"></a><a class="vns" id="vns361"></a><a class="vnp" id="vnp359"></a>
 msgctxt "thig13.5:26.1"
 msgid "Sāhaṃ etādisaṃ katvā,"
 msgstr "Since I’ve created so much ruination"
@@ -505,8 +484,7 @@ msgctxt "thig13.5:26.4"
 msgid "nibbānābhiratā sadā."
 msgstr "but will always delight in quenching."
 
-#. HTML: </p><p><a class="sc" id="24"></a><a class="vns" id="vns362"></a><a
-#. class="vnp" id="vnp360"></a>
+#. HTML: </p><p><a class="sc" id="24"></a><a class="vns" id="vns362"></a><a class="vnp" id="vnp360"></a>
 #. VAR: karitvā → taritvā (bj)
 msgctxt "thig13.5:27.1"
 msgid "Raṇaṃ karitvā kāmānaṃ,"
@@ -527,8 +505,7 @@ msgctxt "thig13.5:27.4"
 msgid "sabbasaṃyojanakkhaye."
 msgstr "for the ending of all fetters."
 
-#. HTML: </p><p><a class="sc" id="25"></a><a class="vns" id="vns363"></a><a
-#. class="vnp" id="vnp361"></a>
+#. HTML: </p><p><a class="sc" id="25"></a><a class="vns" id="vns363"></a><a class="vnp" id="vnp361"></a>
 msgctxt "thig13.5:28.1"
 msgid "Asokaṃ virajaṃ khemaṃ,"
 msgstr "Sorrowless, stainless, secure:"
@@ -548,8 +525,7 @@ msgctxt "thig13.5:28.4"
 msgid "yena tiṇṇā mahesino”."
 msgstr "by which the hermits have crossed over.”"
 
-#. HTML: </p><p><a class="sc" id="26"></a><a class="vns" id="vns364"></a><a
-#. class="vnp" id="vnp362"></a>
+#. HTML: </p><p><a class="sc" id="26"></a><a class="vns" id="vns364"></a><a class="vnp" id="vnp362"></a>
 msgctxt "thig13.5:29.1"
 msgid "“Imaṃ passatha dhammaṭṭhaṃ,"
 msgstr "“Look at this: Subhā the smith’s daughter,"
@@ -569,8 +545,7 @@ msgctxt "thig13.5:29.4"
 msgid "rukkhamūlamhi jhāyati."
 msgstr "meditating at the root of a tree."
 
-#. HTML: </p><p><a class="sc" id="27"></a><a class="vns" id="vns365"></a><a
-#. class="vnp" id="vnp363"></a>
+#. HTML: </p><p><a class="sc" id="27"></a><a class="vns" id="vns365"></a><a class="vnp" id="vnp363"></a>
 msgctxt "thig13.5:30.1"
 msgid "Ajjaṭṭhamī pabbajitā,"
 msgstr "It’s just eight days since she went forth,"
@@ -590,8 +565,7 @@ msgctxt "thig13.5:30.4"
 msgid "tevijjā maccuhāyinī."
 msgstr "she is master of the three knowledges, destroyer of death."
 
-#. HTML: </p><p><a class="sc" id="28"></a><a class="vns" id="vns366"></a><a
-#. class="vnp" id="vnp364"></a>
+#. HTML: </p><p><a class="sc" id="28"></a><a class="vns" id="vns366"></a><a class="vnp" id="vnp364"></a>
 msgctxt "thig13.5:31.1"
 msgid "Sāyaṃ bhujissā anaṇā,"
 msgstr "This one is freed from slavery and debt,"
@@ -611,8 +585,7 @@ msgctxt "thig13.5:31.4"
 msgid "katakiccā anāsavā”."
 msgstr "she has completed the task and is free of defilements.”"
 
-#. HTML: </p><p><a class="sc" id="29"></a><a class="vns" id="vns367"></a><a
-#. class="vnp" id="vnp365"></a>
+#. HTML: </p><p><a class="sc" id="29"></a><a class="vns" id="vns367"></a><a class="vnp" id="vnp365"></a>
 msgctxt "thig13.5:32.1"
 msgid "Taṃ sakko devasaṅghena,"
 msgstr "Thus did Sakka, lord of all creatures,"

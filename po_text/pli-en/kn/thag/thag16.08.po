@@ -21,9 +21,7 @@ msgctxt "thag16.8:4.1"
 msgid "16.8. Aṅgulimālattheragāthā"
 msgstr "16.8. Aṅgulimāla"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a> <a
-#. class="vns" id="vns866"></a><a class="vnp" id="vnp866"></a><a class="pts"
-#. id="pts81"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a> <a class="vns" id="vns866"></a><a class="vnp" id="vnp866"></a><a class="pts" id="pts81"></a>
 msgctxt "thag16.8:5.1"
 msgid "“Gacchaṃ vadesi samaṇaṭṭhitomhi,"
 msgstr "“While walking, ascetic, you say ‘I’ve stopped.’"
@@ -43,8 +41,7 @@ msgctxt "thag16.8:5.4"
 msgid "‘Kathaṃ ṭhito tvaṃ ahamaṭṭhitomhi’”."
 msgstr "how is it you’ve stopped and I have not?”"
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns867"></a><a
-#. class="vnp" id="vnp867"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns867"></a><a class="vnp" id="vnp867"></a>
 msgctxt "thag16.8:6.1"
 msgid "“Ṭhito ahaṃ aṅgulimāla sabbadā,"
 msgstr "“Aṅgulimāla, I have forever stopped—"
@@ -64,8 +61,7 @@ msgctxt "thag16.8:6.4"
 msgid "Tasmā ṭhitohaṃ tuvamaṭṭhitosi”."
 msgstr "that’s why I’ve stopped, but you have not.”"
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns868"></a><a
-#. class="vnp" id="vnp868"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns868"></a><a class="vnp" id="vnp868"></a>
 msgctxt "thag16.8:7.1"
 msgid "“Cirassaṃ vata me mahito mahesī,"
 msgstr "“Oh, at long last a hermit,"
@@ -86,8 +82,7 @@ msgctxt "thag16.8:7.4"
 msgid "Sutvāna gāthaṃ tava dhammayuttaṃ”."
 msgstr "I shall discard a thousand evils.”"
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns869"></a><a
-#. class="vnp" id="vnp869"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns869"></a><a class="vnp" id="vnp869"></a>
 msgctxt "thag16.8:8.1"
 msgid "Icceva coro asimāvudhañca,"
 msgstr "With these words, the bandit hurled his sword and weapons"
@@ -108,8 +103,7 @@ msgctxt "thag16.8:8.4"
 msgid "Tattheva pabbajjamayāci buddhaṃ."
 msgstr "and asked the Buddha for the going forth right away."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns870"></a><a
-#. class="vnp" id="vnp870"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns870"></a><a class="vnp" id="vnp870"></a>
 msgctxt "thag16.8:9.1"
 msgid "Buddho ca kho kāruṇiko mahesi,"
 msgstr "Then the Buddha, the compassionate great hermit,"
@@ -129,8 +123,7 @@ msgctxt "thag16.8:9.4"
 msgid "Eseva tassa ahu bhikkhubhāvo."
 msgstr "And with that he became a monk."
 
-#. HTML: </p><p><a class="sc" id="6"></a> <a class="vns" id="vns871"></a><a
-#. class="vnp" id="vnp871"></a>
+#. HTML: </p><p><a class="sc" id="6"></a> <a class="vns" id="vns871"></a><a class="vnp" id="vnp871"></a>
 msgctxt "thag16.8:10.1"
 msgid "“Yo ca pubbe pamajjitvā,"
 msgstr "“Someone who was heedless before,"
@@ -150,8 +143,7 @@ msgctxt "thag16.8:10.4"
 msgid "abbhā muttova candimā."
 msgstr "like the moon freed from a cloud."
 
-#. HTML: </p><p><a class="sc" id="7"></a><a class="vns" id="vns872"></a><a
-#. class="vnp" id="vnp872"></a>
+#. HTML: </p><p><a class="sc" id="7"></a><a class="vns" id="vns872"></a><a class="vnp" id="vnp872"></a>
 msgctxt "thag16.8:11.1"
 msgid "Yassa pāpaṃ kataṃ kammaṃ,"
 msgstr "Someone who, with skillful deeds,"
@@ -172,8 +164,7 @@ msgctxt "thag16.8:11.4"
 msgid "abbhā muttova candimā."
 msgstr "like the moon freed from a cloud."
 
-#. HTML: </p><p><a class="sc" id="8"></a><a class="vns" id="vns873"></a><a
-#. class="vnp" id="vnp873"></a>
+#. HTML: </p><p><a class="sc" id="8"></a><a class="vns" id="vns873"></a><a class="vnp" id="vnp873"></a>
 msgctxt "thag16.8:12.1"
 msgid "Yo have daharo bhikkhu,"
 msgstr "A young mendicant,"
@@ -193,8 +184,7 @@ msgctxt "thag16.8:12.4"
 msgid "abbhā muttova candimā."
 msgstr "like the moon freed from a cloud."
 
-#. HTML: </p><p><a class="sc" id="9"></a><a class="vns" id="vns874"></a><a
-#. class="vnp" id="vnp874"></a>
+#. HTML: </p><p><a class="sc" id="9"></a><a class="vns" id="vns874"></a><a class="vnp" id="vnp874"></a>
 #. VAR: Disāpi → disā hi (s2, s3, pts1)
 msgctxt "thag16.8:13.1"
 msgid "Disāpi me dhammakathaṃ suṇantu,"
@@ -215,8 +205,7 @@ msgctxt "thag16.8:13.4"
 msgid "Ye dhammamevādapayanti santo."
 msgstr "who establish others in the Dhamma!"
 
-#. HTML: </p><p><a class="sc" id="10"></a><a class="vns" id="vns875"></a><a
-#. class="vnp" id="vnp875"></a>
+#. HTML: </p><p><a class="sc" id="10"></a><a class="vns" id="vns875"></a><a class="vnp" id="vnp875"></a>
 msgctxt "thag16.8:14.1"
 msgid "Disā hi me khantivādānaṃ,"
 msgstr "May even my enemies hear Dhamma at the right time,"
@@ -236,8 +225,7 @@ msgctxt "thag16.8:14.4"
 msgid "tañca anuvidhīyantu."
 msgstr "and may they follow that path!"
 
-#. HTML: </p><p><a class="sc" id="11"></a><a class="vns" id="vns876"></a><a
-#. class="vnp" id="vnp876"></a>
+#. HTML: </p><p><a class="sc" id="11"></a><a class="vns" id="vns876"></a><a class="vnp" id="vnp876"></a>
 msgctxt "thag16.8:15.1"
 msgid "Na hi jātu so mamaṃ hiṃse,"
 msgstr "For then they’d surely wish no harm"
@@ -258,8 +246,7 @@ msgctxt "thag16.8:15.4"
 msgid "rakkheyya tasathāvare."
 msgstr "they’d look after creatures firm and frail."
 
-#. HTML: </p><p><a class="sc" id="12"></a> <a class="vns" id="vns877"></a><a
-#. class="vnp" id="vnp877"></a><a class="pts" id="pts82"></a>
+#. HTML: </p><p><a class="sc" id="12"></a> <a class="vns" id="vns877"></a><a class="vnp" id="vnp877"></a><a class="pts" id="pts82"></a>
 msgctxt "thag16.8:16.1"
 msgid "Udakañhi nayanti nettikā,"
 msgstr "For irrigators guide the water,"
@@ -280,8 +267,7 @@ msgctxt "thag16.8:16.4"
 msgid "Attānaṃ damayanti paṇḍitā."
 msgstr "but the astute tame themselves."
 
-#. HTML: </p><p><a class="sc" id="13"></a> <a class="vns" id="vns878"></a><a
-#. class="vnp" id="vnp878"></a>
+#. HTML: </p><p><a class="sc" id="13"></a> <a class="vns" id="vns878"></a><a class="vnp" id="vnp878"></a>
 msgctxt "thag16.8:17.1"
 msgid "Daṇḍeneke damayanti,"
 msgstr "Some tame by using the rod,"
@@ -301,8 +287,7 @@ msgctxt "thag16.8:17.4"
 msgid "ahaṃ dantomhi tādinā."
 msgstr "without rod or sword."
 
-#. HTML: </p><p><a class="sc" id="14"></a><a class="vns" id="vns879"></a><a
-#. class="vnp" id="vnp879"></a>
+#. HTML: </p><p><a class="sc" id="14"></a><a class="vns" id="vns879"></a><a class="vnp" id="vnp879"></a>
 msgctxt "thag16.8:18.1"
 msgid "‘Ahiṃsako’ti me nāmaṃ,"
 msgstr "My name is ‘Harmless’,"
@@ -323,8 +308,7 @@ msgctxt "thag16.8:18.4"
 msgid "na naṃ hiṃsāmi kiñcanaṃ."
 msgstr "for I do no harm to anyone."
 
-#. HTML: </p><p><a class="sc" id="15"></a><a class="vns" id="vns880"></a><a
-#. class="vnp" id="vnp880"></a>
+#. HTML: </p><p><a class="sc" id="15"></a><a class="vns" id="vns880"></a><a class="vnp" id="vnp880"></a>
 msgctxt "thag16.8:19.1"
 msgid "Coro ahaṃ pure āsiṃ,"
 msgstr "I used to be a bandit,"
@@ -344,8 +328,7 @@ msgctxt "thag16.8:19.4"
 msgid "buddhaṃ saraṇamāgamaṃ."
 msgstr "I went to the Buddha for refuge."
 
-#. HTML: </p><p><a class="sc" id="16"></a><a class="vns" id="vns881"></a><a
-#. class="vnp" id="vnp881"></a>
+#. HTML: </p><p><a class="sc" id="16"></a><a class="vns" id="vns881"></a><a class="vnp" id="vnp881"></a>
 msgctxt "thag16.8:20.1"
 msgid "Lohitapāṇi pure āsiṃ,"
 msgstr "I used to have blood on my hands,"
@@ -365,8 +348,7 @@ msgctxt "thag16.8:20.4"
 msgid "bhavanetti samūhatā."
 msgstr "the attachment to rebirth is eradicated."
 
-#. HTML: </p><p><a class="sc" id="17"></a><a class="vns" id="vns882"></a><a
-#. class="vnp" id="vnp882"></a>
+#. HTML: </p><p><a class="sc" id="17"></a><a class="vns" id="vns882"></a><a class="vnp" id="vnp882"></a>
 msgctxt "thag16.8:21.1"
 msgid "Tādisaṃ kammaṃ katvāna,"
 msgstr "I’ve done many of the sort of deeds"
@@ -386,8 +368,7 @@ msgctxt "thag16.8:21.4"
 msgid "anaṇo bhuñjāmi bhojanaṃ."
 msgstr "so I enjoy my food free of debt."
 
-#. HTML: </p><p><a class="sc" id="18"></a><a class="vns" id="vns883"></a><a
-#. class="vnp" id="vnp883"></a>
+#. HTML: </p><p><a class="sc" id="18"></a><a class="vns" id="vns883"></a><a class="vnp" id="vnp883"></a>
 msgctxt "thag16.8:22.1"
 msgid "Pamādamanuyuñjanti,"
 msgstr "Fools and unintelligent people"
@@ -407,8 +388,7 @@ msgctxt "thag16.8:22.4"
 msgid "dhanaṃ seṭṭhaṃva rakkhati."
 msgstr "as their best treasure."
 
-#. HTML: </p><p><a class="sc" id="19"></a><a class="vns" id="vns884"></a><a
-#. class="vnp" id="vnp884"></a>
+#. HTML: </p><p><a class="sc" id="19"></a><a class="vns" id="vns884"></a><a class="vnp" id="vnp884"></a>
 msgctxt "thag16.8:23.1"
 msgid "Mā pamādamanuyuñjetha,"
 msgstr "Don’t devote yourself to negligence,"
@@ -429,8 +409,7 @@ msgctxt "thag16.8:23.4"
 msgid "pappoti paramaṃ sukhaṃ."
 msgstr "you’ll attain abundant happiness."
 
-#. HTML: </p><p><a class="sc" id="20"></a><a class="vns" id="vns885"></a><a
-#. class="vnp" id="vnp885"></a>
+#. HTML: </p><p><a class="sc" id="20"></a><a class="vns" id="vns885"></a><a class="vnp" id="vnp885"></a>
 msgctxt "thag16.8:24.1"
 msgid "Svāgataṃ nāpagataṃ,"
 msgstr "It was welcome, not unwelcome,"
@@ -450,8 +429,7 @@ msgctxt "thag16.8:24.4"
 msgid "yaṃ seṭṭhaṃ tadupāgamaṃ."
 msgstr "I encountered the best."
 
-#. HTML: </p><p><a class="sc" id="21"></a><a class="vns" id="vns886"></a><a
-#. class="vnp" id="vnp886"></a>
+#. HTML: </p><p><a class="sc" id="21"></a><a class="vns" id="vns886"></a><a class="vnp" id="vnp886"></a>
 msgctxt "thag16.8:25.1"
 msgid "Svāgataṃ nāpagataṃ,"
 msgstr "It was welcome, not unwelcome,"
@@ -471,8 +449,7 @@ msgctxt "thag16.8:25.4"
 msgid "kataṃ buddhassa sāsanaṃ."
 msgstr "and fulfilled the Buddha’s instructions.”"
 
-#. HTML: </p><p><a class="sc" id="22"></a><a class="vns" id="vns887"></a><a
-#. class="vnp" id="vnp887"></a>
+#. HTML: </p><p><a class="sc" id="22"></a><a class="vns" id="vns887"></a><a class="vnp" id="vnp887"></a>
 msgctxt "thag16.8:26.1"
 msgid "Araññe rukkhamūle vā,"
 msgstr "“In the wilderness, at a tree’s root,"
@@ -492,8 +469,7 @@ msgctxt "thag16.8:26.4"
 msgid "ubbiggamanaso tadā."
 msgstr "my mind was anxious."
 
-#. HTML: </p><p><a class="sc" id="23"></a><a class="vns" id="vns888"></a><a
-#. class="vnp" id="vnp888"></a>
+#. HTML: </p><p><a class="sc" id="23"></a><a class="vns" id="vns888"></a><a class="vnp" id="vnp888"></a>
 msgctxt "thag16.8:27.1"
 msgid "Sukhaṃ sayāmi ṭhāyāmi,"
 msgstr "But now I lie down happily and stand up happily,"
@@ -513,8 +489,7 @@ msgctxt "thag16.8:27.4"
 msgid "aho satthānukampito."
 msgstr "the teacher had compassion for me."
 
-#. HTML: </p><p><a class="sc" id="24"></a><a class="vns" id="vns889"></a><a
-#. class="vnp" id="vnp889"></a>
+#. HTML: </p><p><a class="sc" id="24"></a><a class="vns" id="vns889"></a><a class="vnp" id="vnp889"></a>
 msgctxt "thag16.8:28.1"
 msgid "Brahmajacco pure āsiṃ,"
 msgstr "I used to belong to the brahmin caste,"
@@ -534,8 +509,7 @@ msgctxt "thag16.8:28.4"
 msgid "dhammarājassa satthuno."
 msgstr "the Teacher, King of Dhamma."
 
-#. HTML: </p><p><a class="sc" id="25"></a><a class="vns" id="vns890"></a><a
-#. class="vnp" id="vnp890"></a>
+#. HTML: </p><p><a class="sc" id="25"></a><a class="vns" id="vns890"></a><a class="vnp" id="vnp890"></a>
 msgctxt "thag16.8:29.1"
 msgid "Vītataṇho anādāno,"
 msgstr "I am rid of craving, free of grasping,"
@@ -555,8 +529,7 @@ msgctxt "thag16.8:29.4"
 msgid "patto me āsavakkhayo."
 msgstr "and attained the ending of defilements."
 
-#. HTML: </p><p><a class="sc" id="26"></a><a class="vns" id="vns891"></a><a
-#. class="vnp" id="vnp891"></a>
+#. HTML: </p><p><a class="sc" id="26"></a><a class="vns" id="vns891"></a><a class="vnp" id="vnp891"></a>
 msgctxt "thag16.8:30.1"
 msgid "Pariciṇṇo mayā satthā,"
 msgstr "I’ve served the teacher"

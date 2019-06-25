@@ -22,8 +22,7 @@ msgctxt "thag2.18:4.1"
 msgid "2.18 Kimilattheragāthā"
 msgstr "2.18. Kimbila (2nd)"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns155"></a><a class="vnp" id="vnp155"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns155"></a><a class="vnp" id="vnp155"></a>
 msgctxt "thag2.18:5.1"
 msgid "“Pācīnavaṃsadāyamhi,"
 msgstr "In Pācīnavaṃsa grove"
@@ -43,8 +42,7 @@ msgctxt "thag2.18:5.4"
 msgid "uñchāpattāgate ratā."
 msgstr "are happy with the scraps in their bowls."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns156"></a><a
-#. class="vnp" id="vnp156"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns156"></a><a class="vnp" id="vnp156"></a>
 msgctxt "thag2.18:6.1"
 msgid "Āraddhavīriyā pahitattā,"
 msgstr "Energetic, resolute,"

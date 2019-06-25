@@ -21,8 +21,7 @@ msgctxt "thag1.93:4.1"
 msgid "1.93. Erakattheragāthā"
 msgstr "1.93. Eraka"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns93"></a><a class="vnp" id="vnp93"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns93"></a><a class="vnp" id="vnp93"></a>
 msgctxt "thag1.93:5.1"
 msgid "“Dukkhā kāmā eraka,"
 msgstr "Sensual pleasures are suffering, Eraka!"

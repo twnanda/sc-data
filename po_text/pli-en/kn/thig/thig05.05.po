@@ -16,8 +16,7 @@ msgctxt "thig5.5:3.1"
 msgid "5. Nanduttarātherīgāthā"
 msgstr "5.5. Nanduttarā"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns87"></a><a class="vnp" id="vnp87"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns87"></a><a class="vnp" id="vnp87"></a>
 msgctxt "thig5.5:4.1"
 msgid "“Aggiṃ candañca sūriyañca,"
 msgstr "In the past I worshiped the sacred flame,"
@@ -37,8 +36,7 @@ msgctxt "thig5.5:4.4"
 msgid "udakaṃ oruhāmihaṃ."
 msgstr "I plunged into the water."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns88"></a><a class="vnp"
-#. id="vnp88"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns88"></a><a class="vnp" id="vnp88"></a>
 msgctxt "thig5.5:5.1"
 msgid "Bahūvatasamādānā,"
 msgstr "Undertaking many vows,"
@@ -58,8 +56,7 @@ msgctxt "thig5.5:5.4"
 msgid "rattiṃ bhattaṃ na bhuñjahaṃ."
 msgstr "I ate no food at night."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns89"></a><a class="vnp"
-#. id="vnp89"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns89"></a><a class="vnp" id="vnp89"></a>
 msgctxt "thig5.5:6.1"
 msgid "Vibhūsāmaṇḍanaratā,"
 msgstr "I loved my ornaments and decorations;"
@@ -79,8 +76,7 @@ msgctxt "thig5.5:6.4"
 msgid "kāmarāgena aṭṭitā."
 msgstr "racked by desire for pleasures of the senses."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns90"></a><a class="vnp"
-#. id="vnp90"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns90"></a><a class="vnp" id="vnp90"></a>
 msgctxt "thig5.5:7.1"
 msgid "Tato saddhaṃ labhitvāna,"
 msgstr "But then I gained faith,"
@@ -100,8 +96,7 @@ msgctxt "thig5.5:7.4"
 msgid "kāmarāgo samūhato."
 msgstr "desire for sensual pleasure is eradicated."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns91"></a><a class="vnp"
-#. id="vnp91"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns91"></a><a class="vnp" id="vnp91"></a>
 msgctxt "thig5.5:8.1"
 msgid "Sabbe bhavā samucchinnā,"
 msgstr "All rebirths are cut off,"

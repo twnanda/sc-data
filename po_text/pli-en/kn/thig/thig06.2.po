@@ -16,8 +16,7 @@ msgctxt "thig6.2:3.1"
 msgid "2. Vāseṭṭhītherīgāthā"
 msgstr "6.2. Vāseṭṭhī"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns133"></a><a class="vnp" id="vnp133"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns133"></a><a class="vnp" id="vnp133"></a>
 msgctxt "thig6.2:4.1"
 msgid "“Puttasokenahaṃ aṭṭā,"
 msgstr "Struck down with grief for my son,"
@@ -37,8 +36,7 @@ msgctxt "thig6.2:4.4"
 msgid "tena tena vicārihaṃ."
 msgstr "I wandered here and there."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns134"></a><a
-#. class="vnp" id="vnp134"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns134"></a><a class="vnp" id="vnp134"></a>
 #. VAR: Vīthi → vasiṃ (bj)
 msgctxt "thig6.2:5.1"
 msgid "Vīthi saṅkārakūṭesu,"
@@ -59,8 +57,7 @@ msgctxt "thig6.2:5.4"
 msgid "khuppipāsāsamappitā."
 msgstr "stricken by hunger and thirst."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns135"></a><a
-#. class="vnp" id="vnp135"></a><a class="pts" id="pts137"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns135"></a><a class="vnp" id="vnp135"></a><a class="pts" id="pts137"></a>
 msgctxt "thig6.2:6.1"
 msgid "Athaddasāsiṃ sugataṃ,"
 msgstr "Then I saw the Holy One,"
@@ -81,8 +78,7 @@ msgctxt "thig6.2:6.4"
 msgid "sambuddhamakutobhayaṃ."
 msgstr "the Awakened One fears nothing from any quarter."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns136"></a><a
-#. class="vnp" id="vnp136"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns136"></a><a class="vnp" id="vnp136"></a>
 msgctxt "thig6.2:7.1"
 msgid "Sacittaṃ paṭiladdhāna,"
 msgstr "Regaining my mind,"
@@ -102,8 +98,7 @@ msgctxt "thig6.2:7.4"
 msgid "anukampāya gotamo."
 msgstr "Gotama taught me the Dhamma."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns137"></a><a
-#. class="vnp" id="vnp137"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns137"></a><a class="vnp" id="vnp137"></a>
 msgctxt "thig6.2:8.1"
 msgid "Tassa dhammaṃ suṇitvāna,"
 msgstr "After hearing his teaching,"
@@ -123,8 +118,7 @@ msgctxt "thig6.2:8.4"
 msgid "sacchākāsiṃ padaṃ sivaṃ."
 msgstr "I realized the state of grace."
 
-#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns138"></a><a
-#. class="vnp" id="vnp138"></a>
+#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns138"></a><a class="vnp" id="vnp138"></a>
 msgctxt "thig6.2:9.1"
 msgid "Sabbe sokā samucchinnā,"
 msgstr "All sorrows are cut off,"

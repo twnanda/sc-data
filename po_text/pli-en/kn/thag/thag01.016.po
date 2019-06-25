@@ -22,8 +22,7 @@ msgctxt "thag1.16:4.1"
 msgid "1.16 Belaṭṭhasīsattheragāthā"
 msgstr "1.16. Belaṭṭhasīsa"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns16"></a><a class="vnp" id="vnp16"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns16"></a><a class="vnp" id="vnp16"></a>
 msgctxt "thag1.16:5.1"
 msgid "“Yathāpi bhaddo ājañño,"
 msgstr "Just as a fine thoroughbred"

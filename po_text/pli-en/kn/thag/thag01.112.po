@@ -21,8 +21,7 @@ msgctxt "thag1.112:4.1"
 msgid "1.112. Vacchagottattheragāthā"
 msgstr "1.112. Vacchagotta"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns112"></a><a class="vnp" id="vnp112"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns112"></a><a class="vnp" id="vnp112"></a>
 msgctxt "thag1.112:5.1"
 msgid "“Tevijjohaṃ mahājhāyī,"
 msgstr "I am a master of the three knowledges, I’m a great meditator,"

@@ -21,8 +21,7 @@ msgctxt "thag2.39:4.1"
 msgid "2.39. Usabhattheragāthā"
 msgstr "2.39. Usabha (2nd)"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns197"></a><a class="vnp" id="vnp197"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns197"></a><a class="vnp" id="vnp197"></a>
 msgctxt "thag2.39:5.1"
 msgid "“Ambapallavasaṅkāsaṃ,"
 msgstr "Arranging a robe over my shoulder,"
@@ -42,8 +41,7 @@ msgctxt "thag2.39:5.4"
 msgid "gāmaṃ piṇḍāya pāvisiṃ."
 msgstr "sitting on an elephant’s neck!"
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns198"></a><a
-#. class="vnp" id="vnp198"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns198"></a><a class="vnp" id="vnp198"></a>
 msgctxt "thag2.39:6.1"
 msgid "Hatthikkhandhato oruyha,"
 msgstr "But when I dismounted from the elephant,"

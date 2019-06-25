@@ -21,8 +21,7 @@ msgctxt "thag2.20:4.1"
 msgid "2.20. Sirimattheragāthā"
 msgstr "2.20. Sirima"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns159"></a><a class="vnp" id="vnp159"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns159"></a><a class="vnp" id="vnp159"></a>
 msgctxt "thag2.20:5.1"
 msgid "“Pare ca naṃ pasaṃsanti,"
 msgstr "If others praise one"
@@ -42,8 +41,7 @@ msgctxt "thag2.20:5.4"
 msgid "attā hi asamāhito."
 msgstr "as one has no immersion."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns160"></a><a
-#. class="vnp" id="vnp160"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns160"></a><a class="vnp" id="vnp160"></a>
 msgctxt "thag2.20:6.1"
 msgid "Pare ca naṃ garahanti,"
 msgstr "If others rebuke one"

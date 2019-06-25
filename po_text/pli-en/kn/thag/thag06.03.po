@@ -21,9 +21,7 @@ msgctxt "thag6.3:4.1"
 msgid "6.3. Mahānāgattheragāthā"
 msgstr "6.3. Mahānāga"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns387"></a><a class="vnp" id="vnp387"></a><a class="pts"
-#. id="pts43"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns387"></a><a class="vnp" id="vnp387"></a><a class="pts" id="pts43"></a>
 msgctxt "thag6.3:5.1"
 msgid "“Yassa sabrahmacārīsu,"
 msgstr "Whoever has no respect"
@@ -43,8 +41,7 @@ msgctxt "thag6.3:5.4"
 msgid "maccho appodake yathā."
 msgstr "like a fish in too little water."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns388"></a><a
-#. class="vnp" id="vnp388"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns388"></a><a class="vnp" id="vnp388"></a>
 msgctxt "thag6.3:6.1"
 msgid "Yassa sabrahmacārīsu,"
 msgstr "Whoever has no respect"
@@ -64,8 +61,7 @@ msgctxt "thag6.3:6.4"
 msgid "khette bījaṃva pūtikaṃ."
 msgstr "like a rotten seed in a field."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns389"></a><a
-#. class="vnp" id="vnp389"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns389"></a><a class="vnp" id="vnp389"></a>
 msgctxt "thag6.3:7.1"
 msgid "Yassa sabrahmacārīsu,"
 msgstr "Whoever has no respect"
@@ -85,8 +81,7 @@ msgctxt "thag6.3:7.4"
 msgid "dhammarājassa sāsane."
 msgstr "in the teaching of the Dhamma king."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns390"></a><a
-#. class="vnp" id="vnp390"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns390"></a><a class="vnp" id="vnp390"></a>
 msgctxt "thag6.3:8.1"
 msgid "Yassa sabrahmacārīsu,"
 msgstr "Whoever does have respect"
@@ -107,8 +102,7 @@ msgctxt "thag6.3:8.4"
 msgid "maccho bavhodake yathā."
 msgstr "like a fish in plenty of water."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns391"></a><a
-#. class="vnp" id="vnp391"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns391"></a><a class="vnp" id="vnp391"></a>
 msgctxt "thag6.3:9.1"
 msgid "Yassa sabrahmacārīsu,"
 msgstr "Whoever does have respect"
@@ -128,8 +122,7 @@ msgctxt "thag6.3:9.4"
 msgid "khette bījaṃva bhaddakaṃ."
 msgstr "like a quality seed in a field."
 
-#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns392"></a><a
-#. class="vnp" id="vnp392"></a>
+#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns392"></a><a class="vnp" id="vnp392"></a>
 msgctxt "thag6.3:10.1"
 msgid "Yassa sabrahmacārīsu,"
 msgstr "Whoever does have respect"

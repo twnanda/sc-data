@@ -16,8 +16,7 @@ msgctxt "thig2.7:3.1"
 msgid "7. Mittātherīgāthā"
 msgstr "2.7. Mittā (2nd)"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns31"></a><a class="vnp" id="vnp31"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns31"></a><a class="vnp" id="vnp31"></a>
 msgctxt "thig2.7:4.1"
 msgid "“Cātuddasiṃ pañcadasiṃ,"
 msgstr "I rejoice in the host of gods,"
@@ -37,8 +36,7 @@ msgctxt "thig2.7:4.4"
 msgid "aṭṭhaṅgasusamāgataṃ."
 msgstr "on the fourteenth and the fifteenth days,"
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns32"></a><a class="vnp"
-#. id="vnp32"></a><a class="pts" id="pts127"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns32"></a><a class="vnp" id="vnp32"></a><a class="pts" id="pts127"></a>
 msgctxt "thig2.7:5.1"
 msgid "Uposathaṃ upāgacchiṃ,"
 msgstr "and the eighth day of the fortnight,"

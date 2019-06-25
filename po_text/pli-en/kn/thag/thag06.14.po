@@ -21,8 +21,7 @@ msgctxt "thag6.14:4.1"
 msgid "6.14. Sabbakāmittheragāthā"
 msgstr "6.14. Sabbakāmi"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns453"></a><a class="vnp" id="vnp453"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns453"></a><a class="vnp" id="vnp453"></a>
 msgctxt "thag6.14:5.1"
 msgid "“Dvipādakoyaṃ asuci,"
 msgstr "This two-legged body is dirty and stinking,"
@@ -43,8 +42,7 @@ msgctxt "thag6.14:5.4"
 msgid "vissavanto tato tato."
 msgstr "but still it is cherished!"
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns454"></a><a
-#. class="vnp" id="vnp454"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns454"></a><a class="vnp" id="vnp454"></a>
 msgctxt "thag6.14:6.1"
 msgid "Migaṃ nilīnaṃ kūṭena,"
 msgstr "Like a lurking deer by a trick,"
@@ -64,8 +62,7 @@ msgctxt "thag6.14:6.4"
 msgid "bādhayanti puthujjanaṃ."
 msgstr "they trap an ordinary person."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns455"></a><a
-#. class="vnp" id="vnp455"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns455"></a><a class="vnp" id="vnp455"></a>
 msgctxt "thag6.14:7.1"
 msgid "Rūpā saddā rasā gandhā,"
 msgstr "Sights, sounds, tastes, smells,"
@@ -86,8 +83,7 @@ msgctxt "thag6.14:7.4"
 msgid "itthirūpasmi dissare."
 msgstr "are seen in a woman’s body."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns456"></a><a
-#. class="vnp" id="vnp456"></a><a class="pts" id="pts48"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns456"></a><a class="vnp" id="vnp456"></a><a class="pts" id="pts48"></a>
 msgctxt "thag6.14:8.1"
 msgid "Ye etā upasevanti,"
 msgstr "Those ordinary people, their minds full of lust,"
@@ -107,8 +103,7 @@ msgctxt "thag6.14:8.4"
 msgid "ācinanti punabbhavaṃ."
 msgstr "piling up future lives."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns457"></a><a
-#. class="vnp" id="vnp457"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns457"></a><a class="vnp" id="vnp457"></a>
 msgctxt "thag6.14:9.1"
 msgid "Yo cetā parivajjeti,"
 msgstr "The one who avoids them,"
@@ -128,8 +123,7 @@ msgctxt "thag6.14:9.4"
 msgid "sato samativattati."
 msgstr "attachment to the world."
 
-#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns458"></a><a
-#. class="vnp" id="vnp458"></a>
+#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns458"></a><a class="vnp" id="vnp458"></a>
 msgctxt "thag6.14:10.1"
 msgid "Kāmesvādīnavaṃ disvā,"
 msgstr "Seeing the danger in sensual pleasures,"

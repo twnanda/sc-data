@@ -21,8 +21,7 @@ msgctxt "thag6.7:4.1"
 msgid "6.7. Kātiyānattheragāthā"
 msgstr "6.7. Kātiyāna"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns411"></a><a class="vnp" id="vnp411"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns411"></a><a class="vnp" id="vnp411"></a>
 msgctxt "thag6.7:5.1"
 msgid "“Uṭṭhehi nisīda kātiyāna,"
 msgstr "Get up, Kātiyāna, and sit!"
@@ -42,8 +41,7 @@ msgctxt "thag6.7:5.4"
 msgid "Kūṭeneva jinātu maccurājā."
 msgstr "the King of Death, catch you in his trap."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns412"></a><a
-#. class="vnp" id="vnp412"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns412"></a><a class="vnp" id="vnp412"></a>
 #. VAR: Seyyathāpi → sayathāpi (bj, pts1-2)
 msgctxt "thag6.7:6.1"
 msgid "Seyyathāpi mahāsamuddavego,"
@@ -64,8 +62,7 @@ msgctxt "thag6.7:6.4"
 msgid "Na hi tāṇaṃ tava vijjateva aññaṃ."
 msgstr "for you have no other shelter."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns413"></a><a
-#. class="vnp" id="vnp413"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns413"></a><a class="vnp" id="vnp413"></a>
 msgctxt "thag6.7:7.1"
 msgid "Satthā hi vijesi maggametaṃ,"
 msgstr "The teacher has mastered this path,"
@@ -85,8 +82,7 @@ msgctxt "thag6.7:7.4"
 msgid "Anuyuñjassu daḷhaṃ karohi yogaṃ."
 msgstr "and dedicate yourself to practice."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns414"></a><a
-#. class="vnp" id="vnp414"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns414"></a><a class="vnp" id="vnp414"></a>
 msgctxt "thag6.7:8.1"
 msgid "Purimāni pamuñca bandhanāni,"
 msgstr "Free yourself from your former bonds!"
@@ -106,8 +102,7 @@ msgctxt "thag6.7:8.4"
 msgid "Anuyuñjittha jhāya kātiyāna."
 msgstr "dedicate yourself to absorption, Kātiyāna."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns415"></a><a
-#. class="vnp" id="vnp415"></a><a class="pts" id="pts45"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns415"></a><a class="vnp" id="vnp415"></a><a class="pts" id="pts45"></a>
 msgctxt "thag6.7:9.1"
 msgid "Jhāyāhi jināhi kātiyāna,"
 msgstr "Meditate and conquer, Kātiyāna,"
@@ -128,8 +123,7 @@ msgctxt "thag6.7:9.4"
 msgid "Parinibbāhisi vārināva joti."
 msgstr "you’ll be quenched, as a flame by water."
 
-#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns416"></a><a
-#. class="vnp" id="vnp416"></a>
+#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns416"></a><a class="vnp" id="vnp416"></a>
 msgctxt "thag6.7:10.1"
 msgid "Pajjotakaro parittaraṃso,"
 msgstr "A lamp of feeble flame"

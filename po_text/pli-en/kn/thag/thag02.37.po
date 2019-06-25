@@ -22,8 +22,7 @@ msgctxt "thag2.37:4.1"
 msgid "2.37 Soṇapoṭiriyattheragāthā"
 msgstr "2.37. Soṇapoṭiriya"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns193"></a><a class="vnp" id="vnp193"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns193"></a><a class="vnp" id="vnp193"></a>
 msgctxt "thag2.37:5.1"
 msgid "“Na tāva supituṃ hoti,"
 msgstr "Night, with her garland of stars,"
@@ -43,8 +42,7 @@ msgctxt "thag2.37:5.4"
 msgid "ratti hoti vijānatā”."
 msgstr "this night is really for waking."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns194"></a><a
-#. class="vnp" id="vnp194"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns194"></a><a class="vnp" id="vnp194"></a>
 msgctxt "thag2.37:6.1"
 msgid "“Hatthikkhandhāvapatitaṃ,"
 msgstr "Were I to fall from the back of an elephant,"

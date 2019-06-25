@@ -21,8 +21,7 @@ msgctxt "thag1.86:4.1"
 msgid "1.86. Nāgitattheragāthā"
 msgstr "1.86. Nāgita"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns86"></a><a class="vnp" id="vnp86"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns86"></a><a class="vnp" id="vnp86"></a>
 msgctxt "thag1.86:5.1"
 msgid "“Ito bahiddhā puthu aññavādinaṃ,"
 msgstr "Elsewhere there are many other doctrines;"

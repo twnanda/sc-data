@@ -21,8 +21,7 @@ msgctxt "thag5.9:4.1"
 msgid "5.9. Vijitasenattheragāthā"
 msgstr "5.9. Vijitasena"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns355"></a><a class="vnp" id="vnp355"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns355"></a><a class="vnp" id="vnp355"></a>
 msgctxt "thag5.9:5.1"
 msgid "“Olaggessāmi te citta,"
 msgstr "I’ll cage you, mind,"
@@ -44,8 +43,7 @@ msgctxt "thag5.9:5.4"
 msgid "kāmajāla sarīraja."
 msgstr "I won’t urge you to do bad."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns356"></a><a
-#. class="vnp" id="vnp356"></a><a class="pts" id="pts40"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns356"></a><a class="vnp" id="vnp356"></a><a class="pts" id="pts40"></a>
 msgctxt "thag5.9:6.1"
 msgid "Tvaṃ olaggo na gacchasi,"
 msgstr "Caged, you won’t go anywhere,"
@@ -66,8 +64,7 @@ msgctxt "thag5.9:6.4"
 msgid "Pasakka pāparato carissasi."
 msgstr "bullying, in love with wickedness."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns357"></a><a
-#. class="vnp" id="vnp357"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns357"></a><a class="vnp" id="vnp357"></a>
 msgctxt "thag5.9:7.1"
 msgid "Yathā kuñjaraṃ adantaṃ,"
 msgstr "Just as a strong trainer with a hook"
@@ -87,8 +84,7 @@ msgctxt "thag5.9:7.4"
 msgid "Evaṃ āvattayissaṃ taṃ."
 msgstr "so I’ll win you over."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns358"></a><a
-#. class="vnp" id="vnp358"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns358"></a><a class="vnp" id="vnp358"></a>
 msgctxt "thag5.9:8.1"
 msgid "Yathā varahayadamakusalo,"
 msgstr "Just as a fine charioteer, skilled in the taming"
@@ -108,8 +104,7 @@ msgctxt "thag5.9:8.4"
 msgid "Patiṭṭhito pañcasu balesu."
 msgstr "firmly established in the five powers."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns359"></a><a
-#. class="vnp" id="vnp359"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns359"></a><a class="vnp" id="vnp359"></a>
 msgctxt "thag5.9:9.1"
 msgid "Satiyā taṃ nibandhissaṃ,"
 msgstr "I’ll bind you with mindfulness;"

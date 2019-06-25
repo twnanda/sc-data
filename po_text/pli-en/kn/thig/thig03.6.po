@@ -16,8 +16,7 @@ msgctxt "thig3.6:3.1"
 msgid "6. Sukkātherīgāthā"
 msgstr "3.6. Sukkā"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns54"></a><a class="vnp" id="vnp54"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns54"></a><a class="vnp" id="vnp54"></a>
 #. VAR: Kiṃme → kime (bj)
 msgctxt "thig3.6:4.1"
 msgid "“Kiṃme katā rājagahe manussā,"
@@ -39,8 +38,7 @@ msgctxt "thig3.6:4.4"
 msgid "Desentiṃ buddhasāsanaṃ."
 msgstr "as she teaches the Buddha’s instructions."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns55"></a><a class="vnp"
-#. id="vnp55"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns55"></a><a class="vnp" id="vnp55"></a>
 msgctxt "thig3.6:5.1"
 msgid "Tañca appaṭivānīyaṃ,"
 msgstr "But the wise—"
@@ -60,8 +58,7 @@ msgctxt "thig3.6:5.4"
 msgid "valāhakamivaddhagū."
 msgstr "like travelers enjoying a cool cloud.”"
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns56"></a><a class="vnp"
-#. id="vnp56"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns56"></a><a class="vnp" id="vnp56"></a>
 msgctxt "thig3.6:6.1"
 msgid "Sukkā sukkehi dhammehi,"
 msgstr "“She’s known as Sukkā because of her bright qualities,"

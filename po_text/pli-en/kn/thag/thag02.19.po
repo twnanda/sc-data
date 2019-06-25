@@ -21,8 +21,7 @@ msgctxt "thag2.19:4.1"
 msgid "2.19. Nandattheragāthā"
 msgstr "2.19. Nanda"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns157"></a><a class="vnp" id="vnp157"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns157"></a><a class="vnp" id="vnp157"></a>
 msgctxt "thag2.19:5.1"
 msgid "“Ayoniso manasikārā,"
 msgstr "Because of focusing on the wrong things,"
@@ -42,8 +41,7 @@ msgctxt "thag2.19:5.4"
 msgid "kāmarāgena aṭṭito."
 msgstr "racked by desire for pleasures of the senses."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns158"></a><a
-#. class="vnp" id="vnp158"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns158"></a><a class="vnp" id="vnp158"></a>
 msgctxt "thag2.19:6.1"
 msgid "Upāyakusalenāhaṃ,"
 msgstr "But with the help of the Buddha,"

@@ -22,9 +22,7 @@ msgctxt "thag2.36:4.1"
 msgid "2.36 Nitakattheragāthā"
 msgstr "2.36. Nitaka"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns191"></a><a class="vnp" id="vnp191"></a><a class="pts"
-#. id="pts25"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns191"></a><a class="vnp" id="vnp191"></a><a class="pts" id="pts25"></a>
 #. VAR: Kassa → yassa (^ud4.4#1 [Yakkhapahārasutta]; ^ne6#227 [Sāsanapaṭṭhāna];
 #. ^pe2#2 [Sāsanapaṭṭhānadutiyabhūmi], ^pe7#117 [Peṭakopadesa/
 #. Hārasampātabhūmi] passitabbaṃ)
@@ -57,8 +55,7 @@ msgctxt "thag2.36:5.6"
 msgid "kuto taṃ dukkhamessati."
 msgstr "whose mind is developed like this?"
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns192"></a><a
-#. class="vnp" id="vnp192"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns192"></a><a class="vnp" id="vnp192"></a>
 msgctxt "thag2.36:6.1"
 msgid "Mama selūpamaṃ cittaṃ,"
 msgstr "My mind is like a rock,"

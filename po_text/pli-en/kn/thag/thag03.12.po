@@ -21,8 +21,7 @@ msgctxt "thag3.12:4.1"
 msgid "3.12. Uttarapālattheragāthā"
 msgstr "3.12. Uttarapāla"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns252"></a><a class="vnp" id="vnp252"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns252"></a><a class="vnp" id="vnp252"></a>
 msgctxt "thag3.12:5.1"
 msgid "“Paṇḍitaṃ vata maṃ santaṃ,"
 msgstr "I was, indeed, an astute scholar,"
@@ -42,8 +41,7 @@ msgctxt "thag3.12:5.4"
 msgid "sammohā pātayiṃsu maṃ."
 msgstr "so delusory, were my downfall."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns253"></a><a
-#. class="vnp" id="vnp253"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns253"></a><a class="vnp" id="vnp253"></a>
 msgctxt "thag3.12:6.1"
 msgid "Pakkhando māravisaye,"
 msgstr "Leaping into Māra’s domain,"
@@ -63,8 +61,7 @@ msgctxt "thag3.12:6.4"
 msgid "ahaṃ pāsā pamuccituṃ."
 msgstr "from the trap laid by the King of Death."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns254"></a><a
-#. class="vnp" id="vnp254"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns254"></a><a class="vnp" id="vnp254"></a>
 msgctxt "thag3.12:7.1"
 msgid "Sabbe kāmā pahīnā me,"
 msgstr "I have given up all sensual pleasures;"

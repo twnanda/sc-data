@@ -21,8 +21,7 @@ msgctxt "thag2.38:4.1"
 msgid "2.38. Nisabhattheragāthā"
 msgstr "2.38. Nisabha"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns195"></a><a class="vnp" id="vnp195"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns195"></a><a class="vnp" id="vnp195"></a>
 msgctxt "thag2.38:5.1"
 msgid "“Pañca kāmaguṇe hitvā,"
 msgstr "One who has left the home life out of faith,"
@@ -33,7 +32,7 @@ msgid "Piyarūpe manorame;"
 msgstr "giving up the five kinds of sensual stimulation,"
 
 #. HTML: <br>
-#. VAR: gharā nikkhamma →  abhinikkhamma (sī1, pā1)
+#. VAR: gharā nikkhamma → abhinikkhamma (sī1, pā1)
 msgctxt "thag2.38:5.3"
 msgid "Saddhāya gharā nikkhamma,"
 msgstr "so pleasing and delightful—"
@@ -43,8 +42,7 @@ msgctxt "thag2.38:5.4"
 msgid "Dukkhassantakaro bhave."
 msgstr "let them make an end to suffering!"
 
-#. HTML: </p><p><a class="sc" id="2"></a> <a class="vns" id="vns196"></a><a
-#. class="vnp" id="vnp196"></a>
+#. HTML: </p><p><a class="sc" id="2"></a> <a class="vns" id="vns196"></a><a class="vnp" id="vnp196"></a>
 msgctxt "thag2.38:6.1"
 msgid "Nābhinandāmi maraṇaṃ,"
 msgstr "I don’t long for death;"

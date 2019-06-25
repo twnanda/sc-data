@@ -21,9 +21,7 @@ msgctxt "thag8.1:4.1"
 msgid "8.1. Mahākaccāyanattheragāthā"
 msgstr "8.1. Mahākaccāyana"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns494"></a><a class="vnp" id="vnp494"></a><a class="pts"
-#. id="pts52"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns494"></a><a class="vnp" id="vnp494"></a><a class="pts" id="pts52"></a>
 msgctxt "thag8.1:5.1"
 msgid "“Kammaṃ bahukaṃ na kāraye,"
 msgstr "Don’t get involved in lots of work,"
@@ -44,8 +42,7 @@ msgctxt "thag8.1:5.4"
 msgid "Atthaṃ riñcati yo sukhādhivāho."
 msgstr "you’ll miss the goal that brings such happiness."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns495"></a><a
-#. class="vnp" id="vnp495"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns495"></a><a class="vnp" id="vnp495"></a>
 msgctxt "thag8.1:6.1"
 msgid "Paṅkoti hi naṃ avedayuṃ,"
 msgstr "They know it really is a bog,"
@@ -65,8 +62,7 @@ msgctxt "thag8.1:6.4"
 msgid "Sakkāro kāpurisena dujjaho."
 msgstr "and hard for a sinner to give up."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns496"></a><a
-#. class="vnp" id="vnp496"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns496"></a><a class="vnp" id="vnp496"></a>
 msgctxt "thag8.1:7.1"
 msgid "Na parassupanidhāya,"
 msgstr "The deeds of a mortal aren’t bad"
@@ -86,8 +82,7 @@ msgctxt "thag8.1:7.4"
 msgid "kammabandhū hi mātiyā."
 msgstr "for mortals have deeds as their kin."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns497"></a><a
-#. class="vnp" id="vnp497"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns497"></a><a class="vnp" id="vnp497"></a>
 msgctxt "thag8.1:8.1"
 msgid "Na pare vacanā coro,"
 msgstr "You’re not a bandit because of what someone says,"
@@ -109,8 +104,7 @@ msgctxt "thag8.1:8.4"
 msgid "devāpi naṃ tathā vidū."
 msgstr "so the gods will know you."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns498"></a><a
-#. class="vnp" id="vnp498"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns498"></a><a class="vnp" id="vnp498"></a>
 msgctxt "thag8.1:9.1"
 msgid "Pare ca na vijānanti,"
 msgstr "Others don’t understand"
@@ -130,8 +124,7 @@ msgctxt "thag8.1:9.4"
 msgid "tato sammanti medhagā."
 msgstr "settle their quarrels right away."
 
-#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns499"></a><a
-#. class="vnp" id="vnp499"></a>
+#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns499"></a><a class="vnp" id="vnp499"></a>
 msgctxt "thag8.1:10.1"
 msgid "Jīvate vāpi sappañño,"
 msgstr "A wise person lives on"
@@ -151,8 +144,7 @@ msgctxt "thag8.1:10.4"
 msgid "vittavāpi na jīvati."
 msgstr "even a rich person doesn’t really live."
 
-#. HTML: </p><p><a class="sc" id="7"></a><a class="vns" id="vns500"></a><a
-#. class="vnp" id="vnp500"></a>
+#. HTML: </p><p><a class="sc" id="7"></a><a class="vns" id="vns500"></a><a class="vnp" id="vnp500"></a>
 msgctxt "thag8.1:11.1"
 msgid "Sabbaṃ suṇāti sotena,"
 msgstr "All is heard with the ear,"
@@ -172,8 +164,7 @@ msgctxt "thag8.1:11.4"
 msgid "sabbaṃ ujjhitumarahati."
 msgstr "all that is seen and heard."
 
-#. HTML: </p><p><a class="sc" id="8"></a><a class="vns" id="vns501"></a><a
-#. class="vnp" id="vnp501"></a>
+#. HTML: </p><p><a class="sc" id="8"></a><a class="vns" id="vns501"></a><a class="vnp" id="vnp501"></a>
 msgctxt "thag8.1:12.1"
 msgid "Cakkhumāssa yathā andho,"
 msgstr "Though you have eyes, be as if blind;"

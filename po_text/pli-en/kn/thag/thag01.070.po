@@ -21,9 +21,7 @@ msgctxt "thag1.70:4.1"
 msgid "1.70. Puṇṇattheragāthā"
 msgstr "1.70. Puṇṇa (2nd)"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns70"></a><a class="vnp" id="vnp70"></a><a class="pts"
-#. id="pts11"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns70"></a><a class="vnp" id="vnp70"></a><a class="pts" id="pts11"></a>
 msgctxt "thag1.70:5.1"
 msgid "“Sīlameva idha aggaṃ,"
 msgstr "Ethical conduct is best in this life,"

@@ -21,9 +21,7 @@ msgctxt "thag5.1:4.1"
 msgid "5.1. Rājadattattheragāthā"
 msgstr "5.1. Rājadatta"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns315"></a><a class="vnp" id="vnp315"></a><a class="pts"
-#. id="pts37"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns315"></a><a class="vnp" id="vnp315"></a><a class="pts" id="pts37"></a>
 #. VAR: sivathikaṃ → sīvathikaṃ (bj, s2, s3, pts1-2)
 msgctxt "thag5.1:5.1"
 msgid "“Bhikkhu sivathikaṃ gantvā,"
@@ -44,8 +42,7 @@ msgctxt "thag5.1:5.4"
 msgid "Khajjantiṃ kimihī phuṭaṃ."
 msgstr "full of worms that devoured."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns316"></a><a
-#. class="vnp" id="vnp316"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns316"></a><a class="vnp" id="vnp316"></a>
 msgctxt "thag5.1:6.1"
 msgid "Yañhi eke jigucchanti,"
 msgstr "Some men were disgusted,"
@@ -66,8 +63,7 @@ msgctxt "thag5.1:6.4"
 msgid "andhova savatī ahuṃ."
 msgstr "I was as if blind to her oozing body."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns317"></a><a
-#. class="vnp" id="vnp317"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns317"></a><a class="vnp" id="vnp317"></a>
 msgctxt "thag5.1:7.1"
 msgid "Oraṃ odanapākamhā,"
 msgstr "Quicker than the cooking of rice"
@@ -87,8 +83,7 @@ msgctxt "thag5.1:7.4"
 msgid "ekamantaṃ upāvisiṃ."
 msgstr "I retired to a discreet place."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns318"></a><a
-#. class="vnp" id="vnp318"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns318"></a><a class="vnp" id="vnp318"></a>
 msgctxt "thag5.1:8.1"
 msgid "Tato me manasīkāro,"
 msgstr "Then the realization"
@@ -108,8 +103,7 @@ msgctxt "thag5.1:8.4"
 msgid "nibbidā samatiṭṭhatha."
 msgstr "and I was firmly disillusioned."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns319"></a><a
-#. class="vnp" id="vnp319"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns319"></a><a class="vnp" id="vnp319"></a>
 msgctxt "thag5.1:9.1"
 msgid "Tato cittaṃ vimucci me,"
 msgstr "Then my mind was freed—"

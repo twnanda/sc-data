@@ -22,8 +22,7 @@ msgctxt "thag2.14:4.1"
 msgid "2.14 Somamittattheragāthā"
 msgstr "2.14. Somamitta"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns147"></a><a class="vnp" id="vnp147"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns147"></a><a class="vnp" id="vnp147"></a>
 msgctxt "thag2.14:5.1"
 msgid "“Parittaṃ dārumāruyha,"
 msgstr "If you’re lost in the middle of a great sea,"
@@ -53,8 +52,7 @@ msgctxt "thag2.14:5.6"
 msgid "kusītaṃ hīnavīriyaṃ."
 msgstr "a lazy person who lacks energy."
 
-#. HTML: </p><p><a class="sc" id="2"></a> <a class="vns" id="vns148"></a><a
-#. class="vnp" id="vnp148"></a>
+#. HTML: </p><p><a class="sc" id="2"></a> <a class="vns" id="vns148"></a><a class="vnp" id="vnp148"></a>
 msgctxt "thag2.14:6.1"
 msgid "Pavivittehi ariyehi,"
 msgstr "Dwell with the noble ones"

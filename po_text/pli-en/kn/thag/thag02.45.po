@@ -21,8 +21,7 @@ msgctxt "thag2.45:4.1"
 msgid "2.45. Visākhapañcālaputtattheragāthā"
 msgstr "2.45. Visākhapañcālaputta"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns209"></a><a class="vnp" id="vnp209"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns209"></a><a class="vnp" id="vnp209"></a>
 msgctxt "thag2.45:5.1"
 msgid "“Na ukkhipe no ca parikkhipe pare,"
 msgstr "One should not suspend others from the Saṅgha, nor raise objections against them;"
@@ -43,8 +42,7 @@ msgctxt "thag2.45:5.4"
 msgid "Anuddhato sammitabhāṇi subbato."
 msgstr "but be stable, measured in speech, and true to your vows."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns210"></a><a
-#. class="vnp" id="vnp210"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns210"></a><a class="vnp" id="vnp210"></a>
 msgctxt "thag2.45:6.1"
 msgid "Susukhumanipuṇatthadassinā,"
 msgstr "For one who sees the goal, so very subtle and fine,"

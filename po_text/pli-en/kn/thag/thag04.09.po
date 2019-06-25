@@ -21,8 +21,7 @@ msgctxt "thag4.9:4.1"
 msgid "4.9. Candanattheragāthā"
 msgstr "4.9. Candana"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns299"></a><a class="vnp" id="vnp299"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns299"></a><a class="vnp" id="vnp299"></a>
 #. VAR: sañchannā → pacchannā (bj, pts1-2)
 msgctxt "thag4.9:5.1"
 msgid "“Jātarūpena sañchannā,"
@@ -43,8 +42,7 @@ msgctxt "thag4.9:5.4"
 msgid "bhariyā maṃ upāgami."
 msgstr "my wife came to me."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns300"></a><a
-#. class="vnp" id="vnp300"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns300"></a><a class="vnp" id="vnp300"></a>
 msgctxt "thag4.9:6.1"
 msgid "Tañca disvāna āyantiṃ,"
 msgstr "I saw her coming,"
@@ -64,8 +62,7 @@ msgctxt "thag4.9:6.4"
 msgid "maccupāsaṃva oḍḍitaṃ."
 msgstr "like a snare of death laid down."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns301"></a><a
-#. class="vnp" id="vnp301"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns301"></a><a class="vnp" id="vnp301"></a>
 msgctxt "thag4.9:7.1"
 msgid "Tato me manasīkāro,"
 msgstr "Then the realization"
@@ -85,8 +82,7 @@ msgctxt "thag4.9:7.4"
 msgid "nibbidā samatiṭṭhatha."
 msgstr "and I was firmly disillusioned."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns302"></a><a
-#. class="vnp" id="vnp302"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns302"></a><a class="vnp" id="vnp302"></a>
 msgctxt "thag4.9:8.1"
 msgid "Tato cittaṃ vimucci me,"
 msgstr "Then my mind was freed—"

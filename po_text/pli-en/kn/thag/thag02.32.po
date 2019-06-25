@@ -22,8 +22,7 @@ msgctxt "thag2.32:4.1"
 msgid "2.32 Sivakattheragāthā"
 msgstr "2.32. Sivaka"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns183"></a><a class="vnp" id="vnp183"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns183"></a><a class="vnp" id="vnp183"></a>
 msgctxt "thag2.32:5.1"
 msgid "“Aniccāni gahakāni,"
 msgstr "Houses are impermanent—"
@@ -43,8 +42,7 @@ msgctxt "thag2.32:5.4"
 msgid "dukkhā jāti punappunaṃ."
 msgstr "painful is birth again and again."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns184"></a><a
-#. class="vnp" id="vnp184"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns184"></a><a class="vnp" id="vnp184"></a>
 msgctxt "thag2.32:6.1"
 msgid "Gahakāraka diṭṭhosi,"
 msgstr "I’ve seen you, house-builder!"

@@ -21,8 +21,7 @@ msgctxt "thag6.12:4.1"
 msgid "6.12. Brahmadattattheragāthā"
 msgstr "6.12. Brahmadatta"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a> <a
-#. class="vns" id="vns441"></a><a class="vnp" id="vnp441"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a> <a class="vns" id="vns441"></a><a class="vnp" id="vnp441"></a>
 msgctxt "thag6.12:5.1"
 msgid "“Akkodhassa kuto kodho,"
 msgstr "For one free of anger, tamed, living in balance,"
@@ -42,8 +41,7 @@ msgctxt "thag6.12:5.4"
 msgid "upasantassa tādino."
 msgstr "where would anger come from?"
 
-#. HTML: </p><p><a class="sc" id="2"></a> <a class="vns" id="vns442"></a><a
-#. class="vnp" id="vnp442"></a><a class="pts" id="pts47"></a>
+#. HTML: </p><p><a class="sc" id="2"></a> <a class="vns" id="vns442"></a><a class="vnp" id="vnp442"></a><a class="pts" id="pts47"></a>
 msgctxt "thag6.12:6.1"
 msgid "Tasseva tena pāpiyo,"
 msgstr "When you get angry at an angry person"
@@ -63,8 +61,7 @@ msgctxt "thag6.12:6.4"
 msgid "saṅgāmaṃ jeti dujjayaṃ."
 msgstr "you win a battle hard to win."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns443"></a><a
-#. class="vnp" id="vnp443"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns443"></a><a class="vnp" id="vnp443"></a>
 msgctxt "thag6.12:7.1"
 msgid "Ubhinnamatthaṃ carati,"
 msgstr "When you know that the other is angry,"
@@ -84,8 +81,7 @@ msgctxt "thag6.12:7.4"
 msgid "yo sato upasammati."
 msgstr "if you’re mindful and stay calm."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns444"></a><a
-#. class="vnp" id="vnp444"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns444"></a><a class="vnp" id="vnp444"></a>
 msgctxt "thag6.12:8.1"
 msgid "Ubhinnaṃ tikicchantaṃ taṃ,"
 msgstr "People unfamiliar with the teaching"
@@ -105,8 +101,7 @@ msgctxt "thag6.12:8.4"
 msgid "ye dhammassa akovidā."
 msgstr "to be a fool."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns445"></a><a
-#. class="vnp" id="vnp445"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns445"></a><a class="vnp" id="vnp445"></a>
 #. VAR: Uppajje te → uppajjate (s2, s3, pts1)
 msgctxt "thag6.12:9.1"
 msgid "Uppajje te sace kodho,"
@@ -127,8 +122,7 @@ msgctxt "thag6.12:9.4"
 msgid "puttamaṃsūpamaṃ sara."
 msgstr "remember the simile of the child’s flesh."
 
-#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns446"></a><a
-#. class="vnp" id="vnp446"></a>
+#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns446"></a><a class="vnp" id="vnp446"></a>
 msgctxt "thag6.12:10.1"
 msgid "Sace dhāvati cittaṃ te,"
 msgstr "If your mind runs off"

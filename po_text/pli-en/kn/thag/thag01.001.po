@@ -26,13 +26,12 @@ msgctxt "thag1.1:5.1"
 msgid "Nidānagāthā"
 msgstr "Background"
 
-#. </h4><p class="namo">
+#. HTML: </h4><p class="namo">
 msgctxt "thag1.1:6.1"
 msgid "Namo tassa Bhagavato Arahato Sammāsambuddhassa."
 msgstr "Homage to that Blessed One, the perfected one, the fully awakened Buddha!"
 
-#. HTML: </p><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="pts"
-#. id="pts1"></a>
+#. HTML: </p><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="pts" id="pts1"></a>
 msgctxt "thag1.1:7.1"
 msgid "Sīhānaṃva nadantānaṃ,"
 msgstr "Like the lions of mighty fang"
@@ -98,8 +97,7 @@ msgctxt "thag1.1:10.1"
 msgid "Subhūtittheragāthā"
 msgstr "Subhūti"
 
-#. </h4><blockquote class="gatha"><p><a class="sc" id="4"></a><a class="vns"
-#. id="vns1"></a><a class="vnp" id="vnp1"></a>
+#. HTML: </h4><blockquote class="gatha"><p><a class="sc" id="4"></a><a class="vns"id="vns1"></a><a class="vnp" id="vnp1"></a>
 msgctxt "thag1.1:11.1"
 msgid "“Channā me kuṭikā sukhā nivātā,"
 msgstr "My little hut is ro­ofed and pleasant, sheltered from the wind:"

@@ -21,8 +21,7 @@ msgctxt "thag2.28:4.1"
 msgid "2.28. Bharatattheragāthā"
 msgstr "2.28. Bharata"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns175"></a><a class="vnp" id="vnp175"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns175"></a><a class="vnp" id="vnp175"></a>
 msgctxt "thag2.28:5.1"
 msgid "“Ehi nandaka gacchāma,"
 msgstr "Come, Nandaka, let’s go"
@@ -42,8 +41,7 @@ msgctxt "thag2.28:5.4"
 msgid "buddhaseṭṭhassa sammukhā."
 msgstr "before the best of Buddhas."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns176"></a><a
-#. class="vnp" id="vnp176"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns176"></a><a class="vnp" id="vnp176"></a>
 msgctxt "thag2.28:6.1"
 msgid "Yāya no anukampāya,"
 msgstr "The sage gave us the going forth"

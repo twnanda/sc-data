@@ -21,9 +21,7 @@ msgctxt "thag1.10:4.1"
 msgid "1.10. Puṇṇamāsattheragāthā"
 msgstr "1.10. Puṇṇamāsa (1st)"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns10"></a><a class="vnp" id="vnp10"></a><a class="pts"
-#. id="pts3"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns10"></a><a class="vnp" id="vnp10"></a><a class="pts" id="pts3"></a>
 msgctxt "thag1.10:5.1"
 msgid "“Vihari apekkhaṃ idha vā huraṃ vā,"
 msgstr "A knowledge master, peaceful and restrained,"

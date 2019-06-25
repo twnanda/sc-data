@@ -22,8 +22,7 @@ msgctxt "thag1.118:4.1"
 msgid "1.118 Kimilattheragāthā"
 msgstr "1.118 Kimbila (1st)"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns118"></a><a class="vnp" id="vnp118"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns118"></a><a class="vnp" id="vnp118"></a>
 msgctxt "thag1.118:5.1"
 msgid "“Abhisattova nipatati,"
 msgstr "Old age falls like a curse;"

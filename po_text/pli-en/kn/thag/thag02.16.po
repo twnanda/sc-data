@@ -21,8 +21,7 @@ msgctxt "thag2.16:4.1"
 msgid "2.16. Mahākāḷattheragāthā"
 msgstr "2.16. Mahākāḷa"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns151"></a><a class="vnp" id="vnp151"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns151"></a><a class="vnp" id="vnp151"></a>
 msgctxt "thag2.16:5.1"
 msgid "“Kāḷī itthī brahatī dhaṅkarūpā,"
 msgstr "There’s a big black woman who looks like a crow."
@@ -49,8 +48,7 @@ msgctxt "thag2.16:5.5"
 msgid "Esā nisinnā abhisandahitvā."
 msgstr "arranged them and sat nearby."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns152"></a><a
-#. class="vnp" id="vnp152"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns152"></a><a class="vnp" id="vnp152"></a>
 msgctxt "thag2.16:6.1"
 msgid "Yo ve avidvā upadhiṃ karoti,"
 msgstr "When an ignorant person builds up attachments,"

@@ -21,8 +21,7 @@ msgctxt "thag2.4:4.1"
 msgid "2.4. Gaṅgātīriyattheragāthā"
 msgstr "2.4. Gaṅgātīriya"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns127"></a><a class="vnp" id="vnp127"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns127"></a><a class="vnp" id="vnp127"></a>
 msgctxt "thag2.4:5.1"
 msgid "“Tiṇṇaṃ me tālapattānaṃ,"
 msgstr "My hut on the bank of the Ganges"
@@ -42,8 +41,7 @@ msgctxt "thag2.4:5.4"
 msgid "paṃsukūlañca cīvaraṃ."
 msgstr "my robe is cast-off rags."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns128"></a><a
-#. class="vnp" id="vnp128"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns128"></a><a class="vnp" id="vnp128"></a>
 msgctxt "thag2.4:6.1"
 msgid "Dvinnaṃ antaravassānaṃ,"
 msgstr "In my first two rainy seasons"

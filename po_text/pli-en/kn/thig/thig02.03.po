@@ -16,9 +16,7 @@ msgctxt "thig2.3:3.1"
 msgid "3. Sumaṅgalamātātherīgāthā"
 msgstr "2.3. Sumaṅgala’s Mother"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns23"></a><a class="vnp" id="vnp23"></a><a class="pts"
-#. id="pts126"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns23"></a><a class="vnp" id="vnp23"></a><a class="pts" id="pts126"></a>
 #. VAR: sumuttikā → sumuttike sumuttike (bj) | sumuttike sumuttikā (s2, s3,
 #. pts1-2, mr)
 msgctxt "thig2.3:4.1"
@@ -40,8 +38,7 @@ msgctxt "thig2.3:4.4"
 msgid "Ukkhalikā me deḍḍubhaṃ vāti."
 msgstr "my little pot wafted like an eel."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns24"></a><a class="vnp"
-#. id="vnp24"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns24"></a><a class="vnp" id="vnp24"></a>
 msgctxt "thig2.3:5.1"
 msgid "Rāgañca ahaṃ dosañca,"
 msgstr "Now, as for greed and hate:"

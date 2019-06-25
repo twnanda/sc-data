@@ -21,8 +21,7 @@ msgctxt "thag2.21:4.1"
 msgid "2.21. Uttarattheragāthā"
 msgstr "2.21. Uttara (2nd)"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns161"></a><a class="vnp" id="vnp161"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns161"></a><a class="vnp" id="vnp161"></a>
 msgctxt "thag2.21:5.1"
 msgid "“Khandhā mayā pariññātā,"
 msgstr "I’ve fully understood the aggregates;"
@@ -42,8 +41,7 @@ msgctxt "thag2.21:5.4"
 msgid "patto me āsavakkhayo."
 msgstr "I’ve attained the ending of defilements."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns162"></a><a
-#. class="vnp" id="vnp162"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns162"></a><a class="vnp" id="vnp162"></a>
 msgctxt "thag2.21:6.1"
 msgid "Sohaṃ khandhe pariññāya,"
 msgstr "Having fully understood the aggregates,"

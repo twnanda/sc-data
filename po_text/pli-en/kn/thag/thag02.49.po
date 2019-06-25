@@ -21,8 +21,7 @@ msgctxt "thag2.49:4.1"
 msgid "2.49. Sandhitattheragāthā"
 msgstr "2.49. Sandhita"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns217"></a><a class="vnp" id="vnp217"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns217"></a><a class="vnp" id="vnp217"></a>
 msgctxt "thag2.49:5.1"
 msgid "“Assatthe haritobhāse,"
 msgstr "Beneath the Bodhi Tree,"
@@ -43,8 +42,7 @@ msgctxt "thag2.49:5.4"
 msgid "alabhitthaṃ patissato."
 msgstr "became one with the Buddha."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns218"></a><a
-#. class="vnp" id="vnp218"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns218"></a><a class="vnp" id="vnp218"></a>
 msgctxt "thag2.49:6.1"
 msgid "Ekatiṃse ito kappe,"
 msgstr "It’s been thirty one eons"

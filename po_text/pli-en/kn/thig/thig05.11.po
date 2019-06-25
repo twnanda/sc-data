@@ -16,8 +16,7 @@ msgctxt "thig5.11:3.1"
 msgid "11. Tiṃsamattātherīgāthā"
 msgstr "5.11. Thirty Nuns"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns117"></a><a class="vnp" id="vnp117"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns117"></a><a class="vnp" id="vnp117"></a>
 msgctxt "thig5.11:4.1"
 msgid "“Musalāni gahetvāna,"
 msgstr "“Taking a pestle,"
@@ -38,8 +37,7 @@ msgctxt "thig5.11:4.4"
 msgid "dhanaṃ vindanti māṇavā."
 msgstr "young men acquire wealth."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns118"></a><a
-#. class="vnp" id="vnp118"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns118"></a><a class="vnp" id="vnp118"></a>
 msgctxt "thig5.11:5.1"
 msgid "Karotha buddhasāsanaṃ,"
 msgstr "Do the Buddha’s bidding,"
@@ -69,8 +67,7 @@ msgctxt "thig5.11:5.6"
 msgid "karotha buddhasāsanaṃ”."
 msgstr "do the Buddha’s bidding.”"
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns119"></a><a
-#. class="vnp" id="vnp119"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns119"></a><a class="vnp" id="vnp119"></a>
 msgctxt "thig5.11:6.1"
 msgid "Tassā tā vacanaṃ sutvā,"
 msgstr "After hearing her words,"
@@ -100,8 +97,7 @@ msgctxt "thig5.11:6.6"
 msgid "akaṃsu buddhasāsanaṃ."
 msgstr "they did the Buddha’s bidding."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns120"></a><a
-#. class="vnp" id="vnp120"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns120"></a><a class="vnp" id="vnp120"></a>
 msgctxt "thig5.11:7.1"
 msgid "Rattiyā purime yāme,"
 msgstr "In the first watch of the night,"
@@ -131,8 +127,7 @@ msgctxt "thig5.11:7.6"
 msgid "tamokhandhaṃ padālayuṃ."
 msgstr "they shattered the mass of darkness."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns121"></a><a
-#. class="vnp" id="vnp121"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns121"></a><a class="vnp" id="vnp121"></a>
 msgctxt "thig5.11:8.1"
 msgid "Uṭṭhāya pāde vandiṃsu,"
 msgstr "They rose and paid homage at her feet:"

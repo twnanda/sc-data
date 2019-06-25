@@ -21,8 +21,7 @@ msgctxt "thag2.24:4.1"
 msgid "2.24. Valliyattheragāthā"
 msgstr "2.24. Valliya (3rd)"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns167"></a><a class="vnp" id="vnp167"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns167"></a><a class="vnp" id="vnp167"></a>
 msgctxt "thag2.24:5.1"
 msgid "“Yaṃ kiccaṃ daḷhavīriyena,"
 msgstr "The duty of one whose energy is strong;"
@@ -43,8 +42,7 @@ msgctxt "thag2.24:5.4"
 msgid "passa vīriyaṃ parakkamaṃ."
 msgstr "see my energy and vigor!"
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns168"></a><a
-#. class="vnp" id="vnp168"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns168"></a><a class="vnp" id="vnp168"></a>
 msgctxt "thag2.24:6.1"
 msgid "Tvañca me maggamakkhāhi,"
 msgstr "Teach me the path,"

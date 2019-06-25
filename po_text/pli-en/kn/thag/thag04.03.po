@@ -21,8 +21,7 @@ msgctxt "thag4.3:4.1"
 msgid "4.3. Sabhiyattheragāthā"
 msgstr "4.3. Sabhiya"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a> <a
-#. class="vns" id="vns275"></a><a class="vnp" id="vnp275"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a> <a class="vns" id="vns275"></a><a class="vnp" id="vnp275"></a>
 msgctxt "thag4.3:5.1"
 msgid "“Pare ca na vijānanti,"
 msgstr "Others don’t understand"
@@ -42,8 +41,7 @@ msgctxt "thag4.3:5.4"
 msgid "tato sammanti medhagā."
 msgstr "settle their quarrels right away."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns276"></a><a
-#. class="vnp" id="vnp276"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns276"></a><a class="vnp" id="vnp276"></a>
 msgctxt "thag4.3:6.1"
 msgid "Yadā ca avijānantā,"
 msgstr "And when those who don’t understand"
@@ -63,8 +61,7 @@ msgctxt "thag4.3:6.4"
 msgid "āturesu anāturā."
 msgstr "are like the healthy among the sick."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns277"></a><a
-#. class="vnp" id="vnp277"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns277"></a><a class="vnp" id="vnp277"></a>
 msgctxt "thag4.3:7.1"
 msgid "Yaṃ kiñci sithilaṃ kammaṃ,"
 msgstr "Any lax act,"
@@ -84,8 +81,7 @@ msgctxt "thag4.3:7.4"
 msgid "na taṃ hoti mahapphalaṃ."
 msgstr "is not very fruitful."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns278"></a><a
-#. class="vnp" id="vnp278"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns278"></a><a class="vnp" id="vnp278"></a>
 msgctxt "thag4.3:8.1"
 msgid "Yassa sabrahmacārīsu,"
 msgstr "Whoever has no respect"

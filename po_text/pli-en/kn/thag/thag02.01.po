@@ -21,9 +21,7 @@ msgctxt "thag2.1:4.1"
 msgid "2.1. Uttarattheragāthā"
 msgstr "2.1. Uttara (1st)"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns121"></a><a class="vnp" id="vnp121"></a><a class="pts"
-#. id="pts18"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns121"></a><a class="vnp" id="vnp121"></a><a class="pts" id="pts18"></a>
 msgctxt "thag2.1:5.1"
 msgid "“Natthi koci bhavo nicco,"
 msgstr "No life is permanent,"
@@ -43,8 +41,7 @@ msgctxt "thag2.1:5.4"
 msgid "cavanti aparāparaṃ."
 msgstr "and pass away, again and again."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns122"></a><a
-#. class="vnp" id="vnp122"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns122"></a><a class="vnp" id="vnp122"></a>
 msgctxt "thag2.1:6.1"
 msgid "Etamādīnavaṃ ñatvā,"
 msgstr "Knowing this danger,"

@@ -18,8 +18,7 @@ msgctxt "thig1.16:3.1"
 msgid "16 Vuḍḍhapabbajitasumanātherīgāthā"
 msgstr "1.16. Sumanā, Who Went Forth Late in Life"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns16"></a><a class="vnp" id="vnp16"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns16"></a><a class="vnp" id="vnp16"></a>
 msgctxt "thig1.16:4.1"
 msgid "“Sukhaṃ tvaṃ vuḍḍhike sehi,"
 msgstr "Sleep softly, old lady,"

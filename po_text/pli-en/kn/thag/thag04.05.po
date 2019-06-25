@@ -21,8 +21,7 @@ msgctxt "thag4.5:4.1"
 msgid "4.5. Jambukattheragāthā"
 msgstr "4.5. Jambuka"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns283"></a><a class="vnp" id="vnp283"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns283"></a><a class="vnp" id="vnp283"></a>
 msgctxt "thag4.5:5.1"
 msgid "“Pañcapaññāsavassāni,"
 msgstr "For fifty-five years"
@@ -42,8 +41,7 @@ msgctxt "thag4.5:5.4"
 msgid "kesamassuṃ alocayiṃ."
 msgstr "I tore out my hair and beard."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns284"></a><a
-#. class="vnp" id="vnp284"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns284"></a><a class="vnp" id="vnp284"></a>
 msgctxt "thag4.5:6.1"
 msgid "Ekapādena aṭṭhāsiṃ,"
 msgstr "I stood on one foot;"
@@ -63,8 +61,7 @@ msgctxt "thag4.5:6.4"
 msgid "uddesañca na sādiyiṃ."
 msgstr "I didn’t accept food set aside for me."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns285"></a><a
-#. class="vnp" id="vnp285"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns285"></a><a class="vnp" id="vnp285"></a>
 msgctxt "thag4.5:7.1"
 msgid "Etādisaṃ karitvāna,"
 msgstr "I did many deeds of this kind,"
@@ -84,8 +81,7 @@ msgctxt "thag4.5:7.4"
 msgid "buddhaṃ saraṇamāgamaṃ."
 msgstr "I went to the Buddha for refuge."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns286"></a><a
-#. class="vnp" id="vnp286"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns286"></a><a class="vnp" id="vnp286"></a>
 msgctxt "thag4.5:8.1"
 msgid "Saraṇagamanaṃ passa,"
 msgstr "See the going for refuge!"

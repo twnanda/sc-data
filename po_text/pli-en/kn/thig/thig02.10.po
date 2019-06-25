@@ -16,8 +16,7 @@ msgctxt "thig2.10:3.1"
 msgid "10. Sāmātherīgāthā"
 msgstr "2.10. Sāmā"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns37"></a><a class="vnp" id="vnp37"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns37"></a><a class="vnp" id="vnp37"></a>
 msgctxt "thig2.10:4.1"
 msgid "“Catukkhattuṃ pañcakkhattuṃ,"
 msgstr "Four or five times"
@@ -47,8 +46,7 @@ msgctxt "thig2.10:4.6"
 msgid "yato taṇhā samūhatā."
 msgstr "since craving was eradicated."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns38"></a><a class="vnp"
-#. id="vnp38"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns38"></a><a class="vnp" id="vnp38"></a>
 msgctxt "thig2.10:5.1"
 msgid "Bahūhi dukkhadhammehi,"
 msgstr "Though subject to so many painful things,"

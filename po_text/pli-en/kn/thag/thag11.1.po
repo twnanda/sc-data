@@ -21,9 +21,7 @@ msgctxt "thag11.1:4.1"
 msgid "11.1. Saṅkiccattheragāthā"
 msgstr "11.1. Saṅkicca"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns597"></a><a class="vnp" id="vnp597"></a><a class="pts"
-#. id="pts62"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns597"></a><a class="vnp" id="vnp597"></a><a class="pts" id="pts62"></a>
 msgctxt "thag11.1:5.1"
 msgid "“Kiṃ tavattho vane tāta,"
 msgstr "“What good does it do you to be in the grove, my dear?"
@@ -43,8 +41,7 @@ msgctxt "thag11.1:5.4"
 msgid "paviveko hi jhāyinaṃ”."
 msgstr "seclusion is for meditators.”"
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns598"></a><a
-#. class="vnp" id="vnp598"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns598"></a><a class="vnp" id="vnp598"></a>
 msgctxt "thag11.1:6.1"
 msgid "“Yathā abbhāni verambho,"
 msgstr "“Just as the wind in Verambhā"
@@ -64,8 +61,7 @@ msgctxt "thag11.1:6.4"
 msgid "vivekapaṭisaññutā."
 msgstr "my perception of seclusion.”"
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns599"></a><a
-#. class="vnp" id="vnp599"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns599"></a><a class="vnp" id="vnp599"></a>
 msgctxt "thag11.1:7.1"
 msgid "Apaṇḍaro aṇḍasambhavo,"
 msgstr "“It’s all black and born of an egg—"
@@ -85,8 +81,7 @@ msgctxt "thag11.1:7.4"
 msgid "Sandehasmiṃ virāganissitaṃ."
 msgstr "based on dispassion for the body."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns600"></a><a
-#. class="vnp" id="vnp600"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns600"></a><a class="vnp" id="vnp600"></a>
 msgctxt "thag11.1:8.1"
 msgid "Yañca aññe na rakkhanti,"
 msgstr "Not protected by others,"
@@ -106,8 +101,7 @@ msgctxt "thag11.1:8.4"
 msgid "kāmesu anapekkhavā."
 msgstr "without concern for sensual pleasures."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns601"></a><a
-#. class="vnp" id="vnp601"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns601"></a><a class="vnp" id="vnp601"></a>
 msgctxt "thag11.1:9.1"
 msgid "Acchodikā puthusilā,"
 msgstr "The water’s clear and the rocks are broad,"
@@ -127,8 +121,7 @@ msgctxt "thag11.1:9.4"
 msgid "te selā ramayanti maṃ."
 msgstr "these rocky crags delight me!"
 
-#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns602"></a><a
-#. class="vnp" id="vnp602"></a>
+#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns602"></a><a class="vnp" id="vnp602"></a>
 msgctxt "thag11.1:10.1"
 msgid "Vasitaṃ me araññesu,"
 msgstr "I’ve stayed in the wilderness,"
@@ -148,8 +141,7 @@ msgctxt "thag11.1:10.4"
 msgid "vāḷamiganisevite."
 msgstr "frequented by beasts of prey."
 
-#. HTML: </p><p><a class="sc" id="7"></a><a class="vns" id="vns603"></a><a
-#. class="vnp" id="vnp603"></a>
+#. HTML: </p><p><a class="sc" id="7"></a><a class="vns" id="vns603"></a><a class="vnp" id="vnp603"></a>
 msgctxt "thag11.1:11.1"
 msgid "‘Ime haññantu vajjhantu,"
 msgstr "‘May these beings be killed!"
@@ -169,8 +161,7 @@ msgctxt "thag11.1:11.4"
 msgid "anariyaṃ dosasaṃhitaṃ."
 msgstr "ignoble, hateful intentions."
 
-#. HTML: </p><p><a class="sc" id="8"></a><a class="vns" id="vns604"></a><a
-#. class="vnp" id="vnp604"></a>
+#. HTML: </p><p><a class="sc" id="8"></a><a class="vns" id="vns604"></a><a class="vnp" id="vnp604"></a>
 msgctxt "thag11.1:12.1"
 msgid "Pariciṇṇo mayā satthā,"
 msgstr "I’ve served the teacher"
@@ -190,8 +181,7 @@ msgctxt "thag11.1:12.4"
 msgid "bhavanetti samūhatā."
 msgstr "the attachment to rebirth is eradicated."
 
-#. HTML: </p><p><a class="sc" id="9"></a><a class="vns" id="vns605"></a><a
-#. class="vnp" id="vnp605"></a>
+#. HTML: </p><p><a class="sc" id="9"></a><a class="vns" id="vns605"></a><a class="vnp" id="vnp605"></a>
 #. VAR: Yassa catthāya → yassatthāya (s2, s3, pts2)
 msgctxt "thag11.1:13.1"
 msgid "Yassa catthāya pabbajito,"
@@ -212,8 +202,7 @@ msgctxt "thag11.1:13.4"
 msgid "sabbasaṃyojanakkhayo."
 msgstr "the ending of all fetters."
 
-#. HTML: </p><p><a class="sc" id="10"></a> <a class="vns" id="vns606"></a><a
-#. class="vnp" id="vnp606"></a>
+#. HTML: </p><p><a class="sc" id="10"></a> <a class="vns" id="vns606"></a><a class="vnp" id="vnp606"></a>
 msgctxt "thag11.1:14.1"
 msgid "Nābhinandāmi maraṇaṃ,"
 msgstr "I don’t long for death;"
@@ -233,8 +222,7 @@ msgctxt "thag11.1:14.4"
 msgid "nibbisaṃ bhatako yathā."
 msgstr "like a worker waiting for their wages."
 
-#. HTML: </p><p><a class="sc" id="11"></a> <a class="vns" id="vns607"></a><a
-#. class="vnp" id="vnp607"></a>
+#. HTML: </p><p><a class="sc" id="11"></a> <a class="vns" id="vns607"></a><a class="vnp" id="vnp607"></a>
 msgctxt "thag11.1:15.1"
 msgid "Nābhinandāmi maraṇaṃ,"
 msgstr "I don’t long for death;"

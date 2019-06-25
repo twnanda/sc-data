@@ -22,8 +22,7 @@ msgctxt "thag2.6:4.1"
 msgid "2.6 Meḷajinattheragāthā"
 msgstr "2.6. Meḷajina"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns131"></a><a class="vnp" id="vnp131"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns131"></a><a class="vnp" id="vnp131"></a>
 msgctxt "thag2.6:5.1"
 msgid "“Yadāhaṃ dhammamassosiṃ,"
 msgstr "When I heard the Teacher"
@@ -43,8 +42,7 @@ msgctxt "thag2.6:5.4"
 msgid "sabbaññūaparājite."
 msgstr "in the all-knowing, unconquered one,"
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns132"></a><a
-#. class="vnp" id="vnp132"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns132"></a><a class="vnp" id="vnp132"></a>
 msgctxt "thag2.6:6.1"
 msgid "Satthavāhe mahāvīre,"
 msgstr "the caravan leader, the great hero,"

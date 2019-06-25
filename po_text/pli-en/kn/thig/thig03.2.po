@@ -16,8 +16,7 @@ msgctxt "thig3.2:3.1"
 msgid "2. Uttamātherīgāthā"
 msgstr "3.2. Uttamā"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns42"></a><a class="vnp" id="vnp42"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns42"></a><a class="vnp" id="vnp42"></a>
 msgctxt "thig3.2:4.1"
 msgid "“Catukkhattuṃ pañcakkhattuṃ,"
 msgstr "Four or five times"
@@ -37,8 +36,7 @@ msgctxt "thig3.2:4.4"
 msgid "citte avasavattinī."
 msgstr "or any control over my mind."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns43"></a><a class="vnp"
-#. id="vnp43"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns43"></a><a class="vnp" id="vnp43"></a>
 msgctxt "thig3.2:5.1"
 msgid "Sā bhikkhuniṃ upagacchiṃ,"
 msgstr "I approached a nun"
@@ -58,8 +56,7 @@ msgctxt "thig3.2:5.4"
 msgid "khandhāyatanadhātuyo."
 msgstr "the aggregates, sense fields, and elements."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns44"></a><a class="vnp"
-#. id="vnp44"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns44"></a><a class="vnp" id="vnp44"></a>
 msgctxt "thig3.2:6.1"
 msgid "Tassā dhammaṃ suṇitvāna,"
 msgstr "When I had heard her teaching,"

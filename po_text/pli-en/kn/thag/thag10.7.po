@@ -21,8 +21,7 @@ msgctxt "thag10.7:4.1"
 msgid "10.7. (Apara) Gotamattheragāthā"
 msgstr "10.7. Another Gotama"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns587"></a><a class="vnp" id="vnp587"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns587"></a><a class="vnp" id="vnp587"></a>
 msgctxt "thag10.7:5.1"
 msgid "“Vijāneyya sakaṃ atthaṃ,"
 msgstr "You should understand your own purpose,"
@@ -42,8 +41,7 @@ msgctxt "thag10.7:5.4"
 msgid "Sāmaññaṃ ajjhupagatassa."
 msgstr "for one who has entered the ascetic life."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns588"></a><a
-#. class="vnp" id="vnp588"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns588"></a><a class="vnp" id="vnp588"></a>
 msgctxt "thag10.7:6.1"
 msgid "Mittaṃ idha ca kalyāṇaṃ,"
 msgstr "Good friendship in the community,"
@@ -63,8 +61,7 @@ msgctxt "thag10.7:6.4"
 msgid "Etaṃ samaṇassa patirūpaṃ."
 msgstr "this is appropriate for an ascetic."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns589"></a><a
-#. class="vnp" id="vnp589"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns589"></a><a class="vnp" id="vnp589"></a>
 msgctxt "thag10.7:7.1"
 msgid "Buddhesu sagāravatā,"
 msgstr "Respect for the Buddha,"
@@ -84,8 +81,7 @@ msgctxt "thag10.7:7.4"
 msgid "Etaṃ samaṇassa patirūpaṃ."
 msgstr "this is appropriate for an ascetic."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns590"></a><a
-#. class="vnp" id="vnp590"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns590"></a><a class="vnp" id="vnp590"></a>
 msgctxt "thag10.7:8.1"
 msgid "Ācāragocare yutto,"
 msgstr "Commitment to good conduct and alms-resort,"
@@ -105,8 +101,7 @@ msgctxt "thag10.7:8.4"
 msgid "Etaṃ samaṇassa patirūpaṃ."
 msgstr "this is appropriate for an ascetic."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns591"></a><a
-#. class="vnp" id="vnp591"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns591"></a><a class="vnp" id="vnp591"></a>
 msgctxt "thag10.7:9.1"
 msgid "Cārittaṃ atha vārittaṃ,"
 msgstr "An impressive deportment in things that should be done,"
@@ -126,8 +121,7 @@ msgctxt "thag10.7:9.4"
 msgid "Etaṃ samaṇassa patirūpaṃ."
 msgstr "this is appropriate for an ascetic."
 
-#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns592"></a><a
-#. class="vnp" id="vnp592"></a>
+#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns592"></a><a class="vnp" id="vnp592"></a>
 msgctxt "thag10.7:10.1"
 msgid "Āraññakāni senāsanāni,"
 msgstr "Wilderness lodgings,"
@@ -147,8 +141,7 @@ msgctxt "thag10.7:10.4"
 msgid "Etaṃ samaṇassa patirūpaṃ."
 msgstr "this is appropriate for an ascetic."
 
-#. HTML: </p><p><a class="sc" id="7"></a><a class="vns" id="vns593"></a><a
-#. class="vnp" id="vnp593"></a>
+#. HTML: </p><p><a class="sc" id="7"></a><a class="vns" id="vns593"></a><a class="vnp" id="vnp593"></a>
 msgctxt "thag10.7:11.1"
 msgid "Sīlañca bāhusaccañca,"
 msgstr "Ethics, learning,"
@@ -168,8 +161,7 @@ msgctxt "thag10.7:11.4"
 msgid "Etaṃ samaṇassa patirūpaṃ."
 msgstr "this is appropriate for an ascetic."
 
-#. HTML: </p><p><a class="sc" id="8"></a><a class="vns" id="vns594"></a><a
-#. class="vnp" id="vnp594"></a>
+#. HTML: </p><p><a class="sc" id="8"></a><a class="vns" id="vns594"></a><a class="vnp" id="vnp594"></a>
 msgctxt "thag10.7:12.1"
 msgid "Bhāveyya ca aniccanti,"
 msgstr "Developing the perceptions"
@@ -189,8 +181,7 @@ msgctxt "thag10.7:12.4"
 msgid "Etaṃ samaṇassa patirūpaṃ."
 msgstr "this is appropriate for an ascetic."
 
-#. HTML: </p><p><a class="sc" id="9"></a><a class="vns" id="vns595"></a><a
-#. class="vnp" id="vnp595"></a>
+#. HTML: </p><p><a class="sc" id="9"></a><a class="vns" id="vns595"></a><a class="vnp" id="vnp595"></a>
 msgctxt "thag10.7:13.1"
 msgid "Bhāveyya ca bojjhaṅge,"
 msgstr "Developing the awakening factors,"
@@ -210,8 +201,7 @@ msgctxt "thag10.7:13.4"
 msgid "Etaṃ samaṇassa patirūpaṃ."
 msgstr "this is appropriate for an ascetic."
 
-#. HTML: </p><p><a class="sc" id="10"></a><a class="vns" id="vns596"></a><a
-#. class="vnp" id="vnp596"></a>
+#. HTML: </p><p><a class="sc" id="10"></a><a class="vns" id="vns596"></a><a class="vnp" id="vnp596"></a>
 msgctxt "thag10.7:14.1"
 msgid "Taṇhaṃ pajaheyya muni,"
 msgstr "A sage should abandon craving,"

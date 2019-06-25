@@ -21,9 +21,7 @@ msgctxt "thag2.11:4.1"
 msgid "2.11. Mahācundattheragāthā"
 msgstr "2.11. Mahācunda"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns141"></a><a class="vnp" id="vnp141"></a><a class="pts"
-#. id="pts20"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns141"></a><a class="vnp" id="vnp141"></a><a class="pts" id="pts20"></a>
 msgctxt "thag2.11:5.1"
 msgid "“Sussūsā sutavaddhanī,"
 msgstr "It’s from wishing to learn that learning grows;"
@@ -43,8 +41,7 @@ msgctxt "thag2.11:5.4"
 msgid "ñāto attho sukhāvaho."
 msgstr "knowing the goal brings happiness."
 
-#. HTML: </p><p><a class="sc" id="2"></a> <a class="vns" id="vns142"></a><a
-#. class="vnp" id="vnp142"></a>
+#. HTML: </p><p><a class="sc" id="2"></a> <a class="vns" id="vns142"></a><a class="vnp" id="vnp142"></a>
 msgctxt "thag2.11:6.1"
 msgid "Sevetha pantāni senāsanāni,"
 msgstr "You should frequent remote lodgings"

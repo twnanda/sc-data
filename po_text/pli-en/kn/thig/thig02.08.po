@@ -16,8 +16,7 @@ msgctxt "thig2.8:3.1"
 msgid "8. Abhayamātutherīgāthā"
 msgstr "2.8. Abhaya’s Mother"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns33"></a><a class="vnp" id="vnp33"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns33"></a><a class="vnp" id="vnp33"></a>
 msgctxt "thig2.8:4.1"
 msgid "“Uddhaṃ pādatalā amma,"
 msgstr "My dear mother, I examined this body,"
@@ -37,8 +36,7 @@ msgctxt "thig2.8:4.4"
 msgid "asuciṃ pūtigandhikaṃ."
 msgstr "so impure and foul-smelling."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns34"></a><a class="vnp"
-#. id="vnp34"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns34"></a><a class="vnp" id="vnp34"></a>
 msgctxt "thig2.8:5.1"
 msgid "Evaṃ viharamānāya,"
 msgstr "Meditating like this,"

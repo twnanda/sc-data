@@ -21,8 +21,7 @@ msgctxt "thag2.5:4.1"
 msgid "2.5. Ajinattheragāthā"
 msgstr "2.5. Ajina"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns129"></a><a class="vnp" id="vnp129"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns129"></a><a class="vnp" id="vnp129"></a>
 msgctxt "thag2.5:5.1"
 msgid "“Api ce hoti tevijjo,"
 msgstr "Even a master of the three knowledges,"
@@ -43,8 +42,7 @@ msgctxt "thag2.5:5.4"
 msgid "avajānanti ajānatā."
 msgstr "by ignorant fools."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns130"></a><a
-#. class="vnp" id="vnp130"></a><a class="pts" id="pts19"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns130"></a><a class="vnp" id="vnp130"></a><a class="pts" id="pts19"></a>
 msgctxt "thag2.5:6.1"
 msgid "Yo ca kho annapānassa,"
 msgstr "But any person here"

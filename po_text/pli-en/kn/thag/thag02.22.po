@@ -21,8 +21,7 @@ msgctxt "thag2.22:4.1"
 msgid "2.22. Bhaddajittheragāthā"
 msgstr "2.22. Bhaddaji"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns163"></a><a class="vnp" id="vnp163"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns163"></a><a class="vnp" id="vnp163"></a>
 msgctxt "thag2.22:5.1"
 msgid "“Panādo nāma so rājā,"
 msgstr "There was a king named Panāda"
@@ -44,8 +43,7 @@ msgctxt "thag2.22:5.4"
 msgid "ubbhamāhu sahassadhā."
 msgstr "and the top was a thousand-fold."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns164"></a><a
-#. class="vnp" id="vnp164"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns164"></a><a class="vnp" id="vnp164"></a>
 #. VAR: Sahassakaṇḍo → sahassakaṇḍu (pts1)
 #. VAR: satageṇḍu → satabheṇḍu (bj, pts1)
 msgctxt "thag2.22:6.1"

@@ -16,8 +16,7 @@ msgctxt "thig5.1:3.1"
 msgid "1. Aññataratherīgāthā"
 msgstr "5.1. An Unnamed Nun (2nd)"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns67"></a><a class="vnp" id="vnp67"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns67"></a><a class="vnp" id="vnp67"></a>
 msgctxt "thig5.1:4.1"
 msgid "“Paṇṇavīsativassāni,"
 msgstr "In the twenty-five years"
@@ -37,8 +36,7 @@ msgctxt "thig5.1:4.4"
 msgid "cittassūpasamajjhagaṃ."
 msgstr "even for as long as a finger-snap."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns68"></a><a class="vnp"
-#. id="vnp68"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns68"></a><a class="vnp" id="vnp68"></a>
 msgctxt "thig5.1:5.1"
 msgid "Aladdhā cetaso santiṃ,"
 msgstr "Failing to find peace of heart,"
@@ -58,8 +56,7 @@ msgctxt "thig5.1:5.4"
 msgid "vihāraṃ pāvisiṃ ahaṃ."
 msgstr "as I entered a dwelling."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns69"></a><a class="vnp"
-#. id="vnp69"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns69"></a><a class="vnp" id="vnp69"></a>
 msgctxt "thig5.1:6.1"
 msgid "Sā bhikkhuniṃ upāgacchiṃ,"
 msgstr "I approached a nun"
@@ -79,8 +76,7 @@ msgctxt "thig5.1:6.4"
 msgid "khandhāyatanadhātuyo."
 msgstr "the aggregates, sense fields, and elements."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns70"></a><a class="vnp"
-#. id="vnp70"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns70"></a><a class="vnp" id="vnp70"></a>
 msgctxt "thig5.1:7.1"
 msgid "Tassā dhammaṃ suṇitvāna,"
 msgstr "When I heard her teaching,"
@@ -100,8 +96,7 @@ msgctxt "thig5.1:7.4"
 msgid "dibbacakkhu visodhitaṃ."
 msgstr "my clairvoyance is purified;"
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns71"></a><a class="vnp"
-#. id="vnp71"></a><a class="pts" id="pts131"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns71"></a><a class="vnp" id="vnp71"></a><a class="pts" id="pts131"></a>
 #. VAR: Cetopariccañāṇañca → cetopariyañāṇañca (mr)
 msgctxt "thig5.1:8.1"
 msgid "Cetopariccañāṇañca,"

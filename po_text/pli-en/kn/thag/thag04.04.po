@@ -21,8 +21,7 @@ msgctxt "thag4.4:4.1"
 msgid "4.4. Nandakattheragāthā"
 msgstr "4.4. Nandaka (2nd)"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns279"></a><a class="vnp" id="vnp279"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns279"></a><a class="vnp" id="vnp279"></a>
 msgctxt "thag4.4:5.1"
 msgid "“Dhiratthu pūre duggandhe,"
 msgstr "Damn you mortal frame, you stink!"
@@ -42,8 +41,7 @@ msgctxt "thag4.4:5.4"
 msgid "yāni sandanti sabbadā."
 msgstr "that are flowing all the time."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns280"></a><a
-#. class="vnp" id="vnp280"></a><a class="pts" id="pts34"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns280"></a><a class="vnp" id="vnp280"></a><a class="pts" id="pts34"></a>
 msgctxt "thag4.4:6.1"
 msgid "Mā purāṇaṃ amaññittho,"
 msgstr "Don’t think much of mortal frames;"
@@ -64,8 +62,7 @@ msgctxt "thag4.4:6.4"
 msgid "kimaṅgaṃ pana mānuse."
 msgstr "let alone by humans."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns281"></a><a
-#. class="vnp" id="vnp281"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns281"></a><a class="vnp" id="vnp281"></a>
 msgctxt "thag4.4:7.1"
 msgid "Ye ca kho bālā dummedhā,"
 msgstr "But those who are stupid fools,"
@@ -85,8 +82,7 @@ msgctxt "thag4.4:7.4"
 msgid "mārakhittamhi bandhane."
 msgstr "when Māra has laid down the snare."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns282"></a><a
-#. class="vnp" id="vnp282"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns282"></a><a class="vnp" id="vnp282"></a>
 msgctxt "thag4.4:8.1"
 msgid "Yesaṃ rāgo ca doso ca,"
 msgstr "Those whose greed, hate, and ignorance"

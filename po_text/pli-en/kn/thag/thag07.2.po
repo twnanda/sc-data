@@ -22,8 +22,7 @@ msgctxt "thag7.2:4.1"
 msgid "7.2 Lakuṇḍakabhaddiyattheragāthā"
 msgstr "7.2. Lakuṇṭaka Bhaddiya"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns466"></a><a class="vnp" id="vnp466"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns466"></a><a class="vnp" id="vnp466"></a>
 msgctxt "thag7.2:5.1"
 msgid "“Pare ambāṭakārāme,"
 msgstr "Bhaddiya has plucked out craving, root and all,"
@@ -45,8 +44,7 @@ msgctxt "thag7.2:5.4"
 msgid "tattha bhaddova jhāyati."
 msgstr "he practices absorption; he is truly well-favoured."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns467"></a><a
-#. class="vnp" id="vnp467"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns467"></a><a class="vnp" id="vnp467"></a>
 #. VAR: mudiṅgehi → mutiṅgehi (bj, pts1-2)
 msgctxt "thag7.2:6.1"
 msgid "Ramanteke mudiṅgehi,"
@@ -67,8 +65,7 @@ msgctxt "thag7.2:6.4"
 msgid "rato buddhassa sāsane."
 msgstr "I delight in the Buddha’s teaching."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns468"></a><a
-#. class="vnp" id="vnp468"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns468"></a><a class="vnp" id="vnp468"></a>
 #. VAR: Buddho ce → buddho ca (s2, s3, pts1)
 msgctxt "thag7.2:7.1"
 msgid "Buddho ce me varaṃ dajjā,"
@@ -89,8 +86,7 @@ msgctxt "thag7.2:7.4"
 msgid "niccaṃ kāyagataṃ satiṃ."
 msgstr "constant mindfulness of the body."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns469"></a><a
-#. class="vnp" id="vnp469"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns469"></a><a class="vnp" id="vnp469"></a>
 msgctxt "thag7.2:8.1"
 msgid "Ye maṃ rūpena pāmiṃsu,"
 msgstr "Those who’ve judged me on appearance,"
@@ -110,8 +106,7 @@ msgctxt "thag7.2:8.4"
 msgid "na maṃ jānanti te janā."
 msgstr "they don’t know me."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns470"></a><a
-#. class="vnp" id="vnp470"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns470"></a><a class="vnp" id="vnp470"></a>
 msgctxt "thag7.2:9.1"
 msgid "Ajjhattañca na jānāti,"
 msgstr "Not knowing what’s inside,"
@@ -131,8 +126,7 @@ msgctxt "thag7.2:9.4"
 msgid "sa ve ghosena vuyhati."
 msgstr "gets carried away by a voice."
 
-#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns471"></a><a
-#. class="vnp" id="vnp471"></a>
+#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns471"></a><a class="vnp" id="vnp471"></a>
 msgctxt "thag7.2:10.1"
 msgid "Ajjhattañca na jānāti,"
 msgstr "Not knowing what’s inside,"
@@ -152,8 +146,7 @@ msgctxt "thag7.2:10.4"
 msgid "sopi ghosena vuyhati."
 msgstr "they’re also carried away by a voice."
 
-#. HTML: </p><p><a class="sc" id="7"></a><a class="vns" id="vns472"></a><a
-#. class="vnp" id="vnp472"></a>
+#. HTML: </p><p><a class="sc" id="7"></a><a class="vns" id="vns472"></a><a class="vnp" id="vnp472"></a>
 msgctxt "thag7.2:11.1"
 msgid "Ajjhattañca pajānāti,"
 msgstr "Understanding what’s inside,"

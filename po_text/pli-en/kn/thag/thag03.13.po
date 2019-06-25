@@ -21,8 +21,7 @@ msgctxt "thag3.13:4.1"
 msgid "3.13. Abhibhūtattheragāthā"
 msgstr "3.13. Abhibhūta"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns255"></a><a class="vnp" id="vnp255"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns255"></a><a class="vnp" id="vnp255"></a>
 msgctxt "thag3.13:5.1"
 msgid "“Suṇātha ñātayo sabbe,"
 msgstr "Listen up, all my relatives,"
@@ -42,8 +41,7 @@ msgctxt "thag3.13:5.4"
 msgid "dukkhā jāti punappunaṃ."
 msgstr "Painful is birth again and again."
 
-#. HTML: </p><p><a class="sc" id="2"></a> <a class="vns" id="vns256"></a><a
-#. class="vnp" id="vnp256"></a>
+#. HTML: </p><p><a class="sc" id="2"></a> <a class="vns" id="vns256"></a><a class="vnp" id="vnp256"></a>
 #. VAR: Ārambhatha → ārabhatha (bj, s2, s3, pts1-2) | ārabbhatha (mr)
 msgctxt "thag3.13:6.1"
 msgid "Ārambhatha nikkamatha,"
@@ -64,8 +62,7 @@ msgctxt "thag3.13:6.4"
 msgid "Naḷāgāraṃva kuñjaro."
 msgstr "as an elephant a hut of reeds."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns257"></a><a
-#. class="vnp" id="vnp257"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns257"></a><a class="vnp" id="vnp257"></a>
 msgctxt "thag3.13:7.1"
 msgid "Yo imasmiṃ dhammavinaye,"
 msgstr "Anyone who meditates diligently"

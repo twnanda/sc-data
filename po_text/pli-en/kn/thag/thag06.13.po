@@ -22,8 +22,7 @@ msgctxt "thag6.13:4.1"
 msgid "6.13 Sirimaṇḍattheragāthā"
 msgstr "6.13. Sirimaṇḍa"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns447"></a><a class="vnp" id="vnp447"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns447"></a><a class="vnp" id="vnp447"></a>
 msgctxt "thag6.13:5.1"
 msgid "“Channamativassati,"
 msgstr "The rain saturates things that are covered up;"
@@ -43,8 +42,7 @@ msgctxt "thag6.13:5.4"
 msgid "evaṃ taṃ nātivassati."
 msgstr "so the rain will not saturate it."
 
-#. HTML: </p><p><a class="sc" id="2"></a> <a class="vns" id="vns448"></a><a
-#. class="vnp" id="vnp448"></a>
+#. HTML: </p><p><a class="sc" id="2"></a> <a class="vns" id="vns448"></a><a class="vnp" id="vnp448"></a>
 msgctxt "thag6.13:6.1"
 msgid "Maccunābbhahato loko,"
 msgstr "The world is beaten down by death"
@@ -65,8 +63,7 @@ msgctxt "thag6.13:6.4"
 msgid "icchādhūpāyito sadā."
 msgstr "and it’s always fuming with desire."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns449"></a><a
-#. class="vnp" id="vnp449"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns449"></a><a class="vnp" id="vnp449"></a>
 msgctxt "thag6.13:7.1"
 msgid "Maccunābbhahato loko,"
 msgstr "The world is beaten down by death,"
@@ -86,8 +83,7 @@ msgctxt "thag6.13:7.4"
 msgid "pattadaṇḍova takkaro."
 msgstr "like a thief being flogged."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns450"></a><a
-#. class="vnp" id="vnp450"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns450"></a><a class="vnp" id="vnp450"></a>
 msgctxt "thag6.13:8.1"
 msgid "Āgacchantaggikhandhāva,"
 msgstr "Three things are coming, like a wall of flame:"
@@ -107,8 +103,7 @@ msgctxt "thag6.13:8.4"
 msgid "javo natthi palāyituṃ."
 msgstr "and no speed’s enough to flee."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns451"></a><a
-#. class="vnp" id="vnp451"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns451"></a><a class="vnp" id="vnp451"></a>
 msgctxt "thag6.13:9.1"
 msgid "Amoghaṃ divasaṃ kayirā,"
 msgstr "Don’t waste your day,"
@@ -130,8 +125,7 @@ msgctxt "thag6.13:9.4"
 msgid "tadūnaṃ tassa jīvitaṃ."
 msgstr "shortens your life by that much."
 
-#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns452"></a><a
-#. class="vnp" id="vnp452"></a>
+#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns452"></a><a class="vnp" id="vnp452"></a>
 msgctxt "thag6.13:10.1"
 msgid "Carato tiṭṭhato vāpi,"
 msgstr "Walking or standing,"

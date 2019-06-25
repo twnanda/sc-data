@@ -17,8 +17,7 @@ msgctxt "thig13.2:3.1"
 msgid "2 Rohinītherīgāthā"
 msgstr "13.2. Rohinī"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns271"></a><a class="vnp" id="vnp271"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns271"></a><a class="vnp" id="vnp271"></a>
 #. VAR: Samaṇā’ti bhoti supi → bhoti tvaṃ sayasi (bj) | bhoti maṃ vipassi (s2,
 #. s3, pts1-2)
 msgctxt "thig13.2:4.1"
@@ -43,8 +42,7 @@ msgctxt "thig13.2:4.4"
 msgid "samaṇī nūna bhavissasi."
 msgstr "surely you’ll be an ascetic."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns272"></a><a
-#. class="vnp" id="vnp272"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns272"></a><a class="vnp" id="vnp272"></a>
 msgctxt "thig13.2:5.1"
 msgid "Vipulaṃ annañca pānañca,"
 msgstr "You provide ascetics"
@@ -65,8 +63,7 @@ msgctxt "thig13.2:5.4"
 msgid "kena te samaṇā piyā."
 msgstr "why do you like ascetics?"
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns273"></a><a
-#. class="vnp" id="vnp273"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns273"></a><a class="vnp" id="vnp273"></a>
 msgctxt "thig13.2:6.1"
 msgid "Akammakāmā alasā,"
 msgstr "They don’t like to work, they’re lazy,"
@@ -86,8 +83,7 @@ msgctxt "thig13.2:6.4"
 msgid "kena te samaṇā piyā”."
 msgstr "so why do you like ascetics?”"
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns274"></a><a
-#. class="vnp" id="vnp274"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns274"></a><a class="vnp" id="vnp274"></a>
 msgctxt "thig13.2:7.1"
 msgid "“Cirassaṃ vata maṃ tāta,"
 msgstr "“Dad, for a long time now"
@@ -107,8 +103,7 @@ msgctxt "thig13.2:7.4"
 msgid "paññāsīlaparakkamaṃ."
 msgstr "their wisdom, ethics, and vigor."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns275"></a><a
-#. class="vnp" id="vnp275"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns275"></a><a class="vnp" id="vnp275"></a>
 msgctxt "thig13.2:8.1"
 msgid "Kammakāmā analasā,"
 msgstr "They like to work, they’re not lazy;"
@@ -128,8 +123,7 @@ msgctxt "thig13.2:8.4"
 msgid "tena me samaṇā piyā."
 msgstr "that’s why I like ascetics."
 
-#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns276"></a><a
-#. class="vnp" id="vnp276"></a>
+#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns276"></a><a class="vnp" id="vnp276"></a>
 msgctxt "thig13.2:9.1"
 msgid "Tīṇi pāpassa mūlāni,"
 msgstr "As for the three roots of evil,"
@@ -149,8 +143,7 @@ msgctxt "thig13.2:9.4"
 msgid "tena me samaṇā piyā."
 msgstr "that’s why I like ascetics."
 
-#. HTML: </p><p><a class="sc" id="7"></a><a class="vns" id="vns277"></a><a
-#. class="vnp" id="vnp277"></a>
+#. HTML: </p><p><a class="sc" id="7"></a><a class="vns" id="vns277"></a><a class="vnp" id="vnp277"></a>
 msgctxt "thig13.2:10.1"
 msgid "Kāyakammaṃ suci nesaṃ,"
 msgstr "Their bodily actions are pure;"
@@ -170,8 +163,7 @@ msgctxt "thig13.2:10.4"
 msgid "tena me samaṇā piyā."
 msgstr "that’s why I like ascetics."
 
-#. HTML: </p><p><a class="sc" id="8"></a><a class="vns" id="vns278"></a><a
-#. class="vnp" id="vnp278"></a>
+#. HTML: </p><p><a class="sc" id="8"></a><a class="vns" id="vns278"></a><a class="vnp" id="vnp278"></a>
 msgctxt "thig13.2:11.1"
 msgid "Vimalā saṅkhamuttāva,"
 msgstr "Immaculate as a conch-shell,"
@@ -192,8 +184,7 @@ msgctxt "thig13.2:11.4"
 msgid "tena me samaṇā piyā."
 msgstr "that’s why I like ascetics."
 
-#. HTML: </p><p><a class="sc" id="9"></a><a class="vns" id="vns279"></a><a
-#. class="vnp" id="vnp279"></a>
+#. HTML: </p><p><a class="sc" id="9"></a><a class="vns" id="vns279"></a><a class="vnp" id="vnp279"></a>
 msgctxt "thig13.2:12.1"
 msgid "Bahussutā dhammadharā,"
 msgstr "They’re learned and memorize the teaching,"
@@ -213,8 +204,7 @@ msgctxt "thig13.2:12.4"
 msgid "tena me samaṇā piyā."
 msgstr "that’s why I like ascetics."
 
-#. HTML: </p><p><a class="sc" id="10"></a><a class="vns" id="vns280"></a><a
-#. class="vnp" id="vnp280"></a>
+#. HTML: </p><p><a class="sc" id="10"></a><a class="vns" id="vns280"></a><a class="vnp" id="vnp280"></a>
 msgctxt "thig13.2:13.1"
 msgid "Bahussutā dhammadharā,"
 msgstr "They’re learned and memorize the teaching,"
@@ -234,8 +224,7 @@ msgctxt "thig13.2:13.4"
 msgid "tena me samaṇā piyā."
 msgstr "that’s why I like ascetics."
 
-#. HTML: </p><p><a class="sc" id="11"></a><a class="vns" id="vns281"></a><a
-#. class="vnp" id="vnp281"></a>
+#. HTML: </p><p><a class="sc" id="11"></a><a class="vns" id="vns281"></a><a class="vnp" id="vnp281"></a>
 msgctxt "thig13.2:14.1"
 msgid "Dūraṅgamā satimanto,"
 msgstr "Traveling afar, and mindful,"
@@ -255,8 +244,7 @@ msgctxt "thig13.2:14.4"
 msgid "tena me samaṇā piyā."
 msgstr "that’s why I like ascetics."
 
-#. HTML: </p><p><a class="sc" id="12"></a><a class="vns" id="vns282"></a><a
-#. class="vnp" id="vnp282"></a>
+#. HTML: </p><p><a class="sc" id="12"></a><a class="vns" id="vns282"></a><a class="vnp" id="vnp282"></a>
 msgctxt "thig13.2:15.1"
 msgid "Yasmā gāmā pakkamanti,"
 msgstr "When they leave a village,"
@@ -276,8 +264,7 @@ msgctxt "thig13.2:15.4"
 msgid "tena me samaṇā piyā."
 msgstr "that’s why I like ascetics."
 
-#. HTML: </p><p><a class="sc" id="13"></a><a class="vns" id="vns283"></a><a
-#. class="vnp" id="vnp283"></a><a class="pts" id="pts151"></a>
+#. HTML: </p><p><a class="sc" id="13"></a><a class="vns" id="vns283"></a><a class="vnp" id="vnp283"></a><a class="pts" id="pts151"></a>
 msgctxt "thig13.2:16.1"
 msgid "Na te saṃ koṭṭhe openti,"
 msgstr "They hoard no goods in storerooms,"
@@ -297,8 +284,7 @@ msgctxt "thig13.2:16.4"
 msgid "tena me samaṇā piyā."
 msgstr "that’s why I like ascetics."
 
-#. HTML: </p><p><a class="sc" id="14"></a><a class="vns" id="vns284"></a><a
-#. class="vnp" id="vnp284"></a>
+#. HTML: </p><p><a class="sc" id="14"></a><a class="vns" id="vns284"></a><a class="vnp" id="vnp284"></a>
 msgctxt "thig13.2:17.1"
 msgid "Na te hiraññaṃ gaṇhanti,"
 msgstr "They don’t receive silver,"
@@ -318,8 +304,7 @@ msgctxt "thig13.2:17.4"
 msgid "tena me samaṇā piyā."
 msgstr "that’s why I like ascetics."
 
-#. HTML: </p><p><a class="sc" id="15"></a><a class="vns" id="vns285"></a><a
-#. class="vnp" id="vnp285"></a>
+#. HTML: </p><p><a class="sc" id="15"></a><a class="vns" id="vns285"></a><a class="vnp" id="vnp285"></a>
 msgctxt "thig13.2:18.1"
 msgid "Nānākulā pabbajitā,"
 msgstr "They have gone forth from different families,"
@@ -340,8 +325,7 @@ msgctxt "thig13.2:18.4"
 msgid "tena me samaṇā piyā”."
 msgstr "that’s why I like ascetics.”"
 
-#. HTML: </p><p><a class="sc" id="16"></a><a class="vns" id="vns286"></a><a
-#. class="vnp" id="vnp286"></a>
+#. HTML: </p><p><a class="sc" id="16"></a><a class="vns" id="vns286"></a><a class="vnp" id="vnp286"></a>
 msgctxt "thig13.2:19.1"
 msgid "“Atthāya vata no bhoti,"
 msgstr "“Dear Rohinī, it was truly for our benefit"
@@ -361,8 +345,7 @@ msgctxt "thig13.2:19.4"
 msgid "saṃghe ca tibbagāravā."
 msgstr "for the Buddha, his teaching, and the Sangha."
 
-#. HTML: </p><p><a class="sc" id="17"></a><a class="vns" id="vns287"></a><a
-#. class="vnp" id="vnp287"></a>
+#. HTML: </p><p><a class="sc" id="17"></a><a class="vns" id="vns287"></a><a class="vnp" id="vnp287"></a>
 msgctxt "thig13.2:20.1"
 msgid "Tuvaṃ hetaṃ pajānāsi,"
 msgstr "For you understand this"
@@ -422,8 +405,7 @@ msgctxt "thig13.2:22.4"
 msgid "taṃ te atthāya hehiti”."
 msgstr "that will be good for you.”"
 
-#. HTML: </p><p><a class="sc" id="20"></a><a class="vns" id="vns290"></a><a
-#. class="vnp" id="vnp289"></a>
+#. HTML: </p><p><a class="sc" id="20"></a><a class="vns" id="vns290"></a><a class="vnp" id="vnp289"></a>
 msgctxt "thig13.2:23.1"
 msgid "“Upemi saraṇaṃ buddhaṃ,"
 msgstr "“I go for refuge to the Buddha, the poised,"
@@ -443,8 +425,7 @@ msgctxt "thig13.2:23.4"
 msgid "taṃ me atthāya hehiti."
 msgstr "that will be good for me."
 
-#. HTML: </p><p><a class="sc" id="21"></a><a class="vns" id="vns291"></a><a
-#. class="vnp" id="vnp290"></a>
+#. HTML: </p><p><a class="sc" id="21"></a><a class="vns" id="vns291"></a><a class="vnp" id="vnp290"></a>
 msgctxt "thig13.2:24.1"
 msgid "Brahmabandhu pure āsiṃ,"
 msgstr "In the past I was related to Brahmā,"

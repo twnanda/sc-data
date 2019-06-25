@@ -21,8 +21,7 @@ msgctxt "thag3.16:4.1"
 msgid "3.16. Vimalattheragāthā"
 msgstr "3.16. Vimala (2nd)"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns264"></a><a class="vnp" id="vnp264"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns264"></a><a class="vnp" id="vnp264"></a>
 msgctxt "thag3.16:5.1"
 msgid "“Pāpamitte vivajjetvā,"
 msgstr "Shunning bad friends,"
@@ -42,8 +41,7 @@ msgctxt "thag3.16:5.4"
 msgid "patthento acalaṃ sukhaṃ."
 msgstr "aspiring to unshakable happiness."
 
-#. HTML: </p><p><a class="sc" id="2"></a> <a class="vns" id="vns265"></a><a
-#. class="vnp" id="vnp265"></a>
+#. HTML: </p><p><a class="sc" id="2"></a> <a class="vns" id="vns265"></a><a class="vnp" id="vnp265"></a>
 msgctxt "thag3.16:6.1"
 msgid "Parittaṃ dārumāruyha,"
 msgstr "If you’re lost in the middle of a great sea,"
@@ -73,8 +71,7 @@ msgctxt "thag3.16:6.6"
 msgid "kusītaṃ hīnavīriyaṃ."
 msgstr "a lazy person who lacks energy."
 
-#. HTML: </p><p><a class="sc" id="3"></a> <a class="vns" id="vns266"></a><a
-#. class="vnp" id="vnp266"></a>
+#. HTML: </p><p><a class="sc" id="3"></a> <a class="vns" id="vns266"></a><a class="vnp" id="vnp266"></a>
 msgctxt "thag3.16:7.1"
 msgid "Pavivittehi ariyehi,"
 msgstr "Dwell with the noble ones"

@@ -21,8 +21,7 @@ msgctxt "thag1.99:4.1"
 msgid "1.99. Uttiyattheragāthā"
 msgstr "1.99. Uttiya (3rd)"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns99"></a><a class="vnp" id="vnp99"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns99"></a><a class="vnp" id="vnp99"></a>
 msgctxt "thag1.99:5.1"
 msgid "“Saddaṃ sutvā sati muṭṭhā,"
 msgstr "When you hear a sound, mindfulness is lost"

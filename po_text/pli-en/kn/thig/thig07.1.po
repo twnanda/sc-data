@@ -16,8 +16,7 @@ msgctxt "thig7.1:3.1"
 msgid "1. Uttarātherīgāthā"
 msgstr "7.1. Uttarā (2nd)"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns175"></a><a class="vnp" id="vnp175"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns175"></a><a class="vnp" id="vnp175"></a>
 msgctxt "thig7.1:4.1"
 msgid "“Musalāni gahetvāna,"
 msgstr "“Taking a pestle,"
@@ -37,8 +36,7 @@ msgctxt "thig7.1:4.4"
 msgid "dhanaṃ vindanti māṇavā."
 msgstr "young men acquire wealth."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns176"></a><a
-#. class="vnp" id="vnp176"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns176"></a><a class="vnp" id="vnp176"></a>
 msgctxt "thig7.1:5.1"
 msgid "Ghaṭetha buddhasāsane,"
 msgstr "Work at the Buddha’s bidding,"
@@ -58,8 +56,7 @@ msgctxt "thig7.1:5.4"
 msgid "ekamantaṃ nisīdatha."
 msgstr "sit in a discreet place to meditate."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns177"></a><a
-#. class="vnp" id="vnp177"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns177"></a><a class="vnp" id="vnp177"></a>
 msgctxt "thig7.1:6.1"
 msgid "Cittaṃ upaṭṭhapetvāna,"
 msgstr "Establish the mind,"
@@ -79,8 +76,7 @@ msgctxt "thig7.1:6.4"
 msgid "parato no ca attato”."
 msgstr "as other, not as self.”"
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns178"></a><a
-#. class="vnp" id="vnp178"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns178"></a><a class="vnp" id="vnp178"></a>
 msgctxt "thig7.1:7.1"
 msgid "“Tassāhaṃ vacanaṃ sutvā,"
 msgstr "“After hearing her words,"
@@ -100,8 +96,7 @@ msgctxt "thig7.1:7.4"
 msgid "ekamante upāvisiṃ."
 msgstr "and retired to a discreet place."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns179"></a><a
-#. class="vnp" id="vnp179"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns179"></a><a class="vnp" id="vnp179"></a>
 msgctxt "thig7.1:8.1"
 msgid "Rattiyā purime yāme,"
 msgstr "In the first watch of the night,"
@@ -121,8 +116,7 @@ msgctxt "thig7.1:8.4"
 msgid "dibbacakkhuṃ visodhayiṃ."
 msgstr "I purified my clairvoyance."
 
-#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns180"></a><a
-#. class="vnp" id="vnp180"></a>
+#. HTML: </p><p><a class="sc" id="6"></a><a class="vns" id="vns180"></a><a class="vnp" id="vnp180"></a>
 msgctxt "thig7.1:9.1"
 msgid "Rattiyā pacchime yāme,"
 msgstr "In the last watch of the night,"
@@ -142,8 +136,7 @@ msgctxt "thig7.1:9.4"
 msgid "katā te anusāsanī."
 msgstr "your bidding has been done."
 
-#. HTML: </p><p><a class="sc" id="7"></a><a class="vns" id="vns181"></a><a
-#. class="vnp" id="vnp181"></a>
+#. HTML: </p><p><a class="sc" id="7"></a><a class="vns" id="vns181"></a><a class="vnp" id="vnp181"></a>
 msgctxt "thig7.1:10.1"
 msgid "Sakkaṃva devā tidasā,"
 msgstr "I shall abide honoring you"

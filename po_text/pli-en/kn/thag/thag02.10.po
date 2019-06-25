@@ -21,8 +21,7 @@ msgctxt "thag2.10:4.1"
 msgid "2.10. Vasabhattheragāthā"
 msgstr "2.10. Vasabha"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns139"></a><a class="vnp" id="vnp139"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns139"></a><a class="vnp" id="vnp139"></a>
 msgctxt "thag2.10:5.1"
 msgid "“Pubbe hanati attānaṃ,"
 msgstr "First one kills oneself,"
@@ -42,8 +41,7 @@ msgctxt "thag2.10:5.4"
 msgid "vītaṃseneva pakkhimā."
 msgstr "like one who kills birds using a dead bird as a decoy."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns140"></a><a
-#. class="vnp" id="vnp140"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns140"></a><a class="vnp" id="vnp140"></a>
 msgctxt "thag2.10:6.1"
 msgid "Na brāhmaṇo bahivaṇṇo,"
 msgstr "A holy man’s color is not on the outside;"

@@ -16,8 +16,7 @@ msgctxt "thig5.9:3.1"
 msgid "9. Bhaddākuṇḍalakesātherīgāthā"
 msgstr "5.9. Bhaddā Kuṇḍalakesā"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns107"></a><a class="vnp" id="vnp107"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns107"></a><a class="vnp" id="vnp107"></a>
 msgctxt "thig5.9:4.1"
 msgid "“Lūnakesī paṅkadharī,"
 msgstr "My hair mown off, covered in mud,"
@@ -37,8 +36,7 @@ msgctxt "thig5.9:4.4"
 msgid "vajje cāvajjadassinī."
 msgstr "and no fault where there was."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns108"></a><a
-#. class="vnp" id="vnp108"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns108"></a><a class="vnp" id="vnp108"></a>
 msgctxt "thig5.9:5.1"
 msgid "Divāvihārā nikkhamma,"
 msgstr "Leaving my day’s meditation"
@@ -58,8 +56,7 @@ msgctxt "thig5.9:5.4"
 msgid "bhikkhusaṃghapurakkhataṃ."
 msgstr "at the fore of the mendicant Saṅgha."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns109"></a><a
-#. class="vnp" id="vnp109"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns109"></a><a class="vnp" id="vnp109"></a>
 msgctxt "thig5.9:6.1"
 msgid "Nihacca jāṇuṃ vanditvā,"
 msgstr "I bent my knee and bowed,"
@@ -79,8 +76,7 @@ msgctxt "thig5.9:6.4"
 msgid "sā me āsūpasampadā."
 msgstr "that was my ordination."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns110"></a><a
-#. class="vnp" id="vnp110"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns110"></a><a class="vnp" id="vnp110"></a>
 msgctxt "thig5.9:7.1"
 msgid "Ciṇṇā aṅgā ca magadhā,"
 msgstr "“I’ve wandered among the Aṅgans and Magadhans,"
@@ -100,8 +96,7 @@ msgctxt "thig5.9:7.4"
 msgid "raṭṭhapiṇḍaṃ abhuñjahaṃ."
 msgstr "free of debt for fifty years.”"
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns111"></a><a
-#. class="vnp" id="vnp111"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns111"></a><a class="vnp" id="vnp111"></a>
 msgctxt "thig5.9:8.1"
 msgid "Puññaṃ vata pasavi bahuṃ,"
 msgstr "“O! He has made so much merit!"

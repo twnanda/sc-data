@@ -21,8 +21,7 @@ msgctxt "thag8.2:4.1"
 msgid "8.2. Sirimittattheragāthā"
 msgstr "8.2. Sirimitta"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns502"></a><a class="vnp" id="vnp502"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns502"></a><a class="vnp" id="vnp502"></a>
 msgctxt "thag8.2:5.1"
 msgid "“Akkodhanonupanāhī,"
 msgstr "Free of anger and hostility,"
@@ -42,8 +41,7 @@ msgctxt "thag8.2:5.4"
 msgid "evaṃ pecca na socati."
 msgstr "doesn’t grieve after passing away."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns503"></a><a
-#. class="vnp" id="vnp503"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns503"></a><a class="vnp" id="vnp503"></a>
 msgctxt "thag8.2:6.1"
 msgid "Akkodhanonupanāhī,"
 msgstr "Free of anger and hostility,"
@@ -63,8 +61,7 @@ msgctxt "thag8.2:6.4"
 msgid "evaṃ pecca na socati."
 msgstr "doesn’t grieve after passing away."
 
-#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns504"></a><a
-#. class="vnp" id="vnp504"></a>
+#. HTML: </p><p><a class="sc" id="3"></a><a class="vns" id="vns504"></a><a class="vnp" id="vnp504"></a>
 msgctxt "thag8.2:7.1"
 msgid "Akkodhanonupanāhī,"
 msgstr "Free of anger and hostility,"
@@ -85,8 +82,7 @@ msgctxt "thag8.2:7.4"
 msgid "evaṃ pecca na socati."
 msgstr "doesn’t grieve after passing away."
 
-#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns505"></a><a
-#. class="vnp" id="vnp505"></a>
+#. HTML: </p><p><a class="sc" id="4"></a><a class="vns" id="vns505"></a><a class="vnp" id="vnp505"></a>
 msgctxt "thag8.2:8.1"
 msgid "Akkodhanonupanāhī,"
 msgstr "Free of anger and hostility,"
@@ -107,8 +103,7 @@ msgctxt "thag8.2:8.4"
 msgid "evaṃ pecca na socati."
 msgstr "doesn’t grieve after passing away."
 
-#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns506"></a><a
-#. class="vnp" id="vnp506"></a><a class="pts" id="pts53"></a>
+#. HTML: </p><p><a class="sc" id="5"></a><a class="vns" id="vns506"></a><a class="vnp" id="vnp506"></a><a class="pts" id="pts53"></a>
 msgctxt "thag8.2:9.1"
 msgid "Akkodhanonupanāhī,"
 msgstr "Free of anger and hostility,"
@@ -129,8 +124,7 @@ msgctxt "thag8.2:9.4"
 msgid "evaṃ pecca na socati."
 msgstr "doesn’t grieve after passing away."
 
-#. HTML: </p><p><a class="sc" id="6"></a> <a class="vns" id="vns507"></a><a
-#. class="vnp" id="vnp507"></a>
+#. HTML: </p><p><a class="sc" id="6"></a> <a class="vns" id="vns507"></a><a class="vnp" id="vnp507"></a>
 msgctxt "thag8.2:10.1"
 msgid "Yassa saddhā tathāgate,"
 msgstr "Whoever has faith in the Realized One,"
@@ -150,8 +144,7 @@ msgctxt "thag8.2:10.4"
 msgid "ariyakantaṃ pasaṃsitaṃ."
 msgstr "praised and loved by the noble ones;"
 
-#. HTML: </p><p><a class="sc" id="7"></a><a class="vns" id="vns508"></a><a
-#. class="vnp" id="vnp508"></a>
+#. HTML: </p><p><a class="sc" id="7"></a><a class="vns" id="vns508"></a><a class="vnp" id="vnp508"></a>
 msgctxt "thag8.2:11.1"
 msgid "Saṃghe pasādo yassatthi,"
 msgstr "who has confidence in the Saṅgha,"
@@ -171,8 +164,7 @@ msgctxt "thag8.2:11.4"
 msgid "amoghaṃ tassa jīvitaṃ."
 msgstr "their life is not in vain."
 
-#. HTML: </p><p><a class="sc" id="8"></a><a class="vns" id="vns509"></a><a
-#. class="vnp" id="vnp509"></a>
+#. HTML: </p><p><a class="sc" id="8"></a><a class="vns" id="vns509"></a><a class="vnp" id="vnp509"></a>
 msgctxt "thag8.2:12.1"
 msgid "Tasmā saddhañca sīlañca,"
 msgstr "So let the wise devote themselves"

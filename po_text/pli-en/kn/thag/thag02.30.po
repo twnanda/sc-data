@@ -21,8 +21,7 @@ msgctxt "thag2.30:4.1"
 msgid "2.30. Kaṇhadinnattheragāthā"
 msgstr "2.30. Kaṇhadinna"
 
-#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
-#. class="vns" id="vns179"></a><a class="vnp" id="vnp179"></a>
+#. HTML: </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a class="vns" id="vns179"></a><a class="vnp" id="vnp179"></a>
 msgctxt "thag2.30:5.1"
 msgid "“Upāsitā sappurisā,"
 msgstr "I regularly sat close by good people"
@@ -42,8 +41,7 @@ msgctxt "thag2.30:5.4"
 msgid "añjasaṃ amatogadhaṃ."
 msgstr "the direct route that culminates in the deathless."
 
-#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns180"></a><a
-#. class="vnp" id="vnp180"></a>
+#. HTML: </p><p><a class="sc" id="2"></a><a class="vns" id="vns180"></a><a class="vnp" id="vnp180"></a>
 msgctxt "thag2.30:6.1"
 msgid "Bhavarāgahatassa me sato,"
 msgstr "I’ve slain the desire to be reborn,"
