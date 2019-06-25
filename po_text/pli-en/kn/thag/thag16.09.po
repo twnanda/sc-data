@@ -1,10 +1,7 @@
 msgid ""
 msgstr ""
 
-#. HTML: <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
-#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
-#. lang="pli"><section class="sutta" id="thag16.9"><article><div
-#. class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="thag16.9"><article><div class="hgroup"><p class="division">
 msgctxt "thag16.9:1.1"
 msgid "Theragāthā"
 msgstr "Verses of the Senior Monks"
@@ -636,3 +633,5 @@ msgstr ""
 msgctxt "thag16.9:33.2"
 msgid "Anuruddho thero …."
 msgstr ""
+
+#. HTML: </p></article></section></section></body></html>

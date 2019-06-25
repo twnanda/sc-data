@@ -1,10 +1,7 @@
 msgid ""
 msgstr ""
 
-#. HTML: <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
-#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
-#. lang="pli"><section class="sutta" id="thig1.1"><article><div
-#. class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="thig1.1"><article><div class="hgroup"><p class="division">
 msgctxt "thig1.1:1.1"
 msgid "Therīgāthā"
 msgstr "Verses of the Senior Nuns"
@@ -49,3 +46,5 @@ msgstr "like vegetables boiled dry in a pot."
 msgctxt "thig1.1:6.1"
 msgid "Itthaṃ sudaṃ aññatarā therī apaññātā bhikkhunī gāthaṃ abhāsitthāti."
 msgstr "It was thus that this verse was recited by a certain unnamed nun."
+
+#. HTML: </p></article></section></section></body></html>

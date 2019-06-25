@@ -1,10 +1,7 @@
 msgid ""
 msgstr ""
 
-#. HTML: <html><head><meta charset="UTF-8"><meta content="Mahāsaṅgīti Tipiṭaka
-#. Buddhavasse 2500" name="author"><title></title></head><body><div id="text"
-#. lang="pli"><section class="sutta" id="thag1.8"><article><div
-#. class="hgroup"><p class="division">
+#. HTML: <section class="sutta" id="thag1.8"><article><div class="hgroup"><p class="division">
 msgctxt "thag1.8:1.1"
 msgid "Theragāthā"
 msgstr "Verses of the Senior Monks"
@@ -49,3 +46,5 @@ msgstr "Vīra is steadfast, and has become extinguished."
 msgctxt "thag1.8:6.1"
 msgid "Itthaṃ sudaṃ āyasmā vīro thero gāthaṃ abhāsitthāti."
 msgstr "It was thus that this verse was recited by the senior venerable Vīra."
+
+#. HTML: </p></article></section></section></body></html>
